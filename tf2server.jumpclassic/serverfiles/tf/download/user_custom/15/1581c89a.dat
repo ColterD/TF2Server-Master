@@ -1,0 +1,41 @@
+"resource/QuickListPanel.res"
+{
+	"QuickListPanel"
+	{
+		"ControlName"		"QuickListPanel"
+		"fieldName"		"QuickListPanel"
+		"xpos"		"10"
+		"ypos"		"10"
+		"wide"		"624"
+		"tall"		"100"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"settitlebarvisible"		"1"
+		"title"		"#VAC_ConnectionRefusedTitle"
+	}
+
+	"Background"
+	{
+		"ControlName"			"Panel"
+		"PinCorner"			"2"
+		"AutoResize"			"1"
+		"fieldName"				"background"
+		"xpos"					"0"
+		"ypos"					"0"
+		"zpos"					"0"
+		"wide"					"624"
+		"tall"					"100"
+		"visible"				"1"
+		"enabled"				"1"
+		"PaintBackgroundType"			"0"
+//		"bgcolor_override"			"69 64 58 255"
+	}
+
+	"mapimage"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"mapimage"
+		"xpos"

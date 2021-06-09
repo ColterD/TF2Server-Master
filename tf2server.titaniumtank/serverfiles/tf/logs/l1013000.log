@@ -1,0 +1,54 @@
+L 10/13/2020 - 06:30:36: Log file started (file "logs/L1013000.log") (game "/home/tf2server.titaniumtank/serverfiles/tf") (version "6135201")
+L 10/13/2020 - 06:30:36: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/13/2020 - 06:30:36: server_cvar: "tfh_fullmoon" "1"
+L 10/13/2020 - 06:30:36: server_cvar: "tfh_winter" "1"
+L 10/13/2020 - 06:30:36: server_cvar: "tfh_birthday" "1"
+L 10/13/2020 - 06:30:36: server_cvar: "tfh_endoftheline" "1"
+L 10/13/2020 - 06:30:36: server_cvar: "tfh_normalhealth" "1"
+L 10/13/2020 - 06:30:36: server_cvar: "mp_tournament_readymode" "1"
+L 10/13/2020 - 06:30:36: server_cvar: "tf_mvm_min_players_to_start" "2"
+L 10/13/2020 - 06:30:36: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,mvm,pancakes,pancakestf,perks,potato,tank,tita"
+L 10/13/2020 - 06:30:36: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,mvm,pancakes,pancakestf,perks,potato,tank,tita"
+L 10/13/2020 - 06:30:36: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/13/2020 - 06:30:36: Connection to Steam servers successful.
+L 10/13/2020 - 06:30:36:    Public IP is 104.192.224.18.
+L 10/13/2020 - 06:30:36: Assigned persistent gameserver Steam ID [G:1:3464856].
+L 10/13/2020 - 06:30:36: VAC secure mode is activated.
+L 10/13/2020 - 08:05:21: "Tyickix<2><[U:1:480795433]><>" connected, address "178.235.189.31:20287"
+L 10/13/2020 - 08:05:21: "Tyickix<2><[U:1:480795433]><>" STEAM USERID validated
+L 10/13/2020 - 08:06:24: "Tyickix<2><[U:1:480795433]><>" entered the game
+L 10/13/2020 - 08:45:23: MVM assigned Tyickix to defending team (5 more slots remaining after us)
+L 10/13/2020 - 08:45:23: MVM assigned Tyickix to defending team (5 more slots remaining after us)
+L 10/13/2020 - 08:45:23: "Tyickix<2><[U:1:480795433]><Unassigned>" joined team "Red"
+L 10/13/2020 - 08:45:24: "Tyickix<2><[U:1:480795433]><Red>" changed role to "engineer"
+L 10/13/2020 - 08:45:24: "TFBot<3><BOT><>" connected, address "none"
+L 10/13/2020 - 08:45:24: "<3><BOT><>" entered the game
+L 10/13/2020 - 08:45:24: "TFBot<3><BOT><Unassigned>" joined team "Spectator"
+L 10/13/2020 - 08:45:24: "(1)TFBot<4><BOT><>" connected, address "none"
+L 10/13/2020 - 08:45:24: "<4><BOT><>" entered the game
+L 10/13/2020 - 08:45:24: "TFBot<4><BOT><Unassigned>" joined team "Spectator"
+L 10/13/2020 - 08:45:24: "(2)TFBot<5><BOT><>" connected, address "none"
+L 10/13/2020 - 08:45:24: "<5><BOT><>" entered the game
+L 10/13/2020 - 08:45:24: "TFBot<5><BOT><Unassigned>" joined team "Spectator"
+L 10/13/2020 - 08:45:24: "(3)TFBot<6><BOT><>" connected, address "none"
+L 10/13/2020 - 08:45:24: "<6><BOT><>" entered the game
+L 10/13/2020 - 08:45:24: "TFBot<6><BOT><Unassigned>" joined team "Spectator"
+L 10/13/2020 - 08:45:24: "(4)TFBot<7><BOT><>" connected, address "none"
+L 10/13/2020 - 08:45:24: "<7><BOT><>" entered the game
+L 10/13/2020 - 08:45:24: "TFBot<7><BOT><Unassigned>" joined team "Spectator"
+L 10/13/2020 - 08:45:24: "(5)TFBot<8><BOT><>" connected, address "none"
+L 10/13/2020 - 08:45:24: "<8><BOT><>" entered the game
+L 10/13/2020 - 08:45:24: "TFBot<8><BOT><Unassigned>" joined team "Spectator"
+L 10/13/2020 - 08:45:24: "(6)TFBot<9><BOT><>" connected, address "none"
+L 10/13/2020 - 08:45:24: "<9><BOT><>" entered the game
+L 10/13/2020 - 08:45:24: "TFBot<9><BOT><Unassigned>" joined team "Spectator"
+L 10/13/2020 - 08:45:24: "(7)TFBot<10><BOT><>" connected, address "none"
+L 10/13/2020 - 08:45:24: "<10><BOT><>" entered the game
+L 10/13/2020 - 08:45:24: "TFBot<10><BOT><Unassigned>" joined team "Spectator"
+L 10/13/2020 - 08:45:24: "(8)TFBot<11><BOT><>" connected, address "none"
+L 10/13/2020 - 08:45:24: "<11><BOT><>" entered the game
+L 10/13/2020 - 08:45:24: "TFBot<11><BOT><Unassigned>" joined team "Spectator"
+L 10/13/2020 - 08:45:24: "(9)TFBot<12><BOT><>" connected, address "none"
+L 10/13/2020 - 08:45:24: "<12><BOT><>" entered the game
+L 10/13/2020 - 08:45:24: "TFBot<12><BOT><Unassigned>" joined team "Spectator"
+L 10/13/2020 - 08:45:24: "(10)TFBot<13>

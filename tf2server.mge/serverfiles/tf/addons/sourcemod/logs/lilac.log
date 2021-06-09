@@ -1,0 +1,47 @@
+=========[Notice]=========
+Thank you for installing Little Anti-Cheat 1.6.1!
+Just a few notes about this Anti-Cheat:
+
+If a player is logged as "suspected" of using cheats, they are not necessarily cheating.
+If the suspicions logged are few and rare, they are likely false positives.
+An automatic ban is triggered by 5 or more "suspicions" or by one "detection".
+If you think a ban may be incorrect, please do not hesitate to let me know.
+
+That is all, have a wonderful day~
+
+
+
+2020/09/19 15:50:24 [Version 1.6.1] {Name: "geekgawk3000pro" | SteamID: STEAM_0:1:556767372 | IP: 66.91.52.9} was detected and banned for Bhop (Jumps Presses: 10 | Bhops: 5).
+	Pos={10992,-12389,-1547}, Angles={13.98002,94.44671,0.00000}, Map="mge_training_v8_beta4b", Team={2}, Weapon="tf_weapon_knife", Latency={Inc:0.003940,Out:0.110647}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.415932,Out:0.000000}, ConnectionTime={148.395019 seconds}, GameTime={32915.910156 seconds}
+2020/09/22 13:20:03 [Version 1.6.1] {Name: "Captain" | SteamID: STEAM_0:0:508931246 | IP: 184.65.64.252} is suspected of using an aimbot (Detection: 2 | Delta: 1 | TotalDelta: 5 | Detected: Angle-Repeat).
+2020/09/22 13:20:38 [Version 1.6.1] {Name: "Captain" | SteamID: STEAM_0:0:508931246 | IP: 184.65.64.252} is suspected of using an aimbot (Detection: 3 | Delta: 1 | TotalDelta: 3 | Detected: Angle-Repeat).
+2020/09/22 13:20:40 [Version 1.6.1] {Name: "Captain" | SteamID: STEAM_0:0:508931246 | IP: 184.65.64.252} is suspected of using an aimbot (Detection: 4 | Delta: 1 | TotalDelta: 5 | Detected: Angle-Repeat).
+2020/09/22 13:32:29 [Version 1.6.1] {Name: "Captain" | SteamID: STEAM_0:0:508931246 | IP: 184.65.64.252} is suspected of using an aimbot (Detection: 2 | Delta: 5 | TotalDelta: 15 | Detected: Angle-Repeat).
+2020/09/22 13:33:00 [Version 1.6.1] {Name: "Captain" | SteamID: STEAM_0:0:508931246 | IP: 184.65.64.252} is suspected of using an aimbot (Detection: 3 | Delta: 1 | TotalDelta: 6 | Detected: Angle-Repeat).
+2020/09/22 13:37:42 [Version 1.6.1] {Name: "Captain" | SteamID: STEAM_0:0:508931246 | IP: 184.65.64.252} is suspected of using an aimbot (Detection: 4 | Delta: 2 | TotalDelta: 17 | Detected: Angle-Repeat).
+2020/09/22 13:38:45 [Version 1.6.1] {Name: "Captain" | SteamID: STEAM_0:0:508931246 | IP: 184.65.64.252} is suspected of using an aimbot (Detection: 5 | Delta: 5 | TotalDelta: 29 | Detected: Aim-Snap2).
+2020/09/22 13:38:45 [Version 1.6.1] {Name: "Captain" | SteamID: STEAM_0:0:508931246 | IP: 184.65.64.252} was banned for Aimbot.
+	Pos={-10712,-13477,-838}, Angles={5.28043,-169.32037,0.00000}, Map="mge_training_v8_beta4b", Team={2}, Weapon="tf_weapon_revolver", Latency={Inc:0.000241,Out:0.207921}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.010503,Out:0.000033}, ConnectionTime={1313.188720 seconds}, GameTime={11589.660156 seconds}
+2020/09/24 23:05:37 [Version 1.6.1] {Name: "go6" | SteamID: STEAM_0:1:105602747 | IP: 68.198.160.237} is suspected of using an aimbot (Detection: 2 | Delta: 18 | TotalDelta: 29 | Detected: Aim-Snap Angle-Repeat).
+2020/09/24 23:05:50 [Version 1.6.1] {Name: "go6" | SteamID: STEAM_0:1:105602747 | IP: 68.198.160.237} is suspected of using an aimbot (Detection: 3 | Delta: 14 | TotalDelta: 67 | Detected: Angle-Repeat).
+2020/09/24 23:06:16 [Version 1.6.1] {Name: "go6" | SteamID: STEAM_0:1:105602747 | IP: 68.198.160.237} is suspected of using an aimbot (Detection: 4 | Delta: 6 | TotalDelta: 38 | Detected: Angle-Repeat).
+2020/09/24 23:07:07 [Version 1.6.1] {Name: "go6" | SteamID: STEAM_0:1:105602747 | IP: 68.198.160.237} is suspected of using an aimbot (Detection: 5 | Delta: 5 | TotalDelta: 54 | Detected: Angle-Repeat).
+2020/09/24 23:07:07 [Version 1.6.1] {Name: "go6" | SteamID: STEAM_0:1:105602747 | IP: 68.198.160.237} was banned for Aimbot.
+	Pos={-1178,-6377,-2156}, Angles={-62.19512,-32.28815,0.00000}, Map="mge_training_v8_beta4b", Team={3}, Weapon="tf_weapon_rocketlauncher_directhit", Latency={Inc:0.000611,Out:0.103417}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.040095,Out:0.007812}, ConnectionTime={398.024993 seconds}, GameTime={45739.289062 seconds}
+2020/10/02 20:08:54 [Version 1.6.1] {Name: "scared" | SteamID: STEAM_0:0:544711909 | IP: 75.136.121.68} was detected and banned for Angle-Cheats (Pitch: -89.09, Yaw: 163.01, Roll: 0.00).
+	Pos={-10806,-13079,-840}, Angles={-89.09576,163.01934,0.00000}, Map="mge_training_v8_beta4b", Team={3}, Weapon="tf_weapon_scattergun", Latency={Inc:0.000205,Out:0.321855}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.011581,Out:0.000000}, ConnectionTime={1876.221069 seconds}, GameTime={5908.199707 seconds}
+2020/10/03 17:33:28 [Version 1.6.1] {Name: "Stairs" | SteamID: STEAM_0:1:522619996 | IP: 68.37.73.185} was detected and banned for Bhop (Jumps Presses: 10 | Bhops: 5).
+	Pos={6636,11859,-267}, Angles={19.83461,54.17519,0.00000}, Map="mge_training_v8_beta4b", Team={3}, Weapon="tf_weapon_grenadelauncher", Latency={Inc:0.000440,Out:0.144615}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.043529,Out:0.000000}, ConnectionTime={309.464324 seconds}, GameTime={29354.968750 seconds}
+2020/10/05 17:21:09 [Version 1.6.1] {Name: "FORYOMPS XD Inc." | SteamID: STEAM_0:1:112001768 | IP: 65.130.65.24} is suspected of using an aimbot (Detection: 2 | Delta: 15 | TotalDelta: 53 | Detected: Aim-Snap Aim-Snap2).
+2020/10/06 20:27:06 [Version 1.6.1] {Name: "iclout" | SteamID: STEAM_0:0:433501411 | IP: 184.147.245.71} is suspected of using an aimbot (Detection: 2 | Delta: 13 | TotalDelta: 16 | Detected: Aim-Snap Aim-Snap2 Autoshoot).
+2020/10/06 20:45:43 [Version 1.6.1] {Name: "iclout" | SteamID: STEAM_0:0:433501411 | IP: 184.147.245.71} is suspected of using an aimbot (Detection: 2 | Delta: 9 | TotalDelta: 10 | Detected: Aim-Snap2).
+2020/10/06 20:46:02 [Version 1.6.1] {Name: "iclout" | SteamID: STEAM_0:0:433501411 | IP: 184.147.245.71} is suspected of using an aimbot (Detection: 3 | Delta: 0 | TotalDelta: 3 | Detected: Autoshoot).
+2020/10/06 20:46:19 [Version 1.6.1] {Name: "iclout" | SteamID: STEAM_0:0:433501411 | IP: 184.147.245.71} is suspected of using an aimbot (Detection: 4 | Delta: 8 | TotalDelta: 11 | Detected: Aim-Snap2 Autoshoot).
+2020/10/06 20:46:27 [Version 1.6.1] {Name: "iclout" | SteamID: STEAM_0:0:433501411 | IP: 184.147.245.71} is suspected of using an aimbot (Detection: 5 | Delta: 0 | TotalDelta: 0 | Detected: Autoshoot).
+2020/10/06 20:46:27 [Version 1.6.1] {Name: "iclout" | SteamID: STEAM_0:0:433501411 | IP: 184.147.245.71} was banned for Aimbot.
+	Pos={-11236,-13511,-838}, Angles={-57.31777,75.11451,0.00000}, Map="mge_training_v8_beta4b", Team={3}, Weapon="tf_weapon_sniperrifle", Latency={Inc:0.000478,Out:0.101930}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.000000,Out:0.000000}, ConnectionTime={1277.161499 seconds}, GameTime={42931.769531 seconds}
+2020/10/09 21:06:19 [Version 1.6.1] {Name: "dsquared2" | SteamID: STEAM_0:1:55252320 | IP: 99.88.44.100} is suspected of using an aimbot (Detection: 2 | Delta: 13 | TotalDelta: 74 | Detected: Aim-Snap).
+2020/10/12 17:34:05 [Version 1.6.1] {Name: "FORYOMPS XD Inc." | SteamID: STEAM_0:1:112001768 | IP: 65.130.36.246} is suspected of using an aimbot (Detection: 2 | Delta: 13 | TotalDelta: 47 | Detected: Aim-Snap).
+2020/10/12 17:35:02 [Version 1.6.1] {Name: "FORYOMPS XD Inc." | SteamID: STEAM_0:1:112001768 | IP: 65.130.36.246} is suspected of using an aimbot (Detection: 3 | Delta: 26 | TotalDelta: 191 | Detected: Aim-Snap).
+2020/10/12 17:39:55 [Version 1.6.1] {Name: "FORYOMPS XD Inc." | SteamID: STEAM_0:1:112001768 | IP: 65.130.36.246} is suspected of using an aimbot (Detection: 3 | Delta: 12 | TotalDelta: 51 | Detected: Aim-Snap).
+2020/10/17 23:21:12 [Version 1.6.1] {Name: "YvngChvnk" | SteamID: STEAM_0:1:446536695 | IP: 207.47.119.114} is suspected of using an aimbot (Detection: 2 | Delta: 19 | TotalDelta: 102 | Detected: Aim-Snap).

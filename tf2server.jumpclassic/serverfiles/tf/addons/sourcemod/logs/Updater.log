@@ -1,0 +1,1315 @@
+L 08/10/2020 - 08:58:20: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 08:58:20:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 08:58:23: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 08:58:23:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 08:58:23:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 08:58:23: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 08:58:23:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 08:58:23:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 08:58:35: Successfully updated and installed "Jump Server Essentials - Marker".
+L 08/10/2020 - 08:58:35: Successfully updated and installed "Jump Server Essentials - Show Keys".
+L 08/10/2020 - 08:58:35: Successfully updated and installed "Jump Server Essentials - JumpBot".
+L 08/10/2020 - 09:10:11: SMC parsing error on line 0
+L 08/10/2020 - 09:10:11:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 09:10:11:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 10:32:55: SMC parsing error on line 0
+L 08/10/2020 - 10:32:55:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 10:32:55:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 10:38:18: SMC parsing error on line 0
+L 08/10/2020 - 10:38:18:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 10:38:18:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 10:45:31: SMC parsing error on line 0
+L 08/10/2020 - 10:45:31:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 10:45:31:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 10:45:31: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 10:45:31:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 10:45:33: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 10:45:33:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 10:45:33:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 10:45:33: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 10:45:33:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 10:45:33:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 10:53:52: SMC parsing error on line 0
+L 08/10/2020 - 10:53:52:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 10:53:52:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 10:53:52: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 10:53:52:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 10:53:53: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 10:53:53:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 10:53:53:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 10:53:53: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 10:53:53:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 10:53:53:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:07:45: SMC parsing error on line 0
+L 08/10/2020 - 11:07:45:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:07:45:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:07:45: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:07:45:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:07:47: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:07:47:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:07:47:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:07:47: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:07:47:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:07:47:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:11:18: SMC parsing error on line 0
+L 08/10/2020 - 11:11:18:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:11:18:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:11:18: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:11:18:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:11:19: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:11:19:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:11:19:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:11:20: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:11:20:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:11:20:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:13:23: SMC parsing error on line 0
+L 08/10/2020 - 11:13:23:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:13:23:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:13:23: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:13:23:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:13:24: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:13:24:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:13:24:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:13:25: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:13:25:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:13:25:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:15:51: SMC parsing error on line 0
+L 08/10/2020 - 11:15:51:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:15:51:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:15:51: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:15:51:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:15:52: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:15:52:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:15:52:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:15:52: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:15:52:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:15:52:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:18:23: SMC parsing error on line 0
+L 08/10/2020 - 11:18:23:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:18:23:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:18:23: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:18:23:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:18:25: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:18:25:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:18:25:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:18:25: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:18:25:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:18:25:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:21:58: SMC parsing error on line 0
+L 08/10/2020 - 11:21:58:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:21:58:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:21:59: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:21:59:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:22:00: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:22:00:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:22:00:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:22:01: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:22:01:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:22:01:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:23:02: SMC parsing error on line 0
+L 08/10/2020 - 11:23:02:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:23:02:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:23:03: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:23:03:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:23:05: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:23:05:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:23:05:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:23:05: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:23:05:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:23:05:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:24:56: SMC parsing error on line 0
+L 08/10/2020 - 11:24:56:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:24:56:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:24:57: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:24:57:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:24:58: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:24:58:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:24:58:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:24:58: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:24:58:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:24:58:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:51:43: SMC parsing error on line 0
+L 08/10/2020 - 11:51:43:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:51:43:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:51:43: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:51:43:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:51:45: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:51:45:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:51:45:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:51:45: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:51:45:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:51:45:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 14:19:36: SMC parsing error on line 0
+L 08/10/2020 - 14:19:36:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 14:19:36:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 14:19:36: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 14:19:36:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 14:19:38: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 14:19:38:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 14:19:38:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 14:19:38: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 14:19:38:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 14:19:38:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/11/2020 - 06:30:35: SMC parsing error on line 0
+L 08/11/2020 - 06:30:35:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/11/2020 - 06:30:35:   [1]  ERROR: Line contained too many invalid tokens
+L 08/11/2020 - 06:30:36: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/11/2020 - 06:30:36:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/11/2020 - 06:30:37: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/11/2020 - 06:30:37:   [0]  Reduce unnecessary clientprefs saving
+L 08/11/2020 - 06:30:37:   [1]  Prevent showing keys on free roam spectator mode
+L 08/11/2020 - 06:30:38: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/11/2020 - 06:30:38:   [0]  Development update - 8/19/2018
+L 08/11/2020 - 06:30:38:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/12/2020 - 01:29:45: SMC parsing error on line 0
+L 08/12/2020 - 01:29:45:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/12/2020 - 01:29:45:   [1]  ERROR: Line contained too many invalid tokens
+L 08/12/2020 - 01:29:45: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/12/2020 - 01:29:45:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/12/2020 - 01:29:47: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/12/2020 - 01:29:47:   [0]  Reduce unnecessary clientprefs saving
+L 08/12/2020 - 01:29:47:   [1]  Prevent showing keys on free roam spectator mode
+L 08/12/2020 - 01:29:47: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/12/2020 - 01:29:47:   [0]  Development update - 8/19/2018
+L 08/12/2020 - 01:29:47:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/12/2020 - 06:30:35: SMC parsing error on line 0
+L 08/12/2020 - 06:30:35:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/12/2020 - 06:30:35:   [1]  ERROR: Line contained too many invalid tokens
+L 08/12/2020 - 06:30:35: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/12/2020 - 06:30:35:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/12/2020 - 06:30:37: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/12/2020 - 06:30:37:   [0]  Reduce unnecessary clientprefs saving
+L 08/12/2020 - 06:30:37:   [1]  Prevent showing keys on free roam spectator mode
+L 08/12/2020 - 06:30:37: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/12/2020 - 06:30:37:   [0]  Development update - 8/19/2018
+L 08/12/2020 - 06:30:37:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/12/2020 - 06:57:49: SMC parsing error on line 0
+L 08/12/2020 - 06:57:49:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/12/2020 - 06:57:49:   [1]  ERROR: Line contained too many invalid tokens
+L 08/12/2020 - 06:57:49: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/12/2020 - 06:57:49:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/12/2020 - 06:57:51: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/12/2020 - 06:57:51:   [0]  Reduce unnecessary clientprefs saving
+L 08/12/2020 - 06:57:51:   [1]  Prevent showing keys on free roam spectator mode
+L 08/12/2020 - 06:57:51: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/12/2020 - 06:57:51:   [0]  Development update - 8/19/2018
+L 08/12/2020 - 06:57:51:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/12/2020 - 06:59:31: SMC parsing error on line 0
+L 08/12/2020 - 06:59:31:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/12/2020 - 06:59:31:   [1]  ERROR: Line contained too many invalid tokens
+L 08/12/2020 - 06:59:31: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/12/2020 - 06:59:31:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/12/2020 - 06:59:33: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/12/2020 - 06:59:33:   [0]  Reduce unnecessary clientprefs saving
+L 08/12/2020 - 06:59:33:   [1]  Prevent showing keys on free roam spectator mode
+L 08/12/2020 - 06:59:33: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/12/2020 - 06:59:33:   [0]  Development update - 8/19/2018
+L 08/12/2020 - 06:59:33:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/12/2020 - 07:01:13: SMC parsing error on line 0
+L 08/12/2020 - 07:01:13:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/12/2020 - 07:01:13:   [1]  ERROR: Line contained too many invalid tokens
+L 08/12/2020 - 07:01:13: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/12/2020 - 07:01:13:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/12/2020 - 07:01:15: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/12/2020 - 07:01:15:   [0]  Reduce unnecessary clientprefs saving
+L 08/12/2020 - 07:01:15:   [1]  Prevent showing keys on free roam spectator mode
+L 08/12/2020 - 07:01:15: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/12/2020 - 07:01:15:   [0]  Development update - 8/19/2018
+L 08/12/2020 - 07:01:15:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/13/2020 - 06:30:35: SMC parsing error on line 0
+L 08/13/2020 - 06:30:35:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/13/2020 - 06:30:35:   [1]  ERROR: Line contained too many invalid tokens
+L 08/13/2020 - 06:30:37: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/13/2020 - 06:30:37:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/13/2020 - 06:30:39: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/13/2020 - 06:30:39:   [0]  Reduce unnecessary clientprefs saving
+L 08/13/2020 - 06:30:39:   [1]  Prevent showing keys on free roam spectator mode
+L 08/13/2020 - 06:30:39: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/13/2020 - 06:30:39:   [0]  Development update - 8/19/2018
+L 08/13/2020 - 06:30:39:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/13/2020 - 08:41:40: SMC parsing error on line 0
+L 08/13/2020 - 08:41:40:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/13/2020 - 08:41:40:   [1]  ERROR: Line contained too many invalid tokens
+L 08/13/2020 - 08:41:40: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/13/2020 - 08:41:40:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/13/2020 - 08:41:42: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/13/2020 - 08:41:42:   [0]  Reduce unnecessary clientprefs saving
+L 08/13/2020 - 08:41:42:   [1]  Prevent showing keys on free roam spectator mode
+L 08/13/2020 - 08:41:42: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/13/2020 - 08:41:42:   [0]  Development update - 8/19/2018
+L 08/13/2020 - 08:41:42:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/13/2020 - 16:31:54: SMC parsing error on line 0
+L 08/13/2020 - 16:31:54:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/13/2020 - 16:31:54:   [1]  ERROR: Line contained too many invalid tokens
+L 08/13/2020 - 16:31:55: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/13/2020 - 16:31:55:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/13/2020 - 16:31:57: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/13/2020 - 16:31:57:   [0]  Reduce unnecessary clientprefs saving
+L 08/13/2020 - 16:31:57:   [1]  Prevent showing keys on free roam spectator mode
+L 08/13/2020 - 16:31:57: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/13/2020 - 16:31:57:   [0]  Development update - 8/19/2018
+L 08/13/2020 - 16:31:57:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/14/2020 - 06:30:35: SMC parsing error on line 0
+L 08/14/2020 - 06:30:35:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/14/2020 - 06:30:35:   [1]  ERROR: Line contained too many invalid tokens
+L 08/14/2020 - 06:30:35: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/14/2020 - 06:30:35:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/14/2020 - 06:30:37: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/14/2020 - 06:30:37:   [0]  Reduce unnecessary clientprefs saving
+L 08/14/2020 - 06:30:37:   [1]  Prevent showing keys on free roam spectator mode
+L 08/14/2020 - 06:30:37: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/14/2020 - 06:30:37:   [0]  Development update - 8/19/2018
+L 08/14/2020 - 06:30:37:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/15/2020 - 06:30:35: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/15/2020 - 06:30:35:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/15/2020 - 06:30:37: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/15/2020 - 06:30:37:   [0]  Reduce unnecessary clientprefs saving
+L 08/15/2020 - 06:30:37:   [1]  Prevent showing keys on free roam spectator mode
+L 08/15/2020 - 06:30:37: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/15/2020 - 06:30:37:   [0]  Development update - 8/19/2018
+L 08/15/2020 - 06:30:37:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/16/2020 - 06:30:35: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/16/2020 - 06:30:35:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/16/2020 - 06:30:37: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/16/2020 - 06:30:37:   [0]  Reduce unnecessary clientprefs saving
+L 08/16/2020 - 06:30:37:   [1]  Prevent showing keys on free roam spectator mode
+L 08/16/2020 - 06:30:37: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/16/2020 - 06:30:37:   [0]  Development update - 8/19/2018
+L 08/16/2020 - 06:30:37:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/17/2020 - 06:30:38: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/17/2020 - 06:30:38:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/17/2020 - 06:30:39: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/17/2020 - 06:30:39:   [0]  Reduce unnecessary clientprefs saving
+L 08/17/2020 - 06:30:39:   [1]  Prevent showing keys on free roam spectator mode
+L 08/17/2020 - 06:30:39: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/17/2020 - 06:30:39:   [0]  Development update - 8/19/2018
+L 08/17/2020 - 06:30:39:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/17/2020 - 07:39:13: SMC parsing error on line 0
+L 08/17/2020 - 07:39:13:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/17/2020 - 07:39:13:   [1]  ERROR: Line contained too many invalid tokens
+L 08/17/2020 - 07:39:13: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/17/2020 - 07:39:13:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/17/2020 - 07:39:15: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/17/2020 - 07:39:15:   [0]  Reduce unnecessary clientprefs saving
+L 08/17/2020 - 07:39:15:   [1]  Prevent showing keys on free roam spectator mode
+L 08/17/2020 - 07:39:15: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/17/2020 - 07:39:15:   [0]  Development update - 8/19/2018
+L 08/17/2020 - 07:39:15:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/17/2020 - 07:42:25: SMC parsing error on line 0
+L 08/17/2020 - 07:42:25:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/17/2020 - 07:42:25:   [1]  ERROR: Line contained too many invalid tokens
+L 08/17/2020 - 07:42:25: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/17/2020 - 07:42:25:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/17/2020 - 07:42:27: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/17/2020 - 07:42:27:   [0]  Reduce unnecessary clientprefs saving
+L 08/17/2020 - 07:42:27:   [1]  Prevent showing keys on free roam spectator mode
+L 08/17/2020 - 07:42:27: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/17/2020 - 07:42:27:   [0]  Development update - 8/19/2018
+L 08/17/2020 - 07:42:27:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/18/2020 - 06:31:05: SMC parsing error on line 0
+L 08/18/2020 - 06:31:05:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/18/2020 - 06:31:05:   [1]  ERROR: Line contained too many invalid tokens
+L 08/18/2020 - 06:31:05: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/18/2020 - 06:31:05:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/18/2020 - 06:31:06: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/18/2020 - 06:31:06:   [0]  Reduce unnecessary clientprefs saving
+L 08/18/2020 - 06:31:06:   [1]  Prevent showing keys on free roam spectator mode
+L 08/18/2020 - 06:31:06: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/18/2020 - 06:31:06:   [0]  Development update - 8/19/2018
+L 08/18/2020 - 06:31:06:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/19/2020 - 06:30:39: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/19/2020 - 06:30:39:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/19/2020 - 06:30:41: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/19/2020 - 06:30:41:   [0]  Reduce unnecessary clientprefs saving
+L 08/19/2020 - 06:30:41:   [1]  Prevent showing keys on free roam spectator mode
+L 08/19/2020 - 06:30:41: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/19/2020 - 06:30:41:   [0]  Development update - 8/19/2018
+L 08/19/2020 - 06:30:41:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/20/2020 - 06:31:35: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/20/2020 - 06:31:35:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/20/2020 - 06:31:36: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/20/2020 - 06:31:36:   [0]  Reduce unnecessary clientprefs saving
+L 08/20/2020 - 06:31:36:   [1]  Prevent showing keys on free roam spectator mode
+L 08/20/2020 - 06:31:36: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/20/2020 - 06:31:36:   [0]  Development update - 8/19/2018
+L 08/20/2020 - 06:31:36:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/21/2020 - 06:30:39: SMC parsing error on line 0
+L 08/21/2020 - 06:30:39:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/21/2020 - 06:30:39:   [1]  ERROR: Line contained too many invalid tokens
+L 08/21/2020 - 06:30:41: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/21/2020 - 06:30:41:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/21/2020 - 06:30:42: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/21/2020 - 06:30:42:   [0]  Reduce unnecessary clientprefs saving
+L 08/21/2020 - 06:30:42:   [1]  Prevent showing keys on free roam spectator mode
+L 08/21/2020 - 06:30:42: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/21/2020 - 06:30:42:   [0]  Development update - 8/19/2018
+L 08/21/2020 - 06:30:42:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/21/2020 - 14:31:10: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/21/2020 - 14:31:10:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/21/2020 - 14:31:12: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/21/2020 - 14:31:12:   [0]  Reduce unnecessary clientprefs saving
+L 08/21/2020 - 14:31:12:   [1]  Prevent showing keys on free roam spectator mode
+L 08/21/2020 - 14:31:12: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/21/2020 - 14:31:12:   [0]  Development update - 8/19/2018
+L 08/21/2020 - 14:31:12:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/21/2020 - 15:01:22: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/21/2020 - 15:01:22:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/21/2020 - 15:01:23: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/21/2020 - 15:01:23:   [0]  Reduce unnecessary clientprefs saving
+L 08/21/2020 - 15:01:23:   [1]  Prevent showing keys on free roam spectator mode
+L 08/21/2020 - 15:01:23: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/21/2020 - 15:01:23:   [0]  Development update - 8/19/2018
+L 08/21/2020 - 15:01:23:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/22/2020 - 06:30:39: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/22/2020 - 06:30:39:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/22/2020 - 06:30:41: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/22/2020 - 06:30:41:   [0]  Reduce unnecessary clientprefs saving
+L 08/22/2020 - 06:30:41:   [1]  Prevent showing keys on free roam spectator mode
+L 08/22/2020 - 06:30:41: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/22/2020 - 06:30:41:   [0]  Development update - 8/19/2018
+L 08/22/2020 - 06:30:41:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/23/2020 - 06:31:01: SMC parsing error on line 0
+L 08/23/2020 - 06:31:01:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/23/2020 - 06:31:01:   [1]  ERROR: Line contained too many invalid tokens
+L 08/23/2020 - 06:31:01: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/23/2020 - 06:31:01:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/23/2020 - 06:31:03: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/23/2020 - 06:31:03:   [0]  Reduce unnecessary clientprefs saving
+L 08/23/2020 - 06:31:03:   [1]  Prevent showing keys on free roam spectator mode
+L 08/23/2020 - 06:31:03: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/23/2020 - 06:31:03:   [0]  Development update - 8/19/2018
+L 08/23/2020 - 06:31:03:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/24/2020 - 06:30:37: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/24/2020 - 06:30:37:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/24/2020 - 06:30:39: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/24/2020 - 06:30:39:   [0]  Reduce unnecessary clientprefs saving
+L 08/24/2020 - 06:30:39:   [1]  Prevent showing keys on free roam spectator mode
+L 08/24/2020 - 06:30:40: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/24/2020 - 06:30:40:   [0]  Development update - 8/19/2018
+L 08/24/2020 - 06:30:40:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/25/2020 - 06:31:02: SMC parsing error on line 0
+L 08/25/2020 - 06:31:02:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/25/2020 - 06:31:02:   [1]  ERROR: Line contained too many invalid tokens
+L 08/25/2020 - 06:31:02: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/25/2020 - 06:31:02:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/25/2020 - 06:31:04: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/25/2020 - 06:31:04:   [0]  Reduce unnecessary clientprefs saving
+L 08/25/2020 - 06:31:04:   [1]  Prevent showing keys on free roam spectator mode
+L 08/25/2020 - 06:31:04: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/25/2020 - 06:31:04:   [0]  Development update - 8/19/2018
+L 08/25/2020 - 06:31:04:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/25/2020 - 07:47:44: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/25/2020 - 07:47:44:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/25/2020 - 07:47:46: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/25/2020 - 07:47:46:   [0]  Reduce unnecessary clientprefs saving
+L 08/25/2020 - 07:47:46:   [1]  Prevent showing keys on free roam spectator mode
+L 08/25/2020 - 07:47:46: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/25/2020 - 07:47:46:   [0]  Development update - 8/19/2018
+L 08/25/2020 - 07:47:46:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/26/2020 - 06:30:38: SMC parsing error on line 0
+L 08/26/2020 - 06:30:38:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/26/2020 - 06:30:38:   [1]  ERROR: Line contained too many invalid tokens
+L 08/26/2020 - 06:30:38: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/26/2020 - 06:30:38:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/26/2020 - 06:30:41: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/26/2020 - 06:30:41:   [0]  Reduce unnecessary clientprefs saving
+L 08/26/2020 - 06:30:41:   [1]  Prevent showing keys on free roam spectator mode
+L 08/26/2020 - 06:30:41: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/26/2020 - 06:30:41:   [0]  Development update - 8/19/2018
+L 08/26/2020 - 06:30:41:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/27/2020 - 06:31:01: SMC parsing error on line 0
+L 08/27/2020 - 06:31:01:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/27/2020 - 06:31:01:   [1]  ERROR: Line contained too many invalid tokens
+L 08/27/2020 - 06:31:02: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/27/2020 - 06:31:02:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/27/2020 - 06:31:03: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/27/2020 - 06:31:03:   [0]  Reduce unnecessary clientprefs saving
+L 08/27/2020 - 06:31:03:   [1]  Prevent showing keys on free roam spectator mode
+L 08/27/2020 - 06:31:03: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/27/2020 - 06:31:03:   [0]  Development update - 8/19/2018
+L 08/27/2020 - 06:31:03:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/27/2020 - 12:30:50: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/27/2020 - 12:30:50:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/27/2020 - 12:30:51: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/27/2020 - 12:30:51:   [0]  Reduce unnecessary clientprefs saving
+L 08/27/2020 - 12:30:51:   [1]  Prevent showing keys on free roam spectator mode
+L 08/27/2020 - 12:30:51: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/27/2020 - 12:30:51:   [0]  Development update - 8/19/2018
+L 08/27/2020 - 12:30:51:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/27/2020 - 13:00:53: SMC parsing error on line 0
+L 08/27/2020 - 13:00:53:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/27/2020 - 13:00:53:   [1]  ERROR: Line contained too many invalid tokens
+L 08/27/2020 - 13:00:53: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/27/2020 - 13:00:53:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/27/2020 - 13:00:55: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/27/2020 - 13:00:55:   [0]  Reduce unnecessary clientprefs saving
+L 08/27/2020 - 13:00:55:   [1]  Prevent showing keys on free roam spectator mode
+L 08/27/2020 - 13:00:55: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/27/2020 - 13:00:55:   [0]  Development update - 8/19/2018
+L 08/27/2020 - 13:00:55:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/28/2020 - 06:31:02: SMC parsing error on line 0
+L 08/28/2020 - 06:31:02:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/28/2020 - 06:31:02:   [1]  ERROR: Line contained too many invalid tokens
+L 08/28/2020 - 06:31:03: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/28/2020 - 06:31:03:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/28/2020 - 06:31:04: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/28/2020 - 06:31:04:   [0]  Reduce unnecessary clientprefs saving
+L 08/28/2020 - 06:31:04:   [1]  Prevent showing keys on free roam spectator mode
+L 08/28/2020 - 06:31:04: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/28/2020 - 06:31:04:   [0]  Development update - 8/19/2018
+L 08/28/2020 - 06:31:04:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/29/2020 - 06:31:05: SMC parsing error on line 0
+L 08/29/2020 - 06:31:05:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/29/2020 - 06:31:05:   [1]  ERROR: Line contained too many invalid tokens
+L 08/29/2020 - 06:31:06: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/29/2020 - 06:31:06:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/29/2020 - 06:31:07: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/29/2020 - 06:31:07:   [0]  Reduce unnecessary clientprefs saving
+L 08/29/2020 - 06:31:07:   [1]  Prevent showing keys on free roam spectator mode
+L 08/29/2020 - 06:31:07: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/29/2020 - 06:31:07:   [0]  Development update - 8/19/2018
+L 08/29/2020 - 06:31:07:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/30/2020 - 06:31:29: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/30/2020 - 06:31:29:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/30/2020 - 06:31:31: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/30/2020 - 06:31:31:   [0]  Reduce unnecessary clientprefs saving
+L 08/30/2020 - 06:31:31:   [1]  Prevent showing keys on free roam spectator mode
+L 08/30/2020 - 06:31:31: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/30/2020 - 06:31:31:   [0]  Development update - 8/19/2018
+L 08/30/2020 - 06:31:31:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/31/2020 - 06:30:54: SMC parsing error on line 0
+L 08/31/2020 - 06:30:54:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/31/2020 - 06:30:54:   [1]  ERROR: Line contained too many invalid tokens
+L 08/31/2020 - 06:30:54: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/31/2020 - 06:30:54:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/31/2020 - 06:30:56: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/31/2020 - 06:30:56:   [0]  Reduce unnecessary clientprefs saving
+L 08/31/2020 - 06:30:56:   [1]  Prevent showing keys on free roam spectator mode
+L 08/31/2020 - 06:30:56: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/31/2020 - 06:30:56:   [0]  Development update - 8/19/2018
+L 08/31/2020 - 06:30:56:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/01/2020 - 06:31:05: SMC parsing error on line 0
+L 09/01/2020 - 06:31:05:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/01/2020 - 06:31:05:   [1]  ERROR: Line contained too many invalid tokens
+L 09/01/2020 - 06:31:05: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/01/2020 - 06:31:05:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/01/2020 - 06:31:07: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/01/2020 - 06:31:07:   [0]  Reduce unnecessary clientprefs saving
+L 09/01/2020 - 06:31:07:   [1]  Prevent showing keys on free roam spectator mode
+L 09/01/2020 - 06:31:07: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/01/2020 - 06:31:07:   [0]  Development update - 8/19/2018
+L 09/01/2020 - 06:31:07:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/01/2020 - 13:34:39: SMC parsing error on line 0
+L 09/01/2020 - 13:34:39:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/01/2020 - 13:34:39:   [1]  ERROR: Line contained too many invalid tokens
+L 09/01/2020 - 13:34:39: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/01/2020 - 13:34:39:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/01/2020 - 13:34:41: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/01/2020 - 13:34:41:   [0]  Reduce unnecessary clientprefs saving
+L 09/01/2020 - 13:34:41:   [1]  Prevent showing keys on free roam spectator mode
+L 09/01/2020 - 13:34:41: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/01/2020 - 13:34:41:   [0]  Development update - 8/19/2018
+L 09/01/2020 - 13:34:41:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/02/2020 - 06:30:39: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/02/2020 - 06:30:39:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/02/2020 - 06:30:40: SMC parsing error on line 0
+L 09/02/2020 - 06:30:40:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/02/2020 - 06:30:40:   [1]  ERROR: Line contained too many invalid tokens
+L 09/02/2020 - 06:30:40: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/02/2020 - 06:30:40:   [0]  Reduce unnecessary clientprefs saving
+L 09/02/2020 - 06:30:40:   [1]  Prevent showing keys on free roam spectator mode
+L 09/02/2020 - 06:30:40: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/02/2020 - 06:30:40:   [0]  Development update - 8/19/2018
+L 09/02/2020 - 06:30:40:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/02/2020 - 08:32:28: SMC parsing error on line 0
+L 09/02/2020 - 08:32:28:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/02/2020 - 08:32:28:   [1]  ERROR: Line contained too many invalid tokens
+L 09/02/2020 - 08:32:29: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/02/2020 - 08:32:29:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/02/2020 - 08:32:31: SMC parsing error on line 0
+L 09/02/2020 - 08:32:31:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/02/2020 - 08:32:31:   [1]  ERROR: Line contained too many invalid tokens
+L 09/02/2020 - 08:32:31: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/02/2020 - 08:32:31:   [0]  Reduce unnecessary clientprefs saving
+L 09/02/2020 - 08:32:31:   [1]  Prevent showing keys on free roam spectator mode
+L 09/02/2020 - 08:32:31: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/02/2020 - 08:32:31:   [0]  Development update - 8/19/2018
+L 09/02/2020 - 08:32:31:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/03/2020 - 06:30:40: SMC parsing error on line 0
+L 09/03/2020 - 06:30:40:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/03/2020 - 06:30:40:   [1]  ERROR: Line contained too many invalid tokens
+L 09/03/2020 - 06:30:40: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/03/2020 - 06:30:40:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/03/2020 - 06:30:42: SMC parsing error on line 0
+L 09/03/2020 - 06:30:42:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/03/2020 - 06:30:42:   [1]  ERROR: Line contained too many invalid tokens
+L 09/03/2020 - 06:30:42: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/03/2020 - 06:30:42:   [0]  Reduce unnecessary clientprefs saving
+L 09/03/2020 - 06:30:42:   [1]  Prevent showing keys on free roam spectator mode
+L 09/03/2020 - 06:30:42: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/03/2020 - 06:30:42:   [0]  Development update - 8/19/2018
+L 09/03/2020 - 06:30:42:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/04/2020 - 06:30:42: SMC parsing error on line 0
+L 09/04/2020 - 06:30:42:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/04/2020 - 06:30:42:   [1]  ERROR: Line contained too many invalid tokens
+L 09/04/2020 - 06:30:42: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/04/2020 - 06:30:42:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/04/2020 - 06:30:44: SMC parsing error on line 0
+L 09/04/2020 - 06:30:44:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/04/2020 - 06:30:44:   [1]  ERROR: Line contained too many invalid tokens
+L 09/04/2020 - 06:30:44: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/04/2020 - 06:30:44:   [0]  Reduce unnecessary clientprefs saving
+L 09/04/2020 - 06:30:44:   [1]  Prevent showing keys on free roam spectator mode
+L 09/04/2020 - 06:30:44: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/04/2020 - 06:30:44:   [0]  Development update - 8/19/2018
+L 09/04/2020 - 06:30:44:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/05/2020 - 06:31:02: SMC parsing error on line 0
+L 09/05/2020 - 06:31:02:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/05/2020 - 06:31:02:   [1]  ERROR: Line contained too many invalid tokens
+L 09/05/2020 - 06:31:02: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/05/2020 - 06:31:02:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/05/2020 - 06:31:04: SMC parsing error on line 0
+L 09/05/2020 - 06:31:04:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/05/2020 - 06:31:04:   [1]  ERROR: Line contained too many invalid tokens
+L 09/05/2020 - 06:31:04: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/05/2020 - 06:31:04:   [0]  Reduce unnecessary clientprefs saving
+L 09/05/2020 - 06:31:04:   [1]  Prevent showing keys on free roam spectator mode
+L 09/05/2020 - 06:31:04: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/05/2020 - 06:31:04:   [0]  Development update - 8/19/2018
+L 09/05/2020 - 06:31:04:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/06/2020 - 06:30:37: SMC parsing error on line 0
+L 09/06/2020 - 06:30:37:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/06/2020 - 06:30:37:   [1]  ERROR: Line contained too many invalid tokens
+L 09/06/2020 - 06:30:37: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/06/2020 - 06:30:37:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/06/2020 - 06:30:40: SMC parsing error on line 0
+L 09/06/2020 - 06:30:40:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/06/2020 - 06:30:40:   [1]  ERROR: Line contained too many invalid tokens
+L 09/06/2020 - 06:30:40: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/06/2020 - 06:30:40:   [0]  Reduce unnecessary clientprefs saving
+L 09/06/2020 - 06:30:40:   [1]  Prevent showing keys on free roam spectator mode
+L 09/06/2020 - 06:30:40: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/06/2020 - 06:30:40:   [0]  Development update - 8/19/2018
+L 09/06/2020 - 06:30:40:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/07/2020 - 06:30:38: SMC parsing error on line 0
+L 09/07/2020 - 06:30:38:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/07/2020 - 06:30:38:   [1]  ERROR: Line contained too many invalid tokens
+L 09/07/2020 - 06:30:38: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/07/2020 - 06:30:38:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/07/2020 - 06:30:40: SMC parsing error on line 0
+L 09/07/2020 - 06:30:40:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/07/2020 - 06:30:40:   [1]  ERROR: Line contained too many invalid tokens
+L 09/07/2020 - 06:30:40: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/07/2020 - 06:30:40:   [0]  Reduce unnecessary clientprefs saving
+L 09/07/2020 - 06:30:40:   [1]  Prevent showing keys on free roam spectator mode
+L 09/07/2020 - 06:30:40: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/07/2020 - 06:30:40:   [0]  Development update - 8/19/2018
+L 09/07/2020 - 06:30:40:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/08/2020 - 06:30:39: SMC parsing error on line 0
+L 09/08/2020 - 06:30:39:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/08/2020 - 06:30:39:   [1]  ERROR: Line contained too many invalid tokens
+L 09/08/2020 - 06:30:39: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/08/2020 - 06:30:39:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/08/2020 - 06:30:41: SMC parsing error on line 0
+L 09/08/2020 - 06:30:41:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/08/2020 - 06:30:41:   [1]  ERROR: Line contained too many invalid tokens
+L 09/08/2020 - 06:30:41: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/08/2020 - 06:30:41:   [0]  Reduce unnecessary clientprefs saving
+L 09/08/2020 - 06:30:41:   [1]  Prevent showing keys on free roam spectator mode
+L 09/08/2020 - 06:30:41: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/08/2020 - 06:30:41:   [0]  Development update - 8/19/2018
+L 09/08/2020 - 06:30:41:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/09/2020 - 06:30:41: SMC parsing error on line 0
+L 09/09/2020 - 06:30:41:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/09/2020 - 06:30:41:   [1]  ERROR: Line contained too many invalid tokens
+L 09/09/2020 - 06:30:41: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/09/2020 - 06:30:41:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/09/2020 - 06:30:43: SMC parsing error on line 0
+L 09/09/2020 - 06:30:43:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/09/2020 - 06:30:43:   [1]  ERROR: Line contained too many invalid tokens
+L 09/09/2020 - 06:30:43: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/09/2020 - 06:30:43:   [0]  Reduce unnecessary clientprefs saving
+L 09/09/2020 - 06:30:43:   [1]  Prevent showing keys on free roam spectator mode
+L 09/09/2020 - 06:30:43: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/09/2020 - 06:30:43:   [0]  Development update - 8/19/2018
+L 09/09/2020 - 06:30:43:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/10/2020 - 06:30:39: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/10/2020 - 06:30:39:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/10/2020 - 06:30:40: SMC parsing error on line 0
+L 09/10/2020 - 06:30:40:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/10/2020 - 06:30:40:   [1]  ERROR: Line contained too many invalid tokens
+L 09/10/2020 - 06:30:41: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/10/2020 - 06:30:41:   [0]  Reduce unnecessary clientprefs saving
+L 09/10/2020 - 06:30:41:   [1]  Prevent showing keys on free roam spectator mode
+L 09/10/2020 - 06:30:41: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/10/2020 - 06:30:41:   [0]  Development update - 8/19/2018
+L 09/10/2020 - 06:30:41:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/11/2020 - 06:31:01: SMC parsing error on line 0
+L 09/11/2020 - 06:31:01:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/11/2020 - 06:31:01:   [1]  ERROR: Line contained too many invalid tokens
+L 09/11/2020 - 06:31:01: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/11/2020 - 06:31:01:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/11/2020 - 06:31:02: SMC parsing error on line 0
+L 09/11/2020 - 06:31:02:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/11/2020 - 06:31:02:   [1]  ERROR: Line contained too many invalid tokens
+L 09/11/2020 - 06:31:03: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/11/2020 - 06:31:03:   [0]  Reduce unnecessary clientprefs saving
+L 09/11/2020 - 06:31:03:   [1]  Prevent showing keys on free roam spectator mode
+L 09/11/2020 - 06:31:03: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/11/2020 - 06:31:03:   [0]  Development update - 8/19/2018
+L 09/11/2020 - 06:31:03:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/12/2020 - 06:31:29: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/12/2020 - 06:31:29:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/12/2020 - 06:31:30: SMC parsing error on line 0
+L 09/12/2020 - 06:31:30:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/12/2020 - 06:31:30:   [1]  ERROR: Line contained too many invalid tokens
+L 09/12/2020 - 06:31:30: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/12/2020 - 06:31:30:   [0]  Reduce unnecessary clientprefs saving
+L 09/12/2020 - 06:31:30:   [1]  Prevent showing keys on free roam spectator mode
+L 09/12/2020 - 06:31:31: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/12/2020 - 06:31:31:   [0]  Development update - 8/19/2018
+L 09/12/2020 - 06:31:31:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/13/2020 - 06:31:01: SMC parsing error on line 0
+L 09/13/2020 - 06:31:01:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/13/2020 - 06:31:01:   [1]  ERROR: Line contained too many invalid tokens
+L 09/13/2020 - 06:31:01: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/13/2020 - 06:31:01:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/13/2020 - 06:31:02: SMC parsing error on line 0
+L 09/13/2020 - 06:31:02:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/13/2020 - 06:31:02:   [1]  ERROR: Line contained too many invalid tokens
+L 09/13/2020 - 06:31:02: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/13/2020 - 06:31:02:   [0]  Reduce unnecessary clientprefs saving
+L 09/13/2020 - 06:31:02:   [1]  Prevent showing keys on free roam spectator mode
+L 09/13/2020 - 06:31:03: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/13/2020 - 06:31:03:   [0]  Development update - 8/19/2018
+L 09/13/2020 - 06:31:03:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/14/2020 - 06:31:32: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/14/2020 - 06:31:32:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/14/2020 - 06:31:33: SMC parsing error on line 0
+L 09/14/2020 - 06:31:33:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/14/2020 - 06:31:33:   [1]  ERROR: Line contained too many invalid tokens
+L 09/14/2020 - 06:31:33: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/14/2020 - 06:31:33:   [0]  Reduce unnecessary clientprefs saving
+L 09/14/2020 - 06:31:33:   [1]  Prevent showing keys on free roam spectator mode
+L 09/14/2020 - 06:31:33: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/14/2020 - 06:31:33:   [0]  Development update - 8/19/2018
+L 09/14/2020 - 06:31:33:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/15/2020 - 06:30:39: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/15/2020 - 06:30:39:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/15/2020 - 06:30:41: SMC parsing error on line 0
+L 09/15/2020 - 06:30:41:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/15/2020 - 06:30:41:   [1]  ERROR: Line contained too many invalid tokens
+L 09/15/2020 - 06:30:41: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/15/2020 - 06:30:41:   [0]  Reduce unnecessary clientprefs saving
+L 09/15/2020 - 06:30:41:   [1]  Prevent showing keys on free roam spectator mode
+L 09/15/2020 - 06:30:41: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/15/2020 - 06:30:41:   [0]  Development update - 8/19/2018
+L 09/15/2020 - 06:30:41:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/16/2020 - 06:30:50: SMC parsing error on line 0
+L 09/16/2020 - 06:30:50:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/16/2020 - 06:30:50:   [1]  ERROR: Line contained too many invalid tokens
+L 09/16/2020 - 06:30:51: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/16/2020 - 06:30:51:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/16/2020 - 06:30:52: SMC parsing error on line 0
+L 09/16/2020 - 06:30:52:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/16/2020 - 06:30:52:   [1]  ERROR: Line contained too many invalid tokens
+L 09/16/2020 - 06:30:52: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/16/2020 - 06:30:52:   [0]  Reduce unnecessary clientprefs saving
+L 09/16/2020 - 06:30:52:   [1]  Prevent showing keys on free roam spectator mode
+L 09/16/2020 - 06:30:52: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/16/2020 - 06:30:52:   [0]  Development update - 8/19/2018
+L 09/16/2020 - 06:30:52:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/17/2020 - 06:30:38: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/17/2020 - 06:30:38:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/17/2020 - 06:30:39: SMC parsing error on line 0
+L 09/17/2020 - 06:30:39:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/17/2020 - 06:30:39:   [1]  ERROR: Line contained too many invalid tokens
+L 09/17/2020 - 06:30:39: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/17/2020 - 06:30:39:   [0]  Reduce unnecessary clientprefs saving
+L 09/17/2020 - 06:30:39:   [1]  Prevent showing keys on free roam spectator mode
+L 09/17/2020 - 06:30:39: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/17/2020 - 06:30:39:   [0]  Development update - 8/19/2018
+L 09/17/2020 - 06:30:39:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/18/2020 - 06:31:30: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/18/2020 - 06:31:30:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/18/2020 - 06:31:31: SMC parsing error on line 0
+L 09/18/2020 - 06:31:31:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/18/2020 - 06:31:31:   [1]  ERROR: Line contained too many invalid tokens
+L 09/18/2020 - 06:31:31: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/18/2020 - 06:31:31:   [0]  Reduce unnecessary clientprefs saving
+L 09/18/2020 - 06:31:31:   [1]  Prevent showing keys on free roam spectator mode
+L 09/18/2020 - 06:31:31: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/18/2020 - 06:31:31:   [0]  Development update - 8/19/2018
+L 09/18/2020 - 06:31:31:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/19/2020 - 06:30:39: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/19/2020 - 06:30:39:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/19/2020 - 06:30:41: SMC parsing error on line 0
+L 09/19/2020 - 06:30:41:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/19/2020 - 06:30:41:   [1]  ERROR: Line contained too many invalid tokens
+L 09/19/2020 - 06:30:41: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/19/2020 - 06:30:41:   [0]  Reduce unnecessary clientprefs saving
+L 09/19/2020 - 06:30:41:   [1]  Prevent showing keys on free roam spectator mode
+L 09/19/2020 - 06:30:41: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/19/2020 - 06:30:41:   [0]  Development update - 8/19/2018
+L 09/19/2020 - 06:30:41:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/20/2020 - 06:30:41: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/20/2020 - 06:30:41:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/20/2020 - 06:30:43: SMC parsing error on line 0
+L 09/20/2020 - 06:30:43:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/20/2020 - 06:30:43:   [1]  ERROR: Line contained too many invalid tokens
+L 09/20/2020 - 06:30:43: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/20/2020 - 06:30:43:   [0]  Reduce unnecessary clientprefs saving
+L 09/20/2020 - 06:30:43:   [1]  Prevent showing keys on free roam spectator mode
+L 09/20/2020 - 06:30:43: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/20/2020 - 06:30:43:   [0]  Development update - 8/19/2018
+L 09/20/2020 - 06:30:43:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/21/2020 - 06:31:34: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/21/2020 - 06:31:34:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/21/2020 - 06:31:35: SMC parsing error on line 0
+L 09/21/2020 - 06:31:35:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/21/2020 - 06:31:35:   [1]  ERROR: Line contained too many invalid tokens
+L 09/21/2020 - 06:31:35: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/21/2020 - 06:31:35:   [0]  Reduce unnecessary clientprefs saving
+L 09/21/2020 - 06:31:35:   [1]  Prevent showing keys on free roam spectator mode
+L 09/21/2020 - 06:31:35: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/21/2020 - 06:31:35:   [0]  Development update - 8/19/2018
+L 09/21/2020 - 06:31:35:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/22/2020 - 06:30:39: SMC parsing error on line 0
+L 09/22/2020 - 06:30:39:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/22/2020 - 06:30:39:   [1]  ERROR: Line contained too many invalid tokens
+L 09/22/2020 - 06:30:39: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/22/2020 - 06:30:39:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/22/2020 - 06:30:41: SMC parsing error on line 0
+L 09/22/2020 - 06:30:41:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/22/2020 - 06:30:41:   [1]  ERROR: Line contained too many invalid tokens
+L 09/22/2020 - 06:30:41: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/22/2020 - 06:30:41:   [0]  Reduce unnecessary clientprefs saving
+L 09/22/2020 - 06:30:41:   [1]  Prevent showing keys on free roam spectator mode
+L 09/22/2020 - 06:30:42: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/22/2020 - 06:30:42:   [0]  Development update - 8/19/2018
+L 09/22/2020 - 06:30:42:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/23/2020 - 06:31:02: SMC parsing error on line 0
+L 09/23/2020 - 06:31:02:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/23/2020 - 06:31:02:   [1]  ERROR: Line contained too many invalid tokens
+L 09/23/2020 - 06:31:02: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/23/2020 - 06:31:02:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/23/2020 - 06:31:03: SMC parsing error on line 0
+L 09/23/2020 - 06:31:03:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/23/2020 - 06:31:03:   [1]  ERROR: Line contained too many invalid tokens
+L 09/23/2020 - 06:31:03: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/23/2020 - 06:31:03:   [0]  Reduce unnecessary clientprefs saving
+L 09/23/2020 - 06:31:03:   [1]  Prevent showing keys on free roam spectator mode
+L 09/23/2020 - 06:31:03: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/23/2020 - 06:31:03:   [0]  Development update - 8/19/2018
+L 09/23/2020 - 06:31:03:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/23/2020 - 09:33:50: SMC parsing error on line 0
+L 09/23/2020 - 09:33:50:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/23/2020 - 09:33:50:   [1]  ERROR: Line contained too many invalid tokens
+L 09/23/2020 - 09:33:50: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/23/2020 - 09:33:50:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/23/2020 - 09:33:52: SMC parsing error on line 0
+L 09/23/2020 - 09:33:52:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/23/2020 - 09:33:52:   [1]  ERROR: Line contained too many invalid tokens
+L 09/23/2020 - 09:33:52: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/23/2020 - 09:33:52:   [0]  Reduce unnecessary clientprefs saving
+L 09/23/2020 - 09:33:52:   [1]  Prevent showing keys on free roam spectator mode
+L 09/23/2020 - 09:33:52: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/23/2020 - 09:33:52:   [0]  Development update - 8/19/2018
+L 09/23/2020 - 09:33:52:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/24/2020 - 06:31:02: SMC parsing error on line 0
+L 09/24/2020 - 06:31:02:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/24/2020 - 06:31:02:   [1]  ERROR: Line contained too many invalid tokens
+L 09/24/2020 - 06:31:03: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/24/2020 - 06:31:03:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/24/2020 - 06:31:04: SMC parsing error on line 0
+L 09/24/2020 - 06:31:04:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/24/2020 - 06:31:04:   [1]  ERROR: Line contained too many invalid tokens
+L 09/24/2020 - 06:31:04: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/24/2020 - 06:31:04:   [0]  Reduce unnecessary clientprefs saving
+L 09/24/2020 - 06:31:04:   [1]  Prevent showing keys on free roam spectator mode
+L 09/24/2020 - 06:31:04: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/24/2020 - 06:31:04:   [0]  Development update - 8/19/2018
+L 09/24/2020 - 06:31:04:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/25/2020 - 06:31:24: SMC parsing error on line 0
+L 09/25/2020 - 06:31:24:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/25/2020 - 06:31:24:   [1]  ERROR: Line contained too many invalid tokens
+L 09/25/2020 - 06:31:25: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/25/2020 - 06:31:25:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/25/2020 - 06:31:26: SMC parsing error on line 0
+L 09/25/2020 - 06:31:26:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/25/2020 - 06:31:26:   [1]  ERROR: Line contained too many invalid tokens
+L 09/25/2020 - 06:31:26: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/25/2020 - 06:31:26:   [0]  Reduce unnecessary clientprefs saving
+L 09/25/2020 - 06:31:26:   [1]  Prevent showing keys on free roam spectator mode
+L 09/25/2020 - 06:31:26: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/25/2020 - 06:31:26:   [0]  Development update - 8/19/2018
+L 09/25/2020 - 06:31:26:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/26/2020 - 06:31:01: SMC parsing error on line 0
+L 09/26/2020 - 06:31:01:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/26/2020 - 06:31:01:   [1]  ERROR: Line contained too many invalid tokens
+L 09/26/2020 - 06:31:01: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/26/2020 - 06:31:01:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/26/2020 - 06:31:02: SMC parsing error on line 0
+L 09/26/2020 - 06:31:02:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/26/2020 - 06:31:02:   [1]  ERROR: Line contained too many invalid tokens
+L 09/26/2020 - 06:31:02: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/26/2020 - 06:31:02:   [0]  Reduce unnecessary clientprefs saving
+L 09/26/2020 - 06:31:02:   [1]  Prevent showing keys on free roam spectator mode
+L 09/26/2020 - 06:31:03: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/26/2020 - 06:31:03:   [0]  Development update - 8/19/2018
+L 09/26/2020 - 06:31:03:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/27/2020 - 06:31:03: SMC parsing error on line 0
+L 09/27/2020 - 06:31:03:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/27/2020 - 06:31:03:   [1]  ERROR: Line contained too many invalid tokens
+L 09/27/2020 - 06:31:03: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/27/2020 - 06:31:03:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/27/2020 - 06:31:05: SMC parsing error on line 0
+L 09/27/2020 - 06:31:05:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/27/2020 - 06:31:05:   [1]  ERROR: Line contained too many invalid tokens
+L 09/27/2020 - 06:31:05: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/27/2020 - 06:31:05:   [0]  Reduce unnecessary clientprefs saving
+L 09/27/2020 - 06:31:05:   [1]  Prevent showing keys on free roam spectator mode
+L 09/27/2020 - 06:31:05: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/27/2020 - 06:31:05:   [0]  Development update - 8/19/2018
+L 09/27/2020 - 06:31:05:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/28/2020 - 06:31:01: SMC parsing error on line 0
+L 09/28/2020 - 06:31:01:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/28/2020 - 06:31:01:   [1]  ERROR: Line contained too many invalid tokens
+L 09/28/2020 - 06:31:02: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/28/2020 - 06:31:02:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/28/2020 - 06:31:03: SMC parsing error on line 0
+L 09/28/2020 - 06:31:03:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/28/2020 - 06:31:03:   [1]  ERROR: Line contained too many invalid tokens
+L 09/28/2020 - 06:31:04: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/28/2020 - 06:31:04:   [0]  Reduce unnecessary clientprefs saving
+L 09/28/2020 - 06:31:04:   [1]  Prevent showing keys on free roam spectator mode
+L 09/28/2020 - 06:31:04: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/28/2020 - 06:31:04:   [0]  Development update - 8/19/2018
+L 09/28/2020 - 06:31:04:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/29/2020 - 06:30:37: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/29/2020 - 06:30:37:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/29/2020 - 06:30:38: SMC parsing error on line 0
+L 09/29/2020 - 06:30:38:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/29/2020 - 06:30:38:   [1]  ERROR: Line contained too many invalid tokens
+L 09/29/2020 - 06:30:39: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/29/2020 - 06:30:39:   [0]  Reduce unnecessary clientprefs saving
+L 09/29/2020 - 06:30:39:   [1]  Prevent showing keys on free roam spectator mode
+L 09/29/2020 - 06:30:39: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/29/2020 - 06:30:39:   [0]  Development update - 8/19/2018
+L 09/29/2020 - 06:30:39:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 09/30/2020 - 06:30:37: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 09/30/2020 - 06:30:37:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 09/30/2020 - 06:30:39: SMC parsing error on line 0
+L 09/30/2020 - 06:30:39:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 09/30/2020 - 06:30:39:   [1]  ERROR: Line contained too many invalid tokens
+L 09/30/2020 - 06:30:39: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 09/30/2020 - 06:30:39:   [0]  Reduce unnecessary clientprefs saving
+L 09/30/2020 - 06:30:39:   [1]  Prevent showing keys on free roam spectator mode
+L 09/30/2020 - 06:30:39: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 09/30/2020 - 06:30:39:   [0]  Development update - 8/19/2018
+L 09/30/2020 - 06:30:39:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/01/2020 - 06:30:49: SMC parsing error on line 0
+L 10/01/2020 - 06:30:49:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/01/2020 - 06:30:49:   [1]  ERROR: Line contained too many invalid tokens
+L 10/01/2020 - 06:30:49: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/01/2020 - 06:30:49:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/01/2020 - 06:30:51: SMC parsing error on line 0
+L 10/01/2020 - 06:30:51:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/01/2020 - 06:30:51:   [1]  ERROR: Line contained too many invalid tokens
+L 10/01/2020 - 06:30:51: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/01/2020 - 06:30:51:   [0]  Reduce unnecessary clientprefs saving
+L 10/01/2020 - 06:30:51:   [1]  Prevent showing keys on free roam spectator mode
+L 10/01/2020 - 06:30:51: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/01/2020 - 06:30:51:   [0]  Development update - 8/19/2018
+L 10/01/2020 - 06:30:51:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/01/2020 - 12:32:26: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/01/2020 - 12:32:26:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/01/2020 - 12:32:27: SMC parsing error on line 0
+L 10/01/2020 - 12:32:27:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/01/2020 - 12:32:27:   [1]  ERROR: Line contained too many invalid tokens
+L 10/01/2020 - 12:32:27: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/01/2020 - 12:32:27:   [0]  Reduce unnecessary clientprefs saving
+L 10/01/2020 - 12:32:27:   [1]  Prevent showing keys on free roam spectator mode
+L 10/01/2020 - 12:32:28: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/01/2020 - 12:32:28:   [0]  Development update - 8/19/2018
+L 10/01/2020 - 12:32:28:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/01/2020 - 13:00:44: SMC parsing error on line 0
+L 10/01/2020 - 13:00:44:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/01/2020 - 13:00:44:   [1]  ERROR: Line contained too many invalid tokens
+L 10/01/2020 - 13:00:44: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/01/2020 - 13:00:44:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/01/2020 - 13:00:46: SMC parsing error on line 0
+L 10/01/2020 - 13:00:46:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/01/2020 - 13:00:46:   [1]  ERROR: Line contained too many invalid tokens
+L 10/01/2020 - 13:00:46: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/01/2020 - 13:00:46:   [0]  Reduce unnecessary clientprefs saving
+L 10/01/2020 - 13:00:46:   [1]  Prevent showing keys on free roam spectator mode
+L 10/01/2020 - 13:00:46: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/01/2020 - 13:00:46:   [0]  Development update - 8/19/2018
+L 10/01/2020 - 13:00:46:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/02/2020 - 06:30:51: SMC parsing error on line 0
+L 10/02/2020 - 06:30:51:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/02/2020 - 06:30:51:   [1]  ERROR: Line contained too many invalid tokens
+L 10/02/2020 - 06:30:52: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/02/2020 - 06:30:52:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/02/2020 - 06:30:53: SMC parsing error on line 0
+L 10/02/2020 - 06:30:53:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/02/2020 - 06:30:53:   [1]  ERROR: Line contained too many invalid tokens
+L 10/02/2020 - 06:30:53: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/02/2020 - 06:30:53:   [0]  Reduce unnecessary clientprefs saving
+L 10/02/2020 - 06:30:53:   [1]  Prevent showing keys on free roam spectator mode
+L 10/02/2020 - 06:30:53: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/02/2020 - 06:30:53:   [0]  Development update - 8/19/2018
+L 10/02/2020 - 06:30:53:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/02/2020 - 17:01:19: SMC parsing error on line 0
+L 10/02/2020 - 17:01:19:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/02/2020 - 17:01:19:   [1]  ERROR: Line contained too many invalid tokens
+L 10/02/2020 - 17:01:19: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/02/2020 - 17:01:19:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/02/2020 - 17:01:21: SMC parsing error on line 0
+L 10/02/2020 - 17:01:21:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/02/2020 - 17:01:21:   [1]  ERROR: Line contained too many invalid tokens
+L 10/02/2020 - 17:01:21: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/02/2020 - 17:01:21:   [0]  Reduce unnecessary clientprefs saving
+L 10/02/2020 - 17:01:21:   [1]  Prevent showing keys on free roam spectator mode
+L 10/02/2020 - 17:01:21: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/02/2020 - 17:01:21:   [0]  Development update - 8/19/2018
+L 10/02/2020 - 17:01:21:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/02/2020 - 17:31:22: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/02/2020 - 17:31:22:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/02/2020 - 17:31:24: SMC parsing error on line 0
+L 10/02/2020 - 17:31:24:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/02/2020 - 17:31:24:   [1]  ERROR: Line contained too many invalid tokens
+L 10/02/2020 - 17:31:24: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/02/2020 - 17:31:24:   [0]  Reduce unnecessary clientprefs saving
+L 10/02/2020 - 17:31:24:   [1]  Prevent showing keys on free roam spectator mode
+L 10/02/2020 - 17:31:24: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/02/2020 - 17:31:24:   [0]  Development update - 8/19/2018
+L 10/02/2020 - 17:31:24:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/02/2020 - 18:01:41: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/02/2020 - 18:01:41:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/02/2020 - 18:01:42: SMC parsing error on line 0
+L 10/02/2020 - 18:01:42:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/02/2020 - 18:01:42:   [1]  ERROR: Line contained too many invalid tokens
+L 10/02/2020 - 18:01:42: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/02/2020 - 18:01:42:   [0]  Reduce unnecessary clientprefs saving
+L 10/02/2020 - 18:01:42:   [1]  Prevent showing keys on free roam spectator mode
+L 10/02/2020 - 18:01:42: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/02/2020 - 18:01:42:   [0]  Development update - 8/19/2018
+L 10/02/2020 - 18:01:42:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/02/2020 - 18:30:52: SMC parsing error on line 0
+L 10/02/2020 - 18:30:52:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/02/2020 - 18:30:52:   [1]  ERROR: Line contained too many invalid tokens
+L 10/02/2020 - 18:30:53: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/02/2020 - 18:30:53:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/02/2020 - 18:30:54: SMC parsing error on line 0
+L 10/02/2020 - 18:30:54:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/02/2020 - 18:30:54:   [1]  ERROR: Line contained too many invalid tokens
+L 10/02/2020 - 18:30:54: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/02/2020 - 18:30:54:   [0]  Reduce unnecessary clientprefs saving
+L 10/02/2020 - 18:30:54:   [1]  Prevent showing keys on free roam spectator mode
+L 10/02/2020 - 18:30:54: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/02/2020 - 18:30:54:   [0]  Development update - 8/19/2018
+L 10/02/2020 - 18:30:54:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/03/2020 - 06:30:37: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/03/2020 - 06:30:37:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/03/2020 - 06:30:39: SMC parsing error on line 0
+L 10/03/2020 - 06:30:39:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/03/2020 - 06:30:39:   [1]  ERROR: Line contained too many invalid tokens
+L 10/03/2020 - 06:30:39: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/03/2020 - 06:30:39:   [0]  Reduce unnecessary clientprefs saving
+L 10/03/2020 - 06:30:39:   [1]  Prevent showing keys on free roam spectator mode
+L 10/03/2020 - 06:30:39: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/03/2020 - 06:30:39:   [0]  Development update - 8/19/2018
+L 10/03/2020 - 06:30:39:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/04/2020 - 06:30:37: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/04/2020 - 06:30:37:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/04/2020 - 06:30:39: SMC parsing error on line 0
+L 10/04/2020 - 06:30:39:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/04/2020 - 06:30:39:   [1]  ERROR: Line contained too many invalid tokens
+L 10/04/2020 - 06:30:39: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/04/2020 - 06:30:39:   [0]  Reduce unnecessary clientprefs saving
+L 10/04/2020 - 06:30:39:   [1]  Prevent showing keys on free roam spectator mode
+L 10/04/2020 - 06:30:39: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/04/2020 - 06:30:39:   [0]  Development update - 8/19/2018
+L 10/04/2020 - 06:30:39:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/05/2020 - 06:31:34: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/05/2020 - 06:31:34:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/05/2020 - 06:31:35: SMC parsing error on line 0
+L 10/05/2020 - 06:31:35:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/05/2020 - 06:31:35:   [1]  ERROR: Line contained too many invalid tokens
+L 10/05/2020 - 06:31:35: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/05/2020 - 06:31:35:   [0]  Reduce unnecessary clientprefs saving
+L 10/05/2020 - 06:31:35:   [1]  Prevent showing keys on free roam spectator mode
+L 10/05/2020 - 06:31:35: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/05/2020 - 06:31:35:   [0]  Development update - 8/19/2018
+L 10/05/2020 - 06:31:35:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/06/2020 - 06:30:54: SMC parsing error on line 0
+L 10/06/2020 - 06:30:54:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/06/2020 - 06:30:54:   [1]  ERROR: Line contained too many invalid tokens
+L 10/06/2020 - 06:30:54: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/06/2020 - 06:30:54:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/06/2020 - 06:30:56: SMC parsing error on line 0
+L 10/06/2020 - 06:30:56:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/06/2020 - 06:30:56:   [1]  ERROR: Line contained too many invalid tokens
+L 10/06/2020 - 06:30:56: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/06/2020 - 06:30:56:   [0]  Reduce unnecessary clientprefs saving
+L 10/06/2020 - 06:30:56:   [1]  Prevent showing keys on free roam spectator mode
+L 10/06/2020 - 06:30:56: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/06/2020 - 06:30:56:   [0]  Development update - 8/19/2018
+L 10/06/2020 - 06:30:56:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/06/2020 - 10:34:51: SMC parsing error on line 0
+L 10/06/2020 - 10:34:51:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/06/2020 - 10:34:51:   [1]  ERROR: Line contained too many invalid tokens
+L 10/06/2020 - 10:34:51: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/06/2020 - 10:34:51:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/06/2020 - 10:34:53: SMC parsing error on line 0
+L 10/06/2020 - 10:34:53:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/06/2020 - 10:34:53:   [1]  ERROR: Line contained too many invalid tokens
+L 10/06/2020 - 10:34:53: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/06/2020 - 10:34:53:   [0]  Reduce unnecessary clientprefs saving
+L 10/06/2020 - 10:34:53:   [1]  Prevent showing keys on free roam spectator mode
+L 10/06/2020 - 10:34:53: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/06/2020 - 10:34:53:   [0]  Development update - 8/19/2018
+L 10/06/2020 - 10:34:53:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/07/2020 - 06:31:02: SMC parsing error on line 0
+L 10/07/2020 - 06:31:02:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/07/2020 - 06:31:02:   [1]  ERROR: Line contained too many invalid tokens
+L 10/07/2020 - 06:31:02: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/07/2020 - 06:31:02:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/07/2020 - 06:31:03: SMC parsing error on line 0
+L 10/07/2020 - 06:31:03:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/07/2020 - 06:31:03:   [1]  ERROR: Line contained too many invalid tokens
+L 10/07/2020 - 06:31:04: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/07/2020 - 06:31:04:   [0]  Reduce unnecessary clientprefs saving
+L 10/07/2020 - 06:31:04:   [1]  Prevent showing keys on free roam spectator mode
+L 10/07/2020 - 06:31:04: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/07/2020 - 06:31:04:   [0]  Development update - 8/19/2018
+L 10/07/2020 - 06:31:04:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/08/2020 - 06:30:37: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/08/2020 - 06:30:37:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/08/2020 - 06:30:55: SMC parsing error on line 0
+L 10/08/2020 - 06:30:55:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/08/2020 - 06:30:55:   [1]  ERROR: Line contained too many invalid tokens
+L 10/08/2020 - 06:30:55: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/08/2020 - 06:30:55:   [0]  Reduce unnecessary clientprefs saving
+L 10/08/2020 - 06:30:55:   [1]  Prevent showing keys on free roam spectator mode
+L 10/08/2020 - 06:30:55: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/08/2020 - 06:30:55:   [0]  Development update - 8/19/2018
+L 10/08/2020 - 06:30:55:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/08/2020 - 12:31:53: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/08/2020 - 12:31:53:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/08/2020 - 12:31:55: SMC parsing error on line 0
+L 10/08/2020 - 12:31:55:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/08/2020 - 12:31:55:   [1]  ERROR: Line contained too many invalid tokens
+L 10/08/2020 - 12:31:55: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/08/2020 - 12:31:55:   [0]  Reduce unnecessary clientprefs saving
+L 10/08/2020 - 12:31:55:   [1]  Prevent showing keys on free roam spectator mode
+L 10/08/2020 - 12:31:55: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/08/2020 - 12:31:55:   [0]  Development update - 8/19/2018
+L 10/08/2020 - 12:31:55:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/08/2020 - 13:01:20: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/08/2020 - 13:01:20:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/08/2020 - 13:01:22: SMC parsing error on line 0
+L 10/08/2020 - 13:01:22:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/08/2020 - 13:01:22:   [1]  ERROR: Line contained too many invalid tokens
+L 10/08/2020 - 13:01:22: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/08/2020 - 13:01:22:   [0]  Reduce unnecessary clientprefs saving
+L 10/08/2020 - 13:01:22:   [1]  Prevent showing keys on free roam spectator mode
+L 10/08/2020 - 13:01:22: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/08/2020 - 13:01:22:   [0]  Development update - 8/19/2018
+L 10/08/2020 - 13:01:22:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/09/2020 - 06:30:38: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/09/2020 - 06:30:38:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/09/2020 - 06:30:39: SMC parsing error on line 0
+L 10/09/2020 - 06:30:39:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/09/2020 - 06:30:39:   [1]  ERROR: Line contained too many invalid tokens
+L 10/09/2020 - 06:30:39: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/09/2020 - 06:30:39:   [0]  Reduce unnecessary clientprefs saving
+L 10/09/2020 - 06:30:39:   [1]  Prevent showing keys on free roam spectator mode
+L 10/09/2020 - 06:30:40: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/09/2020 - 06:30:40:   [0]  Development update - 8/19/2018
+L 10/09/2020 - 06:30:40:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/09/2020 - 14:31:02: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/09/2020 - 14:31:02:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/09/2020 - 14:31:03: SMC parsing error on line 0
+L 10/09/2020 - 14:31:03:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/09/2020 - 14:31:03:   [1]  ERROR: Line contained too many invalid tokens
+L 10/09/2020 - 14:31:03: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/09/2020 - 14:31:03:   [0]  Reduce unnecessary clientprefs saving
+L 10/09/2020 - 14:31:03:   [1]  Prevent showing keys on free roam spectator mode
+L 10/09/2020 - 14:31:03: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/09/2020 - 14:31:03:   [0]  Development update - 8/19/2018
+L 10/09/2020 - 14:31:03:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/09/2020 - 15:01:24: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/09/2020 - 15:01:24:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/09/2020 - 15:01:25: SMC parsing error on line 0
+L 10/09/2020 - 15:01:25:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/09/2020 - 15:01:25:   [1]  ERROR: Line contained too many invalid tokens
+L 10/09/2020 - 15:01:25: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/09/2020 - 15:01:25:   [0]  Reduce unnecessary clientprefs saving
+L 10/09/2020 - 15:01:25:   [1]  Prevent showing keys on free roam spectator mode
+L 10/09/2020 - 15:01:25: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/09/2020 - 15:01:25:   [0]  Development update - 8/19/2018
+L 10/09/2020 - 15:01:25:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/10/2020 - 06:31:01: SMC parsing error on line 0
+L 10/10/2020 - 06:31:01:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/10/2020 - 06:31:01:   [1]  ERROR: Line contained too many invalid tokens
+L 10/10/2020 - 06:31:01: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/10/2020 - 06:31:01:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/10/2020 - 06:31:03: SMC parsing error on line 0
+L 10/10/2020 - 06:31:03:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/10/2020 - 06:31:03:   [1]  ERROR: Line contained too many invalid tokens
+L 10/10/2020 - 06:31:03: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/10/2020 - 06:31:03:   [0]  Reduce unnecessary clientprefs saving
+L 10/10/2020 - 06:31:03:   [1]  Prevent showing keys on free roam spectator mode
+L 10/10/2020 - 06:31:03: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/10/2020 - 06:31:03:   [0]  Development update - 8/19/2018
+L 10/10/2020 - 06:31:03:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/11/2020 - 06:30:41: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/11/2020 - 06:30:41:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/11/2020 - 06:30:42: SMC parsing error on line 0
+L 10/11/2020 - 06:30:42:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/11/2020 - 06:30:42:   [1]  ERROR: Line contained too many invalid tokens
+L 10/11/2020 - 06:30:43: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/11/2020 - 06:30:43:   [0]  Reduce unnecessary clientprefs saving
+L 10/11/2020 - 06:30:43:   [1]  Prevent showing keys on free roam spectator mode
+L 10/11/2020 - 06:30:43: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/11/2020 - 06:30:43:   [0]  Development update - 8/19/2018
+L 10/11/2020 - 06:30:43:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/12/2020 - 06:31:33: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/12/2020 - 06:31:33:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/12/2020 - 06:31:35: SMC parsing error on line 0
+L 10/12/2020 - 06:31:35:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/12/2020 - 06:31:35:   [1]  ERROR: Line contained too many invalid tokens
+L 10/12/2020 - 06:31:35: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/12/2020 - 06:31:35:   [0]  Reduce unnecessary clientprefs saving
+L 10/12/2020 - 06:31:35:   [1]  Prevent showing keys on free roam spectator mode
+L 10/12/2020 - 06:31:35: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/12/2020 - 06:31:35:   [0]  Development update - 8/19/2018
+L 10/12/2020 - 06:31:35:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/13/2020 - 06:30:38: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/13/2020 - 06:30:38:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/13/2020 - 06:31:11: SMC parsing error on line 0
+L 10/13/2020 - 06:31:11:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/13/2020 - 06:31:11:   [1]  ERROR: Line contained too many invalid tokens
+L 10/13/2020 - 06:31:11: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/13/2020 - 06:31:11:   [0]  Reduce unnecessary clientprefs saving
+L 10/13/2020 - 06:31:11:   [1]  Prevent showing keys on free roam spectator mode
+L 10/13/2020 - 06:31:11: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/13/2020 - 06:31:11:   [0]  Development update - 8/19/2018
+L 10/13/2020 - 06:31:11:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/14/2020 - 06:30:39: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/14/2020 - 06:30:39:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/14/2020 - 06:30:41: SMC parsing error on line 0
+L 10/14/2020 - 06:30:41:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/14/2020 - 06:30:41:   [1]  ERROR: Line contained too many invalid tokens
+L 10/14/2020 - 06:30:41: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/14/2020 - 06:30:41:   [0]  Reduce unnecessary clientprefs saving
+L 10/14/2020 - 06:30:41:   [1]  Prevent showing keys on free roam spectator mode
+L 10/14/2020 - 06:30:41: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/14/2020 - 06:30:41:   [0]  Development update - 8/19/2018
+L 10/14/2020 - 06:30:41:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/15/2020 - 06:31:29: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/15/2020 - 06:31:29:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/15/2020 - 06:31:31: SMC parsing error on line 0
+L 10/15/2020 - 06:31:31:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/15/2020 - 06:31:31:   [1]  ERROR: Line contained too many invalid tokens
+L 10/15/2020 - 06:31:31: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/15/2020 - 06:31:31:   [0]  Reduce unnecessary clientprefs saving
+L 10/15/2020 - 06:31:31:   [1]  Prevent showing keys on free roam spectator mode
+L 10/15/2020 - 06:31:31: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/15/2020 - 06:31:31:   [0]  Development update - 8/19/2018
+L 10/15/2020 - 06:31:31:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/15/2020 - 10:31:20: SMC parsing error on line 0
+L 10/15/2020 - 10:31:20:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/15/2020 - 10:31:20:   [1]  ERROR: Line contained too many invalid tokens
+L 10/15/2020 - 10:31:20: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/15/2020 - 10:31:20:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/15/2020 - 10:31:22: SMC parsing error on line 0
+L 10/15/2020 - 10:31:22:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/15/2020 - 10:31:22:   [1]  ERROR: Line contained too many invalid tokens
+L 10/15/2020 - 10:31:22: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/15/2020 - 10:31:22:   [0]  Reduce unnecessary clientprefs saving
+L 10/15/2020 - 10:31:22:   [1]  Prevent showing keys on free roam spectator mode
+L 10/15/2020 - 10:31:22: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/15/2020 - 10:31:22:   [0]  Development update - 8/19/2018
+L 10/15/2020 - 10:31:22:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/15/2020 - 11:00:52: SMC parsing error on line 0
+L 10/15/2020 - 11:00:52:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/15/2020 - 11:00:52:   [1]  ERROR: Line contained too many invalid tokens
+L 10/15/2020 - 11:00:52: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/15/2020 - 11:00:52:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/15/2020 - 11:00:54: SMC parsing error on line 0
+L 10/15/2020 - 11:00:54:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/15/2020 - 11:00:54:   [1]  ERROR: Line contained too many invalid tokens
+L 10/15/2020 - 11:00:54: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/15/2020 - 11:00:54:   [0]  Reduce unnecessary clientprefs saving
+L 10/15/2020 - 11:00:54:   [1]  Prevent showing keys on free roam spectator mode
+L 10/15/2020 - 11:00:54: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/15/2020 - 11:00:54:   [0]  Development update - 8/19/2018
+L 10/15/2020 - 11:00:54:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/16/2020 - 06:31:05: SMC parsing error on line 0
+L 10/16/2020 - 06:31:05:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/16/2020 - 06:31:05:   [1]  ERROR: Line contained too many invalid tokens
+L 10/16/2020 - 06:31:06: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/16/2020 - 06:31:06:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/16/2020 - 06:31:07: SMC parsing error on line 0
+L 10/16/2020 - 06:31:07:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/16/2020 - 06:31:07:   [1]  ERROR: Line contained too many invalid tokens
+L 10/16/2020 - 06:31:07: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/16/2020 - 06:31:07:   [0]  Reduce unnecessary clientprefs saving
+L 10/16/2020 - 06:31:07:   [1]  Prevent showing keys on free roam spectator mode
+L 10/16/2020 - 06:31:07: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/16/2020 - 06:31:07:   [0]  Development update - 8/19/2018
+L 10/16/2020 - 06:31:07:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/17/2020 - 06:30:38: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/17/2020 - 06:30:38:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/17/2020 - 06:30:40: SMC parsing error on line 0
+L 10/17/2020 - 06:30:40:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/17/2020 - 06:30:40:   [1]  ERROR: Line contained too many invalid tokens
+L 10/17/2020 - 06:30:40: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/17/2020 - 06:30:40:   [0]  Reduce unnecessary clientprefs saving
+L 10/17/2020 - 06:30:40:   [1]  Prevent showing keys on free roam spectator mode
+L 10/17/2020 - 06:30:40: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/17/2020 - 06:30:40:   [0]  Development update - 8/19/2018
+L 10/17/2020 - 06:30:40:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/18/2020 - 06:30:39: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/18/2020 - 06:30:39:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/18/2020 - 06:30:41: SMC parsing error on line 0
+L 10/18/2020 - 06:30:41:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/18/2020 - 06:30:41:   [1]  ERROR: Line contained too many invalid tokens
+L 10/18/2020 - 06:30:41: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/18/2020 - 06:30:41:   [0]  Reduce unnecessary clientprefs saving
+L 10/18/2020 - 06:30:41:   [1]  Prevent showing keys on free roam spectator mode
+L 10/18/2020 - 06:30:41: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/18/2020 - 06:30:41:   [0]  Development update - 8/19/2018
+L 10/18/2020 - 06:30:41:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/19/2020 - 06:31:03: SMC parsing error on line 0
+L 10/19/2020 - 06:31:03:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/19/2020 - 06:31:03:   [1]  ERROR: Line contained too many invalid tokens
+L 10/19/2020 - 06:31:03: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/19/2020 - 06:31:03:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/19/2020 - 06:31:05: SMC parsing error on line 0
+L 10/19/2020 - 06:31:05:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/19/2020 - 06:31:05:   [1]  ERROR: Line contained too many invalid tokens
+L 10/19/2020 - 06:31:05: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/19/2020 - 06:31:05:   [0]  Reduce unnecessary clientprefs saving
+L 10/19/2020 - 06:31:05:   [1]  Prevent showing keys on free roam spectator mode
+L 10/19/2020 - 06:31:05: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/19/2020 - 06:31:05:   [0]  Development update - 8/19/2018
+L 10/19/2020 - 06:31:05:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 10/20/2020 - 06:30:55: SMC parsing error on line 0
+L 10/20/2020 - 06:30:55:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/20/2020 - 06:30:55:   [1]  ERROR: Line contained too many invalid tokens
+L 10/20/2020 - 06:30:55: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 10/20/2020 - 06:30:55:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 10/20/2020 - 06:30:57: SMC parsing error on line 0
+L 10/20/2020 - 06:30:57:   [0]  URL: http://www.tf2jump.com/plugins/syncr/updatefile.txt
+L 10/20/2020 - 06:30:57:   [1]  ERROR: Line contained too many invalid tokens
+L 10/20/2020 - 06:30:57: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 10/20/2020 - 06:30:57:   [0]  Reduce unnecessary clientprefs saving
+L 10/20/2020 - 06:30:57:   [1]  Prevent showing keys on free roam spectator mode
+L 10/20/2020 - 06:30:57: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 10/20/2020 - 06:30:57:   [0]  Development update - 8/19/2018
+L 10/20/2020 - 06:30:57:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)

@@ -1,0 +1,356 @@
+L 10/12/2020 - 06:30:40: Log file started (file "logs/L1012000.log") (game "/home/tf2server.jumpcomp/serverfiles/tf") (version "6135201")
+L 10/12/2020 - 06:30:40: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/12/2020 - 06:30:40: server_cvar: "tfh_fullmoon" "1"
+L 10/12/2020 - 06:30:40: server_cvar: "tfh_winter" "1"
+L 10/12/2020 - 06:30:40: server_cvar: "tfh_birthday" "1"
+L 10/12/2020 - 06:30:40: server_cvar: "tfh_endoftheline" "1"
+L 10/12/2020 - 06:30:40: server_cvar: "tfh_normalhealth" "1"
+L 10/12/2020 - 06:30:40: server_cvar: "mp_forceautoteam" "1"
+L 10/12/2020 - 06:30:40: Connection to Steam servers successful.
+L 10/12/2020 - 06:30:40:    Public IP is 104.192.224.18.
+L 10/12/2020 - 06:30:40: Assigned persistent gameserver Steam ID [G:1:3463046].
+L 10/12/2020 - 06:30:40: VAC secure mode is activated.
+L 10/12/2020 - 06:30:40: server_cvar: "mp_respawnwavetime" "0"
+L 10/12/2020 - 06:30:40: server_cvar: "sv_noclipspeed" "2.500000"
+L 10/12/2020 - 06:30:40: server_cvar: "tf_weapon_criticals" "0"
+L 10/12/2020 - 06:30:40: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 06:30:40: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 06:47:40: ".MEHEHE.<2><[U:1:163187543]><>" connected, address "78.98.85.218:27005"
+L 10/12/2020 - 06:47:40: ".MEHEHE.<2><[U:1:163187543]><>" STEAM USERID validated
+L 10/12/2020 - 06:47:47: "JumpBOT<3><BOT><>" connected, address "none"
+L 10/12/2020 - 06:47:47: "JumpBOT<3><BOT><>" entered the game
+L 10/12/2020 - 06:47:47: ".MEHEHE.<2><[U:1:163187543]><>" entered the game
+L 10/12/2020 - 06:47:49: ".MEHEHE.<2><[U:1:163187543]><Unassigned>" joined team "Red"
+L 10/12/2020 - 06:47:50: server_cvar: "tf_bot_count" "1"
+L 10/12/2020 - 06:47:50: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 06:47:50: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 06:47:50: ".MEHEHE.<2><[U:1:163187543]><Red>" changed role to "soldier"
+L 10/12/2020 - 06:47:50: "JumpBOT<3><BOT><Unassigned>" joined team "Red"
+L 10/12/2020 - 06:48:13: ".MEHEHE.<2><[U:1:163187543]><Red>" say_team "!menu"
+L 10/12/2020 - 06:48:19: ".MEHEHE.<2><[U:1:163187543]><Red>" say "!preview"
+L 10/12/2020 - 06:48:28: ".MEHEHE.<2><[U:1:163187543]><Red>" joined team "Blue"
+L 10/12/2020 - 06:48:55: ".MEHEHE.<2><[U:1:163187543]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 11:15:15: "demoknight tf2<4><[U:1:884091128]><>" connected, address "142.165.170.113:10337"
+L 10/12/2020 - 11:15:15: "demoknight tf2<4><[U:1:884091128]><>" STEAM USERID validated
+L 10/12/2020 - 11:15:30: "demoknight tf2<4><[U:1:884091128]><>" entered the game
+L 10/12/2020 - 11:15:36: "demoknight tf2<4><[U:1:884091128]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 11:15:38: "demoknight tf2<4><[U:1:884091128]><Blue>" changed role to "soldier"
+L 10/12/2020 - 11:19:56: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:19:57: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "Pogo Mini Course") (numcappers "1") (player1 "demoknight tf2<4><[U:1:884091128]><Blue>") (position1 "-4884 8662 1354") 
+L 10/12/2020 - 11:24:50: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "demoknight tf2<4><[U:1:884091128]><Blue>") (position1 "6871 1905 128") 
+L 10/12/2020 - 11:27:51: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "demoknight tf2<4><[U:1:884091128]><Blue>") (position1 "6117 -2604 455") 
+L 10/12/2020 - 11:28:58: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:29:00: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:31:41: "1337ammon<5><[U:1:197541994]><>" connected, address "68.107.139.53:27005"
+L 10/12/2020 - 11:31:41: "1337ammon<5><[U:1:197541994]><>" STEAM USERID validated
+L 10/12/2020 - 11:31:46: "1337ammon<5><[U:1:197541994]><>" entered the game
+L 10/12/2020 - 11:31:51: "1337ammon<5><[U:1:197541994]><Unassigned>" joined team "Red"
+L 10/12/2020 - 11:31:52: "1337ammon<5><[U:1:197541994]><Red>" changed role to "soldier"
+L 10/12/2020 - 11:32:00: "1337ammon<5><[U:1:197541994]><Red>" joined team "Blue"
+L 10/12/2020 - 11:32:56: "1337ammon<5><[U:1:197541994]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 11:36:01: "Kona is scary<6><[U:1:836150693]><>" connected, address "24.72.97.17:27005"
+L 10/12/2020 - 11:36:01: "Kona is scary<6><[U:1:836150693]><>" STEAM USERID validated
+L 10/12/2020 - 11:36:27: "Kona is scary<6><[U:1:836150693]><>" entered the game
+L 10/12/2020 - 11:36:31: "Kona is scary<6><[U:1:836150693]><Unassigned>" joined team "Red"
+L 10/12/2020 - 11:36:32: "Kona is scary<6><[U:1:836150693]><Red>" changed role to "soldier"
+L 10/12/2020 - 11:36:35: "Kona is scary<6><[U:1:836150693]><Red>" joined team "Blue"
+L 10/12/2020 - 11:36:38: "demoknight tf2<4><[U:1:884091128]><Blue>" committed suicide with "world" (attacker_position "-8080 3858 -5181")
+L 10/12/2020 - 11:38:32: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:38:34: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:39:52: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:40:11: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:40:14: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:40:35: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:40:36: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:40:49: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:40:51: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "Pogo Mini Course") (numcappers "1") (player1 "Kona is scary<6><[U:1:836150693]><Blue>") (position1 "-4886 8704 1374") 
+L 10/12/2020 - 11:40:51: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:40:52: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:40:53: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:41:23: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:41:24: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:41:47: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:41:50: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:42:24: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:42:26: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:42:27: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:43:37: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:43:40: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:43:42: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:43:52: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:44:24: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:44:31: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:44:35: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:44:37: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:44:53: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:44:58: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:45:01: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:45:02: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:45:05: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:45:10: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:46:23: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:46:30: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Kona is scary<6><[U:1:836150693]><Blue>") (position1 "7030 1773 261") 
+L 10/12/2020 - 11:46:31: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:46:32: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:46:32: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:46:42: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:46:48: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:46:59: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:47:03: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:49:46: "Kona is scary<6><[U:1:836150693]><Blue>" say_team "!noclipme"
+L 10/12/2020 - 11:49:54: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "Kona is scary<6><[U:1:836150693]><Blue>") (position1 "6107 -2607 394") 
+L 10/12/2020 - 11:49:58: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:49:59: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:49:59: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:50:09: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:50:16: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:50:21: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:50:22: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:51:01: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:51:06: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:51:39: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:51:42: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:52:00: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:52:07: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:52:38: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:52:39: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:53:11: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:53:27: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:53:29: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:53:57: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:54:04: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:54:07: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:54:08: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:54:09: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:54:14: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:54:46: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:54:50: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:54:54: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:54:55: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:54:58: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:55:01: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:55:09: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:55:11: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:55:15: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:55:16: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:55:27: "Multi<7><[U:1:1061305282]><>" connected, address "108.18.194.157:27005"
+L 10/12/2020 - 11:55:28: "Multi<7><[U:1:1061305282]><>" STEAM USERID validated
+L 10/12/2020 - 11:55:35: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Advanced Course") (numcappers "1") (player1 "Kona is scary<6><[U:1:836150693]><Blue>") (position1 "5806 -8460 -4110") 
+L 10/12/2020 - 11:55:35: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:55:36: "Multi<7><[U:1:1061305282]><>" entered the game
+L 10/12/2020 - 11:55:37: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:55:37: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:55:39: "Multi<7><[U:1:1061305282]><Unassigned>" joined team "Red"
+L 10/12/2020 - 11:55:40: "Multi<7><[U:1:1061305282]><Red>" changed role to "soldier"
+L 10/12/2020 - 11:55:47: "Multi<7><[U:1:1061305282]><Red>" joined team "Blue"
+L 10/12/2020 - 11:55:51: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!goto"
+L 10/12/2020 - 11:56:01: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:56:01: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:56:15: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 11:58:17: "Tio Kard<8><[U:1:947571427]><>" connected, address "174.101.85.69:27005"
+L 10/12/2020 - 11:58:17: "Tio Kard<8><[U:1:947571427]><>" STEAM USERID validated
+L 10/12/2020 - 11:58:42: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Multi<7><[U:1:1061305282]><Blue>") (position1 "6888 1767 169") 
+L 10/12/2020 - 11:58:52: "Tio Kard<8><[U:1:947571427]><>" entered the game
+L 10/12/2020 - 11:59:17: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 12:00:01: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "Multi<7><[U:1:1061305282]><Blue>") (position1 "6102 -2604 535") 
+L 10/12/2020 - 12:00:41: "Tio Kard<8><[U:1:947571427]><Unassigned>" joined team "Red"
+L 10/12/2020 - 12:00:52: "|RAW| MrSoggo | tf2core<9><[U:1:310668037]><>" connected, address "174.84.46.122:27005"
+L 10/12/2020 - 12:00:52: "|RAW| MrSoggo | tf2core<9><[U:1:310668037]><>" STEAM USERID validated
+L 10/12/2020 - 12:00:55: "Tio Kard<8><[U:1:947571427]><Red>" changed role to "soldier"
+L 10/12/2020 - 12:01:02: "Tio Kard<8><[U:1:947571427]><Red>" joined team "Blue"
+L 10/12/2020 - 12:02:11: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 12:02:27: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 12:02:28: "demoknight tf2<4><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 12:02:32: "Kona is scary<6><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 12:02:36: "Multi<7><[U:1:1061305282]><Blue>" say "!no"
+L 10/12/2020 - 12:03:08: "Kona is scary<6><[U:1:836150693]><Blue>" say "!goto"
+L 10/12/2020 - 12:03:26: "|RAW| MrSoggo | tf2core<9><[U:1:310668037]><>" entered the game
+L 10/12/2020 - 12:03:29: "Kona is scary<6><[U:1:836150693]><Blue>" say "!goto"
+L 10/12/2020 - 12:03:33: "|RAW| MrSoggo | tf2core<9><[U:1:310668037]><Unassigned>" joined team "Red"
+L 10/12/2020 - 12:03:36: "|RAW| MrSoggo | tf2core<9><[U:1:310668037]><Red>" changed role to "soldier"
+L 10/12/2020 - 12:03:40: "|RAW| MrSoggo | tf2core<9><[U:1:310668037]><Red>" say "!r"
+L 10/12/2020 - 12:03:47: "|RAW| MrSoggo | tf2core<9><[U:1:310668037]><Red>" joined team "Blue"
+L 10/12/2020 - 12:06:53: "Mommy's Laxitives<10><[U:1:876723453]><>" connected, address "72.194.71.209:27005"
+L 10/12/2020 - 12:06:53: "Mommy's Laxitives<10><[U:1:876723453]><>" STEAM USERID validated
+L 10/12/2020 - 12:07:01: "Kona is scary<6><[U:1:836150693]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 12:07:22: "Mommy's Laxitives<10><[U:1:876723453]><>" entered the game
+L 10/12/2020 - 12:07:42: "Mommy's Laxitives<10><[U:1:876723453]><Unassigned>" joined team "Red"
+L 10/12/2020 - 12:07:43: "Mommy's Laxitives<10><[U:1:876723453]><Red>" changed role to "demoman"
+L 10/12/2020 - 12:08:02: "Mommy's Laxitives<10><[U:1:876723453]><Red>" joined team "Blue"
+L 10/12/2020 - 12:08:27: "Tio Kard<8><[U:1:947571427]><Blue>" committed suicide with "world" (attacker_position "6199 3683 128")
+L 10/12/2020 - 12:08:57: "Multi<7><[U:1:1061305282]><Blue>" say "!s"
+L 10/12/2020 - 12:08:58: "Multi<7><[U:1:1061305282]><Blue>" committed suicide with "world" (attacker_position "6300 3549 128")
+L 10/12/2020 - 12:09:29: "demoknight tf2<4><[U:1:884091128]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 12:09:41: "Tio Kard<8><[U:1:947571427]><Blue>" say "!s"
+L 10/12/2020 - 12:10:03: "Multi<7><[U:1:1061305282]><Blue>" say "!s"
+L 10/12/2020 - 12:10:03: "Multi<7><[U:1:1061305282]><Blue>" committed suicide with "world" (attacker_position "3853 1527 278")
+L 10/12/2020 - 12:10:08: "Tio Kard<8><[U:1:947571427]><Blue>" say "!s"
+L 10/12/2020 - 12:10:39: "Tio Kard<8><[U:1:947571427]><Blue>" changed role to "demoman"
+L 10/12/2020 - 12:11:51: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Advanced Course") (numcappers "1") (player1 "Mommy's Laxitives<10><[U:1:876723453]><Blue>") (position1 "5814 -8713 -2938") 
+L 10/12/2020 - 12:11:51: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "|RAW| MrSoggo | tf2core<9><[U:1:310668037]><Blue>") (position1 "6872 1887 128") 
+L 10/12/2020 - 12:12:51: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "|RAW| MrSoggo | tf2core<9><[U:1:310668037]><Blue>") (position1 "6104 -2600 395") 
+L 10/12/2020 - 12:13:03: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Tio Kard<8><[U:1:947571427]><Blue>") (position1 "7444 1772 740") 
+L 10/12/2020 - 12:13:43: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "Tio Kard<8><[U:1:947571427]><Blue>") (position1 "6093 -2702 639") 
+L 10/12/2020 - 12:14:55: "Tio Kard<8><[U:1:947571427]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 12:15:25: "Multi<7><[U:1:1061305282]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 12:15:39: "|RAW| MrSoggo | tf2core<9><[U:1:310668037]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 12:15:44: "Mommy's Laxitives<10><[U:1:876723453]><Blue>" say "!s"
+L 10/12/2020 - 12:15:57: "Mommy's Laxitives<10><[U:1:876723453]><Blue>" joined team "Spectator"
+L 10/12/2020 - 12:19:20: "Mommy's Laxitives<10><[U:1:876723453]><Spectator>" joined team "Red"
+L 10/12/2020 - 12:19:23: "Mommy's Laxitives<10><[U:1:876723453]><Red>" joined team "Blue"
+L 10/12/2020 - 12:22:04: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Advanced Course") (numcappers "1") (player1 "Mommy's Laxitives<10><[U:1:876723453]><Blue>") (position1 "6199 -8402 -4243") 
+L 10/12/2020 - 12:32:38: "Mommy's Laxitives<10><[U:1:876723453]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 14:24:58: "Anorexic Toaster<11><[U:1:1051288144]><>" connected, address "73.59.38.47:27005"
+L 10/12/2020 - 14:24:58: "Anorexic Toaster<11><[U:1:1051288144]><>" STEAM USERID validated
+L 10/12/2020 - 14:25:11: "Anorexic Toaster<11><[U:1:1051288144]><>" entered the game
+L 10/12/2020 - 14:26:21: "Anorexic Toaster<11><[U:1:1051288144]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 14:26:22: "Anorexic Toaster<11><[U:1:1051288144]><Blue>" changed role to "soldier"
+L 10/12/2020 - 14:35:25: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Anorexic Toaster<11><[U:1:1051288144]><Blue>") (position1 "6891 1773 107") 
+L 10/12/2020 - 14:36:34: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "Anorexic Toaster<11><[U:1:1051288144]><Blue>") (position1 "6075 -2600 424") 
+L 10/12/2020 - 14:39:01: "Anorexic Toaster<11><[U:1:1051288144]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 16:35:20: "Lgee<12><[U:1:175153717]><>" connected, address "190.250.65.114:19468"
+L 10/12/2020 - 16:35:20: "Lgee<12><[U:1:175153717]><>" STEAM USERID validated
+L 10/12/2020 - 16:35:43: "Lgee<12><[U:1:175153717]><>" entered the game
+L 10/12/2020 - 16:35:47: "Lgee<12><[U:1:175153717]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 16:35:51: "Lgee<12><[U:1:175153717]><Blue>" changed role to "soldier"
+L 10/12/2020 - 16:44:28: "Lgee<12><[U:1:175153717]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 18:58:06: "mr.manm<13><[U:1:161911681]><>" connected, address "72.219.185.233:27005"
+L 10/12/2020 - 18:58:06: "mr.manm<13><[U:1:161911681]><>" STEAM USERID validated
+L 10/12/2020 - 18:58:13: "mr.manm<13><[U:1:161911681]><>" entered the game
+L 10/12/2020 - 18:58:15: "mr.manm<13><[U:1:161911681]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 18:58:16: "mr.manm<13><[U:1:161911681]><Blue>" changed role to "soldier"
+L 10/12/2020 - 18:58:18: "mr.manm<13><[U:1:161911681]><Blue>" joined team "Red"
+L 10/12/2020 - 18:58:21: "mr.manm<13><[U:1:161911681]><Red>" joined team "Blue"
+L 10/12/2020 - 19:03:05: "JumpBOT<3><BOT><Red>" joined team "Blue"
+L 10/12/2020 - 19:03:05: "mr.manm<13><[U:1:161911681]><Blue>" joined team "Spectator"
+L 10/12/2020 - 19:03:11: "mr.manm<13><[U:1:161911681]><Spectator>" joined team "Blue"
+L 10/12/2020 - 19:05:01: "demoknight tf2<14><[U:1:884091128]><>" connected, address "142.165.170.113:10095"
+L 10/12/2020 - 19:05:01: "demoknight tf2<14><[U:1:884091128]><>" STEAM USERID validated
+L 10/12/2020 - 19:05:10: "mr.manm<13><[U:1:161911681]><Blue>" joined team "Spectator"
+L 10/12/2020 - 19:05:17: "demoknight tf2<14><[U:1:884091128]><>" entered the game
+L 10/12/2020 - 19:05:18: "mr.manm<13><[U:1:161911681]><Spectator>" joined team "Blue"
+L 10/12/2020 - 19:05:24: "demoknight tf2<14><[U:1:884091128]><Unassigned>" joined team "Red"
+L 10/12/2020 - 19:05:26: "demoknight tf2<14><[U:1:884091128]><Red>" changed role to "soldier"
+L 10/12/2020 - 19:05:32: "demoknight tf2<14><[U:1:884091128]><Red>" joined team "Blue"
+L 10/12/2020 - 19:06:15: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "mr.manm<13><[U:1:161911681]><Blue>") (position1 "7030 1771 227") 
+L 10/12/2020 - 19:06:37: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "mr.manm<13><[U:1:161911681]><Blue>") (position1 "6074 -2607 426") 
+L 10/12/2020 - 19:06:41: "Kona is scary<15><[U:1:836150693]><>" connected, address "24.72.97.17:27005"
+L 10/12/2020 - 19:06:41: "Kona is scary<15><[U:1:836150693]><>" STEAM USERID validated
+L 10/12/2020 - 19:06:50: STEAMAUTH: Client Kona is scary received failure code 6
+L 10/12/2020 - 19:06:50: "Kona is scary<15><[U:1:836150693]><>" disconnected (reason "Client left game (Steam auth ticket has been canceled)")
+L 10/12/2020 - 19:06:50: "muffin (but spooky)<16><[U:1:907316349]><>" connected, address "24.72.107.107:27005"
+L 10/12/2020 - 19:06:50: "muffin (but spooky)<16><[U:1:907316349]><>" STEAM USERID validated
+L 10/12/2020 - 19:07:06: "muffin (but spooky)<16><[U:1:907316349]><>" entered the game
+L 10/12/2020 - 19:07:14: "demoknight tf2<14><[U:1:884091128]><Blue>" committed suicide with "world" (attacker_position "8582 3997 112")
+L 10/12/2020 - 19:07:17: "muffin (but spooky)<16><[U:1:907316349]><Unassigned>" joined team "Red"
+L 10/12/2020 - 19:07:20: "muffin (but spooky)<16><[U:1:907316349]><Red>" changed role to "soldier"
+L 10/12/2020 - 19:07:37: "muffin (but spooky)<16><[U:1:907316349]><Red>" joined team "Blue"
+L 10/12/2020 - 19:07:44: "Kona is scary<17><[U:1:836150693]><>" connected, address "24.72.97.17:27005"
+L 10/12/2020 - 19:07:44: "Kona is scary<17><[U:1:836150693]><>" STEAM USERID validated
+L 10/12/2020 - 19:07:59: "Kona is scary<17><[U:1:836150693]><>" entered the game
+L 10/12/2020 - 19:08:22: "Kona is scary<17><[U:1:836150693]><Unassigned>" joined team "Red"
+L 10/12/2020 - 19:08:23: "Kona is scary<17><[U:1:836150693]><Red>" changed role to "spy"
+L 10/12/2020 - 19:08:25: "Kona is scary<17><[U:1:836150693]><Red>" joined team "Blue"
+L 10/12/2020 - 19:08:43: "Kona is scary<17><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 19:08:45: "Kona is scary<17><[U:1:836150693]><Blue>" changed role to "scout"
+L 10/12/2020 - 19:08:47: "Kona is scary<17><[U:1:836150693]><Blue>" changed role to "engineer"
+L 10/12/2020 - 19:08:58: "Kona is scary<17><[U:1:836150693]><Blue>" changed role to "scout"
+L 10/12/2020 - 19:09:05: "Kona is scary<17><[U:1:836150693]><Blue>" committed suicide with "world" (attacker_position "2269 6417 -15")
+L 10/12/2020 - 19:09:18: "Kona is scary<17><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 19:09:33: "Kona is scary<17><[U:1:836150693]><Blue>" say "!noclipme"
+L 10/12/2020 - 19:13:07: "muffin (but spooky)<16><[U:1:907316349]><Blue>" changed role to "demoman"
+L 10/12/2020 - 19:13:22: "mr.manm<13><[U:1:161911681]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 19:14:02: "demoknight tf2<14><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 19:14:03: "demoknight tf2<14><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/12/2020 - 19:14:47: "Kona is scary<17><[U:1:836150693]><Blue>" say "!goto"
+L 10/12/2020 - 19:15:28: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Kona is scary<17><[U:1:836150693]><Blue>") (position1 "7138 1765 403") 
+L 10/12/2020 - 19:16:10: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "muffin (but spooky)<16><[U:1:907316349]><Blue>") (position1 "7143 1763 697") 
+L 10/12/2020 - 19:16:33: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "demoknight tf2<14><[U:1:884091128]><Blue>") (position1 "6877 1766 105") 
+L 10/12/2020 - 19:16:51: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "Kona is scary<17><[U:1:836150693]><Blue>") (position1 "6055 -2600 424") 
+L 10/12/2020 - 19:17:04: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "muffin (but spooky)<16><[U:1:907316349]><Blue>") (position1 "6032 -2600 620") 
+L 10/12/2020 - 19:17:17: "Kona is scary<17><[U:1:836150693]><Blue>" changed role to "demoman"
+L 10/12/2020 - 19:17:20: "Kona is scary<17><[U:1:836150693]><Blue>" say "!goto"
+L 10/12/2020 - 19:17:57: "Kona is scary<17><[U:1:836150693]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "-5091 2498 -5077")
+L 10/12/2020 - 19:18:23: "Kona is scary<17><[U:1:836150693]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "-12001 5123 -4996")
+L 10/12/2020 - 19:18:37: "muffin (but spooky)<16><[U:1:907316349]><Blue>" joined team "Spectator"
+L 10/12/2020 - 19:18:51: "Kona is scary<17><[U:1:836150693]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "-7986 4149 -5140")
+L 10/12/2020 - 19:18:58: "muffin (but spooky)<16><[U:1:907316349]><Spectator>" joined team "Blue"
+L 10/12/2020 - 19:19:16: "muffin (but spooky)<16><[U:1:907316349]><Blue>" changed role to "scout"
+L 10/12/2020 - 19:19:43: "Kona is scary<17><[U:1:836150693]><Blue>" changed role to "scout"
+L 10/12/2020 - 19:19:47: "muffin (but spooky)<16><[U:1:907316349]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 19:20:16: "Kona is scary<17><[U:1:836150693]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 19:22:22: "demoknight tf2<14><[U:1:884091128]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 20:13:24: "Barggo<18><[U:1:383763428]><>" connected, address "172.221.174.187:27005"
+L 10/12/2020 - 20:13:24: "Barggo<18><[U:1:383763428]><>" STEAM USERID validated
+L 10/12/2020 - 20:13:26: "Barggo<18><[U:1:383763428]><>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 20:13:26: "JumpBOT<3><BOT><Blue>" disconnected (reason "Server is empty")
+L 10/12/2020 - 20:13:29: "Barggo<19><[U:1:383763428]><>" connected, address "172.221.174.187:27005"
+L 10/12/2020 - 20:13:30: "Barggo<19><[U:1:383763428]><>" STEAM USERID validated
+L 10/12/2020 - 20:13:30: server_cvar: "tf_bot_count" "0"
+L 10/12/2020 - 20:13:30: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 20:13:30: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 20:14:01: "JumpBOT<20><BOT><>" connected, address "none"
+L 10/12/2020 - 20:14:01: "JumpBOT<20><BOT><>" entered the game
+L 10/12/2020 - 20:14:01: "Barggo<19><[U:1:383763428]><>" entered the game
+L 10/12/2020 - 20:14:04: "Barggo<19><[U:1:383763428]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 20:14:05: "Barggo<19><[U:1:383763428]><Blue>" changed role to "soldier"
+L 10/12/2020 - 20:14:05: "JumpBOT<20><BOT><Unassigned>" joined team "Blue"
+L 10/12/2020 - 20:14:05: server_cvar: "tf_bot_count" "1"
+L 10/12/2020 - 20:14:05: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 20:14:05: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 20:16:15: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Barggo<19><[U:1:383763428]><Blue>") (position1 "7203 1775 635") 
+L 10/12/2020 - 20:16:54: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "Barggo<19><[U:1:383763428]><Blue>") (position1 "6128 -2601 534") 
+L 10/12/2020 - 20:20:59: "Barggo<19><[U:1:383763428]><Blue>" say_team "!tp"
+L 10/12/2020 - 20:21:31: "Barggo<19><[U:1:383763428]><Blue>" say_team "!fp"
+L 10/12/2020 - 20:23:03: "Barggo<19><[U:1:383763428]><Blue>" say_team "!skip"
+L 10/12/2020 - 20:23:04: "Barggo<19><[U:1:383763428]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 20:38:07: "Chaiwie w<21><[U:1:157297859]><>" connected, address "71.11.74.228:27005"
+L 10/12/2020 - 20:38:07: "Chaiwie w<21><[U:1:157297859]><>" STEAM USERID validated
+L 10/12/2020 - 20:38:16: "Chaiwie w<21><[U:1:157297859]><>" entered the game
+L 10/12/2020 - 20:38:31: "Chaiwie w<21><[U:1:157297859]><Unassigned>" joined team "Red"
+L 10/12/2020 - 20:38:31: "Chaiwie w<21><[U:1:157297859]><Red>" changed role to "heavyweapons"
+L 10/12/2020 - 20:38:35: "Chaiwie w<21><[U:1:157297859]><Red>" changed role to "soldier"
+L 10/12/2020 - 20:38:51: "Chaiwie w<21><[U:1:157297859]><Red>" joined team "Blue"
+L 10/12/2020 - 20:39:01: "Mason<22><[U:1:300051897]><>" connected, address "72.207.230.218:27005"
+L 10/12/2020 - 20:39:01: "Mason<22><[U:1:300051897]><>" STEAM USERID validated
+L 10/12/2020 - 20:39:07: "Mason<22><[U:1:300051897]><>" entered the game
+L 10/12/2020 - 20:39:11: "Mason<22><[U:1:300051897]><Unassigned>" joined team "Red"
+L 10/12/2020 - 20:39:14: "Mason<22><[U:1:300051897]><Red>" changed role to "soldier"
+L 10/12/2020 - 20:39:34: "Mason<22><[U:1:300051897]><Red>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 20:43:41: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Chaiwie w<21><[U:1:157297859]><Blue>") (position1 "7276 1763 444") 
+L 10/12/2020 - 20:43:47: "escuarol :v<23><[U:1:367385978]><>" connected, address "201.184.93.204:6584"
+L 10/12/2020 - 20:43:47: "escuarol :v<23><[U:1:367385978]><>" STEAM USERID validated
+L 10/12/2020 - 20:44:58: "escuarol :v<23><[U:1:367385978]><>" entered the game
+L 10/12/2020 - 20:45:03: "escuarol :v<23><[U:1:367385978]><Unassigned>" joined team "Red"
+L 10/12/2020 - 20:45:05: "escuarol :v<23><[U:1:367385978]><Red>" changed role to "soldier"
+L 10/12/2020 - 20:45:24: "escuarol :v<23><[U:1:367385978]><Red>" joined team "Blue"
+L 10/12/2020 - 20:45:47: "escuarol :v<23><[U:1:367385978]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 20:50:04: "Mason<24><[U:1:300051897]><>" connected, address "72.207.230.218:27005"
+L 10/12/2020 - 20:50:04: "Mason<24><[U:1:300051897]><>" STEAM USERID validated
+L 10/12/2020 - 20:50:13: "Mason<24><[U:1:300051897]><>" entered the game
+L 10/12/2020 - 20:50:18: "Mason<24><[U:1:300051897]><Unassigned>" joined team "Red"
+L 10/12/2020 - 20:50:24: "Mason<24><[U:1:300051897]><Red>" changed role to "soldier"
+L 10/12/2020 - 20:50:28: "Chaiwie w<21><[U:1:157297859]><Blue>" committed suicide with "world" (attacker_position "9548 -901 124")
+L 10/12/2020 - 20:51:15: "Mason<24><[U:1:300051897]><Red>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 20:52:31: "Mason<25><[U:1:300051897]><>" connected, address "72.207.230.218:27005"
+L 10/12/2020 - 20:52:31: "Mason<25><[U:1:300051897]><>" STEAM USERID validated
+L 10/12/2020 - 20:52:40: "Mason<25><[U:1:300051897]><>" entered the game
+L 10/12/2020 - 20:52:44: "Mason<25><[U:1:300051897]><Unassigned>" joined team "Red"
+L 10/12/2020 - 20:52:47: "Mason<25><[U:1:300051897]><Red>" changed role to "soldier"
+L 10/12/2020 - 20:53:02: "Mason<25><[U:1:300051897]><Red>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 20:57:18: "Chaiwie w<21><[U:1:157297859]><Blue>" changed role to "demoman"
+L 10/12/2020 - 21:01:34: "Chaiwie w<21><[U:1:157297859]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 21:16:17: "Cheddar Cheesus<26><[U:1:204267421]><>" connected, address "99.88.46.22:27005"
+L 10/12/2020 - 21:16:17: "Cheddar Cheesus<26><[U:1:204267421]><>" STEAM USERID validated
+L 10/12/2020 - 21:16:30: "Cheddar Cheesus<26><[U:1:204267421]><>" entered the game
+L 10/12/2020 - 21:16:38: "Cheddar Cheesus<26><[U:1:204267421]><Unassigned>" joined team "Red"
+L 10/12/2020 - 21:16:40: "Cheddar Cheesus<26><[U:1:204267421]><Red>" changed role to "soldier"
+L 10/12/2020 - 21:16:57: "Cheddar Cheesus<26><[U:1:204267421]><Red>" joined team "Blue"
+L 10/12/2020 - 21:27:39: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Cheddar Cheesus<26><[U:1:204267421]><Blue>") (position1 "6999 1777 209") 
+L 10/12/2020 - 21:30:06: "Cheddar Cheesus<26><[U:1:204267421]><Blue>" joined team "Spectator"
+L 10/12/2020 - 21:30:13: "Cheddar Cheesus<26><[U:1:204267421]><Spectator>" joined team "Blue"
+L 10/12/2020 - 21:49:22: "Cheddar Cheesus<26><[U:1:204267421]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/13/2020 - 06:30:11: [META] Loaded 0 plugins (1 already loaded)
+L 10/13/2020 - 06:30:11: "JumpBOT<20><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: server_message: "quit"
+L 10/13/2020 - 06:30:11: Log file closed.

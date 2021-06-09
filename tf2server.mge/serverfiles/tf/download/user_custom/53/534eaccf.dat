@@ -1,0 +1,28 @@
+"Resource/UI/LobbyContainerFrame.res"
+{
+	"LobbyContainerFrame"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"LobbyContainerFrame"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f0"
+		"tall"			"480"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"settitlebarvisible"	"1"
+		"PaintBackgroundType"	"0"
+		"bgcolor_override"				"46 43 42 0"
+		"infocus_bgcolor_override"		"46 43 42 0"
+		"outoffocus_bgcolor_override"	"46 43 42 0"
+		
+		"title"			"#CharInfoAndSetup"
+		"title_font"	"HudFontMediumBold"
+		"titletextinsetX"	"40"
+		"titletextinsetY"	"0"
+		"titlebarfgcolor_override"				"200 187 161 255"
+		"titlebardisabledfgcolor_override"		"200 187 161 255"
+		"titlebarbgcolor_overrid

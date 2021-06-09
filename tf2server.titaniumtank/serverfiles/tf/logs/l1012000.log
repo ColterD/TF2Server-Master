@@ -1,0 +1,123 @@
+L 10/12/2020 - 06:30:41: Log file started (file "logs/L1012000.log") (game "/home/tf2server.titaniumtank/serverfiles/tf") (version "6135201")
+L 10/12/2020 - 06:30:41: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/12/2020 - 06:30:41: server_cvar: "tfh_fullmoon" "1"
+L 10/12/2020 - 06:30:41: server_cvar: "tfh_winter" "1"
+L 10/12/2020 - 06:30:41: server_cvar: "tfh_birthday" "1"
+L 10/12/2020 - 06:30:41: server_cvar: "tfh_endoftheline" "1"
+L 10/12/2020 - 06:30:41: server_cvar: "tfh_normalhealth" "1"
+L 10/12/2020 - 06:30:41: server_cvar: "mp_tournament_readymode" "1"
+L 10/12/2020 - 06:30:41: server_cvar: "tf_mvm_min_players_to_start" "2"
+L 10/12/2020 - 06:30:41: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,mvm,pancakes,pancakestf,perks,potato,tank,tita"
+L 10/12/2020 - 06:30:41: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,mvm,pancakes,pancakestf,perks,potato,tank,tita"
+L 10/12/2020 - 06:30:41: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/12/2020 - 06:30:41: Connection to Steam servers successful.
+L 10/12/2020 - 06:30:41:    Public IP is 104.192.224.18.
+L 10/12/2020 - 06:30:41: Assigned persistent gameserver Steam ID [G:1:3464856].
+L 10/12/2020 - 06:30:41: VAC secure mode is activated.
+L 10/12/2020 - 08:45:10: "Fizik<2><[U:1:105282358]><>" connected, address "46.196.86.141:36851"
+L 10/12/2020 - 08:45:10: "Fizik<2><[U:1:105282358]><>" STEAM USERID validated
+L 10/12/2020 - 08:46:18: "Fizik<2><[U:1:105282358]><>" entered the game
+L 10/12/2020 - 08:46:26: MVM assigned Fizik to defending team (5 more slots remaining after us)
+L 10/12/2020 - 08:46:26: MVM assigned Fizik to defending team (5 more slots remaining after us)
+L 10/12/2020 - 08:46:26: "Fizik<2><[U:1:105282358]><Unassigned>" joined team "Red"
+L 10/12/2020 - 08:46:28: "Fizik<2><[U:1:105282358]><Red>" changed role to "demoman"
+L 10/12/2020 - 08:46:28: "TFBot<3><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<3><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<3><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(1)TFBot<4><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<4><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<4><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(2)TFBot<5><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<5><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<5><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(3)TFBot<6><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<6><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<6><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(4)TFBot<7><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<7><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<7><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(5)TFBot<8><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<8><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<8><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(6)TFBot<9><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<9><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<9><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(7)TFBot<10><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<10><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<10><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(8)TFBot<11><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<11><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<11><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(9)TFBot<12><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<12><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<12><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(10)TFBot<13><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<13><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<13><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(11)TFBot<14><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<14><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<14><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(12)TFBot<15><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<15><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<15><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(13)TFBot<16><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<16><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<16><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(14)TFBot<17><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<17><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<17><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(15)TFBot<18><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<18><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<18><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(16)TFBot<19><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<19><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<19><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(17)TFBot<20><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<20><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<20><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(18)TFBot<21><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<21><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<21><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(19)TFBot<22><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<22><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<22><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(20)TFBot<23><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<23><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<23><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: "(21)TFBot<24><BOT><>" connected, address "none"
+L 10/12/2020 - 08:46:28: "<24><BOT><>" entered the game
+L 10/12/2020 - 08:46:28: "TFBot<24><BOT><Unassigned>" joined team "Spectator"
+L 10/12/2020 - 08:46:28: server_cvar: "mp_tournament" "1"
+L 10/12/2020 - 08:46:30: server_cvar: "tf_bot_count" "22"
+L 10/12/2020 - 08:47:12: "Fizik<2><[U:1:105282358]><Red>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "651 -991 30")
+L 10/12/2020 - 08:47:15: "Fizik<2><[U:1:105282358]><Red>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 08:47:15: MVM assigned Fizik to defending team (4 more slots remaining after us)
+L 10/12/2020 - 14:41:16: "gibus :3<25><[U:1:1058073376]><>" connected, address "97.90.147.89:27005"
+L 10/12/2020 - 14:41:17: "gibus :3<25><[U:1:1058073376]><>" STEAM USERID validated
+L 10/12/2020 - 14:41:38: "gibus :3<25><[U:1:1058073376]><>" disconnected (reason "Map is missing")
+L 10/13/2020 - 06:30:11: server_cvar: "mp_tournament" "0"
+L 10/13/2020 - 06:30:11: [META] Loaded 0 plugins (1 already loaded)
+L 10/13/2020 - 06:30:11: "(21)TFBot<24><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(20)TFBot<23><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(19)TFBot<22><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(18)TFBot<21><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(17)TFBot<20><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(16)TFBot<19><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(15)TFBot<18><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(14)TFBot<17><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(13)TFBot<16><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(12)TFBot<15><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(11)TFBot<14><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(10)TFBot<13><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(9)TFBot<12><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(8)TFBot<11><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(7)TFBot<10><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(6)TFBot<9><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(5)TFBot<8><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(4)TFBot<7><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(3)TFBot<6><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(2)TFBot<5><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "(1)TFBot<4><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: "TFBot<3><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: server_message: "quit"
+L 10/13/2020 - 06:30:11: Log file closed.

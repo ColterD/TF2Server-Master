@@ -1,0 +1,80 @@
+L 10/15/2020 - 06:30:44: Log file started (file "logs/L1015000.log") (game "/home/tf2server.jump/serverfiles/tf") (version "6135201")
+L 10/15/2020 - 06:30:44: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/15/2020 - 06:30:44: server_cvar: "tfh_fullmoon" "1"
+L 10/15/2020 - 06:30:44: server_cvar: "tfh_winter" "1"
+L 10/15/2020 - 06:30:44: server_cvar: "tfh_birthday" "1"
+L 10/15/2020 - 06:30:44: server_cvar: "tfh_endoftheline" "1"
+L 10/15/2020 - 06:30:44: server_cvar: "tfh_normalhealth" "1"
+L 10/15/2020 - 06:30:44: server_cvar: "mp_forceautoteam" "1"
+L 10/15/2020 - 06:30:44: Connection to Steam servers successful.
+L 10/15/2020 - 06:30:44:    Public IP is 104.192.224.18.
+L 10/15/2020 - 06:30:44: Assigned persistent gameserver Steam ID [G:1:3240612].
+L 10/15/2020 - 06:30:44: VAC secure mode is activated.
+L 10/15/2020 - 06:30:44: server_cvar: "mp_respawnwavetime" "0"
+L 10/15/2020 - 06:30:44: server_cvar: "sv_noclipspeed" "2.500000"
+L 10/15/2020 - 06:30:44: server_cvar: "tf_weapon_criticals" "0"
+L 10/15/2020 - 06:30:44: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/15/2020 - 06:30:44: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/15/2020 - 06:46:40: "La'Kisha<2><[U:1:1108971677]><>" connected, address "73.157.185.219:27005"
+L 10/15/2020 - 06:46:40: "La'Kisha<2><[U:1:1108971677]><>" STEAM USERID validated
+L 10/15/2020 - 06:46:56: "JumpBOT<3><BOT><>" connected, address "none"
+L 10/15/2020 - 06:46:56: "JumpBOT<3><BOT><>" entered the game
+L 10/15/2020 - 06:46:56: "La'Kisha<2><[U:1:1108971677]><>" entered the game
+L 10/15/2020 - 06:47:00: server_cvar: "tf_bot_count" "1"
+L 10/15/2020 - 06:47:00: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/15/2020 - 06:47:00: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/15/2020 - 06:47:01: "La'Kisha<2><[U:1:1108971677]><Unassigned>" joined team "Blue"
+L 10/15/2020 - 06:47:03: "La'Kisha<2><[U:1:1108971677]><Blue>" changed role to "soldier"
+L 10/15/2020 - 06:47:03: "JumpBOT<3><BOT><Unassigned>" joined team "Blue"
+L 10/15/2020 - 06:47:41: "JumpBOT<3><BOT><Blue>" joined team "Red"
+L 10/15/2020 - 06:47:41: "La'Kisha<2><[U:1:1108971677]><Blue>" joined team "Spectator"
+L 10/15/2020 - 06:47:48: "La'Kisha<2><[U:1:1108971677]><Spectator>" joined team "Blue"
+L 10/15/2020 - 06:48:03: "La'Kisha<2><[U:1:1108971677]><Blue>" joined team "Spectator"
+L 10/15/2020 - 06:48:10: "La'Kisha<2><[U:1:1108971677]><Spectator>" joined team "Blue"
+L 10/15/2020 - 06:51:24: "La'Kisha<2><[U:1:1108971677]><Blue>" joined team "Spectator"
+L 10/15/2020 - 06:51:31: "La'Kisha<2><[U:1:1108971677]><Spectator>" joined team "Blue"
+L 10/15/2020 - 06:55:47: "La'Kisha<2><[U:1:1108971677]><Blue>" joined team "Spectator"
+L 10/15/2020 - 06:55:54: "La'Kisha<2><[U:1:1108971677]><Spectator>" joined team "Blue"
+L 10/15/2020 - 06:57:25: "La'Kisha<2><[U:1:1108971677]><Blue>" joined team "Spectator"
+L 10/15/2020 - 06:57:32: "La'Kisha<2><[U:1:1108971677]><Spectator>" joined team "Blue"
+L 10/15/2020 - 07:01:40: "doodoocheeks420<4><[U:1:1091327015]><>" connected, address "98.182.145.114:27005"
+L 10/15/2020 - 07:01:41: "doodoocheeks420<4><[U:1:1091327015]><>" STEAM USERID validated
+L 10/15/2020 - 07:03:07: "doodoocheeks420<4><[U:1:1091327015]><>" entered the game
+L 10/15/2020 - 07:03:32: "doodoocheeks420<4><[U:1:1091327015]><Unassigned>" joined team "Red"
+L 10/15/2020 - 07:03:38: "doodoocheeks420<4><[U:1:1091327015]><Red>" changed role to "soldier"
+L 10/15/2020 - 07:05:28: "doodoocheeks420<4><[U:1:1091327015]><Red>" disconnected (reason "Disconnect by user.")
+L 10/15/2020 - 07:06:02: "La'Kisha<2><[U:1:1108971677]><Blue>" joined team "Spectator"
+L 10/15/2020 - 07:06:09: "La'Kisha<2><[U:1:1108971677]><Spectator>" joined team "Blue"
+L 10/15/2020 - 07:06:27: "La'Kisha<2><[U:1:1108971677]><Blue>" joined team "Spectator"
+L 10/15/2020 - 07:06:34: "La'Kisha<2><[U:1:1108971677]><Spectator>" joined team "Blue"
+L 10/15/2020 - 07:07:17: "La'Kisha<2><[U:1:1108971677]><Blue>" joined team "Spectator"
+L 10/15/2020 - 07:07:24: "La'Kisha<2><[U:1:1108971677]><Spectator>" joined team "Blue"
+L 10/15/2020 - 07:07:33: "La'Kisha<2><[U:1:1108971677]><Blue>" disconnected (reason "#GameUI_Disconnect_TooManyCommands")
+L 10/15/2020 - 09:39:35: "[SUN] Dauntlessness<5><[U:1:177971971]><>" connected, address "98.176.92.83:27005"
+L 10/15/2020 - 09:39:35: "[SUN] Dauntlessness<5><[U:1:177971971]><>" disconnected (reason "Connection closing")
+L 10/15/2020 - 09:39:35: "[SUN] Dauntlessness<6><[U:1:177971971]><>" connected, address "98.176.92.83:27005"
+L 10/15/2020 - 09:39:35: "[SUN] Dauntlessness<6><[U:1:177971971]><>" STEAM USERID validated
+L 10/15/2020 - 09:40:12: "[SUN] Dauntlessness<6><[U:1:177971971]><>" entered the game
+L 10/15/2020 - 09:40:18: "[SUN] Dauntlessness<6><[U:1:177971971]><Unassigned>" joined team "Blue"
+L 10/15/2020 - 09:40:22: "[SUN] Dauntlessness<6><[U:1:177971971]><Blue>" changed role to "soldier"
+L 10/15/2020 - 09:44:01: "[SUN] Dauntlessness<6><[U:1:177971971]><Blue>" joined team "Spectator"
+L 10/15/2020 - 09:44:07: "[SUN] Dauntlessness<6><[U:1:177971971]><Spectator>" joined team "Blue"
+L 10/15/2020 - 09:44:13: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Strafe by Sitood") (numcappers "1") (player1 "[SUN] Dauntlessness<6><[U:1:177971971]><Blue>") (position1 "10518 -11284 -16007") 
+L 10/15/2020 - 09:45:17: "[SUN] Dauntlessness<6><[U:1:177971971]><Blue>" joined team "Spectator"
+L 10/15/2020 - 09:45:22: "[SUN] Dauntlessness<6><[U:1:177971971]><Spectator>" joined team "Blue"
+L 10/15/2020 - 09:46:36: "[SUN] Dauntlessness<6><[U:1:177971971]><Blue>" joined team "Spectator"
+L 10/15/2020 - 09:46:42: "[SUN] Dauntlessness<6><[U:1:177971971]><Spectator>" joined team "Blue"
+L 10/15/2020 - 09:51:46: "[SUN] Dauntlessness<6><[U:1:177971971]><Blue>" joined team "Spectator"
+L 10/15/2020 - 09:51:53: "[SUN] Dauntlessness<6><[U:1:177971971]><Spectator>" joined team "Blue"
+L 10/15/2020 - 09:53:36: "[SUN] Dauntlessness<6><[U:1:177971971]><Blue>" joined team "Spectator"
+L 10/15/2020 - 09:53:44: "[SUN] Dauntlessness<6><[U:1:177971971]><Spectator>" joined team "Blue"
+L 10/15/2020 - 10:09:38: Your server needs to be restarted in order to receive the latest update.
+L 10/15/2020 - 10:14:37: Your server needs to be restarted in order to receive the latest update.
+L 10/15/2020 - 10:19:37: Your server needs to be restarted in order to receive the latest update.
+L 10/15/2020 - 10:24:36: Your server needs to be restarted in order to receive the latest update.
+L 10/15/2020 - 10:29:38: Your server needs to be restarted in order to receive the latest update.
+L 10/15/2020 - 10:30:19: [META] Loaded 0 plugins (1 already loaded)
+L 10/15/2020 - 10:30:19: "JumpBOT<3><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 10:30:19: "[SUN] Dauntlessness<6><[U:1:177971971]><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 10:30:19: server_message: "quit"
+L 10/15/2020 - 10:30:20: Log file closed.

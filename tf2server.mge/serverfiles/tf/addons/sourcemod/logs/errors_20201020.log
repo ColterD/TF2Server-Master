@@ -1,0 +1,9 @@
+L 10/20/2020 - 06:30:29: SourceMod error session started
+L 10/20/2020 - 06:30:29: Info (map "mge_training_v8_beta4b") (file "/home/tf2server.mge/serverfiles/tf/addons/sourcemod/logs/errors_20201020.log")
+L 10/20/2020 - 06:30:29: [mgemod.smx] Cant use database config <mgemod> <Error: >, trying SQLite <storage-local>...
+L 10/20/2020 - 06:30:29: [mgemod.smx] Success, using SQLite <storage-local>
+L 10/20/2020 - 06:30:37: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 29 seconds, making a timer for it!
+L 10/20/2020 - 06:31:07: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 30 seconds, making a timer for it!
+L 10/20/2020 - 06:31:39: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 30 seconds, making a timer for it!
+L 10/20/2020 - 06:32:10: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 29 seconds, making a timer for it!
+L 10/20/2020 - 06:32:40: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 30 seconds, making a timer for it!

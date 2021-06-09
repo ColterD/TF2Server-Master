@@ -1,0 +1,505 @@
+L 08/10/2020 - 08:58:20: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 08:58:20:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 08:58:23: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 08:58:23:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 08:58:23:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 08:58:23: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 08:58:23:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 08:58:23:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 08:58:35: Successfully updated and installed "Jump Server Essentials - Marker".
+L 08/10/2020 - 08:58:35: Successfully updated and installed "Jump Server Essentials - Show Keys".
+L 08/10/2020 - 08:58:35: Successfully updated and installed "Jump Server Essentials - JumpBot".
+L 08/10/2020 - 09:10:11: SMC parsing error on line 0
+L 08/10/2020 - 09:10:11:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 09:10:11:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 10:32:55: SMC parsing error on line 0
+L 08/10/2020 - 10:32:55:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 10:32:55:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 10:38:18: SMC parsing error on line 0
+L 08/10/2020 - 10:38:18:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 10:38:18:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 10:45:31: SMC parsing error on line 0
+L 08/10/2020 - 10:45:31:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 10:45:31:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 10:45:31: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 10:45:31:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 10:45:33: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 10:45:33:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 10:45:33:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 10:45:33: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 10:45:33:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 10:45:33:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 10:53:52: SMC parsing error on line 0
+L 08/10/2020 - 10:53:52:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 10:53:52:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 10:53:52: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 10:53:52:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 10:53:53: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 10:53:53:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 10:53:53:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 10:53:53: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 10:53:53:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 10:53:53:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:07:45: SMC parsing error on line 0
+L 08/10/2020 - 11:07:45:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:07:45:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:07:45: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:07:45:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:07:47: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:07:47:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:07:47:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:07:47: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:07:47:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:07:47:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:11:18: SMC parsing error on line 0
+L 08/10/2020 - 11:11:18:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:11:18:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:11:18: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:11:18:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:11:19: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:11:19:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:11:19:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:11:20: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:11:20:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:11:20:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:13:23: SMC parsing error on line 0
+L 08/10/2020 - 11:13:23:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:13:23:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:13:23: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:13:23:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:13:24: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:13:24:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:13:24:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:13:25: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:13:25:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:13:25:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:15:51: SMC parsing error on line 0
+L 08/10/2020 - 11:15:51:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:15:51:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:15:51: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:15:51:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:15:52: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:15:52:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:15:52:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:15:52: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:15:52:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:15:52:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:18:23: SMC parsing error on line 0
+L 08/10/2020 - 11:18:23:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:18:23:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:18:23: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:18:23:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:18:25: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:18:25:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:18:25:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:18:25: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:18:25:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:18:25:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:21:58: SMC parsing error on line 0
+L 08/10/2020 - 11:21:58:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:21:58:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:21:59: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:21:59:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:22:00: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:22:00:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:22:00:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:22:01: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:22:01:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:22:01:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:23:02: SMC parsing error on line 0
+L 08/10/2020 - 11:23:02:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:23:02:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:23:03: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:23:03:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:23:05: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:23:05:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:23:05:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:23:05: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:23:05:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:23:05:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 11:24:56: SMC parsing error on line 0
+L 08/10/2020 - 11:24:56:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 11:24:56:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 11:24:57: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 11:24:57:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 11:24:58: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 11:24:58:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 11:24:58:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 11:24:58: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 11:24:58:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 11:24:58:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 13:49:09: SMC parsing error on line 0
+L 08/10/2020 - 13:49:09:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 13:49:09:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 13:49:09: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 13:49:09:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 13:49:11: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 13:49:11:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 13:49:11:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 13:49:11: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 13:49:11:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 13:49:11:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 13:51:49: SMC parsing error on line 0
+L 08/10/2020 - 13:51:49:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 13:51:49:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 13:51:50: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 13:51:50:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 13:51:51: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 13:51:51:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 13:51:51:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 13:51:51: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 13:51:51:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 13:51:51:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 13:56:08: SMC parsing error on line 0
+L 08/10/2020 - 13:56:08:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 13:56:08:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 13:56:09: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 13:56:09:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 13:56:10: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 13:56:10:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 13:56:10:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 13:56:10: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 13:56:10:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 13:56:10:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 13:57:21: SMC parsing error on line 0
+L 08/10/2020 - 13:57:21:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 13:57:21:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 13:57:21: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 13:57:21:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 13:57:23: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 13:57:23:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 13:57:23:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 13:57:23: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 13:57:23:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 13:57:23:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 13:59:20: SMC parsing error on line 0
+L 08/10/2020 - 13:59:20:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 13:59:20:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 13:59:20: Update available for "Jump Server Essentials - Marker" (jse_marker.smx). Current: 0.2.3 - Latest: 0.2.2
+L 08/10/2020 - 13:59:20:   [0]  Fixed sm_pmark target immunity (should have no immunity)
+L 08/10/2020 - 13:59:22: Update available for "Jump Server Essentials - Show Keys" (jse_showkeys.smx). Current: 0.1.7 - Latest: 0.1.6
+L 08/10/2020 - 13:59:22:   [0]  Reduce unnecessary clientprefs saving
+L 08/10/2020 - 13:59:22:   [1]  Prevent showing keys on free roam spectator mode
+L 08/10/2020 - 13:59:22: Update available for "Jump Server Essentials - JumpBot" (jse_jumpbot.smx). Current: 1.0.0-rc3 - Latest: 0.10.12
+L 08/10/2020 - 13:59:22:   [0]  Development update - 8/19/2018
+L 08/10/2020 - 13:59:22:   [1]  Fixed exploit allowing players in hardcore mode to switch weapons by playing a recording (requires JSE core)
+L 08/10/2020 - 14:02:03: SMC parsing error on line 0
+L 08/10/2020 - 14:02:03:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 14:02:03:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 14:03:56: SMC parsing error on line 0
+L 08/10/2020 - 14:03:56:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 14:03:56:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 14:06:01: SMC parsing error on line 0
+L 08/10/2020 - 14:06:01:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 14:06:01:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 14:10:51: SMC parsing error on line 0
+L 08/10/2020 - 14:10:51:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 14:10:51:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 14:14:41: SMC parsing error on line 0
+L 08/10/2020 - 14:14:41:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 14:14:41:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 14:16:06: SMC parsing error on line 0
+L 08/10/2020 - 14:16:06:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 14:16:06:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 14:17:04: SMC parsing error on line 0
+L 08/10/2020 - 14:17:04:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 14:17:04:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 14:22:01: SMC parsing error on line 0
+L 08/10/2020 - 14:22:01:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 14:22:01:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 14:25:00: SMC parsing error on line 0
+L 08/10/2020 - 14:25:00:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 14:25:00:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 17:54:28: SMC parsing error on line 0
+L 08/10/2020 - 17:54:28:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 17:54:28:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2020 - 18:00:16: SMC parsing error on line 0
+L 08/10/2020 - 18:00:16:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/10/2020 - 18:00:16:   [1]  ERROR: Line contained too many invalid tokens
+L 08/11/2020 - 03:49:22: SMC parsing error on line 0
+L 08/11/2020 - 03:49:22:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/11/2020 - 03:49:22:   [1]  ERROR: Line contained too many invalid tokens
+L 08/11/2020 - 06:30:33: SMC parsing error on line 0
+L 08/11/2020 - 06:30:33:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/11/2020 - 06:30:33:   [1]  ERROR: Line contained too many invalid tokens
+L 08/11/2020 - 07:22:43: SMC parsing error on line 0
+L 08/11/2020 - 07:22:43:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/11/2020 - 07:22:43:   [1]  ERROR: Line contained too many invalid tokens
+L 08/11/2020 - 08:25:53: SMC parsing error on line 0
+L 08/11/2020 - 08:25:53:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/11/2020 - 08:25:53:   [1]  ERROR: Line contained too many invalid tokens
+L 08/11/2020 - 08:32:03: SMC parsing error on line 0
+L 08/11/2020 - 08:32:03:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/11/2020 - 08:32:03:   [1]  ERROR: Line contained too many invalid tokens
+L 08/11/2020 - 08:38:45: SMC parsing error on line 0
+L 08/11/2020 - 08:38:45:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/11/2020 - 08:38:45:   [1]  ERROR: Line contained too many invalid tokens
+L 08/11/2020 - 08:47:29: SMC parsing error on line 0
+L 08/11/2020 - 08:47:29:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/11/2020 - 08:47:29:   [1]  ERROR: Line contained too many invalid tokens
+L 08/11/2020 - 08:50:17: SMC parsing error on line 0
+L 08/11/2020 - 08:50:17:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/11/2020 - 08:50:17:   [1]  ERROR: Line contained too many invalid tokens
+L 08/11/2020 - 09:05:09: SMC parsing error on line 0
+L 08/11/2020 - 09:05:09:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/11/2020 - 09:05:09:   [1]  ERROR: Line contained too many invalid tokens
+L 08/11/2020 - 09:18:06: SMC parsing error on line 0
+L 08/11/2020 - 09:18:06:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/11/2020 - 09:18:06:   [1]  ERROR: Line contained too many invalid tokens
+L 08/13/2020 - 08:17:31: SMC parsing error on line 0
+L 08/13/2020 - 08:17:31:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/13/2020 - 08:17:31:   [1]  ERROR: Line contained too many invalid tokens
+L 08/13/2020 - 08:18:44: SMC parsing error on line 0
+L 08/13/2020 - 08:18:44:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/13/2020 - 08:18:44:   [1]  ERROR: Line contained too many invalid tokens
+L 08/13/2020 - 08:29:12: SMC parsing error on line 0
+L 08/13/2020 - 08:29:12:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/13/2020 - 08:29:12:   [1]  ERROR: Line contained too many invalid tokens
+L 08/13/2020 - 08:33:16: SMC parsing error on line 0
+L 08/13/2020 - 08:33:16:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/13/2020 - 08:33:16:   [1]  ERROR: Line contained too many invalid tokens
+L 08/13/2020 - 14:15:35: SMC parsing error on line 0
+L 08/13/2020 - 14:15:35:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/13/2020 - 14:15:35:   [1]  ERROR: Line contained too many invalid tokens
+L 08/14/2020 - 07:24:37: SMC parsing error on line 0
+L 08/14/2020 - 07:24:37:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/14/2020 - 07:24:37:   [1]  ERROR: Line contained too many invalid tokens
+L 08/14/2020 - 18:26:26: SMC parsing error on line 0
+L 08/14/2020 - 18:26:26:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/14/2020 - 18:26:26:   [1]  ERROR: Line contained too many invalid tokens
+L 08/14/2020 - 19:40:07: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 1.1.0
+L 08/14/2020 - 19:40:07:   [0]  Find a list of my plugins (and links to their threads) at www.doctormckay.com. Changes:
+L 08/14/2020 - 19:40:07:   [1]   - Fixed unicode issues in names with special characters
+L 08/14/2020 - 19:40:07:   [2]   - Painted weapons now print the default game messages
+L 08/14/2020 - 19:40:07:   [3]   - Plugin now only intercepts and rewrites methods which can contain multiple items of the same type
+L 08/14/2020 - 19:43:19: SMC parsing error on line 0
+L 08/14/2020 - 19:43:19:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/14/2020 - 19:43:19:   [1]  ERROR: Line contained too many invalid tokens
+L 08/14/2020 - 20:05:43: SMC parsing error on line 0
+L 08/14/2020 - 20:05:43:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/14/2020 - 20:05:43:   [1]  ERROR: Line contained too many invalid tokens
+L 08/14/2020 - 21:10:13: SMC parsing error on line 0
+L 08/14/2020 - 21:10:13:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/14/2020 - 21:10:13:   [1]  ERROR: Line contained too many invalid tokens
+L 08/15/2020 - 09:53:40: SMC parsing error on line 0
+L 08/15/2020 - 09:53:40:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/15/2020 - 09:53:40:   [1]  ERROR: Line contained too many invalid tokens
+L 08/15/2020 - 09:55:05: SMC parsing error on line 0
+L 08/15/2020 - 09:55:05:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/15/2020 - 09:55:05:   [1]  ERROR: Line contained too many invalid tokens
+L 08/15/2020 - 09:59:33: SMC parsing error on line 0
+L 08/15/2020 - 09:59:33:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/15/2020 - 09:59:33:   [1]  ERROR: Line contained too many invalid tokens
+L 08/15/2020 - 10:01:24: SMC parsing error on line 0
+L 08/15/2020 - 10:01:24:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/15/2020 - 10:01:24:   [1]  ERROR: Line contained too many invalid tokens
+L 08/15/2020 - 10:38:04: SMC parsing error on line 0
+L 08/15/2020 - 10:38:04:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/15/2020 - 10:38:04:   [1]  ERROR: Line contained too many invalid tokens
+L 08/15/2020 - 15:38:49: SMC parsing error on line 0
+L 08/15/2020 - 15:38:49:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/15/2020 - 15:38:49:   [1]  ERROR: Line contained too many invalid tokens
+L 08/16/2020 - 03:40:29: SMC parsing error on line 0
+L 08/16/2020 - 03:40:29:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/16/2020 - 03:40:29:   [1]  ERROR: Line contained too many invalid tokens
+L 08/16/2020 - 06:41:09: SMC parsing error on line 0
+L 08/16/2020 - 06:41:09:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/16/2020 - 06:41:09:   [1]  ERROR: Line contained too many invalid tokens
+L 08/16/2020 - 09:41:46: SMC parsing error on line 0
+L 08/16/2020 - 09:41:46:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/16/2020 - 09:41:46:   [1]  ERROR: Line contained too many invalid tokens
+L 08/16/2020 - 11:46:19: SMC parsing error on line 0
+L 08/16/2020 - 11:46:19:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/16/2020 - 11:46:19:   [1]  ERROR: Line contained too many invalid tokens
+L 08/16/2020 - 11:50:59: SMC parsing error on line 0
+L 08/16/2020 - 11:50:59:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/16/2020 - 11:50:59:   [1]  ERROR: Line contained too many invalid tokens
+L 08/16/2020 - 11:57:34: SMC parsing error on line 0
+L 08/16/2020 - 11:57:34:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/16/2020 - 11:57:34:   [1]  ERROR: Line contained too many invalid tokens
+L 08/17/2020 - 07:33:20: SMC parsing error on line 0
+L 08/17/2020 - 07:33:20:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/17/2020 - 07:33:20:   [1]  ERROR: Line contained too many invalid tokens
+L 08/18/2020 - 06:30:37: SMC parsing error on line 0
+L 08/18/2020 - 06:30:37:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/18/2020 - 06:30:37:   [1]  ERROR: Line contained too many invalid tokens
+L 08/20/2020 - 06:30:37: SMC parsing error on line 0
+L 08/20/2020 - 06:30:37:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/20/2020 - 06:30:37:   [1]  ERROR: Line contained too many invalid tokens
+L 08/21/2020 - 15:00:52: SMC parsing error on line 0
+L 08/21/2020 - 15:00:52:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/21/2020 - 15:00:52:   [1]  ERROR: Line contained too many invalid tokens
+L 08/23/2020 - 01:33:52: SMC parsing error on line 0
+L 08/23/2020 - 01:33:52:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/23/2020 - 01:33:52:   [1]  ERROR: Line contained too many invalid tokens
+L 08/23/2020 - 06:30:36: SMC parsing error on line 0
+L 08/23/2020 - 06:30:36:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/23/2020 - 06:30:36:   [1]  ERROR: Line contained too many invalid tokens
+L 08/25/2020 - 06:30:37: SMC parsing error on line 0
+L 08/25/2020 - 06:30:37:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/25/2020 - 06:30:37:   [1]  ERROR: Line contained too many invalid tokens
+L 08/26/2020 - 06:31:02: SMC parsing error on line 0
+L 08/26/2020 - 06:31:02:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/26/2020 - 06:31:02:   [1]  ERROR: Line contained too many invalid tokens
+L 08/26/2020 - 09:31:13: SMC parsing error on line 0
+L 08/26/2020 - 09:31:13:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/26/2020 - 09:31:13:   [1]  ERROR: Line contained too many invalid tokens
+L 08/27/2020 - 06:30:36: SMC parsing error on line 0
+L 08/27/2020 - 06:30:36:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/27/2020 - 06:30:36:   [1]  ERROR: Line contained too many invalid tokens
+L 08/27/2020 - 13:00:27: SMC parsing error on line 0
+L 08/27/2020 - 13:00:27:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/27/2020 - 13:00:27:   [1]  ERROR: Line contained too many invalid tokens
+L 08/27/2020 - 18:48:16: SMC parsing error on line 0
+L 08/27/2020 - 18:48:16:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/27/2020 - 18:48:16:   [1]  ERROR: Line contained too many invalid tokens
+L 08/28/2020 - 00:50:02: SMC parsing error on line 0
+L 08/28/2020 - 00:50:02:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/28/2020 - 00:50:02:   [1]  ERROR: Line contained too many invalid tokens
+L 08/28/2020 - 06:30:35: SMC parsing error on line 0
+L 08/28/2020 - 06:30:35:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/28/2020 - 06:30:35:   [1]  ERROR: Line contained too many invalid tokens
+L 08/29/2020 - 06:30:41: SMC parsing error on line 0
+L 08/29/2020 - 06:30:41:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/29/2020 - 06:30:41:   [1]  ERROR: Line contained too many invalid tokens
+L 08/30/2020 - 06:31:00: SMC parsing error on line 0
+L 08/30/2020 - 06:31:00:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/30/2020 - 06:31:00:   [1]  ERROR: Line contained too many invalid tokens
+L 08/30/2020 - 11:32:32: SMC parsing error on line 0
+L 08/30/2020 - 11:32:32:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/30/2020 - 11:32:32:   [1]  ERROR: Line contained too many invalid tokens
+L 08/31/2020 - 06:31:04: SMC parsing error on line 0
+L 08/31/2020 - 06:31:04:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 08/31/2020 - 06:31:04:   [1]  ERROR: Line contained too many invalid tokens
+L 09/07/2020 - 06:30:49: SMC parsing error on line 0
+L 09/07/2020 - 06:30:49:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/07/2020 - 06:30:49:   [1]  ERROR: Line contained too many invalid tokens
+L 09/08/2020 - 06:30:36: SMC parsing error on line 0
+L 09/08/2020 - 06:30:36:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/08/2020 - 06:30:36:   [1]  ERROR: Line contained too many invalid tokens
+L 09/08/2020 - 23:32:23: SMC parsing error on line 0
+L 09/08/2020 - 23:32:23:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/08/2020 - 23:32:23:   [1]  ERROR: Line contained too many invalid tokens
+L 09/11/2020 - 06:30:59: SMC parsing error on line 0
+L 09/11/2020 - 06:30:59:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/11/2020 - 06:30:59:   [1]  ERROR: Line contained too many invalid tokens
+L 09/12/2020 - 06:30:35: SMC parsing error on line 0
+L 09/12/2020 - 06:30:35:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/12/2020 - 06:30:35:   [1]  ERROR: Line contained too many invalid tokens
+L 09/13/2020 - 06:30:37: SMC parsing error on line 0
+L 09/13/2020 - 06:30:37:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/13/2020 - 06:30:37:   [1]  ERROR: Line contained too many invalid tokens
+L 09/13/2020 - 15:35:38: SMC parsing error on line 0
+L 09/13/2020 - 15:35:38:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/13/2020 - 15:35:38:   [1]  ERROR: Line contained too many invalid tokens
+L 09/14/2020 - 06:31:01: SMC parsing error on line 0
+L 09/14/2020 - 06:31:01:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/14/2020 - 06:31:01:   [1]  ERROR: Line contained too many invalid tokens
+L 09/16/2020 - 03:32:49: SMC parsing error on line 0
+L 09/16/2020 - 03:32:49:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/16/2020 - 03:32:49:   [1]  ERROR: Line contained too many invalid tokens
+L 09/16/2020 - 04:33:22: SMC parsing error on line 0
+L 09/16/2020 - 04:33:22:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/16/2020 - 04:33:22:   [1]  ERROR: Line contained too many invalid tokens
+L 09/16/2020 - 06:30:35: SMC parsing error on line 0
+L 09/16/2020 - 06:30:35:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/16/2020 - 06:30:35:   [1]  ERROR: Line contained too many invalid tokens
+L 09/18/2020 - 06:30:36: SMC parsing error on line 0
+L 09/18/2020 - 06:30:36:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/18/2020 - 06:30:36:   [1]  ERROR: Line contained too many invalid tokens
+L 09/21/2020 - 06:31:06: SMC parsing error on line 0
+L 09/21/2020 - 06:31:06:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/21/2020 - 06:31:06:   [1]  ERROR: Line contained too many invalid tokens
+L 09/22/2020 - 16:35:35: SMC parsing error on line 0
+L 09/22/2020 - 16:35:35:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/22/2020 - 16:35:35:   [1]  ERROR: Line contained too many invalid tokens
+L 09/23/2020 - 06:31:02: SMC parsing error on line 0
+L 09/23/2020 - 06:31:02:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/23/2020 - 06:31:02:   [1]  ERROR: Line contained too many invalid tokens
+L 09/24/2020 - 06:30:38: SMC parsing error on line 0
+L 09/24/2020 - 06:30:38:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/24/2020 - 06:30:38:   [1]  ERROR: Line contained too many invalid tokens
+L 09/24/2020 - 14:32:52: SMC parsing error on line 0
+L 09/24/2020 - 14:32:52:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/24/2020 - 14:32:52:   [1]  ERROR: Line contained too many invalid tokens
+L 09/24/2020 - 18:33:37: SMC parsing error on line 0
+L 09/24/2020 - 18:33:37:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/24/2020 - 18:33:37:   [1]  ERROR: Line contained too many invalid tokens
+L 09/25/2020 - 02:35:58: SMC parsing error on line 0
+L 09/25/2020 - 02:35:58:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/25/2020 - 02:35:58:   [1]  ERROR: Line contained too many invalid tokens
+L 09/25/2020 - 06:31:01: SMC parsing error on line 0
+L 09/25/2020 - 06:31:01:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/25/2020 - 06:31:01:   [1]  ERROR: Line contained too many invalid tokens
+L 09/25/2020 - 20:34:06: SMC parsing error on line 0
+L 09/25/2020 - 20:34:06:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/25/2020 - 20:34:06:   [1]  ERROR: Line contained too many invalid tokens
+L 09/26/2020 - 06:30:37: SMC parsing error on line 0
+L 09/26/2020 - 06:30:37:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/26/2020 - 06:30:37:   [1]  ERROR: Line contained too many invalid tokens
+L 09/27/2020 - 06:30:36: SMC parsing error on line 0
+L 09/27/2020 - 06:30:36:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/27/2020 - 06:30:36:   [1]  ERROR: Line contained too many invalid tokens
+L 09/27/2020 - 18:34:31: SMC parsing error on line 0
+L 09/27/2020 - 18:34:31:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/27/2020 - 18:34:31:   [1]  ERROR: Line contained too many invalid tokens
+L 09/28/2020 - 06:30:38: SMC parsing error on line 0
+L 09/28/2020 - 06:30:38:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 09/28/2020 - 06:30:38:   [1]  ERROR: Line contained too many invalid tokens
+L 10/01/2020 - 06:30:35: SMC parsing error on line 0
+L 10/01/2020 - 06:30:35:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/01/2020 - 06:30:35:   [1]  ERROR: Line contained too many invalid tokens
+L 10/02/2020 - 06:30:38: SMC parsing error on line 0
+L 10/02/2020 - 06:30:38:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/02/2020 - 06:30:38:   [1]  ERROR: Line contained too many invalid tokens
+L 10/02/2020 - 17:30:52: SMC parsing error on line 0
+L 10/02/2020 - 17:30:52:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/02/2020 - 17:30:52:   [1]  ERROR: Line contained too many invalid tokens
+L 10/02/2020 - 18:01:12: SMC parsing error on line 0
+L 10/02/2020 - 18:01:12:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/02/2020 - 18:01:12:   [1]  ERROR: Line contained too many invalid tokens
+L 10/03/2020 - 19:34:26: SMC parsing error on line 0
+L 10/03/2020 - 19:34:26:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/03/2020 - 19:34:26:   [1]  ERROR: Line contained too many invalid tokens
+L 10/04/2020 - 06:31:05: SMC parsing error on line 0
+L 10/04/2020 - 06:31:05:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/04/2020 - 06:31:05:   [1]  ERROR: Line contained too many invalid tokens
+L 10/06/2020 - 06:30:36: SMC parsing error on line 0
+L 10/06/2020 - 06:30:36:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/06/2020 - 06:30:36:   [1]  ERROR: Line contained too many invalid tokens
+L 10/07/2020 - 06:30:36: SMC parsing error on line 0
+L 10/07/2020 - 06:30:36:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/07/2020 - 06:30:36:   [1]  ERROR: Line contained too many invalid tokens
+L 10/08/2020 - 12:30:59: SMC parsing error on line 0
+L 10/08/2020 - 12:30:59:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/08/2020 - 12:30:59:   [1]  ERROR: Line contained too many invalid tokens
+L 10/08/2020 - 13:00:40: SMC parsing error on line 0
+L 10/08/2020 - 13:00:40:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/08/2020 - 13:00:40:   [1]  ERROR: Line contained too many invalid tokens
+L 10/09/2020 - 15:00:29: SMC parsing error on line 0
+L 10/09/2020 - 15:00:29:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/09/2020 - 15:00:29:   [1]  ERROR: Line contained too many invalid tokens
+L 10/10/2020 - 06:31:01: SMC parsing error on line 0
+L 10/10/2020 - 06:31:01:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/10/2020 - 06:31:01:   [1]  ERROR: Line contained too many invalid tokens
+L 10/12/2020 - 06:30:38: SMC parsing error on line 0
+L 10/12/2020 - 06:30:38:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/12/2020 - 06:30:38:   [1]  ERROR: Line contained too many invalid tokens
+L 10/15/2020 - 06:30:35: SMC parsing error on line 0
+L 10/15/2020 - 06:30:35:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/15/2020 - 06:30:35:   [1]  ERROR: Line contained too many invalid tokens
+L 10/15/2020 - 11:00:27: SMC parsing error on line 0
+L 10/15/2020 - 11:00:27:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/15/2020 - 11:00:27:   [1]  ERROR: Line contained too many invalid tokens
+L 10/16/2020 - 06:31:04: SMC parsing error on line 0
+L 10/16/2020 - 06:31:04:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/16/2020 - 06:31:04:   [1]  ERROR: Line contained too many invalid tokens
+L 10/17/2020 - 15:31:32: SMC parsing error on line 0
+L 10/17/2020 - 15:31:32:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/17/2020 - 15:31:32:   [1]  ERROR: Line contained too many invalid tokens
+L 10/19/2020 - 06:30:39: SMC parsing error on line 0
+L 10/19/2020 - 06:30:39:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/19/2020 - 06:30:39:   [1]  ERROR: Line contained too many invalid tokens
+L 10/20/2020 - 06:30:54: SMC parsing error on line 0
+L 10/20/2020 - 06:30:54:   [0]  URL: http://godtony.mooo.com/updater/updater.txt
+L 10/20/2020 - 06:30:54:   [1]  ERROR: Line contained too many invalid tokens

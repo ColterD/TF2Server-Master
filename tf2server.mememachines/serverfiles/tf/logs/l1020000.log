@@ -1,0 +1,103 @@
+L 10/20/2020 - 06:30:54: Log file started (file "logs/L1020000.log") (game "/home/tf2server.mememachines/serverfiles/tf") (version "6145689")
+L 10/20/2020 - 06:30:54: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/20/2020 - 06:30:54: server_cvar: "tfh_birthday" "1"
+L 10/20/2020 - 06:30:54: server_cvar: "tfh_endoftheline" "1"
+L 10/20/2020 - 06:30:54: server_cvar: "tfh_fullmoon" "1"
+L 10/20/2020 - 06:30:54: server_cvar: "tfh_normalhealth" "1"
+L 10/20/2020 - 06:30:54: server_cvar: "tfh_winter" "1"
+L 10/20/2020 - 06:30:54: server_cvar: "mp_tournament_readymode" "1"
+L 10/20/2020 - 06:30:54: server_cvar: "tf_mvm_min_players_to_start" "2"
+L 10/20/2020 - 06:30:54: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/20/2020 - 06:30:54: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/20/2020 - 06:30:54: Connection to Steam servers successful.
+L 10/20/2020 - 06:30:54:    Public IP is 104.192.224.18.
+L 10/20/2020 - 06:30:54: Assigned anonymous gameserver Steam ID [A:1:3455324163:15748].
+L 10/20/2020 - 06:30:54: VAC secure mode is activated.
+L 10/20/2020 - 08:08:29: "um idiota legal.3.<2><[U:1:857958323]><>" connected, address "45.6.162.8:27005"
+L 10/20/2020 - 08:08:30: "um idiota legal.3.<2><[U:1:857958323]><>" STEAM USERID validated
+L 10/20/2020 - 08:09:47: "um idiota legal.3.<2><[U:1:857958323]><>" entered the game
+L 10/20/2020 - 08:10:03: MVM assigned um idiota legal.3. to defending team (5 more slots remaining after us)
+L 10/20/2020 - 08:10:03: MVM assigned um idiota legal.3. to defending team (5 more slots remaining after us)
+L 10/20/2020 - 08:10:03: "um idiota legal.3.<2><[U:1:857958323]><Unassigned>" joined team "Red"
+L 10/20/2020 - 08:10:08: "um idiota legal.3.<2><[U:1:857958323]><Red>" changed role to "engineer"
+L 10/20/2020 - 08:10:08: "TFBot<3><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<3><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<3><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(1)TFBot<4><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<4><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<4><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(2)TFBot<5><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<5><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<5><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(3)TFBot<6><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<6><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<6><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(4)TFBot<7><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<7><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<7><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(5)TFBot<8><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<8><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<8><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(6)TFBot<9><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<9><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<9><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(7)TFBot<10><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<10><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<10><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(8)TFBot<11><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<11><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<11><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(9)TFBot<12><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<12><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<12><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(10)TFBot<13><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<13><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<13><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(11)TFBot<14><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<14><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<14><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(12)TFBot<15><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<15><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<15><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(13)TFBot<16><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<16><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<16><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(14)TFBot<17><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<17><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<17><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(15)TFBot<18><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<18><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<18><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(16)TFBot<19><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<19><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<19><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(17)TFBot<20><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<20><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<20><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(18)TFBot<21><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<21><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<21><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(19)TFBot<22><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<22><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<22><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(20)TFBot<23><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<23><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<23><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: "(21)TFBot<24><BOT><>" connected, address "none"
+L 10/20/2020 - 08:10:08: "<24><BOT><>" entered the game
+L 10/20/2020 - 08:10:08: "TFBot<24><BOT><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 08:10:08: server_cvar: "mp_tournament" "1"
+L 10/20/2020 - 08:10:10: server_cvar: "tf_bot_count" "22"
+L 10/20/2020 - 08:10:54: "um idiota legal.3.<2><[U:1:857958323]><Red>" say "!gg"
+L 10/20/2020 - 08:10:58: "um idiota legal.3.<2><[U:1:857958323]><Red>" say "!uu"
+L 10/20/2020 - 08:11:54: "um idiota legal.3.<2><[U:1:857958323]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-354 4438 -223")
+L 10/20/2020 - 08:11:59: "um idiota legal.3.<2><[U:1:857958323]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-212 4459 -216")
+L 10/20/2020 - 08:12:05: "um idiota legal.3.<2><[U:1:857958323]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-251 4760 -223")
+L 10/20/2020 - 08:12:15: "um idiota legal.3.<2><[U:1:857958323]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-324 4549 -223")
+L 10/20/2020 - 08:12:17: "um idiota legal.3.<2><[U:1:857958323]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-559 4483 -292")
+L 10/20/2020 - 08:12:17: "um idiota legal.3.<2><[U:1:857958323]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-559 4483 -292")
+L 10/20/2020 - 08:12:28: "um idiota legal.3.<2><[U:1:857958323]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-331 4610 -223")
+L 10/20/2020 - 08:13:05: "um idiota legal.3.<2><[U:1:857958323]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "21 -235 -63")
+L 10/20/2020 - 08:14:29: "um idiota legal.3.<2><[U:1:857958323]><Red>" say "!taunts"
+L 10/20/2020 - 08:14:40: "um idiota legal.3.<2><[U:1:857958323]><Red>" say "!taunt"
+L 10/20/2020 - 08:16:40: "um idiota legal.3.<2><

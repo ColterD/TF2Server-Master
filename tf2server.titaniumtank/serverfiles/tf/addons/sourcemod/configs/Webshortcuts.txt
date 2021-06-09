@@ -1,0 +1,63 @@
+"group"
+{
+	"Url"	"https://steamcommunity.com/groups/houseofpancakes"
+	"Title"	"Pancakes.tf"
+	"Hook"	"!group"
+	"Hook"	"/group"
+}
+
+"wedoitlive"
+{
+	"Url"	"https://steamcommunity.com/profiles/76561197983001567"
+	"Title"	"We Do It Live! | Pancakes.tf Owner"
+	"Hook"	"!wedoitlive"
+	"Hook"	"/wedoitlive"
+}
+
+"owner"
+{
+	"Url"	"https://steamcommunity.com/profiles/76561197983001567"
+	"Title"	"We Do It Live! | Pancakes.tf Owner"
+	"Hook"	"!owner"
+	"Hook"	"/owner"
+}
+
+"youtube"
+{
+	"Url"	"https://gaming.youtube.com/c/LivesHouseofPancakes"
+	"Title"	"Live's House of Pancakes Official Channel | YouTube"
+	"Hook"	"!youtube"
+	"Hook"	"/youtube"
+}
+
+"steamgroup"
+{
+	"Url"	"https://steamcommunity.com/groups/houseofpancakes"
+	"Title"	"Pancakes.tf"
+	"Hook"	"!steamgroup"
+	"Hook"	"/steamgroup"
+}
+
+"join"
+{
+	"Url"	"https://steamcommunity.com/groups/houseofpancakes"
+	"Title"	"Pancakes.tf"
+	"Hook"	"!join"
+	"Hook"	"/join"
+}
+
+"member"
+{
+	"Url"	"https://steamcommunity.com/groups/houseofpancakes"
+	"Title"	"Pancakes.tf"
+	"Hook"	"!member"
+	"Hook"	"/member"
+}
+
+"discord"
+{
+	"Url"	"http://discord.gg/Q7hdGat"
+	"Title"	"PancakesTF Discord"
+	"Hook"	"!discord"
+	"Hook"	"/discord"
+}

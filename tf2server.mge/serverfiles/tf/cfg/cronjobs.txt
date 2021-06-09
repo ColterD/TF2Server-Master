@@ -1,0 +1,11 @@
+* * * * * console sm_reloadadmins
+* * * * * console sm_reloadccc
+0 4 * * * console sm_csay This server will restart in 30 minutes.
+40 4 * * * console sm_csay This server will restart in 20 minutes.
+50 4 * * * console sm_csay This server will restart in 10 minutes.
+55 4 * * * console sm_csay This server will restart in 5 minutes.
+56 4 * * * console sm_csay This server will restart in 4 minutes.
+57 4 * * * console sm_csay This server will restart in 3 minutes.
+58 4 * * * console sm_csay This server will restart in 2 minutes.
+59 4 * * * console sm_csay This server will restart in 60 seconds.
+0 5 * * * console sm_csay This server is now restarting.  Please rejoin.

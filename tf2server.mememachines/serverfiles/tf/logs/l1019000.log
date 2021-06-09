@@ -1,0 +1,1423 @@
+L 10/19/2020 - 06:30:38: Log file started (file "logs/L1019000.log") (game "/home/tf2server.mememachines/serverfiles/tf") (version "6145689")
+L 10/19/2020 - 06:30:38: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/19/2020 - 06:30:38: server_cvar: "tfh_birthday" "1"
+L 10/19/2020 - 06:30:38: server_cvar: "tfh_endoftheline" "1"
+L 10/19/2020 - 06:30:38: server_cvar: "tfh_fullmoon" "1"
+L 10/19/2020 - 06:30:38: server_cvar: "tfh_normalhealth" "1"
+L 10/19/2020 - 06:30:38: server_cvar: "tfh_winter" "1"
+L 10/19/2020 - 06:30:38: server_cvar: "mp_tournament_readymode" "1"
+L 10/19/2020 - 06:30:38: server_cvar: "tf_mvm_min_players_to_start" "2"
+L 10/19/2020 - 06:30:38: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/19/2020 - 06:30:38: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/19/2020 - 06:30:39: Connection to Steam servers successful.
+L 10/19/2020 - 06:30:39:    Public IP is 104.192.224.18.
+L 10/19/2020 - 06:30:39: Assigned anonymous gameserver Steam ID [A:1:19357707:15743].
+L 10/19/2020 - 06:30:39: VAC secure mode is activated.
+L 10/19/2020 - 09:15:02: "DevelopedWaffle<2><[U:1:1118451222]><>" connected, address "188.71.237.197:20576"
+L 10/19/2020 - 09:15:03: "DevelopedWaffle<2><[U:1:1118451222]><>" STEAM USERID validated
+L 10/19/2020 - 09:15:04: "DevelopedWaffle<2><[U:1:1118451222]><>" disconnected (reason "Disconnect by user.")
+L 10/19/2020 - 14:15:50: "josepharredondo698<3><[U:1:1139708823]><>" connected, address "76.87.244.90:27005"
+L 10/19/2020 - 14:15:50: "josepharredondo698<3><[U:1:1139708823]><>" STEAM USERID validated
+L 10/19/2020 - 14:16:54: "josepharredondo698<3><[U:1:1139708823]><>" entered the game
+L 10/19/2020 - 14:17:00: MVM assigned josepharredondo698 to defending team (5 more slots remaining after us)
+L 10/19/2020 - 14:17:00: MVM assigned josepharredondo698 to defending team (5 more slots remaining after us)
+L 10/19/2020 - 14:17:00: "josepharredondo698<3><[U:1:1139708823]><Unassigned>" joined team "Red"
+L 10/19/2020 - 14:17:02: "josepharredondo698<3><[U:1:1139708823]><Red>" changed role to "soldier"
+L 10/19/2020 - 14:17:02: "TFBot<4><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<4><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<4><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(1)TFBot<5><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<5><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<5><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(2)TFBot<6><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<6><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<6><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(3)TFBot<7><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<7><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<7><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(4)TFBot<8><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<8><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<8><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(5)TFBot<9><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<9><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<9><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(6)TFBot<10><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<10><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<10><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(7)TFBot<11><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<11><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<11><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(8)TFBot<12><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<12><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<12><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(9)TFBot<13><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<13><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<13><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(10)TFBot<14><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<14><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<14><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(11)TFBot<15><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<15><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<15><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(12)TFBot<16><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<16><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<16><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(13)TFBot<17><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<17><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<17><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(14)TFBot<18><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<18><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<18><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(15)TFBot<19><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<19><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<19><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(16)TFBot<20><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<20><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<20><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(17)TFBot<21><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<21><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<21><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(18)TFBot<22><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<22><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<22><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(19)TFBot<23><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<23><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<23><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(20)TFBot<24><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<24><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<24><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: "(21)TFBot<25><BOT><>" connected, address "none"
+L 10/19/2020 - 14:17:02: "<25><BOT><>" entered the game
+L 10/19/2020 - 14:17:02: "TFBot<25><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:17:02: server_cvar: "mp_tournament" "1"
+L 10/19/2020 - 14:17:05: server_cvar: "tf_bot_count" "22"
+L 10/19/2020 - 14:17:16: "josepharredondo698<3><[U:1:1139708823]><Red>" committed suicide with "tf_projectile_rocket" (attacker_position "-782 621 -151")
+L 10/19/2020 - 14:17:20: "josepharredondo698<3><[U:1:1139708823]><Red>" disconnected (reason "Disconnect by user.")
+L 10/19/2020 - 14:17:20: MVM assigned josepharredondo698 to defending team (4 more slots remaining after us)
+L 10/19/2020 - 15:12:38: "☭ ƯŘŠŠ ☭ Key-Drop.com<26><[U:1:1081579307]><>" connected, address "190.151.172.21:30230"
+L 10/19/2020 - 15:12:38: "☭ ƯŘŠŠ ☭ Key-Drop.com<26><[U:1:1081579307]><>" STEAM USERID validated
+L 10/19/2020 - 15:21:55: "☭ ƯŘŠŠ ☭ Key-Drop.com<26><[U:1:1081579307]><>" entered the game
+L 10/19/2020 - 15:22:27: MVM assigned ☭ ƯŘŠŠ ☭ Key-Drop.com to defending team (5 more slots remaining after us)
+L 10/19/2020 - 15:22:27: MVM assigned ☭ ƯŘŠŠ ☭ Key-Drop.com to defending team (5 more slots remaining after us)
+L 10/19/2020 - 15:22:27: "☭ ƯŘŠŠ ☭ Key-Drop.com<26><[U:1:1081579307]><Unassigned>" joined team "Red"
+L 10/19/2020 - 15:22:29: "☭ ƯŘŠŠ ☭ Key-Drop.com<26><[U:1:1081579307]><Red>" changed role to "spy"
+L 10/19/2020 - 15:23:30: "☭ ƯŘŠŠ ☭ Key-Drop.com<26><[U:1:1081579307]><Red>" disconnected (reason "Disconnect by user.")
+L 10/19/2020 - 15:23:30: MVM assigned ☭ ƯŘŠŠ ☭ Key-Drop.com to defending team (4 more slots remaining after us)
+L 10/19/2020 - 15:50:31: "Axel<27><[U:1:1025899996]><>" connected, address "172.91.217.125:27005"
+L 10/19/2020 - 15:50:32: "Axel<27><[U:1:1025899996]><>" STEAM USERID validated
+L 10/19/2020 - 15:51:57: "Axel<27><[U:1:1025899996]><>" entered the game
+L 10/19/2020 - 15:52:02: MVM assigned Axel to defending team (5 more slots remaining after us)
+L 10/19/2020 - 15:52:02: MVM assigned Axel to defending team (5 more slots remaining after us)
+L 10/19/2020 - 15:52:02: "Axel<27><[U:1:1025899996]><Unassigned>" joined team "Red"
+L 10/19/2020 - 15:52:03: "Axel<27><[U:1:1025899996]><Red>" changed role to "pyro"
+L 10/19/2020 - 16:00:21: "Axel<27><[U:1:1025899996]><Red>" disconnected (reason "Disconnect by user.")
+L 10/19/2020 - 16:00:21: MVM assigned Axel to defending team (4 more slots remaining after us)
+L 10/19/2020 - 17:48:08: "billlawrence1960<28><[U:1:1123234581]><>" connected, address "73.240.124.71:27005"
+L 10/19/2020 - 17:48:08: "billlawrence1960<28><[U:1:1123234581]><>" STEAM USERID validated
+L 10/19/2020 - 17:49:54: "billlawrence1960<28><[U:1:1123234581]><>" entered the game
+L 10/19/2020 - 17:50:38: MVM assigned billlawrence1960 to defending team (5 more slots remaining after us)
+L 10/19/2020 - 17:50:38: MVM assigned billlawrence1960 to defending team (5 more slots remaining after us)
+L 10/19/2020 - 17:50:38: "billlawrence1960<28><[U:1:1123234581]><Unassigned>" joined team "Red"
+L 10/19/2020 - 17:50:39: "billlawrence1960<28><[U:1:1123234581]><Red>" changed role to "engineer"
+L 10/19/2020 - 17:52:26: "billlawrence1960<28><[U:1:1123234581]><Red>" say "rtv"
+L 10/19/2020 - 17:52:33: MVM assigned billlawrence1960 to defending team (4 more slots remaining after us)
+L 10/19/2020 - 17:52:33: server_cvar: "mp_tournament" "0"
+L 10/19/2020 - 17:52:33: [META] Loaded 0 plugins (1 already loaded)
+L 10/19/2020 - 17:52:33: Loading map "mvm_underground_rc3"
+L 10/19/2020 - 17:52:33: server cvars start
+L 10/19/2020 - 17:52:33: "kartify_version" = "1.5.0A"
+L 10/19/2020 - 17:52:33: "ngs_backpacktf_version" = "2.12.3A"
+L 10/19/2020 - 17:52:33: "steamrep_checker_version" = "1.2.0A"
+L 10/19/2020 - 17:52:33: "local_item_server_version" = "1.1.5A"
+L 10/19/2020 - 17:52:33: "sw_gamedesc_override_version" = "1.1A"
+L 10/19/2020 - 17:52:33: "enhanced_items_version" = "1.1.0A"
+L 10/19/2020 - 17:52:33: "sm_playerpitch_high" = "200"
+L 10/19/2020 - 17:52:33: "sm_playerpitch_low" = "50"
+L 10/19/2020 - 17:52:33: "sm_playerpitch_version" = "1.1.1"
+L 10/19/2020 - 17:52:33: "sm_calladmin_version" = "0.1.8"
+L 10/19/2020 - 17:52:33: "sm_unusuals_version" = "1.0"
+L 10/19/2020 - 17:52:33: "cronjobs_version" = "2.0"
+L 10/19/2020 - 17:52:33: "crontab_version" = "2.0"
+L 10/19/2020 - 17:52:33: "sm_cannounce_version" = "1.8.2"
+L 10/19/2020 - 17:52:33: "sgadmins_version" = "1.2.0"
+L 10/19/2020 - 17:52:33: "sm_sourcesleuth_version" = "1.6.3"
+L 10/19/2020 - 17:52:33: "sm_bhats_version" = "2.0"
+L 10/19/2020 - 17:52:33: "sm_updater_version" = "1.2.2"
+L 10/19/2020 - 17:52:33: "sbpp_report_version" = "1.6.3"
+L 10/19/2020 - 17:52:33: "discord_version" = "1.0"
+L 10/19/2020 - 17:52:33: "sm_helpmenu_version" = "1.0"
+L 10/19/2020 - 17:52:33: "sm_gbc_version" = "1.10"
+L 10/19/2020 - 17:52:33: "sm_spectate_version" = "1.2.3"
+L 10/19/2020 - 17:52:33: "dm_redirect_version" = "0.2.6"
+L 10/19/2020 - 17:52:33: "ssm_core_inc_ver" = "1.0.$Revision: 74 $"
+L 10/19/2020 - 17:52:33: "ssm_core_pl_ver" = "1.0.$Revision: 91 $"
+L 10/19/2020 - 17:52:33: "sm_logo_version" = "2.2"
+L 10/19/2020 - 17:52:33: "sm_resize_version" = "1.6.0"
+L 10/19/2020 - 17:52:33: "sm_tf2idb_version" = "0.93"
+L 10/19/2020 - 17:52:33: "sm_achmod_version" = "1.0"
+L 10/19/2020 - 17:52:33: "webshortcutsredux_version" = "1.2newsyntax"
+L 10/19/2020 - 17:52:33: "discord_sourcebans_version" = "1.0"
+L 10/19/2020 - 17:52:33: "sm_necromash_version" = "1.1"
+L 10/19/2020 - 17:52:33: "tfh_normalhealth" = "1"
+L 10/19/2020 - 17:52:33: "tfh_endoftheline" = "1"
+L 10/19/2020 - 17:52:33: "tfh_aprilfools" = "0"
+L 10/19/2020 - 17:52:33: "tfh_valentines" = "0"
+L 10/19/2020 - 17:52:33: "tfh_winter" = "1"
+L 10/19/2020 - 17:52:33: "tfh_birthday" = "1"
+L 10/19/2020 - 17:52:33: "tfh_fullmoon" = "1"
+L 10/19/2020 - 17:52:33: "tfh_halloween" = "0"
+L 10/19/2020 - 17:52:33: "tfh_enabled" = "1"
+L 10/19/2020 - 17:52:33: "tfh_version" = "1.10.2"
+L 10/19/2020 - 17:52:33: "tf2attributes_version" = "1.3.2"
+L 10/19/2020 - 17:52:33: "discord_sourcecomms_version" = "1.1"
+L 10/19/2020 - 17:52:33: "scp_version" = "2.3.0"
+L 10/19/2020 - 17:52:33: "sm_retryonrestart_enabled" = "1"
+L 10/19/2020 - 17:52:33: "sm_retryonrestart" = "1.2"
+L 10/19/2020 - 17:52:33: "sm_bread_version" = "1.0"
+L 10/19/2020 - 17:52:33: "sm_hive365radio_version" = "4.0.5"
+L 10/19/2020 - 17:52:33: "SA3_version" = "3.1.4"
+L 10/19/2020 - 17:52:33: "sm_cidr_version" = "1.1.6"
+L 10/19/2020 - 17:52:33: "sm_spec_version" = "2.1.2"
+L 10/19/2020 - 17:52:33: "sm_tidychat_version" = "0.5"
+L 10/19/2020 - 17:52:33: "sm_translator_version" = "1.0"
+L 10/19/2020 - 17:52:33: "ffcr_version" = "0.1"
+L 10/19/2020 - 17:52:33: "sbr_version" = "1.6.3"
+L 10/19/2020 - 17:52:33: "sb_version" = "1.6.3"
+L 10/19/2020 - 17:52:33: "sm_ssh_version" = "1.3.4"
+L 10/19/2020 - 17:52:33: "sm_spray_version" = "1.3.4"
+L 10/19/2020 - 17:52:33: "sm_wear_version" = "1.0"
+L 10/19/2020 - 17:52:33: "discord_calladmin_version" = "1.1"
+L 10/19/2020 - 17:52:33: "sbchecker_version" = "1.6.3"
+L 10/19/2020 - 17:52:33: "sourcecomms_version" = "1.6.3"
+L 10/19/2020 - 17:52:33: "sm_tauntspeed_version" = "2.2"
+L 10/19/2020 - 17:52:33: "sm_observerpoint_version" = "1.0.100"
+L 10/19/2020 - 17:52:33: "tf2items_giveweapon_version" = "3.14159"
+L 10/19/2020 - 17:52:33: "tenmvm_version" = "1.1"
+L 10/19/2020 - 17:52:33: "thirdperson_version" = "2.1.0"
+L 10/19/2020 - 17:52:33: "steamtools_version" = "0.10.0+54fdc51"
+L 10/19/2020 - 17:52:33: "tf2items_version" = "1.6.4"
+L 10/19/2020 - 17:52:33: "sourcemod_version" = "1.10.0.6492"
+L 10/19/2020 - 17:52:33: "sm_nextmap" = ""
+L 10/19/2020 - 17:52:33: "metamod_version" = "1.10.7-devV"
+L 10/19/2020 - 17:52:33: "tf_server_identity_disable_quickplay" = "0"
+L 10/19/2020 - 17:52:33: "sv_registration_successful" = "0"
+L 10/19/2020 - 17:52:33: "sv_registration_message" = "No account specified"
+L 10/19/2020 - 17:52:33: "tf_mm_servermode" = "0"
+L 10/19/2020 - 17:52:33: "tf_mm_strict" = "0"
+L 10/19/2020 - 17:52:33: "tf_mm_trusted" = "0"
+L 10/19/2020 - 17:52:33: "sv_vote_quorum_ratio" = "0.6"
+L 10/19/2020 - 17:52:33: "mp_friendlyfire" = "0"
+L 10/19/2020 - 17:52:33: "mp_fadetoblack" = "0"
+L 10/19/2020 - 17:52:33: "sv_gravity" = "800"
+L 10/19/2020 - 17:52:33: "sv_stopspeed" = "100"
+L 10/19/2020 - 17:52:33: "sv_noclipaccelerate" = "5"
+L 10/19/2020 - 17:52:33: "sv_noclipspeed" = "5"
+L 10/19/2020 - 17:52:33: "sv_specaccelerate" = "5"
+L 10/19/2020 - 17:52:33: "sv_specspeed" = "3"
+L 10/19/2020 - 17:52:33: "sv_specnoclip" = "1"
+L 10/19/2020 - 17:52:33: "sv_maxspeed" = "320"
+L 10/19/2020 - 17:52:33: "sv_accelerate" = "10"
+L 10/19/2020 - 17:52:33: "sv_airaccelerate" = "10"
+L 10/19/2020 - 17:52:33: "sv_wateraccelerate" = "10"
+L 10/19/2020 - 17:52:33: "sv_waterfriction" = "1"
+L 10/19/2020 - 17:52:33: "sv_footsteps" = "1"
+L 10/19/2020 - 17:52:33: "sv_rollspeed" = "200"
+L 10/19/2020 - 17:52:33: "sv_rollangle" = "0"
+L 10/19/2020 - 17:52:33: "sv_friction" = "4"
+L 10/19/2020 - 17:52:33: "sv_bounce" = "0"
+L 10/19/2020 - 17:52:33: "sv_stepsize" = "18"
+L 10/19/2020 - 17:52:33: "r_VehicleViewDampen" = "1"
+L 10/19/2020 - 17:52:33: "r_JeepViewDampenFreq" = "7.0"
+L 10/19/2020 - 17:52:33: "r_JeepViewDampenDamp" = "1.0"
+L 10/19/2020 - 17:52:33: "r_JeepViewZHeight" = "10.0"
+L 10/19/2020 - 17:52:33: "r_AirboatViewDampenFreq" = "7.0"
+L 10/19/2020 - 17:52:33: "r_AirboatViewDampenDamp" = "1.0"
+L 10/19/2020 - 17:52:33: "r_AirboatViewZHeight" = "0.0"
+L 10/19/2020 - 17:52:33: "mp_timelimit" = "0"
+L 10/19/2020 - 17:52:33: "mp_fraglimit" = "0"
+L 10/19/2020 - 17:52:33: "nextlevel" = ""
+L 10/19/2020 - 17:52:33: "mp_respawnwavetime" = "10.0"
+L 10/19/2020 - 17:52:33: "mp_tournament" = "0"
+L 10/19/2020 - 17:52:33: "mp_highlander" = "0"
+L 10/19/2020 - 17:52:33: "tf_arena_preround_time" = "10"
+L 10/19/2020 - 17:52:33: "tf_arena_round_time" = "0"
+L 10/19/2020 - 17:52:33: "tf_arena_max_streak" = "3"
+L 10/19/2020 - 17:52:33: "tf_arena_use_queue" = "1"
+L 10/19/2020 - 17:52:33: "mp_maxrounds" = "0"
+L 10/19/2020 - 17:52:33: "mp_winlimit" = "0"
+L 10/19/2020 - 17:52:33: "mp_disable_respawn_times" = "0"
+L 10/19/2020 - 17:52:33: "mp_stalemate_meleeonly" = "0"
+L 10/19/2020 - 17:52:33: "mp_forceautoteam" = "0"
+L 10/19/2020 - 17:52:33: "mp_autoteambalance" = "1"
+L 10/19/2020 - 17:52:33: "mp_stalemate_enable" = "1"
+L 10/19/2020 - 17:52:33: "mp_match_end_at_timelimit" = "0"
+L 10/19/2020 - 17:52:33: "mp_holiday_nogifts" = "0"
+L 10/19/2020 - 17:52:33: "mp_scrambleteams_auto" = "1"
+L 10/19/2020 - 17:52:33: "mp_scrambleteams_auto_windifference" = "2"
+L 10/19/2020 - 17:52:33: "tf_overtime_nag" = "0"
+L 10/19/2020 - 17:52:33: "tf_passtime_scores_per_round" = "5"
+L 10/19/2020 - 17:52:33: "tf_passtime_ball_damping_scale" = "0.01f"
+L 10/19/2020 - 17:52:33: "tf_passtime_ball_drag_coefficient" = "0.01f"
+L 10/19/2020 - 17:52:33: "tf_passtime_ball_inertia_scale" = "1.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_ball_mass" = "1.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_ball_model" = "models/passtime/ball/passtime_ball.mdl"
+L 10/19/2020 - 17:52:33: "tf_passtime_ball_sphere_collision" = "1"
+L 10/19/2020 - 17:52:33: "tf_passtime_ball_sphere_radius" = "7.2f"
+L 10/19/2020 - 17:52:33: "tf_passtime_ball_reset_time" = "15"
+L 10/19/2020 - 17:52:33: "tf_passtime_ball_rotdamping_scale" = "1.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_ball_seek_range" = "128"
+L 10/19/2020 - 17:52:33: "tf_passtime_ball_seek_speed_factor" = "3f"
+L 10/19/2020 - 17:52:33: "tf_passtime_ball_takedamage" = "1"
+L 10/19/2020 - 17:52:33: "tf_passtime_ball_takedamage_force" = "800.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_flinch_boost" = "0"
+L 10/19/2020 - 17:52:33: "tf_passtime_mode_homing_lock_sec" = "1.5f"
+L 10/19/2020 - 17:52:33: "tf_passtime_mode_homing_speed" = "1000.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_overtime_idle_sec" = "5"
+L 10/19/2020 - 17:52:33: "tf_passtime_player_reticles_enemies" = "1"
+L 10/19/2020 - 17:52:33: "tf_passtime_player_reticles_friends" = "2"
+L 10/19/2020 - 17:52:33: "tf_passtime_score_crit_sec" = "5.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_speedboost_on_get_ball_time" = "2.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_steal_on_melee" = "1"
+L 10/19/2020 - 17:52:33: "tf_passtime_teammate_steal_time" = "45"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwarc_scout" = "0.1f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwarc_soldier" = "0.1f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwarc_pyro" = "0.1f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwarc_demoman" = "0.15f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwarc_heavy" = "0.175f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwarc_engineer" = "0.2f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwarc_medic" = "0.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwarc_sniper" = "0.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwarc_spy" = "0.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwspeed_scout" = "700.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwspeed_soldier" = "800.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwspeed_pyro" = "750.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwspeed_demoman" = "850.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwspeed_heavy" = "850.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwspeed_engineer" = "850.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwspeed_medic" = "900.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwspeed_sniper" = "900.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwspeed_spy" = "900.0f"
+L 10/19/2020 - 17:52:33: "tf_passtime_throwspeed_velocity_scale" = "0.33f"
+L 10/19/2020 - 17:52:33: "tf_passtime_save_stats" = "0"
+L 10/19/2020 - 17:52:33: "tf_passtime_experiment_telepass" = "0"
+L 10/19/2020 - 17:52:33: "tf_passtime_experiment_instapass_charge" = "0"
+L 10/19/2020 - 17:52:33: "tf_passtime_experiment_autopass" = "0"
+L 10/19/2020 - 17:52:33: "tf_passtime_experiment_instapass" = "0"
+L 10/19/2020 - 17:52:33: "tf_passtime_powerball_decayamount" = "1"
+L 10/19/2020 - 17:52:33: "tf_passtime_powerball_decaysec" = "4.5f"
+L 10/19/2020 - 17:52:33: "tf_passtime_powerball_decaysec_neutral" = "1.5f"
+L 10/19/2020 - 17:52:33: "tf_passtime_powerball_passpoints" = "25"
+L 10/19/2020 - 17:52:33: "tf_passtime_powerball_threshold" = "80"
+L 10/19/2020 - 17:52:33: "tf_passtime_powerball_airtimebonus" = "40"
+L 10/19/2020 - 17:52:33: "tf_passtime_powerball_maxairtimebonus" = "100"
+L 10/19/2020 - 17:52:33: "tf_passtime_powerball_decay_delay" = "10"
+L 10/19/2020 - 17:52:33: "tf_passtime_pack_range" = "512"
+L 10/19/2020 - 17:52:33: "tf_passtime_pack_speed" = "1"
+L 10/19/2020 - 17:52:33: "tf_passtime_pack_hp_per_sec" = "2.0f"
+L 10/19/2020 - 17:52:33: "tf_use_fixed_weaponspreads" = "0"
+L 10/19/2020 - 17:52:33: "tf_max_charge_speed" = "750"
+L 10/19/2020 - 17:52:33: "tf_halloween_allow_truce_during_boss_event" = "0"
+L 10/19/2020 - 17:52:33: "tf_player_name_change_time" = "60"
+L 10/19/2020 - 17:52:33: "tf_spec_xray" = "1"
+L 10/19/2020 - 17:52:33: "tf_spawn_glows_duration" = "10"
+L 10/19/2020 - 17:52:33: "tf_force_holidays_off" = "0"
+L 10/19/2020 - 17:52:33: "tf_birthday" = "0"
+L 10/19/2020 - 17:52:33: "tf_spells_enabled" = "0"
+L 10/19/2020 - 17:52:33: "mp_tournament_stopwatch" = "1"
+L 10/19/2020 - 17:52:33: "mp_tournament_readymode" = "1"
+L 10/19/2020 - 17:52:33: "mp_tournament_readymode_min" = "2"
+L 10/19/2020 - 17:52:33: "mp_tournament_readymode_team_size" = "0"
+L 10/19/2020 - 17:52:33: "mp_tournament_readymode_countdown" = "10"
+L 10/19/2020 - 17:52:33: "mp_windifference" = "0"
+L 10/19/2020 - 17:52:33: "mp_windifference_min" = "0"
+L 10/19/2020 - 17:52:33: "tf_classlimit" = "0"
+L 10/19/2020 - 17:52:33: "tf_medieval" = "0"
+L 10/19/2020 - 17:52:33: "tf_medieval_autorp" = "1"
+L 10/19/2020 - 17:52:33: "tf_arena_force_class" = "0"
+L 10/19/2020 - 17:52:33: "tf_arena_change_limit" = "1"
+L 10/19/2020 - 17:52:33: "tf_arena_override_cap_enable_time" = "-1"
+L 10/19/2020 - 17:52:33: "tf_arena_first_blood" = "1"
+L 10/19/2020 - 17:52:33: "tf_mvm_min_players_to_start" = "2"
+L 10/19/2020 - 17:52:33: "tf_gamemode_arena" = "0"
+L 10/19/2020 - 17:52:33: "tf_gamemode_cp" = "0"
+L 10/19/2020 - 17:52:33: "tf_gamemode_ctf" = "0"
+L 10/19/2020 - 17:52:33: "tf_gamemode_sd" = "0"
+L 10/19/2020 - 17:52:33: "tf_gamemode_rd" = "0"
+L 10/19/2020 - 17:52:33: "tf_gamemode_pd" = "0"
+L 10/19/2020 - 17:52:33: "tf_gamemode_tc" = "0"
+L 10/19/2020 - 17:52:33: "tf_beta_content" = "0"
+L 10/19/2020 - 17:52:33: "tf_gamemode_payload" = "0"
+L 10/19/2020 - 17:52:33: "tf_gamemode_mvm" = "1"
+L 10/19/2020 - 17:52:33: "tf_gamemode_passtime" = "0"
+L 10/19/2020 - 17:52:33: "tf_gamemode_misc" = "0"
+L 10/19/2020 - 17:52:33: "tf_bot_count" = "22"
+L 10/19/2020 - 17:52:33: "tf_gravetalk" = "1"
+L 10/19/2020 - 17:52:33: "tf_ctf_bonus_time" = "10"
+L 10/19/2020 - 17:52:33: "tf_powerup_mode" = "0"
+L 10/19/2020 - 17:52:33: "tf_damage_disablespread" = "1"
+L 10/19/2020 - 17:52:33: "tf_weapon_criticals" = "1"
+L 10/19/2020 - 17:52:33: "tf_weapon_criticals_melee" = "1"
+L 10/19/2020 - 17:52:33: "sv_alltalk" = "1"
+L 10/19/2020 - 17:52:33: "mp_teamplay" = "0"
+L 10/19/2020 - 17:52:33: "mp_falldamage" = "0"
+L 10/19/2020 - 17:52:33: "mp_weaponstay" = "0"
+L 10/19/2020 - 17:52:33: "mp_forcerespawn" = "1"
+L 10/19/2020 - 17:52:33: "mp_footsteps" = "1"
+L 10/19/2020 - 17:52:33: "mp_flashlight" = "0"
+L 10/19/2020 - 17:52:33: "mp_autocrosshair" = "1"
+L 10/19/2020 - 17:52:33: "decalfrequency" = "0"
+L 10/19/2020 - 17:52:33: "mp_teamlist" = "hgrunt;scientist"
+L 10/19/2020 - 17:52:33: "mp_allowNPCs" = "1"
+L 10/19/2020 - 17:52:33: "sv_maxusrcmdprocessticks" = "24"
+L 10/19/2020 - 17:52:33: "tf_playergib" = "1"
+L 10/19/2020 - 17:52:33: "tf_allow_player_use" = "0"
+L 10/19/2020 - 17:52:33: "tf_mvm_death_penalty" = "0"
+L 10/19/2020 - 17:52:33: "sv_password" = ""
+L 10/19/2020 - 17:52:33: "sv_tags" = "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/19/2020 - 17:52:33: "tv_relaypassword" = ""
+L 10/19/2020 - 17:52:33: "tv_password" = ""
+L 10/19/2020 - 17:52:33: "deathmatch" = "1"
+L 10/19/2020 - 17:52:33: "coop" = "0"
+L 10/19/2020 - 17:52:33: "sv_cheats" = "0"
+L 10/19/2020 - 17:52:33: "sv_pausable" = "0"
+L 10/19/2020 - 17:52:33: "sv_contact" = "admin@pancakes.tf"
+L 10/19/2020 - 17:52:33: "sv_voiceenable" = "1"
+L 10/19/2020 - 17:52:33: "tv_enable" = "0"
+L 10/19/2020 - 17:52:33: "sv_steamgroup" = ""
+L 10/19/2020 - 17:52:33: server cvars end
+L 10/19/2020 - 17:52:35: Started map "mvm_underground_rc3" (CRC "633b49d7972d9c7b3b2179c4c351a7a9")
+L 10/19/2020 - 17:52:35: Executing dedicated server config file tf2server.cfg
+L 10/19/2020 - 17:52:39: server_cvar: "tf_gamemode_mvm" "0"
+L 10/19/2020 - 17:52:39: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,pot"
+L 10/19/2020 - 17:52:39: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,pot"
+L 10/19/2020 - 17:52:39: server_cvar: "sv_tags" "alltalk,best,bots,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,pot"
+L 10/19/2020 - 17:52:39: server_cvar: "sv_tags" "alltalk,best,bots,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,pot"
+L 10/19/2020 - 17:52:39: server_cvar: "tf_bot_count" "0"
+L 10/19/2020 - 17:52:39: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,pot"
+L 10/19/2020 - 17:52:39: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,pot"
+L 10/19/2020 - 17:52:39: server_cvar: "tf_gamemode_mvm" "1"
+L 10/19/2020 - 17:52:39: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/19/2020 - 17:52:39: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/19/2020 - 17:52:39: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 17:53:18: "billlawrence1960<28><[U:1:1123234581]><>" entered the game
+L 10/19/2020 - 17:53:26: MVM assigned billlawrence1960 to defending team (5 more slots remaining after us)
+L 10/19/2020 - 17:53:26: MVM assigned billlawrence1960 to defending team (5 more slots remaining after us)
+L 10/19/2020 - 17:53:26: "billlawrence1960<28><[U:1:1123234581]><Unassigned>" joined team "Red"
+L 10/19/2020 - 17:53:28: "billlawrence1960<28><[U:1:1123234581]><Red>" changed role to "heavyweapons"
+L 10/19/2020 - 17:53:28: "TFBot<29><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<29><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<29><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(1)TFBot<30><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<30><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<30><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(2)TFBot<31><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<31><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<31><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(3)TFBot<32><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<32><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<32><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(4)TFBot<33><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<33><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<33><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(5)TFBot<34><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<34><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<34><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(6)TFBot<35><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<35><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<35><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(7)TFBot<36><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<36><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<36><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(8)TFBot<37><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<37><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<37><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(9)TFBot<38><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<38><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<38><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(10)TFBot<39><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<39><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<39><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(11)TFBot<40><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<40><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<40><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(12)TFBot<41><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<41><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<41><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(13)TFBot<42><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<42><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<42><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(14)TFBot<43><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<43><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<43><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(15)TFBot<44><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<44><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<44><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(16)TFBot<45><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<45><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<45><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(17)TFBot<46><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<46><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<46><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(18)TFBot<47><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<47><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<47><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(19)TFBot<48><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<48><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<48><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(20)TFBot<49><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<49><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<49><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: "(21)TFBot<50><BOT><>" connected, address "none"
+L 10/19/2020 - 17:53:28: "<50><BOT><>" entered the game
+L 10/19/2020 - 17:53:28: "TFBot<50><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:53:28: server_cvar: "mp_tournament" "1"
+L 10/19/2020 - 17:53:30: server_cvar: "tf_bot_count" "22"
+L 10/19/2020 - 17:54:29: "billlawrence1960<28><[U:1:1123234581]><Red>" say "rtv"
+L 10/19/2020 - 17:54:36: MVM assigned billlawrence1960 to defending team (4 more slots remaining after us)
+L 10/19/2020 - 17:54:36: server_cvar: "mp_tournament" "0"
+L 10/19/2020 - 17:54:36: [META] Loaded 0 plugins (1 already loaded)
+L 10/19/2020 - 17:54:37: Loading map "mvm_hideout_b3"
+L 10/19/2020 - 17:54:37: server cvars start
+L 10/19/2020 - 17:54:37: "kartify_version" = "1.5.0A"
+L 10/19/2020 - 17:54:37: "ngs_backpacktf_version" = "2.12.3A"
+L 10/19/2020 - 17:54:37: "steamrep_checker_version" = "1.2.0A"
+L 10/19/2020 - 17:54:37: "local_item_server_version" = "1.1.5A"
+L 10/19/2020 - 17:54:37: "sw_gamedesc_override_version" = "1.1A"
+L 10/19/2020 - 17:54:37: "enhanced_items_version" = "1.1.0A"
+L 10/19/2020 - 17:54:37: "sm_playerpitch_high" = "200"
+L 10/19/2020 - 17:54:37: "sm_playerpitch_low" = "50"
+L 10/19/2020 - 17:54:37: "sm_playerpitch_version" = "1.1.1"
+L 10/19/2020 - 17:54:37: "sm_calladmin_version" = "0.1.8"
+L 10/19/2020 - 17:54:37: "sm_unusuals_version" = "1.0"
+L 10/19/2020 - 17:54:37: "cronjobs_version" = "2.0"
+L 10/19/2020 - 17:54:37: "crontab_version" = "2.0"
+L 10/19/2020 - 17:54:37: "sm_cannounce_version" = "1.8.2"
+L 10/19/2020 - 17:54:37: "sgadmins_version" = "1.2.0"
+L 10/19/2020 - 17:54:37: "sm_sourcesleuth_version" = "1.6.3"
+L 10/19/2020 - 17:54:37: "sm_bhats_version" = "2.0"
+L 10/19/2020 - 17:54:37: "sm_updater_version" = "1.2.2"
+L 10/19/2020 - 17:54:37: "sbpp_report_version" = "1.6.3"
+L 10/19/2020 - 17:54:37: "discord_version" = "1.0"
+L 10/19/2020 - 17:54:37: "sm_helpmenu_version" = "1.0"
+L 10/19/2020 - 17:54:37: "sm_gbc_version" = "1.10"
+L 10/19/2020 - 17:54:37: "sm_spectate_version" = "1.2.3"
+L 10/19/2020 - 17:54:37: "dm_redirect_version" = "0.2.6"
+L 10/19/2020 - 17:54:37: "ssm_core_inc_ver" = "1.0.$Revision: 74 $"
+L 10/19/2020 - 17:54:37: "ssm_core_pl_ver" = "1.0.$Revision: 91 $"
+L 10/19/2020 - 17:54:37: "sm_logo_version" = "2.2"
+L 10/19/2020 - 17:54:37: "sm_resize_version" = "1.6.0"
+L 10/19/2020 - 17:54:37: "sm_tf2idb_version" = "0.93"
+L 10/19/2020 - 17:54:37: "sm_achmod_version" = "1.0"
+L 10/19/2020 - 17:54:37: "webshortcutsredux_version" = "1.2newsyntax"
+L 10/19/2020 - 17:54:37: "discord_sourcebans_version" = "1.0"
+L 10/19/2020 - 17:54:37: "sm_necromash_version" = "1.1"
+L 10/19/2020 - 17:54:37: "tfh_normalhealth" = "1"
+L 10/19/2020 - 17:54:37: "tfh_endoftheline" = "1"
+L 10/19/2020 - 17:54:37: "tfh_aprilfools" = "0"
+L 10/19/2020 - 17:54:37: "tfh_valentines" = "0"
+L 10/19/2020 - 17:54:37: "tfh_winter" = "1"
+L 10/19/2020 - 17:54:37: "tfh_birthday" = "1"
+L 10/19/2020 - 17:54:37: "tfh_fullmoon" = "1"
+L 10/19/2020 - 17:54:37: "tfh_halloween" = "0"
+L 10/19/2020 - 17:54:37: "tfh_enabled" = "1"
+L 10/19/2020 - 17:54:37: "tfh_version" = "1.10.2"
+L 10/19/2020 - 17:54:37: "tf2attributes_version" = "1.3.2"
+L 10/19/2020 - 17:54:37: "discord_sourcecomms_version" = "1.1"
+L 10/19/2020 - 17:54:37: "scp_version" = "2.3.0"
+L 10/19/2020 - 17:54:37: "sm_retryonrestart_enabled" = "1"
+L 10/19/2020 - 17:54:37: "sm_retryonrestart" = "1.2"
+L 10/19/2020 - 17:54:37: "sm_bread_version" = "1.0"
+L 10/19/2020 - 17:54:37: "sm_hive365radio_version" = "4.0.5"
+L 10/19/2020 - 17:54:37: "SA3_version" = "3.1.4"
+L 10/19/2020 - 17:54:37: "sm_cidr_version" = "1.1.6"
+L 10/19/2020 - 17:54:37: "sm_spec_version" = "2.1.2"
+L 10/19/2020 - 17:54:37: "sm_tidychat_version" = "0.5"
+L 10/19/2020 - 17:54:37: "sm_translator_version" = "1.0"
+L 10/19/2020 - 17:54:37: "ffcr_version" = "0.1"
+L 10/19/2020 - 17:54:37: "sbr_version" = "1.6.3"
+L 10/19/2020 - 17:54:37: "sb_version" = "1.6.3"
+L 10/19/2020 - 17:54:37: "sm_ssh_version" = "1.3.4"
+L 10/19/2020 - 17:54:37: "sm_spray_version" = "1.3.4"
+L 10/19/2020 - 17:54:37: "sm_wear_version" = "1.0"
+L 10/19/2020 - 17:54:37: "discord_calladmin_version" = "1.1"
+L 10/19/2020 - 17:54:37: "sbchecker_version" = "1.6.3"
+L 10/19/2020 - 17:54:37: "sourcecomms_version" = "1.6.3"
+L 10/19/2020 - 17:54:37: "sm_tauntspeed_version" = "2.2"
+L 10/19/2020 - 17:54:37: "sm_observerpoint_version" = "1.0.100"
+L 10/19/2020 - 17:54:37: "tf2items_giveweapon_version" = "3.14159"
+L 10/19/2020 - 17:54:37: "tenmvm_version" = "1.1"
+L 10/19/2020 - 17:54:37: "thirdperson_version" = "2.1.0"
+L 10/19/2020 - 17:54:37: "steamtools_version" = "0.10.0+54fdc51"
+L 10/19/2020 - 17:54:37: "tf2items_version" = "1.6.4"
+L 10/19/2020 - 17:54:37: "sourcemod_version" = "1.10.0.6492"
+L 10/19/2020 - 17:54:37: "sm_nextmap" = ""
+L 10/19/2020 - 17:54:37: "metamod_version" = "1.10.7-devV"
+L 10/19/2020 - 17:54:37: "tf_server_identity_disable_quickplay" = "0"
+L 10/19/2020 - 17:54:37: "sv_registration_successful" = "0"
+L 10/19/2020 - 17:54:37: "sv_registration_message" = "No account specified"
+L 10/19/2020 - 17:54:37: "tf_mm_servermode" = "0"
+L 10/19/2020 - 17:54:37: "tf_mm_strict" = "0"
+L 10/19/2020 - 17:54:37: "tf_mm_trusted" = "0"
+L 10/19/2020 - 17:54:37: "sv_vote_quorum_ratio" = "0.6"
+L 10/19/2020 - 17:54:37: "mp_friendlyfire" = "0"
+L 10/19/2020 - 17:54:37: "mp_fadetoblack" = "0"
+L 10/19/2020 - 17:54:37: "sv_gravity" = "800"
+L 10/19/2020 - 17:54:37: "sv_stopspeed" = "100"
+L 10/19/2020 - 17:54:37: "sv_noclipaccelerate" = "5"
+L 10/19/2020 - 17:54:37: "sv_noclipspeed" = "5"
+L 10/19/2020 - 17:54:37: "sv_specaccelerate" = "5"
+L 10/19/2020 - 17:54:37: "sv_specspeed" = "3"
+L 10/19/2020 - 17:54:37: "sv_specnoclip" = "1"
+L 10/19/2020 - 17:54:37: "sv_maxspeed" = "320"
+L 10/19/2020 - 17:54:37: "sv_accelerate" = "10"
+L 10/19/2020 - 17:54:37: "sv_airaccelerate" = "10"
+L 10/19/2020 - 17:54:37: "sv_wateraccelerate" = "10"
+L 10/19/2020 - 17:54:37: "sv_waterfriction" = "1"
+L 10/19/2020 - 17:54:37: "sv_footsteps" = "1"
+L 10/19/2020 - 17:54:37: "sv_rollspeed" = "200"
+L 10/19/2020 - 17:54:37: "sv_rollangle" = "0"
+L 10/19/2020 - 17:54:37: "sv_friction" = "4"
+L 10/19/2020 - 17:54:37: "sv_bounce" = "0"
+L 10/19/2020 - 17:54:37: "sv_stepsize" = "18"
+L 10/19/2020 - 17:54:37: "r_VehicleViewDampen" = "1"
+L 10/19/2020 - 17:54:37: "r_JeepViewDampenFreq" = "7.0"
+L 10/19/2020 - 17:54:37: "r_JeepViewDampenDamp" = "1.0"
+L 10/19/2020 - 17:54:37: "r_JeepViewZHeight" = "10.0"
+L 10/19/2020 - 17:54:37: "r_AirboatViewDampenFreq" = "7.0"
+L 10/19/2020 - 17:54:37: "r_AirboatViewDampenDamp" = "1.0"
+L 10/19/2020 - 17:54:37: "r_AirboatViewZHeight" = "0.0"
+L 10/19/2020 - 17:54:37: "mp_timelimit" = "0"
+L 10/19/2020 - 17:54:37: "mp_fraglimit" = "0"
+L 10/19/2020 - 17:54:37: "nextlevel" = ""
+L 10/19/2020 - 17:54:37: "mp_respawnwavetime" = "10.0"
+L 10/19/2020 - 17:54:37: "mp_tournament" = "0"
+L 10/19/2020 - 17:54:37: "mp_highlander" = "0"
+L 10/19/2020 - 17:54:37: "tf_arena_preround_time" = "10"
+L 10/19/2020 - 17:54:37: "tf_arena_round_time" = "0"
+L 10/19/2020 - 17:54:37: "tf_arena_max_streak" = "3"
+L 10/19/2020 - 17:54:37: "tf_arena_use_queue" = "1"
+L 10/19/2020 - 17:54:37: "mp_maxrounds" = "0"
+L 10/19/2020 - 17:54:37: "mp_winlimit" = "0"
+L 10/19/2020 - 17:54:37: "mp_disable_respawn_times" = "0"
+L 10/19/2020 - 17:54:37: "mp_stalemate_meleeonly" = "0"
+L 10/19/2020 - 17:54:37: "mp_forceautoteam" = "0"
+L 10/19/2020 - 17:54:37: "mp_autoteambalance" = "1"
+L 10/19/2020 - 17:54:37: "mp_stalemate_enable" = "1"
+L 10/19/2020 - 17:54:37: "mp_match_end_at_timelimit" = "0"
+L 10/19/2020 - 17:54:37: "mp_holiday_nogifts" = "0"
+L 10/19/2020 - 17:54:37: "mp_scrambleteams_auto" = "1"
+L 10/19/2020 - 17:54:37: "mp_scrambleteams_auto_windifference" = "2"
+L 10/19/2020 - 17:54:37: "tf_overtime_nag" = "0"
+L 10/19/2020 - 17:54:37: "tf_passtime_scores_per_round" = "5"
+L 10/19/2020 - 17:54:37: "tf_passtime_ball_damping_scale" = "0.01f"
+L 10/19/2020 - 17:54:37: "tf_passtime_ball_drag_coefficient" = "0.01f"
+L 10/19/2020 - 17:54:37: "tf_passtime_ball_inertia_scale" = "1.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_ball_mass" = "1.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_ball_model" = "models/passtime/ball/passtime_ball.mdl"
+L 10/19/2020 - 17:54:37: "tf_passtime_ball_sphere_collision" = "1"
+L 10/19/2020 - 17:54:37: "tf_passtime_ball_sphere_radius" = "7.2f"
+L 10/19/2020 - 17:54:37: "tf_passtime_ball_reset_time" = "15"
+L 10/19/2020 - 17:54:37: "tf_passtime_ball_rotdamping_scale" = "1.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_ball_seek_range" = "128"
+L 10/19/2020 - 17:54:37: "tf_passtime_ball_seek_speed_factor" = "3f"
+L 10/19/2020 - 17:54:37: "tf_passtime_ball_takedamage" = "1"
+L 10/19/2020 - 17:54:37: "tf_passtime_ball_takedamage_force" = "800.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_flinch_boost" = "0"
+L 10/19/2020 - 17:54:37: "tf_passtime_mode_homing_lock_sec" = "1.5f"
+L 10/19/2020 - 17:54:37: "tf_passtime_mode_homing_speed" = "1000.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_overtime_idle_sec" = "5"
+L 10/19/2020 - 17:54:37: "tf_passtime_player_reticles_enemies" = "1"
+L 10/19/2020 - 17:54:37: "tf_passtime_player_reticles_friends" = "2"
+L 10/19/2020 - 17:54:37: "tf_passtime_score_crit_sec" = "5.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_speedboost_on_get_ball_time" = "2.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_steal_on_melee" = "1"
+L 10/19/2020 - 17:54:37: "tf_passtime_teammate_steal_time" = "45"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwarc_scout" = "0.1f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwarc_soldier" = "0.1f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwarc_pyro" = "0.1f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwarc_demoman" = "0.15f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwarc_heavy" = "0.175f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwarc_engineer" = "0.2f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwarc_medic" = "0.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwarc_sniper" = "0.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwarc_spy" = "0.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwspeed_scout" = "700.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwspeed_soldier" = "800.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwspeed_pyro" = "750.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwspeed_demoman" = "850.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwspeed_heavy" = "850.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwspeed_engineer" = "850.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwspeed_medic" = "900.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwspeed_sniper" = "900.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwspeed_spy" = "900.0f"
+L 10/19/2020 - 17:54:37: "tf_passtime_throwspeed_velocity_scale" = "0.33f"
+L 10/19/2020 - 17:54:37: "tf_passtime_save_stats" = "0"
+L 10/19/2020 - 17:54:37: "tf_passtime_experiment_telepass" = "0"
+L 10/19/2020 - 17:54:37: "tf_passtime_experiment_instapass_charge" = "0"
+L 10/19/2020 - 17:54:37: "tf_passtime_experiment_autopass" = "0"
+L 10/19/2020 - 17:54:37: "tf_passtime_experiment_instapass" = "0"
+L 10/19/2020 - 17:54:37: "tf_passtime_powerball_decayamount" = "1"
+L 10/19/2020 - 17:54:37: "tf_passtime_powerball_decaysec" = "4.5f"
+L 10/19/2020 - 17:54:37: "tf_passtime_powerball_decaysec_neutral" = "1.5f"
+L 10/19/2020 - 17:54:37: "tf_passtime_powerball_passpoints" = "25"
+L 10/19/2020 - 17:54:37: "tf_passtime_powerball_threshold" = "80"
+L 10/19/2020 - 17:54:37: "tf_passtime_powerball_airtimebonus" = "40"
+L 10/19/2020 - 17:54:37: "tf_passtime_powerball_maxairtimebonus" = "100"
+L 10/19/2020 - 17:54:37: "tf_passtime_powerball_decay_delay" = "10"
+L 10/19/2020 - 17:54:37: "tf_passtime_pack_range" = "512"
+L 10/19/2020 - 17:54:37: "tf_passtime_pack_speed" = "1"
+L 10/19/2020 - 17:54:37: "tf_passtime_pack_hp_per_sec" = "2.0f"
+L 10/19/2020 - 17:54:37: "tf_use_fixed_weaponspreads" = "0"
+L 10/19/2020 - 17:54:37: "tf_max_charge_speed" = "750"
+L 10/19/2020 - 17:54:37: "tf_halloween_allow_truce_during_boss_event" = "0"
+L 10/19/2020 - 17:54:37: "tf_player_name_change_time" = "60"
+L 10/19/2020 - 17:54:37: "tf_spec_xray" = "1"
+L 10/19/2020 - 17:54:37: "tf_spawn_glows_duration" = "10"
+L 10/19/2020 - 17:54:37: "tf_force_holidays_off" = "0"
+L 10/19/2020 - 17:54:37: "tf_birthday" = "0"
+L 10/19/2020 - 17:54:37: "tf_spells_enabled" = "0"
+L 10/19/2020 - 17:54:37: "mp_tournament_stopwatch" = "1"
+L 10/19/2020 - 17:54:37: "mp_tournament_readymode" = "1"
+L 10/19/2020 - 17:54:37: "mp_tournament_readymode_min" = "2"
+L 10/19/2020 - 17:54:37: "mp_tournament_readymode_team_size" = "0"
+L 10/19/2020 - 17:54:37: "mp_tournament_readymode_countdown" = "10"
+L 10/19/2020 - 17:54:37: "mp_windifference" = "0"
+L 10/19/2020 - 17:54:37: "mp_windifference_min" = "0"
+L 10/19/2020 - 17:54:37: "tf_classlimit" = "0"
+L 10/19/2020 - 17:54:37: "tf_medieval" = "0"
+L 10/19/2020 - 17:54:37: "tf_medieval_autorp" = "1"
+L 10/19/2020 - 17:54:37: "tf_arena_force_class" = "0"
+L 10/19/2020 - 17:54:37: "tf_arena_change_limit" = "1"
+L 10/19/2020 - 17:54:37: "tf_arena_override_cap_enable_time" = "-1"
+L 10/19/2020 - 17:54:37: "tf_arena_first_blood" = "1"
+L 10/19/2020 - 17:54:37: "tf_mvm_min_players_to_start" = "2"
+L 10/19/2020 - 17:54:37: "tf_gamemode_arena" = "0"
+L 10/19/2020 - 17:54:37: "tf_gamemode_cp" = "0"
+L 10/19/2020 - 17:54:37: "tf_gamemode_ctf" = "0"
+L 10/19/2020 - 17:54:37: "tf_gamemode_sd" = "0"
+L 10/19/2020 - 17:54:37: "tf_gamemode_rd" = "0"
+L 10/19/2020 - 17:54:37: "tf_gamemode_pd" = "0"
+L 10/19/2020 - 17:54:37: "tf_gamemode_tc" = "0"
+L 10/19/2020 - 17:54:37: "tf_beta_content" = "0"
+L 10/19/2020 - 17:54:37: "tf_gamemode_payload" = "0"
+L 10/19/2020 - 17:54:37: "tf_gamemode_mvm" = "1"
+L 10/19/2020 - 17:54:37: "tf_gamemode_passtime" = "0"
+L 10/19/2020 - 17:54:37: "tf_gamemode_misc" = "0"
+L 10/19/2020 - 17:54:37: "tf_bot_count" = "22"
+L 10/19/2020 - 17:54:37: "tf_gravetalk" = "1"
+L 10/19/2020 - 17:54:37: "tf_ctf_bonus_time" = "10"
+L 10/19/2020 - 17:54:37: "tf_powerup_mode" = "0"
+L 10/19/2020 - 17:54:37: "tf_damage_disablespread" = "1"
+L 10/19/2020 - 17:54:37: "tf_weapon_criticals" = "1"
+L 10/19/2020 - 17:54:37: "tf_weapon_criticals_melee" = "1"
+L 10/19/2020 - 17:54:37: "sv_alltalk" = "1"
+L 10/19/2020 - 17:54:37: "mp_teamplay" = "0"
+L 10/19/2020 - 17:54:37: "mp_falldamage" = "0"
+L 10/19/2020 - 17:54:37: "mp_weaponstay" = "0"
+L 10/19/2020 - 17:54:37: "mp_forcerespawn" = "1"
+L 10/19/2020 - 17:54:37: "mp_footsteps" = "1"
+L 10/19/2020 - 17:54:37: "mp_flashlight" = "0"
+L 10/19/2020 - 17:54:37: "mp_autocrosshair" = "1"
+L 10/19/2020 - 17:54:37: "decalfrequency" = "0"
+L 10/19/2020 - 17:54:37: "mp_teamlist" = "hgrunt;scientist"
+L 10/19/2020 - 17:54:37: "mp_allowNPCs" = "1"
+L 10/19/2020 - 17:54:37: "sv_maxusrcmdprocessticks" = "24"
+L 10/19/2020 - 17:54:37: "tf_playergib" = "1"
+L 10/19/2020 - 17:54:37: "tf_allow_player_use" = "0"
+L 10/19/2020 - 17:54:37: "tf_mvm_death_penalty" = "0"
+L 10/19/2020 - 17:54:37: "sv_password" = ""
+L 10/19/2020 - 17:54:37: "sv_tags" = "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 17:54:37: "tv_relaypassword" = ""
+L 10/19/2020 - 17:54:37: "tv_password" = ""
+L 10/19/2020 - 17:54:37: "deathmatch" = "1"
+L 10/19/2020 - 17:54:37: "coop" = "0"
+L 10/19/2020 - 17:54:37: "sv_cheats" = "0"
+L 10/19/2020 - 17:54:37: "sv_pausable" = "0"
+L 10/19/2020 - 17:54:37: "sv_contact" = "admin@pancakes.tf"
+L 10/19/2020 - 17:54:37: "sv_voiceenable" = "1"
+L 10/19/2020 - 17:54:37: "tv_enable" = "0"
+L 10/19/2020 - 17:54:37: "sv_steamgroup" = ""
+L 10/19/2020 - 17:54:37: server cvars end
+L 10/19/2020 - 17:54:37: Started map "mvm_hideout_b3" (CRC "10edfe8195c6b4755bc9cb165608cc98")
+L 10/19/2020 - 17:54:37: Executing dedicated server config file tf2server.cfg
+L 10/19/2020 - 17:54:42: server_cvar: "tf_gamemode_mvm" "0"
+L 10/19/2020 - 17:54:42: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 17:54:42: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 17:54:42: server_cvar: "sv_tags" "alltalk,best,bots,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 17:54:42: server_cvar: "sv_tags" "alltalk,best,bots,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 17:54:42: server_cvar: "tf_bot_count" "0"
+L 10/19/2020 - 17:54:42: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 17:54:42: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 17:54:42: server_cvar: "tf_gamemode_mvm" "1"
+L 10/19/2020 - 17:54:42: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 17:54:42: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 17:55:14: "billlawrence1960<28><[U:1:1123234581]><>" entered the game
+L 10/19/2020 - 17:55:19: MVM assigned billlawrence1960 to defending team (5 more slots remaining after us)
+L 10/19/2020 - 17:55:19: MVM assigned billlawrence1960 to defending team (5 more slots remaining after us)
+L 10/19/2020 - 17:55:19: "billlawrence1960<28><[U:1:1123234581]><Unassigned>" joined team "Red"
+L 10/19/2020 - 17:55:21: "billlawrence1960<28><[U:1:1123234581]><Red>" changed role to "engineer"
+L 10/19/2020 - 17:55:21: "TFBot<51><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<51><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<51><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(1)TFBot<52><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<52><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<52><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(2)TFBot<53><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<53><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<53><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(3)TFBot<54><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<54><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<54><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(4)TFBot<55><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<55><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<55><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(5)TFBot<56><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<56><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<56><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(6)TFBot<57><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<57><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<57><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(7)TFBot<58><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<58><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<58><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(8)TFBot<59><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<59><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<59><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(9)TFBot<60><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<60><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<60><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(10)TFBot<61><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<61><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<61><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(11)TFBot<62><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<62><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<62><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(12)TFBot<63><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<63><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<63><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(13)TFBot<64><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<64><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<64><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(14)TFBot<65><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<65><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<65><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(15)TFBot<66><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<66><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<66><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(16)TFBot<67><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<67><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<67><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(17)TFBot<68><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<68><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<68><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(18)TFBot<69><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<69><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<69><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(19)TFBot<70><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<70><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<70><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(20)TFBot<71><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<71><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<71><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: "(21)TFBot<72><BOT><>" connected, address "none"
+L 10/19/2020 - 17:55:21: "<72><BOT><>" entered the game
+L 10/19/2020 - 17:55:21: "TFBot<72><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 17:55:21: server_cvar: "mp_tournament" "1"
+L 10/19/2020 - 17:55:23: server_cvar: "tf_bot_count" "22"
+L 10/19/2020 - 17:55:58: "billlawrence1960<28><[U:1:1123234581]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1726 871 640")
+L 10/19/2020 - 17:56:01: "billlawrence1960<28><[U:1:1123234581]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2230 261 521")
+L 10/19/2020 - 17:56:11: "billlawrence1960<28><[U:1:1123234581]><Red>" committed suicide with "world" (attacker_position "-1249 -1299 506")
+L 10/19/2020 - 17:56:22: "billlawrence1960<28><[U:1:1123234581]><Red>" disconnected (reason "Disconnect by user.")
+L 10/19/2020 - 17:56:22: "billlawrence1960<28><[U:1:1123234581]><Red>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "2368 0 896")
+L 10/19/2020 - 17:56:22: "billlawrence1960<28><[U:1:1123234581]><Red>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "2368 0 896")
+L 10/19/2020 - 17:56:22: MVM assigned billlawrence1960 to defending team (4 more slots remaining after us)
+L 10/19/2020 - 21:58:28: "Master of the Hellish Yard<73><[U:1:176586398]><>" connected, address "216.165.229.138:27005"
+L 10/19/2020 - 21:58:29: "Master of the Hellish Yard<73><[U:1:176586398]><>" STEAM USERID validated
+L 10/19/2020 - 21:58:52: "Master of the Hellish Yard<73><[U:1:176586398]><>" entered the game
+L 10/19/2020 - 21:58:57: MVM assigned Master of the Hellish Yard to defending team (5 more slots remaining after us)
+L 10/19/2020 - 21:58:57: MVM assigned Master of the Hellish Yard to defending team (5 more slots remaining after us)
+L 10/19/2020 - 21:58:57: "Master of the Hellish Yard<73><[U:1:176586398]><Unassigned>" joined team "Red"
+L 10/19/2020 - 21:58:58: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" changed role to "scout"
+L 10/19/2020 - 21:59:18: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" say "!tp"
+L 10/19/2020 - 21:59:34: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" say "!taunt"
+L 10/19/2020 - 21:59:39: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" say "!taunt"
+L 10/19/2020 - 21:59:48: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" say "!taunt 3"
+L 10/19/2020 - 21:59:51: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" say "!taunt 2"
+L 10/19/2020 - 22:00:17: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" changed role to "demoman"
+L 10/19/2020 - 22:00:18: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" changed role to "scout"
+L 10/19/2020 - 22:01:02: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" changed role to "soldier"
+L 10/19/2020 - 22:01:38: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" changed role to "engineer"
+L 10/19/2020 - 22:01:50: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" changed role to "heavyweapons"
+L 10/19/2020 - 22:01:51: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" changed role to "engineer"
+L 10/19/2020 - 22:03:02: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" changed role to "scout"
+L 10/19/2020 - 22:03:40: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" changed role to "medic"
+L 10/19/2020 - 22:03:46: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" changed role to "sniper"
+L 10/19/2020 - 22:03:53: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" changed role to "scout"
+L 10/19/2020 - 22:04:01: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" changed role to "demoman"
+L 10/19/2020 - 22:04:02: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" changed role to "scout"
+L 10/19/2020 - 22:04:51: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" committed suicide with "world" (attacker_position "-1691 -1394 509")
+L 10/19/2020 - 22:05:10: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" changed role to "medic"
+L 10/19/2020 - 22:05:54: "Master of the Hellish Yard<73><[U:1:176586398]><Red>" disconnected (reason "Disconnect by user.")
+L 10/19/2020 - 22:05:55: MVM assigned Master of the Hellish Yard to defending team (4 more slots remaining after us)
+L 10/19/2020 - 23:50:56: "Master of the Hellish Yard<74><[U:1:176586398]><>" connected, address "216.165.229.138:27005"
+L 10/19/2020 - 23:50:56: "Master of the Hellish Yard<74><[U:1:176586398]><>" STEAM USERID validated
+L 10/19/2020 - 23:51:07: "Master of the Hellish Yard<74><[U:1:176586398]><>" entered the game
+L 10/19/2020 - 23:51:12: MVM assigned Master of the Hellish Yard to defending team (5 more slots remaining after us)
+L 10/19/2020 - 23:51:12: MVM assigned Master of the Hellish Yard to defending team (5 more slots remaining after us)
+L 10/19/2020 - 23:51:12: "Master of the Hellish Yard<74><[U:1:176586398]><Unassigned>" joined team "Red"
+L 10/19/2020 - 23:51:14: "Cheers luv, the meme are here<75><[U:1:119725119]><>" connected, address "107.184.197.242:27005"
+L 10/19/2020 - 23:51:14: "Cheers luv, the meme are here<75><[U:1:119725119]><>" STEAM USERID validated
+L 10/19/2020 - 23:51:14: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" changed role to "medic"
+L 10/19/2020 - 23:51:17: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" changed role to "scout"
+L 10/19/2020 - 23:51:26: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" say "!taunt"
+L 10/19/2020 - 23:53:07: "Cheers luv, the meme are here<75><[U:1:119725119]><>" entered the game
+L 10/19/2020 - 23:53:11: MVM assigned Cheers luv, the meme are here to defending team (4 more slots remaining after us)
+L 10/19/2020 - 23:53:11: MVM assigned Cheers luv, the meme are here to defending team (4 more slots remaining after us)
+L 10/19/2020 - 23:53:11: "Cheers luv, the meme are here<75><[U:1:119725119]><Unassigned>" joined team "Red"
+L 10/19/2020 - 23:53:12: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" changed role to "soldier"
+L 10/19/2020 - 23:53:23: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" say "!taunt"
+L 10/19/2020 - 23:53:37: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" say "!taunt"
+L 10/19/2020 - 23:53:49: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" say "!taunt"
+L 10/19/2020 - 23:54:09: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" say "!taunt"
+L 10/19/2020 - 23:55:11: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" say "!taunt"
+L 10/19/2020 - 23:56:59: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" say "!unusual"
+L 10/19/2020 - 23:57:05: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" say "!unusual"
+L 10/19/2020 - 23:59:46: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" changed role to "engineer"
+L 10/20/2020 - 00:00:35: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" changed role to "demoman"
+L 10/20/2020 - 00:00:36: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" changed role to "medic"
+L 10/20/2020 - 00:00:45: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" changed role to "engineer"
+L 10/20/2020 - 00:00:57: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1995 137 896")
+L 10/20/2020 - 00:00:57: server_cvar: "mp_tournament_stopwatch" "0"
+L 10/20/2020 - 00:00:57: "TFBot<51><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:00:57: "TFBot<51><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:00:58: "(1)TFBot<52><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:00:58: "(1)TFBot<52><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:00:58: "(2)TFBot<53><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:00:58: "(2)TFBot<53><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:00:58: "Chili Knight<51><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-4424 2499 640")
+L 10/20/2020 - 00:01:03: "(3)TFBot<54><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:03: "(3)TFBot<54><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:01:03: "(4)TFBot<55><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:03: "(4)TFBot<55><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:01:03: "(5)TFBot<56><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:03: "(5)TFBot<56><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:01:03: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "1723 -592 896")
+L 10/20/2020 - 00:01:05: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "1664 -721 896")
+L 10/20/2020 - 00:01:07: "(6)TFBot<57><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:07: "(6)TFBot<57><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:01:08: "(7)TFBot<58><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:08: "(7)TFBot<58><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:01:08: "(8)TFBot<59><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:08: "(8)TFBot<59><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:01:08: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "1721 -494 896")
+L 10/20/2020 - 00:01:16: "(9)TFBot<60><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:16: "(9)TFBot<60><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:01:16: "(10)TFBot<61><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:16: "(10)TFBot<61><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:01:16: "(11)TFBot<62><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:16: "(11)TFBot<62><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:01:18: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<56><BOT><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-1944 383 566") (victim_position "-2178 558 529")
+L 10/20/2020 - 00:01:20: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" say "/god"
+L 10/20/2020 - 00:01:23: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Bowman<59><BOT><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-1809 615 611") (victim_position "-2145 722 544")
+L 10/20/2020 - 00:01:23: "Chili Knight<56><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:01:24: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Bowman<58><BOT><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-1740 709 605") (victim_position "-2198 595 527")
+L 10/20/2020 - 00:01:26: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Bowman<57><BOT><Blue>" with "wrench" (attacker_position "-2131 425 535") (victim_position "-2098 477 539")
+L 10/20/2020 - 00:01:26: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "kill assist" against "Chili Bowman<57><BOT><Blue>" (assister_position "-1601 592 652") (attacker_position "-2131 425 535") (victim_position "-2098 477 539")
+L 10/20/2020 - 00:01:26: "(12)TFBot<63><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:26: "(12)TFBot<63><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:01:26: "(13)TFBot<64><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:26: "(13)TFBot<64><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:01:26: "(14)TFBot<65><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:26: "(14)TFBot<65><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:01:27: "(15)TFBot<66><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:27: "(15)TFBot<66><BOT><Blue>" changed role to "pyro"
+L 10/20/2020 - 00:01:28: "Chili Bowman<59><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:01:29: "Chili Bowman<58><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:01:29: "Chili Knight<53><BOT><Blue>" killed "Master of the Hellish Yard<74><[U:1:176586398]><Red>" with "sword" (attacker_position "-1938 871 621") (victim_position "-1912 790 588")
+L 10/20/2020 - 00:01:29: "Chili Knight<52><BOT><Blue>" triggered "kill assist" against "Master of the Hellish Yard<74><[U:1:176586398]><Red>" (assister_position "-1979 727 669") (attacker_position "-1938 871 621") (victim_position "-1912 790 588")
+L 10/20/2020 - 00:01:31: "Chili Bowman<57><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:01:32: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<55><BOT><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-1126 675 704") (victim_position "-1428 705 640")
+L 10/20/2020 - 00:01:32: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<52><BOT><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-1126 675 704") (victim_position "-1491 673 638")
+L 10/20/2020 - 00:01:32: "(16)TFBot<67><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:32: "(16)TFBot<67><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:01:32: "(17)TFBot<68><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:32: "(17)TFBot<68><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:01:32: "(18)TFBot<69><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:01:32: "(18)TFBot<69><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:01:36: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Bowman<62><BOT><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-682 216 759") (victim_position "-1040 499 704")
+L 10/20/2020 - 00:01:37: "Chili Knight<55><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:01:37: "Chili Knight<52><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:01:41: "Chili Bowman<62><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:01:44: "Chili Knight<67><BOT><Blue>" killed "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" with "sword" (attacker_position "-2153 598 533") (victim_position "-2201 591 526")
+L 10/20/2020 - 00:01:44: "Chili Bowman<65><BOT><Blue>" triggered "kill assist" against "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" (assister_position "-2149 475 532") (attacker_position "-2153 598 533") (victim_position "-2201 591 526")
+L 10/20/2020 - 00:01:51: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Knight<53><BOT><Blue>" with "wrench" (attacker_position "-230 109 705") (victim_position "-267 61 704")
+L 10/20/2020 - 00:01:56: "Chili Knight<53><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:01:58: "Chili Bowman<65><BOT><Blue>" killed "Master of the Hellish Yard<74><[U:1:176586398]><Red>" with "tf_projectile_arrow" (attacker_position "199 706 768") (victim_position "797 425 781")
+L 10/20/2020 - 00:02:03: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<54><BOT><Blue>" with "tf_projectile_pipe_remote" (attacker_position "1363 -467 809") (victim_position "952 -314 815")
+L 10/20/2020 - 00:02:04: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "flagevent" (event "defended") (position "1924 132 896")
+L 10/20/2020 - 00:02:04: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Knight<51><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1924 132 896") (victim_position "1116 -183 800")
+L 10/20/2020 - 00:02:04: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "kill assist" against "Chili Knight<51><BOT><Blue>" (assister_position "1475 -258 828") (attacker_position "1924 132 896") (victim_position "1116 -183 800")
+L 10/20/2020 - 00:02:04: "Chili Knight<51><BOT><Blue>" triggered "flagevent" (event "dropped") (position "1116 -183 800")
+L 10/20/2020 - 00:02:04: "(19)TFBot<70><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:02:04: "(19)TFBot<70><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:02:04: "(20)TFBot<71><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:02:04: "(20)TFBot<71><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:02:04: "(21)TFBot<72><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:02:04: "(21)TFBot<72><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:02:05: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Knight<67><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1924 132 896") (victim_position "1290 -301 800")
+L 10/20/2020 - 00:02:05: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "kill assist" against "Chili Knight<67><BOT><Blue>" (assister_position "1447 -57 845") (attacker_position "1924 132 896") (victim_position "1290 -301 800")
+L 10/20/2020 - 00:02:05: "Chili Knight<69><BOT><Blue>" triggered "flagevent" (event "picked up") (position "1052 -238 800")
+L 10/20/2020 - 00:02:05: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Knight<68><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1924 132 896") (victim_position "1259 -283 800")
+L 10/20/2020 - 00:02:05: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "kill assist" against "Chili Knight<68><BOT><Blue>" (assister_position "1395 127 848") (attacker_position "1924 132 896") (victim_position "1259 -283 800")
+L 10/20/2020 - 00:02:06: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Bowman<61><BOT><Blue>" with "tf_projectile_pipe_remote" (attacker_position "1437 229 800") (victim_position "1077 -151 800")
+L 10/20/2020 - 00:02:06: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "flagevent" (event "defended") (position "1469 217 808")
+L 10/20/2020 - 00:02:06: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<69><BOT><Blue>" with "tf_projectile_pipe_remote" (attacker_position "1469 217 808") (victim_position "1119 -194 800")
+L 10/20/2020 - 00:02:06: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "kill assist" against "Chili Knight<69><BOT><Blue>" (assister_position "1924 132 896") (attacker_position "1469 217 808") (victim_position "1119 -194 800")
+L 10/20/2020 - 00:02:06: "Chili Knight<69><BOT><Blue>" triggered "flagevent" (event "dropped") (position "1119 -194 800")
+L 10/20/2020 - 00:02:07: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Bowman<63><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1924 132 896") (victim_position "918 -248 832")
+L 10/20/2020 - 00:02:07: "Chili Knight<56><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:02:07: "Chili Knight<56><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:02:07: "Chili Bowman<59><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:02:07: "Chili Bowman<58><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:02:07: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Bowman<64><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1924 132 896") (victim_position "1030 -28 800")
+L 10/20/2020 - 00:02:07: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "kill assist" against "Chili Bowman<64><BOT><Blue>" (assister_position "1489 168 808") (attacker_position "1924 132 896") (victim_position "1030 -28 800")
+L 10/20/2020 - 00:02:07: "Chili Bowman<60><BOT><Blue>" triggered "flagevent" (event "picked up") (position "1071 -263 800")
+L 10/20/2020 - 00:02:07: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "flagevent" (event "defended") (position "1924 132 896")
+L 10/20/2020 - 00:02:07: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Bowman<60><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1924 132 896") (victim_position "1084 -229 800")
+L 10/20/2020 - 00:02:07: "Chili Bowman<60><BOT><Blue>" triggered "flagevent" (event "dropped") (position "1084 -229 800")
+L 10/20/2020 - 00:02:08: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Bowman<65><BOT><Blue>" with "tf_projectile_pipe_remote" (attacker_position "1517 -82 802") (victim_position "999 -257 800")
+L 10/20/2020 - 00:02:08: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "kill assist" against "Chili Bowman<65><BOT><Blue>" (assister_position "1924 132 896") (attacker_position "1517 -82 802") (victim_position "999 -257 800")
+L 10/20/2020 - 00:02:08: "Chili Knight<54><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:09: "Chili Bowman<57><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:02:09: "Chili Bowman<57><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:02:09: "Chili Knight<55><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:02:09: "Chili Knight<52><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:02:09: "Chili Knight<51><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:10: "Chili Knight<67><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:11: "Chili Knight<68><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:11: "Chili Bowman<61><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:11: "Chili Knight<69><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:12: "Chili Bowman<63><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:12: "Chili Bowman<64><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:12: "Chili Bowman<60><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:13: "Chili Bowman<65><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:15: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" say "rtd"
+L 10/20/2020 - 00:02:15: "Chili Bowman<62><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:02:15: "Chili Knight<53><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:02:15: "Chili Knight<53><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:02:15: "Chili Knight<54><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:02:15: "Chili Knight<54><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:02:17: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" say "!rtd"
+L 10/20/2020 - 00:02:22: "Chili Giant Pyro<66><BOT><Blue>" triggered "flagevent" (event "picked up") (position "999 -262 808")
+L 10/20/2020 - 00:02:25: "Chili Giant Pyro<66><BOT><Blue>" triggered "flagevent" (event "captured") (team_caps "0") (caps_per_round "3") (position "1088 -206 800")
+L 10/20/2020 - 00:02:25: World triggered "Round_Win" (winner "Blue")
+L 10/20/2020 - 00:02:25: World triggered "Round_Length" (seconds "22022.23")
+L 10/20/2020 - 00:02:25: Team "Red" current score "0" with "2" players
+L 10/20/2020 - 00:02:25: Team "Blue" current score "1" with "13" players
+L 10/20/2020 - 00:02:26: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" committed suicide with "world" (attacker_position "1243 -459 800")
+L 10/20/2020 - 00:02:26: "Chili Giant Pyro<66><BOT><Blue>" killed "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" with "world" (attacker_position "1135 -162 800") (victim_position "1495 -382 800")
+L 10/20/2020 - 00:02:30: World triggered "Round_Start"
+L 10/20/2020 - 00:02:30: World triggered "Round_Setup_Begin"
+L 10/20/2020 - 00:02:30: "Chili Knight<52><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:30: "Chili Bowman<53><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:30: "Chili Bowman<54><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:30: "Chili Knight<55><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:30: "Chili Bowman<56><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:30: "Chili Knight<57><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:30: "Chili Bowman<58><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:30: "Chili Bowman<59><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:30: "Chili Bowman<62><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:30: "Chili Giant Pyro<66><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:30: "Chili Knight<70><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:30: "Chili Knight<71><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:30: "Chili Knight<72><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:02:45: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" changed role to "sniper"
+L 10/20/2020 - 00:02:46: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "1747 -388 896")
+L 10/20/2020 - 00:03:03: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-1245 1125 704")
+L 10/20/2020 - 00:03:26: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-1584 62 768")
+L 10/20/2020 - 00:03:31: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1707 -353 768")
+L 10/20/2020 - 00:03:35: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-603 -144 704")
+L 10/20/2020 - 00:03:50: "Chili Knight<51><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:03:50: "Chili Knight<67><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:03:50: "Chili Knight<68><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:03:50: "Chili Knight<51><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-4424 2499 640")
+L 10/20/2020 - 00:03:55: "Chili Bowman<61><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:03:55: "Chili Bowman<61><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:03:55: "Chili Knight<69><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:03:55: "Chili Bowman<63><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:03:55: "Chili Bowman<63><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:04:00: "Chili Bowman<64><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:00: "Chili Bowman<60><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:00: "Chili Bowman<65><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:00: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "flagevent" (event "defended") (position "-3760 -238 704")
+L 10/20/2020 - 00:04:00: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<51><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "-3760 -238 704") (victim_position "-3714 1571 516")
+L 10/20/2020 - 00:04:00: "Chili Knight<51><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-3714 1571 516")
+L 10/20/2020 - 00:04:01: "Chili Knight<67><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-3732 1639 515")
+L 10/20/2020 - 00:04:05: "Chili Knight<51><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:07: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<63><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "-3801 -91 704") (victim_position "-3627 1018 560")
+L 10/20/2020 - 00:04:07: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<61><BOT><Blue>" with "bleed_kill" (attacker_position "-3801 -91 704") (victim_position "-3528 1087 545")
+L 10/20/2020 - 00:04:07: "Chili Knight<52><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:07: "Chili Bowman<53><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:07: "Chili Bowman<53><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:04:07: "Chili Bowman<54><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:07: "Chili Bowman<54><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:04:08: "Chili Knight<55><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:08: "Chili Knight<55><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:04:08: "Chili Bowman<56><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:08: "Chili Knight<57><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:08: "Chili Knight<57><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:04:12: "Chili Knight<63><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:12: "Chili Knight<61><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:13: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<68><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "-3803 -273 704") (victim_position "-3754 727 632")
+L 10/20/2020 - 00:04:14: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Bowman<60><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "-3790 -275 704") (victim_position "-3873 727 635")
+L 10/20/2020 - 00:04:16: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Bowman<56><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "-3837 -256 704") (victim_position "-3784 1196 547")
+L 10/20/2020 - 00:04:16: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Bowman<57><BOT><Blue>" with "bleed_kill" (attacker_position "-3837 -256 704") (victim_position "-3621 1199 529")
+L 10/20/2020 - 00:04:16: "Chili Bowman<58><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:16: "Chili Bowman<59><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:16: "Chili Bowman<62><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:18: "Chili Knight<68><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:18: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "flagevent" (event "defended") (position "-4057 -86 704")
+L 10/20/2020 - 00:04:18: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<67><BOT><Blue>" with "bleed_kill" (attacker_position "-4057 -86 704") (victim_position "-3238 86 640")
+L 10/20/2020 - 00:04:18: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "kill assist" against "Chili Knight<67><BOT><Blue>" (assister_position "-2440 -400 704") (attacker_position "-4057 -86 704") (victim_position "-3238 86 640")
+L 10/20/2020 - 00:04:18: "Chili Knight<67><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-3238 86 640")
+L 10/20/2020 - 00:04:19: "Chili Bowman<60><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:19: "Chili Bowman<64><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-3280 157 640")
+L 10/20/2020 - 00:04:20: "Chili Giant Pyro<66><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:21: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "flagevent" (event "defended") (position "-3657 -370 704")
+L 10/20/2020 - 00:04:21: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Bowman<64><BOT><Blue>" with "pro_rifle" (attacker_position "-3657 -370 704") (victim_position "-3095 99 653")
+L 10/20/2020 - 00:04:21: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "kill assist" against "Chili Bowman<64><BOT><Blue>" (assister_position "-2653 -240 704") (attacker_position "-3657 -370 704") (victim_position "-3095 99 653")
+L 10/20/2020 - 00:04:21: "Chili Bowman<64><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-3095 99 653")
+L 10/20/2020 - 00:04:21: "Chili Knight<69><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-3102 163 643")
+L 10/20/2020 - 00:04:21: "Chili Bowman<57><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:21: "Chili Bowman<56><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:23: "Chili Knight<67><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:25: "Chili Bowman<58><BOT><Blue>" killed "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" with "tf_projectile_arrow" (attacker_position "-2968 858 618") (victim_position "-3314 -343 704")
+L 10/20/2020 - 00:04:25: "Chili Bowman<55><BOT><Blue>" triggered "kill assist" against "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" (assister_position "-2825 -218 704") (attacker_position "-2968 858 618") (victim_position "-3314 -343 704")
+L 10/20/2020 - 00:04:26: "Chili Bowman<64><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:26: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "flagevent" (event "defended") (position "-2060 -462 704")
+L 10/20/2020 - 00:04:26: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Knight<69><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-2060 -462 704") (victim_position "-2377 -446 704")
+L 10/20/2020 - 00:04:26: "Chili Knight<69><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-2377 -446 704")
+L 10/20/2020 - 00:04:26: "Chili Knight<70><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:26: "Chili Knight<71><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:26: "Chili Knight<72><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:26: "Chili Knight<53><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-2443 -446 704")
+L 10/20/2020 - 00:04:27: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "flagevent" (event "defended") (position "-2067 -626 704")
+L 10/20/2020 - 00:04:27: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Knight<53><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-2067 -626 704") (victim_position "-2456 -495 748")
+L 10/20/2020 - 00:04:27: "Chili Knight<53><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-2456 -495 748")
+L 10/20/2020 - 00:04:28: "Chili Bowman<65><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-2523 -447 704")
+L 10/20/2020 - 00:04:28: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Bowman<55><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-2361 -624 704") (victim_position "-2342 -503 704")
+L 10/20/2020 - 00:04:29: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "flagevent" (event "defended") (position "-2361 -552 704")
+L 10/20/2020 - 00:04:29: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Bowman<65><BOT><Blue>" with "wrench" (attacker_position "-2361 -552 704") (victim_position "-2392 -479 704")
+L 10/20/2020 - 00:04:29: "Chili Bowman<65><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-2392 -479 704")
+L 10/20/2020 - 00:04:29: "Chili Knight<54><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-2419 -528 704")
+L 10/20/2020 - 00:04:29: "Chili Knight<51><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:29: "Chili Knight<51><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:04:29: "Chili Knight<63><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:29: "Chili Knight<63><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:04:29: "Chili Knight<61><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:29: "Chili Knight<61><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:04:30: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "flagevent" (event "defended") (position "-2165 -385 704")
+L 10/20/2020 - 00:04:30: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Knight<54><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-2165 -385 704") (victim_position "-2295 -554 704")
+L 10/20/2020 - 00:04:30: "Chili Knight<54><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-2295 -554 704")
+L 10/20/2020 - 00:04:31: "Chili Knight<69><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:32: "Chili Bowman<58><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-2279 -485 704")
+L 10/20/2020 - 00:04:32: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "flagevent" (event "defended") (position "-1971 -122 639")
+L 10/20/2020 - 00:04:32: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Bowman<58><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1971 -122 639") (victim_position "-2278 -493 704")
+L 10/20/2020 - 00:04:32: "Chili Bowman<58><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-2278 -493 704")
+L 10/20/2020 - 00:04:32: "Chili Knight<53><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:32: "Chili Bowman<59><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-2345 -522 704")
+L 10/20/2020 - 00:04:32: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "flagevent" (event "defended") (position "-2038 -11 551")
+L 10/20/2020 - 00:04:32: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Bowman<59><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-2038 -11 551") (victim_position "-2322 -503 704")
+L 10/20/2020 - 00:04:32: "Chili Bowman<59><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-2322 -503 704")
+L 10/20/2020 - 00:04:34: "Chili Bowman<55><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:34: "Chili Bowman<65><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:34: "Chili Bowman<62><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-2386 -460 704")
+L 10/20/2020 - 00:04:35: "Chili Knight<54><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:35: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "flagevent" (event "defended") (position "-1452 346 642")
+L 10/20/2020 - 00:04:35: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Bowman<62><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1452 346 642") (victim_position "-2257 -459 704")
+L 10/20/2020 - 00:04:35: "Chili Bowman<62><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-2257 -459 704")
+L 10/20/2020 - 00:04:36: "Chili Knight<52><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-2323 -514 704")
+L 10/20/2020 - 00:04:37: "Chili Knight<68><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:37: "Chili Knight<68><BOT><Blue>" changed role to "sniper"
+L 10/20/2020 - 00:04:37: "Chili Bowman<60><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:37: "Chili Bowman<57><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:37: "Chili Bowman<58><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:37: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "flagevent" (event "defended") (position "-1020 384 704")
+L 10/20/2020 - 00:04:37: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Knight<52><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1020 384 704") (victim_position "-2165 -585 704")
+L 10/20/2020 - 00:04:37: "Chili Knight<52><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-2165 -585 704")
+L 10/20/2020 - 00:04:37: "Chili Bowman<56><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:37: "Chili Bowman<56><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:04:37: "Chili Knight<67><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:37: "Chili Bowman<64><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:37: "Chili Bowman<64><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:04:38: "Chili Bowman<59><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:40: "Chili Bowman<62><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:42: "Chili Knight<52><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:43: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Bowman<51><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1179 -39 768") (victim_position "-2249 -497 704")
+L 10/20/2020 - 00:04:44: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Bowman<63><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1276 -56 768") (victim_position "-2272 -466 704")
+L 10/20/2020 - 00:04:45: "Chili Bowman<61><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-2231 -527 704")
+L 10/20/2020 - 00:04:45: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "flagevent" (event "defended") (position "-1245 -96 768")
+L 10/20/2020 - 00:04:45: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Bowman<61><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1245 -96 768") (victim_position "-2228 -533 704")
+L 10/20/2020 - 00:04:45: "Chili Bowman<61><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-2228 -533 704")
+L 10/20/2020 - 00:04:46: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<72><BOT><Blue>" with "bleed_kill" (attacker_position "-992 776 704") (victim_position "-2251 -79 640")
+L 10/20/2020 - 00:04:46: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "kill assist" against "Chili Knight<72><BOT><Blue>" (assister_position "-1376 132 768") (attacker_position "-992 776 704") (victim_position "-2251 -79 640")
+L 10/20/2020 - 00:04:48: "Chili Knight<71><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-2294 -523 704")
+L 10/20/2020 - 00:04:48: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<70><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "-960 707 704") (victim_position "-2238 303 516")
+L 10/20/2020 - 00:04:48: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "kill assist" against "Chili Knight<70><BOT><Blue>" (assister_position "-1539 68 768") (attacker_position "-960 707 704") (victim_position "-2238 303 516")
+L 10/20/2020 - 00:04:48: "Chili Bowman<51><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:49: "Chili Bowman<63><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:50: "Chili Bowman<61><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:50: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "flagevent" (event "defended") (position "-1712 -313 768")
+L 10/20/2020 - 00:04:50: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Knight<71><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1712 -313 768") (victim_position "-1939 -571 704")
+L 10/20/2020 - 00:04:50: "Chili Knight<71><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-1939 -571 704")
+L 10/20/2020 - 00:04:51: "Chili Knight<69><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:51: "Chili Knight<53><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:51: "Chili Bowman<55><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:51: "Chili Bowman<55><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:04:51: "Chili Knight<72><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:52: "Chili Giant Pyro<66><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-1994 -483 704")
+L 10/20/2020 - 00:04:53: "Chili Knight<70><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:54: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<56><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "-915 352 704") (victim_position "-1625 426 623")
+L 10/20/2020 - 00:04:54: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<67><BOT><Blue>" with "bleed_kill" (attacker_position "-915 352 704") (victim_position "-1749 283 624")
+L 10/20/2020 - 00:04:56: "Chili Knight<71><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:57: "Chili Giant Pyro<66><BOT><Blue>" killed "Master of the Hellish Yard<74><[U:1:176586398]><Red>" with "flamethrower" (attacker_position "-1420 -613 704") (victim_position "-1673 -201 768")
+L 10/20/2020 - 00:04:57: "Chili Bowman<65><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:57: "Chili Bowman<65><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:04:59: "Chili Knight<56><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:59: "Chili Knight<67><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:04:59: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Knight<64><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1673 -201 836") (victim_position "-1889 -555 704")
+L 10/20/2020 - 00:04:59: "Chili Knight<54><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:59: "Chili Bowman<58><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:59: "Chili Bowman<58><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:04:59: "Chili Bowman<59><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:04:59: "Chili Bowman<59><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:05:00: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Bowman<57><BOT><Blue>" with "obj_minisentry" (attacker_position "-1673 -201 836") (victim_position "-859 199 704")
+L 10/20/2020 - 00:05:01: "Chili Giant Pyro<66><BOT><Blue>" killed "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" with "flamethrower" (attacker_position "-812 -442 704") (victim_position "-688 -137 704")
+L 10/20/2020 - 00:05:03: "Chili Giant Pyro<66><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "flamethrower") (objectowner "Master of the Hellish Yard<74><[U:1:176586398]><Red>") (attacker_position "-706 -275 704")
+L 10/20/2020 - 00:05:04: "Chili Knight<64><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:05:05: "Chili Bowman<57><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:05:10: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Bowman<68><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1833 23 896") (victim_position "-2242 -344 704")
+L 10/20/2020 - 00:05:10: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1822 46 896")
+L 10/20/2020 - 00:05:14: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "flagevent" (event "defended") (position "1876 -180 896")
+L 10/20/2020 - 00:05:14: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Giant Pyro<66><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "1876 -180 896") (victim_position "330 -288 832")
+L 10/20/2020 - 00:05:14: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "kill assist" against "Chili Giant Pyro<66><BOT><Blue>" (assister_position "1071 181 800") (attacker_position "1876 -180 896") (victim_position "330 -288 832")
+L 10/20/2020 - 00:05:14: "Chili Giant Pyro<66><BOT><Blue>" triggered "flagevent" (event "dropped") (position "330 -288 832")
+L 10/20/2020 - 00:05:15: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "kila quen toucc ur setry<65><BOT><Blue>" with "world" (attacker_position "796 125 832") (victim_position "-1802 -434 768")
+L 10/20/2020 - 00:05:15: "kila quen toucc ur setry<65><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "world") (objectowner "Master of the Hellish Yard<74><[U:1:176586398]><Red>") (attacker_position "-1802 -434 768")
+L 10/20/2020 - 00:05:16: "Chili Bowman<68><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:05:16: "Chili Bowman<60><BOT><Blue>" triggered "flagevent" (event "picked up") (position "282 -358 832")
+L 10/20/2020 - 00:05:19: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "flagevent" (event "defended") (position "1821 -99 896")
+L 10/20/2020 - 00:05:19: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Bowman<60><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "1821 -99 896") (victim_position "472 -271 832")
+L 10/20/2020 - 00:05:19: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "kill assist" against "Chili Bowman<60><BOT><Blue>" (assister_position "921 304 832") (attacker_position "1821 -99 896") (victim_position "472 -271 832")
+L 10/20/2020 - 00:05:19: "Chili Bowman<60><BOT><Blue>" triggered "flagevent" (event "dropped") (position "472 -271 832")
+L 10/20/2020 - 00:05:20: "Chili Giant Pyro<66><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:05:21: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "699 170 832")
+L 10/20/2020 - 00:05:21: "kila quen toucc ur setry<65><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:05:22: "Chili Knight<55><BOT><Blue>" triggered "flagevent" (event "picked up") (position "453 -204 832")
+L 10/20/2020 - 00:05:24: "Chili Bowman<60><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:05:26: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "flagevent" (event "defended") (position "1214 115 800")
+L 10/20/2020 - 00:05:26: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<55><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "1214 115 800") (victim_position "901 -248 832")
+L 10/20/2020 - 00:05:26: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "kill assist" against "Chili Knight<55><BOT><Blue>" (assister_position "563 -74 832") (attacker_position "1214 115 800") (victim_position "901 -248 832")
+L 10/20/2020 - 00:05:26: "Chili Knight<55><BOT><Blue>" triggered "flagevent" (event "dropped") (position "901 -248 832")
+L 10/20/2020 - 00:05:28: "Chili Knight<59><BOT><Blue>" triggered "flagevent" (event "picked up") (position "812 -177 832")
+L 10/20/2020 - 00:05:29: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "flagevent" (event "defended") (position "1208 135 800")
+L 10/20/2020 - 00:05:29: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Knight<59><BOT><Blue>" with "obj_minisentry" (attacker_position "1208 135 800") (victim_position "909 -261 832")
+L 10/20/2020 - 00:05:29: "Chili Knight<59><BOT><Blue>" triggered "flagevent" (event "dropped") (position "909 -261 832")
+L 10/20/2020 - 00:05:30: "Chili Knight<54><BOT><Blue>" triggered "flagevent" (event "picked up") (position "854 -194 832")
+L 10/20/2020 - 00:05:31: "Chili Knight<55><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:05:33: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Knight<69><BOT><Blue>" with "obj_sentrygun" (attacker_position "600 230 832") (victim_position "838 -165 832")
+L 10/20/2020 - 00:05:33: "Chili Bowman<62><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:05:33: "Chili Bowman<62><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:05:33: "Chili Knight<52><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:05:33: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "flagevent" (event "defended") (position "1428 231 800")
+L 10/20/2020 - 00:05:33: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<54><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "1428 231 800") (victim_position "1100 -162 800")
+L 10/20/2020 - 00:05:33: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "kill assist" against "Chili Knight<54><BOT><Blue>" (assister_position "600 230 832") (attacker_position "1428 231 800") (victim_position "1100 -162 800")
+L 10/20/2020 - 00:05:33: "Chili Knight<54><BOT><Blue>" triggered "flagevent" (event "dropped") (position "1100 -162 800")
+L 10/20/2020 - 00:05:33: "Chili Bowman<51><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:05:33: "Chili Bowman<51><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:05:34: "Chili Knight<59><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:05:35: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Knight<58><BOT><Blue>" with "obj_sentrygun" (attacker_position "600 230 832") (victim_position "836 44 832")
+L 10/20/2020 - 00:05:38: "Chili Knight<69><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:05:38: "Chili Knight<54><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:05:40: "Chili Knight<58><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:05:42: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<53><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "82 -336 832") (victim_position "85 432 768")
+L 10/20/2020 - 00:05:47: "Chili Knight<53><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:05:57: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<51><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "-1612 172 768") (victim_position "-839 746 704")
+L 10/20/2020 - 00:06:00: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Knight<52><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "-1530 -22 768") (victim_position "-1480 -850 704")
+L 10/20/2020 - 00:06:02: "Chili Knight<51><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:06:05: "Chili Knight<52><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:06:08: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Knight<62><BOT><Blue>" with "obj_minisentry" (attacker_position "2191 -211 896") (victim_position "730 -213 832")
+L 10/20/2020 - 00:06:08: "Chili Bowman<63><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:08: "Chili Bowman<63><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:06:08: "Chili Bowman<61><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:08: "Chili Bowman<61><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:06:13: "Chili Knight<62><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:06:14: "Chili Knight<72><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:14: "Chili Knight<72><BOT><Blue>" changed role to "soldier"
+L 10/20/2020 - 00:06:14: "Chili Knight<70><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:14: "Chili Knight<70><BOT><Blue>" changed role to "soldier"
+L 10/20/2020 - 00:06:14: "Chili Knight<71><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:14: "Chili Knight<56><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:17: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Demoman<63><BOT><Blue>" with "bleed_kill" (attacker_position "-3243 217 640") (victim_position "-3266 1096 527")
+L 10/20/2020 - 00:06:19: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Demoman<61><BOT><Blue>" with "pro_rifle" (attacker_position "-3129 267 640") (victim_position "-3099 956 578")
+L 10/20/2020 - 00:06:20: "Chili Knight<67><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:20: "Chili Knight<67><BOT><Blue>" changed role to "soldier"
+L 10/20/2020 - 00:06:20: "Chili Knight<64><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:20: "Chili Knight<64><BOT><Blue>" changed role to "soldier"
+L 10/20/2020 - 00:06:20: "Chili Bowman<57><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:20: "Chili Bowman<57><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:06:20: "Chili Bowman<68><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:20: "Chili Bowman<68><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:06:22: "Chili Demoman<63><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:06:24: "Chili Demoman<61><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:06:24: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "jarate_attack" against "Chili Demoman<71><BOT><Blue>" with "tf_weapon_jar" (attacker_position "-2477 547 526") (victim_position "-2547 511 542")
+L 10/20/2020 - 00:06:26: "Chili Giant Pyro<66><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:26: "Chili Giant Pyro<66><BOT><Blue>" changed role to "soldier"
+L 10/20/2020 - 00:06:26: "kila quen toucc ur setry<65><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:26: "kila quen toucc ur setry<65><BOT><Blue>" changed role to "soldier"
+L 10/20/2020 - 00:06:26: "Chili Bowman<60><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:26: "Chili Bowman<60><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:06:26: "Chili Knight<55><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:29: "Chili Demoman<71><BOT><Blue>" killed "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" with "tf_projectile_pipe" (attacker_position "-1645 424 620") (victim_position "-1423 299 643")
+L 10/20/2020 - 00:06:29: "Chili Soldier<72><BOT><Blue>" triggered "kill assist" against "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" (assister_position "-2425 516 516") (attacker_position "-1645 424 620") (victim_position "-1423 299 643")
+L 10/20/2020 - 00:06:31: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Demoman<71><BOT><Blue>" with "shotgun_primary" (attacker_position "-1645 122 768") (victim_position "-1602 503 624")
+L 10/20/2020 - 00:06:31: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "kill assist" against "Chili Demoman<71><BOT><Blue>" (assister_position "-1423 299 657") (attacker_position "-1645 122 768") (victim_position "-1602 503 624")
+L 10/20/2020 - 00:06:36: "Chili Demoman<71><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:06:43: "Chili Knight<59><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:43: "Chili Knight<59><BOT><Blue>" changed role to "pyro"
+L 10/20/2020 - 00:06:48: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Demoman<56><BOT><Blue>" with "obj_sentrygun3" (attacker_position "823 -746 848") (victim_position "592 -5 832")
+L 10/20/2020 - 00:06:48: "Chili Knight<69><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:48: "Chili Knight<54><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:49: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" killed "Chili Soldier<70><BOT><Blue>" with "pro_rifle" (customkill "headshot") (attacker_position "1581 88 800") (victim_position "563 -10 832")
+L 10/20/2020 - 00:06:49: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "kill assist" against "Chili Soldier<70><BOT><Blue>" (assister_position "682 -707 832") (attacker_position "1581 88 800") (victim_position "563 -10 832")
+L 10/20/2020 - 00:06:50: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Demoman<57><BOT><Blue>" with "obj_sentrygun3" (attacker_position "725 -724 832") (victim_position "843 -164 832")
+L 10/20/2020 - 00:06:51: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Soldier<72><BOT><Blue>" with "obj_minisentry" (attacker_position "846 -740 832") (victim_position "981 -242 808")
+L 10/20/2020 - 00:06:51: "Chili Knight<58><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:51: "Chili Knight<58><BOT><Blue>" changed role to "soldier"
+L 10/20/2020 - 00:06:51: "Chili Knight<53><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:51: "Chili Knight<53><BOT><Blue>" changed role to "soldier"
+L 10/20/2020 - 00:06:52: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Soldier<64><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1172 -855 848") (victim_position "409 -314 832")
+L 10/20/2020 - 00:06:52: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "kill assist" against "Chili Soldier<64><BOT><Blue>" (assister_position "1237 318 800") (attacker_position "1172 -855 848") (victim_position "409 -314 832")
+L 10/20/2020 - 00:06:53: "Chili Demoman<56><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:06:54: "Chili Soldier<70><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:06:55: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Soldier<67><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1698 -591 896") (victim_position "517 -229 832")
+L 10/20/2020 - 00:06:55: "Chili Demoman<57><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:06:56: "Chili Soldier<72><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:06:57: "Chili Knight<51><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:57: "Chili Knight<51><BOT><Blue>" changed role to "soldier"
+L 10/20/2020 - 00:06:57: "Chili Knight<52><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:06:57: "Chili Knight<52><BOT><Blue>" changed role to "soldier"
+L 10/20/2020 - 00:06:58: "Chili Soldier<64><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:06:59: "Chili Demoman<60><BOT><Blue>" triggered "flagevent" (event "picked up") (position "1036 -208 800")
+L 10/20/2020 - 00:06:59: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Soldier<66><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1796 -398 896") (victim_position "758 -301 832")
+L 10/20/2020 - 00:07:00: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" triggered "flagevent" (event "defended") (position "1861 -202 896")
+L 10/20/2020 - 00:07:00: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Demoman<60><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1861 -202 896") (victim_position "1091 -174 800")
+L 10/20/2020 - 00:07:00: "Chili Demoman<60><BOT><Blue>" triggered "flagevent" (event "dropped") (position "1091 -174 800")
+L 10/20/2020 - 00:07:00: "Chili Knight<62><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:07:00: "Chili Demoman<63><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:07:00: "Chili Soldier<67><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:03: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Soldier<65><BOT><Blue>" with "shotgun_primary" (attacker_position "1862 -506 896") (victim_position "1435 220 800")
+L 10/20/2020 - 00:07:03: "Chili Demoman<61><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:07:03: "Chili Demoman<61><BOT><Blue>" changed role to "soldier"
+L 10/20/2020 - 00:07:03: "Chili Demoman<71><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:07:03: "Chili Demoman<71><BOT><Blue>" changed role to "soldier"
+L 10/20/2020 - 00:07:03: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Demoman<68><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1862 -506 896") (victim_position "809 -299 832")
+L 10/20/2020 - 00:07:04: "Chili Soldier<66><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:05: "Chili Demoman<60><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:07: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Demoman<55><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1527 47 807") (victim_position "589 -250 832")
+L 10/20/2020 - 00:07:07: "Chili Demoman<56><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:07:07: "Chili Soldier<70><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:07:07: "Chili Soldier<70><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:07:08: "Chili Soldier<65><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:09: "Chili Demoman<68><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:12: "Chili Demoman<55><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:16: "Chili Soldier<53><BOT><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "Master of the Hellish Yard<74><[U:1:176586398]><Red>") (attacker_position "-808 944 704")
+L 10/20/2020 - 00:07:18: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Demoman<54><BOT><Blue>" with "obj_sentrygun3" (attacker_position "940 -782 848") (victim_position "595 -255 832")
+L 10/20/2020 - 00:07:19: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Demoman<69><BOT><Blue>" with "obj_sentrygun3" (attacker_position "849 -436 832") (victim_position "974 83 804")
+L 10/20/2020 - 00:07:19: "Chili Demoman<57><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:07:19: "Chili Soldier<72><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:07:19: "Chili Soldier<72><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:07:20: "Chili Giant Pyro<59><BOT><Blue>" killed "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" with "flamethrower" (attacker_position "-223 -381 719") (victim_position "138 -454 832")
+L 10/20/2020 - 00:07:23: "Chili Demoman<54><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:24: "Chili Demoman<69><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:26: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Soldier<53><BOT><Blue>" with "obj_sentrygun3" (attacker_position "868 97 832") (victim_position "1347 275 800")
+L 10/20/2020 - 00:07:28: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "jarate_attack" against "Chili Giant Pyro<59><BOT><Blue>" with "tf_weapon_jar" (attacker_position "1170 214 800") (victim_position "469 -260 832")
+L 10/20/2020 - 00:07:28: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "jarate_attack" against "Chili Demoman<63><BOT><Blue>" with "tf_weapon_jar" (attacker_position "1170 214 800") (victim_position "352 20 832")
+L 10/20/2020 - 00:07:30: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Demoman<63><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1797 -33 896") (victim_position "605 28 832")
+L 10/20/2020 - 00:07:30: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" triggered "kill assist" against "Chili Demoman<63><BOT><Blue>" (assister_position "1204 360 800") (attacker_position "1797 -33 896") (victim_position "605 28 832")
+L 10/20/2020 - 00:07:32: "Chili Soldier<53><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:33: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Soldier<51><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1788 46 896") (victim_position "864 23 832")
+L 10/20/2020 - 00:07:33: "Chili Soldier<64><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:07:33: "Chili Soldier<67><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:07:33: "Chili Giant Pyro<59><BOT><Blue>" triggered "flagevent" (event "picked up") (position "1010 -262 800")
+L 10/20/2020 - 00:07:33: "Chili Soldier<52><BOT><Blue>" killed "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" with "tf_projectile_rocket" (attacker_position "423 678 768") (victim_position "1338 231 800")
+L 10/20/2020 - 00:07:33: "Chili Soldier<58><BOT><Blue>" triggered "kill assist" against "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" (assister_position "1065 -59 800") (attacker_position "423 678 768") (victim_position "1338 231 800")
+L 10/20/2020 - 00:07:33: "Chili Soldier<51><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Master of the Hellish Yard<74><[U:1:176586398]><Red>") (attacker_position "864 23 866")
+L 10/20/2020 - 00:07:34: "Chili Soldier<66><BOT><Spectator>" joined team "Blue"
+L 10/20/2020 - 00:07:34: "Chili Soldier<66><BOT><Blue>" changed role to "demoman"
+L 10/20/2020 - 00:07:34: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Soldier<58><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1576 -169 832") (victim_position "1067 -51 800")
+L 10/20/2020 - 00:07:35: "Chili Demoman<63><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:36: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Demoman<62><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1181 -177 800") (victim_position "651 -252 832")
+L 10/20/2020 - 00:07:36: "Chili Giant Pyro<59><BOT><Blue>" triggered "flagevent" (event "captured") (team_caps "0") (caps_per_round "3") (position "1082 -202 800")
+L 10/20/2020 - 00:07:36: World triggered "Round_Win" (winner "Blue")
+L 10/20/2020 - 00:07:36: World triggered "Round_Length" (seconds "305.77")
+L 10/20/2020 - 00:07:36: Team "Red" current score "0" with "2" players
+L 10/20/2020 - 00:07:36: Team "Blue" current score "2" with "14" players
+L 10/20/2020 - 00:07:37: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" killed "Chili Demoman<56><BOT><Blue>" with "world" (attacker_position "1147 -138 800") (victim_position "835 -312 832")
+L 10/20/2020 - 00:07:37: "Chili Giant Pyro<59><BOT><Blue>" killed "Master of the Hellish Yard<74><[U:1:176586398]><Red>" with "world" (attacker_position "1081 -159 800") (victim_position "1147 -138 800")
+L 10/20/2020 - 00:07:37: "Chili Soldier<52><BOT><Blue>" committed suicide with "world" (attacker_position "1012 406 800")
+L 10/20/2020 - 00:07:38: "Chili Soldier<51><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:40: "Chili Soldier<58><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:41: "Chili Demoman<62><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:41: World triggered "Round_Start"
+L 10/20/2020 - 00:07:41: World triggered "Round_Setup_Begin"
+L 10/20/2020 - 00:07:41: "Chili Soldier<52><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:41: "Chili Demoman<56><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:41: "Chili Demoman<57><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:41: "Chili Giant Pyro<59><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:41: "Chili Soldier<61><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:41: "Chili Soldier<64><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:41: "colonel forced me to do this<66><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:41: "Chili Soldier<67><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:41: "Chili Demoman<70><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:41: "Chili Soldier<71><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:41: "Chili Demoman<72><BOT><Blue>" joined team "Spectator"
+L 10/20/2020 - 00:07:47: "Cheers luv, the meme are here<75><[U:1:119725119]><Red>" disconnected (reason "Disconnect by user.")
+L 10/20/2020 - 00:07:47: MVM assigned Cheers luv, the meme are here to defending team (3 more slots remaining after us)
+L 10/20/2020 - 00:07:50: "Master of the Hellish Yard<74><[U:1:176586398]><Red>" disconnected (reason "Disconnect by user.")
+L 10/20/2020 - 00:07:50: MVM assigned Master of the Hellish Yard to defending team (4 more slots remaining after us)
+L 10/20/2020 - 00:38:48: "schizophrenic<76><[U:1:73456738]><>" connected, address "176.59.197.42:27005"
+L 10/20/2020 - 00:38:48: "schizophrenic<76><[U:1:73456738]><>" STEAM USERID validated
+L 10/20/2020 - 00:39:01: "Хапнул онимэ<77><[U:1:296696828]><>" connected, address "31.148.95.39:27005"
+L 10/20/2020 - 00:39:02: "Хапнул онимэ<77><[U:1:296696828]><>" STEAM USERID validated
+L 10/20/2020 - 00:39:36: "schizophrenic<76><[U:1:73456738]><>" disconnected (reason "Disconnect by user.")
+L 10/20/2020 - 00:39:40: "Хапнул онимэ<77><[U:1:296696828]><>" disconnected (reason "Disconnect by user.")
+L 10/20/2020 - 03:06:51: "Kafkaeseque Hell<78><[U:1:68126532]><>" connected, address "203.158.60.166:27005"
+L 10/20/2020 - 03:06:51: "Kafkaeseque Hell<78><[U:1:68126532]><>" STEAM USERID validated
+L 10/20/2020 - 03:07:32: "Kafkaeseque Hell<78><[U:1:68126532]><>" disconnected (reason "Disconnect by user.")
+L 10/20/2020 - 06:30:28: server_cvar: "mp_tournament" "0"
+L 10/20/2020 - 06:30:28: [META] Loaded 0 plugins (1 already loaded)
+L 10/20/2020 - 06:30:29: "Chili Demoman<72><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Soldier<71><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Demoman<70><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Demoman<69><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Demoman<68><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Soldier<67><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "colonel forced me to do this<66><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Soldier<65><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Soldier<64><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Demoman<63><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Demoman<62><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Soldier<61><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Demoman<60><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Giant Pyro<59><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Soldier<58><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Demoman<57><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Demoman<56><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Demoman<55><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Demoman<54><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Soldier<53><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Soldier<52><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: "Chili Soldier<51><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:29: server_message: "quit"
+L 10/20/2020 - 06:30:29: Log file closed.

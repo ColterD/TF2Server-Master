@@ -1,0 +1,33 @@
+L 10/13/2020 - 22:31:48: Log file started (file "logs/L1013001.log") (game "/home/tf2server.jumpcomp/serverfiles/tf") (version "6135201")
+L 10/13/2020 - 22:31:48: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/13/2020 - 22:31:48: server_cvar: "tfh_fullmoon" "1"
+L 10/13/2020 - 22:31:48: server_cvar: "tfh_winter" "1"
+L 10/13/2020 - 22:31:48: server_cvar: "tfh_birthday" "1"
+L 10/13/2020 - 22:31:48: server_cvar: "tfh_endoftheline" "1"
+L 10/13/2020 - 22:31:48: server_cvar: "tfh_normalhealth" "1"
+L 10/13/2020 - 22:31:48: server_cvar: "mp_forceautoteam" "1"
+L 10/13/2020 - 22:31:48: Connection to Steam servers successful.
+L 10/13/2020 - 22:31:48:    Public IP is 104.192.224.18.
+L 10/13/2020 - 22:31:48: Assigned persistent gameserver Steam ID [G:1:3463046].
+L 10/13/2020 - 22:31:48: VAC secure mode is activated.
+L 10/13/2020 - 22:31:48: server_cvar: "mp_respawnwavetime" "0"
+L 10/13/2020 - 22:31:48: server_cvar: "sv_noclipspeed" "2.500000"
+L 10/13/2020 - 22:31:48: server_cvar: "tf_weapon_criticals" "0"
+L 10/13/2020 - 22:31:48: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/13/2020 - 22:31:48: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/13/2020 - 23:58:02: "Leke<2><[U:1:98551735]><>" connected, address "75.142.235.202:27005"
+L 10/13/2020 - 23:58:03: "Leke<2><[U:1:98551735]><>" STEAM USERID validated
+L 10/13/2020 - 23:58:39: "JumpBOT<3><BOT><>" connected, address "none"
+L 10/13/2020 - 23:58:39: "JumpBOT<3><BOT><>" entered the game
+L 10/13/2020 - 23:58:39: "Leke<2><[U:1:98551735]><>" entered the game
+L 10/13/2020 - 23:58:42: "Leke<2><[U:1:98551735]><Unassigned>" joined team "Red"
+L 10/13/2020 - 23:58:43: server_cvar: "tf_bot_count" "1"
+L 10/13/2020 - 23:58:43: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/13/2020 - 23:58:43: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/13/2020 - 23:58:44: "Leke<2><[U:1:98551735]><Red>" changed role to "soldier"
+L 10/13/2020 - 23:58:44: "JumpBOT<3><BOT><Unassigned>" joined team "Red"
+L 10/13/2020 - 23:59:23: "Leke<2><[U:1:98551735]><Red>" disconnected (reason "Lost connection")
+L 10/14/2020 - 06:30:11: [META] Loaded 0 plugins (1 already loaded)
+L 10/14/2020 - 06:30:11: "JumpBOT<3><BOT><>" disconnected (reason "Server shutting down")
+L 10/14/2020 - 06:30:11: server_message: "quit"
+L 10/14/2020 - 06:30:12: Log file closed.

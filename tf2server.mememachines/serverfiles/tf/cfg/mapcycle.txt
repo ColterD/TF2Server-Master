@@ -1,0 +1,9 @@
+mvm_coastrock_rc1_1
+mvm_hideout_b3
+mvm_isolation_rc3
+mvm_sequoia_rc4
+mvm_shadows_b3
+mvm_trainyard_rc3d
+mvm_underground_rc3
+mvm_waterfront_rc3
+mvm_barren_final1

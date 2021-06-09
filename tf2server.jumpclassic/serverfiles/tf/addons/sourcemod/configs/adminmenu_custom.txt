@@ -1,0 +1,372 @@
+// Custom admin menu commands.
+// For more information:
+//
+// http://wiki.alliedmods.net/Custom_Admin_Menu_%28SourceMod%29
+//
+// Note: This file must be in Valve KeyValues format (no multiline comments)
+//
+//	Admin: sm_trainrain
+//	Moderator: sm_ban
+//
+"Commands"
+{
+	"Admin Commands"
+	{
+		"Ban Player (SourceBans)"
+			{
+			"cmd"		"sm_ban #1 #2 #3"
+			"admin"		"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type"   	"player"
+				"method" 	"name"
+				"title"  	"Player"
+			}
+			"2"
+			{
+				"type"		"list"
+				"title" 	"Time"
+				"1"			"720"
+				"1."     	"12 Hours"
+				"2"     	"1440"
+				"2."     	"24 Hours"
+				"3"     	"10080"
+				"3."     	"1 Week"
+				"4"     	"20160"
+				"4."    	"2 Weeks"
+				"5"     	"30240"
+				"5."     	"3 Weeks"
+				"6"     	"70560"
+				"6."     	"1 Month"
+				"7"     	"0"
+				"7."     	"Permanent"
+			}
+			"3"
+			{
+				"type"  	"list"
+				"title" 	"Reason"
+				"1"     	"Inappropriate behavior."
+				"2"     	"Repetitive !calladmin abuse."
+				"3"     	"Aim/vision assistance."
+				"4"     	"Advertising cheats/exploits."
+				"5"			"Attempted trade scam."
+				"6"			"Threats against community."
+				"7"			"Bypassing filters."
+			}
+		}
+		"Ban Player (only IP, not perma)"
+		{
+			"cmd"		"sm_ban #1"
+			"admin"		"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type"   	"player"
+				"method" 	"name"
+				"title"  	"Player"
+			}
+		}
+		"Kick Player"
+		{
+			"cmd"		"sm_kick #1"
+			"admin"		"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type"   	"player"
+				"method" 	"name"
+				"title"  	"Player"
+			}
+		}
+		"Perma Mute Player"
+		{
+			"cmd"		"sm_pmute #1"
+			"admin"		"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type"   	"player"
+				"method" 	"name"
+				"title"  	"Player"
+			}
+		}
+		"Perma Gag Player"
+		{
+			"cmd"		"sm_pgag #1"
+			"admin"		"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type"   	"player"
+				"method" 	"name"
+				"title"  	"Player"
+			}
+		}
+		"Perma Unmute Player"
+		{
+			"cmd"		"sm_punmute #1"
+			"admin"		"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type"   	"player"
+				"method" 	"name"
+				"title"  	"Player"
+			}
+		}
+		"Perma Ungag Player"
+		{
+			"cmd"		"sm_pungag #1"
+			"admin"		"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type"		"player"
+				"method" 	"name"
+				"title"  	"Player"
+			}
+		}
+		"Perma Silence (both) Player"
+		{
+			"cmd"		"sm_psilence #1"
+			"admin"		"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type"		"player"
+				"method" 	"name"
+				"title"		"Player"
+			}
+		}
+		"Perma Unsilence (both) Player"
+		{
+			"cmd"		"sm_punsilence #1"
+			"admin"		"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type"		"player"
+				"method" 	"name"
+				"title"  	"Player"
+			}
+		}
+		"Destroy Buildings"
+		{
+			"cmd"		"sm_destroy #1 @2"
+			"admin"		"sm_trainrain"
+			"execute"	"player"
+			"1"
+			{
+				"type"		"groupplayer"
+				"method"	"name"
+				"title"		"Choose a Player"
+			}
+			"2"
+			{
+				"type"		"list"
+				"title"		"Object to Destroy"
+				"1"			"Sentry"
+				"2"			"Dispenser"
+				"3"			"Entrance"
+				"3."		"Teleporter Entrance"
+				"4"			"Exit"
+				"4."		"Teleporter Exit"
+				"5"			"All"
+			}
+		}
+		"Teleport Players"
+		{
+			"cmd"		"#1"
+			"admin"		"sm_trainrain"
+			"execute"	"player"
+			"1"
+			{
+				"type"		"list"
+				"title"		"Pick Which Option"
+				"1"			"sm_goto"
+				"1."		"Teleport To Player"
+				"2"			"sm_bring"
+				"2."		"Teleport Player to You"
+			}
+		}
+		"Force Friendly Fire"
+		{
+			"cmd"		"mp_friendlyfire #1"
+			"admin"		"sm_trainrain"
+			"execute"	"server"
+			"1"
+			{
+				"type"  	"list"
+				"title" 	"Select Detail"
+				"1"			"1"
+				"1."		"On"
+				"2"			"0"
+				"2."		"Off"
+			}
+		}
+		"Force Player Switch"
+		{
+			"cmd"    	"sm_swapteam #1"
+			"admin"     "sm_trainrain"
+			"execute"   "player"
+			"1"
+			{
+				"type"  	"player"
+				"method" 	"name"
+				"title"		"Player:"
+			}
+		}
+	}
+	"Fun Commands"
+	{
+		"Resize Player's Head"
+		{
+			"cmd"		"sm_resizehead #1 @2"
+			"admin"		"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type"		"player"
+				"method" 	"name"
+				"title" 	"Select A Player:"
+			}
+			"2"
+			{
+				"type" 		"list"
+				"title" 	"Select Model Size:"
+				"1" 		"0.1"
+				"1." 		"Mini (0.1x)"
+				"2" 		"0.5"
+				"2." 		"Small (0.5x)"
+				"3" 		"1.0"
+				"3." 		"Normal"
+				"4" 		"1.5"
+				"4." 		"Big (1.5x)"
+				"5"			"2.0"
+				"5." 		"Bigger (2.0x)"
+				"6" 		"3.0"
+				"6." 		"Giant(3.0x)"
+				"7" 		"4.0"
+				"7." 		"Supergiant (4.0x)"
+			}
+		}
+		"Resize Player's Hands"
+		{
+			"cmd"		"sm_resizehands #1 @2"
+			"admin"		"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type"		"player"
+				"method"	"name"
+				"title"		"Choose A Player:"
+			}
+			"2"
+			{
+				"type" 		"list"
+				"title"		"Select Model Size:"
+				"1"			"0.1"
+				"1." 		"Mini (0.1x)"
+				"2" 		"0.5"
+				"2." 		"Small (0.5x)"
+				"3" 		"1.0"
+				"3." 		"Normal"
+				"4" 		"1.5"
+				"4." 		"Big (1.5x)"
+				"5" 		"2.0"
+				"5." 		"Bigger (2.0x)"
+				"6" 		"3.0"
+				"6." 		"Giant(3.0x)"
+				"7" 		"4.0"
+				"7." 		"Supergiant (4.0x)"
+			}
+		}
+		"Resize Player's Torso"
+		{
+			"cmd"		"sm_resizetorso #1 @2"
+			"admin"		"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type" 		"player"
+				"method" 	"name"
+				"title" 	"Choose A Player:"
+			}
+			"2"
+			{
+				"type" 		"list"
+				"title"	 	"Select Model Size:"
+				"1"			"0.1"
+				"1."		"Mini (0.1x)"
+				"2" 		"0.5"
+				"2." 		"Small (0.5x)"
+				"3" 		"1.0"
+				"3." 		"Normal"
+				"4" 		"1.5"
+				"4." 		"Big (1.5x)"
+				"5" 		"2.0"
+				"5." 		"Bigger (2.0x)"
+				"6" 		"3.0"
+				"6." 		"Giant(3.0x)"
+				"7" 		"4.0"
+				"7." 		"Supergiant (4.0x)"
+			}
+		}
+		"Resize Player's Entire Body"
+		{
+			"cmd"		"sm_resize #1 @2"
+			"admin"		"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type" 		"player"
+				"method" 	"name"
+				"title" 	"Choose A Player:"
+			}
+			"2"
+			{
+				"type" 		"list"
+				"title" 	"Select Model Size:"
+				"1"			"0.1"
+				"1." 		"Mini (0.1x)"
+				"2" 		"0.5"
+				"2." 		"Small (0.5x)"
+				"3" 		"1.0"
+				"3." 		"Normal"
+				"4" 		"1.5"
+				"4." 		"Big (1.5x)"
+				"5" 		"2.0"
+				"5."		"Bigger (2.0x)"
+				"6" 		"3.0"
+				"6." 		"Giant(3.0x)"
+				"7" 		"4.0"
+				"7." 		"Supergiant (4.0x)"
+			}
+		}
+		"Reset All Resize"
+		{
+			"cmd"		"sm_resizereset #1"
+			"admin"		"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type"		"player"
+				"method" 	"name"
+				"title" 	"Choose A Player:"
+			}
+		}
+		"Admin God Mode"
+		{
+			"cmd"		"sm_god"
+			"admin"		"sm_trainrain"
+			"execute"	"player"
+		}
+		"Spawn Bread sm_bread"
+		{
+			"cmd"		"sm_bread"
+			"admin"		"sm_trainrain"
+			"execute"	"player"
+		}
+	}
+}

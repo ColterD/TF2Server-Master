@@ -1,0 +1,9 @@
+L 10/18/2020 - 06:30:40: SourceMod error session started
+L 10/18/2020 - 06:30:40: Info (map "mvm_dockyard_rc7") (file "/home/tf2server.titaniumtank/serverfiles/tf/addons/sourcemod/logs/errors_20201018.log")
+L 10/18/2020 - 06:30:40: [SM] Exception reported: Invalid response handle 0 (error 4)
+L 10/18/2020 - 06:30:40: [SM] Blaming: ngs_backpacktf.smx
+L 10/18/2020 - 06:30:40: [SM] Call stack trace:
+L 10/18/2020 - 06:30:40: [SM]   [0] System2Response.StatusCode.get
+L 10/18/2020 - 06:30:40: [SM]   [1] Line 378, D:\Coding\GitHub\sm-plugins\scripting\ngs_backpacktf.sp::OnBackpackTFComplete
+L 10/18/2020 - 12:24:39: [hive365.smx] [Hive365] socket error 3 (errno 1)
+L 10/19/2020 - 00:00:00: Error log file session closed.

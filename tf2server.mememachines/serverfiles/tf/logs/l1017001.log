@@ -1,0 +1,26 @@
+L 10/17/2020 - 15:31:32: Log file started (file "logs/L1017001.log") (game "/home/tf2server.mememachines/serverfiles/tf") (version "6145689")
+L 10/17/2020 - 15:31:32: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/17/2020 - 15:31:32: server_cvar: "tfh_birthday" "1"
+L 10/17/2020 - 15:31:32: server_cvar: "tfh_endoftheline" "1"
+L 10/17/2020 - 15:31:32: server_cvar: "tfh_fullmoon" "1"
+L 10/17/2020 - 15:31:32: server_cvar: "tfh_normalhealth" "1"
+L 10/17/2020 - 15:31:32: server_cvar: "tfh_winter" "1"
+L 10/17/2020 - 15:31:32: server_cvar: "mp_tournament_readymode" "1"
+L 10/17/2020 - 15:31:32: server_cvar: "tf_mvm_min_players_to_start" "2"
+L 10/17/2020 - 15:31:32: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/17/2020 - 15:31:32: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/17/2020 - 15:31:32: Connection to Steam servers successful.
+L 10/17/2020 - 15:31:32:    Public IP is 104.192.224.18.
+L 10/17/2020 - 15:31:32: Assigned anonymous gameserver Steam ID [A:1:2178818055:15734].
+L 10/17/2020 - 15:31:32: VAC secure mode is activated.
+L 10/17/2020 - 16:51:29: "Master of the Hellish Yard<2><[U:1:176586398]><>" connected, address "216.165.229.138:27005"
+L 10/17/2020 - 16:51:30: "Master of the Hellish Yard<2><[U:1:176586398]><>" STEAM USERID validated
+L 10/17/2020 - 16:51:31: "Master of the Hellish Yard<2><[U:1:176586398]><>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 20:42:35: "um idiota legal.3.<3><[U:1:857958323]><>" connected, address "45.6.162.8:27005"
+L 10/17/2020 - 20:42:36: "um idiota legal.3.<3><[U:1:857958323]><>" STEAM USERID validated
+L 10/17/2020 - 20:43:00: "um idiota legal.3.<3><[U:1:857958323]><>" entered the game
+L 10/17/2020 - 20:46:40: "um idiota legal.3.<3><[U:1:857958323]><Unassigned>" disconnected (reason "um idiota legal.3. timed out")
+L 10/17/2020 - 20:46:40: MVM assigned um idiota legal.3. to defending team (5 more slots remaining after us)
+L 10/18/2020 - 06:30:11: [META] Loaded 0 plugins (1 already loaded)
+L 10/18/2020 - 06:30:11: server_message: "quit"
+L 10/18/2020 - 06:30:12: Log file closed.

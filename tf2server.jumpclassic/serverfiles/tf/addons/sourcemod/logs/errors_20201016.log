@@ -1,0 +1,26 @@
+L 10/16/2020 - 06:30:43: SourceMod error session started
+L 10/16/2020 - 06:30:43: Info (map "jump_academy_classic_b") (file "/home/tf2server.jumpclassic/serverfiles/tf/addons/sourcemod/logs/errors_20201016.log")
+L 10/16/2020 - 06:30:43: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 25 seconds, making a timer for it!
+L 10/16/2020 - 06:31:09: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 30 seconds, making a timer for it!
+L 10/16/2020 - 06:31:41: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 29 seconds, making a timer for it!
+L 10/16/2020 - 06:32:11: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 30 seconds, making a timer for it!
+L 10/16/2020 - 06:32:43: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 29 seconds, making a timer for it!
+L 10/16/2020 - 07:33:15: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 4 seconds, making a timer for it!
+L 10/16/2020 - 08:05:27: [SM] Exception reported: Entity 3 (3) is invalid
+L 10/16/2020 - 08:05:27: [SM] Blaming: spec-redux.smx
+L 10/16/2020 - 08:05:27: [SM] Call stack trace:
+L 10/16/2020 - 08:05:27: [SM]   [0] SetEntProp
+L 10/16/2020 - 08:05:27: [SM]   [1] Line 346, C:\Users\Arron\Documents\GitHub\TF2-QuickSpec\scripting\spec-redux.sp::framerequestChangeTeam
+L 10/16/2020 - 08:05:27: [SM] Exception reported: Client 3 is not in game
+L 10/16/2020 - 08:05:27: [SM] Blaming: jumpassist.smx
+L 10/16/2020 - 08:05:27: [SM] Call stack trace:
+L 10/16/2020 - 08:05:27: [SM]   [0] GetClientTeam
+L 10/16/2020 - 08:05:27: [SM]   [1] Line 1899, C:\Users\Arron\Documents\GitHub\TF2-ECJ-JumpAssist\scripting\jumpassist.sp::framerequestChangeTeam
+L 10/16/2020 - 09:33:26: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 12 seconds, making a timer for it!
+L 10/16/2020 - 10:33:41: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 13 seconds, making a timer for it!
+L 10/16/2020 - 13:34:04: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 7 seconds, making a timer for it!
+L 10/16/2020 - 14:34:14: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 2 seconds, making a timer for it!
+L 10/16/2020 - 16:34:22: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 4 seconds, making a timer for it!
+L 10/16/2020 - 18:34:30: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 9 seconds, making a timer for it!
+L 10/16/2020 - 19:34:44: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 21 seconds, making a timer for it!
+L 10/17/2020 - 00:00:00: Error log file session closed.

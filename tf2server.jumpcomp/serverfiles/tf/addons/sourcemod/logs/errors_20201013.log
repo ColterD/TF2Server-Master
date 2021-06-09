@@ -1,0 +1,17 @@
+L 10/13/2020 - 04:33:23: SourceMod error session started
+L 10/13/2020 - 04:33:23: Info (map "jump_oats_b3") (file "/home/tf2server.jumpcomp/serverfiles/tf/addons/sourcemod/logs/errors_20201013.log")
+L 10/13/2020 - 04:33:23: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 2 seconds, making a timer for it!
+L 10/13/2020 - 06:30:12: Error log file session closed.
+L 10/13/2020 - 13:11:07: SourceMod error session started
+L 10/13/2020 - 13:11:07: Info (map "jump_oats_b3") (file "/home/tf2server.jumpcomp/serverfiles/tf/addons/sourcemod/logs/errors_20201013.log")
+L 10/13/2020 - 13:11:07: [hive365.smx] [Hive365] socket error 3 (errno 1)
+L 10/13/2020 - 21:14:40: [hive365.smx] [Hive365] socket error 3 (errno 101)
+L 10/13/2020 - 21:15:49: [hive365.smx] [Hive365] socket error 3 (errno 110)
+L 10/13/2020 - 21:16:20: [hive365.smx] [Hive365] socket error 3 (errno 110)
+L 10/13/2020 - 21:17:19: [hive365.smx] [Hive365] socket error 3 (errno 110)
+L 10/13/2020 - 22:31:50: SourceMod error session started
+L 10/13/2020 - 22:31:50: Info (map "jump_oats_b3") (file "/home/tf2server.jumpcomp/serverfiles/tf/addons/sourcemod/logs/errors_20201013.log")
+L 10/13/2020 - 22:31:50: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 3 seconds, making a timer for it!
+L 10/13/2020 - 22:31:54: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 29 seconds, making a timer for it!
+L 10/13/2020 - 22:32:24: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 30 seconds, making a timer for it!
+L 10/14/2020 - 00:00:00: Error log file session closed.

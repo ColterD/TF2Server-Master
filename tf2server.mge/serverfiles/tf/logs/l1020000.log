@@ -1,0 +1,48 @@
+L 10/20/2020 - 06:30:36: Log file started (file "logs/L1020000.log") (game "/home/tf2server.mge/serverfiles/tf") (version "6145689")
+L 10/20/2020 - 06:30:36: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/20/2020 - 06:30:36: server_cvar: "tfh_fullmoon" "1"
+L 10/20/2020 - 06:30:36: server_cvar: "tfh_winter" "1"
+L 10/20/2020 - 06:30:36: server_cvar: "tfh_birthday" "1"
+L 10/20/2020 - 06:30:36: server_cvar: "tfh_endoftheline" "1"
+L 10/20/2020 - 06:30:36: server_cvar: "tfh_normalhealth" "1"
+L 10/20/2020 - 06:30:36: server_cvar: "tf_use_fixed_weaponspreads" "1"
+L 10/20/2020 - 06:30:36: server_cvar: "tf_weapon_criticals" "0"
+L 10/20/2020 - 06:30:36: server_cvar: "sv_tags" "1v1,1vs1,2v2,2vs2,alltalk,best,comp,dm,duels,fast,fun,increased_maxplayers,la,mge,mod,nocrits,norespawntime,respawntimes,us,usa"
+L 10/20/2020 - 06:30:36: server_cvar: "sv_tags" "1v1,1vs1,2v2,2vs2,alltalk,best,comp,dm,duels,fast,fun,increased_maxplayers,la,mge,mod,nocrits,norespawntime,respawntimes,us,usa"
+L 10/20/2020 - 06:30:36: server_cvar: "tf_weapon_criticals_melee" "0"
+L 10/20/2020 - 06:30:36: Connection to Steam servers successful.
+L 10/20/2020 - 06:30:36:    Public IP is 104.192.224.18.
+L 10/20/2020 - 06:30:36: Assigned persistent gameserver Steam ID [G:1:3229395].
+L 10/20/2020 - 06:30:36: VAC secure mode is activated.
+L 10/20/2020 - 09:19:17: "Sike hellcase.com<2><[U:1:301410590]><>" connected, address "75.164.30.78:27005"
+L 10/20/2020 - 09:19:17: "Sike hellcase.com<2><[U:1:301410590]><>" STEAM USERID validated
+L 10/20/2020 - 09:20:01: "Sike hellcase.com<2><[U:1:301410590]><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 09:20:01: "Sike hellcase.com<2><[U:1:301410590]><>" entered the game
+L 10/20/2020 - 09:20:21: "Sike hellcase.com<2><[U:1:301410590]><Spectator>" say "!add"
+L 10/20/2020 - 09:20:22: "Sike hellcase.com<2><[U:1:301410590]><Spectator>" joined team "Red"
+L 10/20/2020 - 09:20:34: "Sike hellcase.com<2><[U:1:301410590]><Red>" say "!add"
+L 10/20/2020 - 09:20:35: "Sike hellcase.com<2><[U:1:301410590]><Red>" joined team "Spectator"
+L 10/20/2020 - 09:20:35: "Sike hellcase.com<2><[U:1:301410590]><Spectator>" joined team "Red"
+L 10/20/2020 - 09:21:48: "zvR<3><[U:1:418464988]><>" connected, address "212.87.202.173:27005"
+L 10/20/2020 - 09:21:48: "zvR<3><[U:1:418464988]><>" STEAM USERID validated
+L 10/20/2020 - 09:22:46: "ins3rtn4mehere<4><[U:1:909469782]><>" connected, address "86.120.163.175:27005"
+L 10/20/2020 - 09:22:46: "ins3rtn4mehere<4><[U:1:909469782]><>" STEAM USERID validated
+L 10/20/2020 - 09:22:59: "ins3rtn4mehere<4><[U:1:909469782]><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 09:22:59: "ins3rtn4mehere<4><[U:1:909469782]><>" entered the game
+L 10/20/2020 - 09:23:13: "ins3rtn4mehere<4><[U:1:909469782]><Spectator>" joined team "Blue"
+L 10/20/2020 - 09:23:16: "ins3rtn4mehere<4><[U:1:909469782]><Blue>" joined team "Spectator"
+L 10/20/2020 - 09:23:18: "zvR<3><[U:1:418464988]><Unassigned>" joined team "Spectator"
+L 10/20/2020 - 09:23:18: "zvR<3><[U:1:418464988]><>" entered the game
+L 10/20/2020 - 09:23:22: "ins3rtn4mehere<4><[U:1:909469782]><Spectator>" say "!add"
+L 10/20/2020 - 09:23:31: "ins3rtn4mehere<4><[U:1:909469782]><Spectator>" joined team "Blue"
+L 10/20/2020 - 09:23:35: "ins3rtn4mehere<4><[U:1:909469782]><Blue>" say "!add"
+L 10/20/2020 - 09:23:52: "zvR<3><[U:1:418464988]><Spectator>" joined team "Red"
+L 10/20/2020 - 09:23:53: "ins3rtn4mehere<4><[U:1:909469782]><Blue>" say "!add"
+L 10/20/2020 - 09:23:59: "zvR<3><[U:1:418464988]><Red>" say "!add"
+L 10/20/2020 - 09:24:18: "Sike hellcase.com<2><[U:1:301410590]><Red>" say_team "!add"
+L 10/20/2020 - 09:24:18: "Sike hellcase.com<2><[U:1:301410590]><Red>" joined team "Spectator"
+L 10/20/2020 - 09:24:19: "Sike hellcase.com<2><[U:1:301410590]><Spectator>" joined team "Red"
+L 10/20/2020 - 09:24:35: "Sike hellcase.com<2><[U:1:301410590]><Red>" say "!add"
+L 10/20/2020 - 09:24:39: "Sike hellcase.com<2><[U:1:301410590]><Red>" joined team "Spectator"
+L 10/20/2020 - 09:24:40: "Sike hellcase.com<2><[U:1:301410590]><Spectator>" joined team "Red"
+L 10/20/2020 - 09:24:53: "ins3rtn4mehere<4>

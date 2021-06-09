@@ -1,0 +1,5 @@
+L 10/19/2020 - 09:44:37: SourceMod error session started
+L 10/19/2020 - 09:44:37: Info (map "jump_oats_b3") (file "/home/tf2server.jumpcomp/serverfiles/tf/addons/sourcemod/logs/errors_20201019.log")
+L 10/19/2020 - 09:44:37: [hive365.smx] [Hive365] socket error 3 (errno 1)
+L 10/19/2020 - 22:15:50: [hive365.smx] [Hive365] socket error 3 (errno 110)
+L 10/20/2020 - 00:00:00: Error log file session closed.

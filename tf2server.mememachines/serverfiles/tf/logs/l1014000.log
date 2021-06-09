@@ -1,0 +1,932 @@
+L 10/14/2020 - 06:30:36: Log file started (file "logs/L1014000.log") (game "/home/tf2server.mememachines/serverfiles/tf") (version "6135201")
+L 10/14/2020 - 06:30:36: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/14/2020 - 06:30:36: server_cvar: "tfh_birthday" "1"
+L 10/14/2020 - 06:30:36: server_cvar: "tfh_endoftheline" "1"
+L 10/14/2020 - 06:30:36: server_cvar: "tfh_fullmoon" "1"
+L 10/14/2020 - 06:30:36: server_cvar: "tfh_normalhealth" "1"
+L 10/14/2020 - 06:30:36: server_cvar: "tfh_winter" "1"
+L 10/14/2020 - 06:30:36: server_cvar: "mp_tournament_readymode" "1"
+L 10/14/2020 - 06:30:36: server_cvar: "tf_mvm_min_players_to_start" "2"
+L 10/14/2020 - 06:30:36: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/14/2020 - 06:30:36: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/14/2020 - 06:30:36: Connection to Steam servers successful.
+L 10/14/2020 - 06:30:36:    Public IP is 104.192.224.18.
+L 10/14/2020 - 06:30:36: Assigned anonymous gameserver Steam ID [A:1:764998659:15715].
+L 10/14/2020 - 06:30:36: VAC secure mode is activated.
+L 10/14/2020 - 06:55:09: "GrapParadox<2><[U:1:1135510135]><>" connected, address "42.189.192.237:27005"
+L 10/14/2020 - 06:55:09: "GrapParadox<2><[U:1:1135510135]><>" STEAM USERID validated
+L 10/14/2020 - 07:01:54: "GrapParadox<2><[U:1:1135510135]><>" entered the game
+L 10/14/2020 - 07:01:57: MVM assigned GrapParadox to defending team (5 more slots remaining after us)
+L 10/14/2020 - 07:01:57: MVM assigned GrapParadox to defending team (5 more slots remaining after us)
+L 10/14/2020 - 07:01:57: "GrapParadox<2><[U:1:1135510135]><Unassigned>" joined team "Red"
+L 10/14/2020 - 07:02:01: "GrapParadox<2><[U:1:1135510135]><Red>" changed role to "demoman"
+L 10/14/2020 - 07:02:01: "TFBot<3><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<3><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<3><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(1)TFBot<4><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<4><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<4><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(2)TFBot<5><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<5><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<5><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(3)TFBot<6><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<6><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<6><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(4)TFBot<7><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<7><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<7><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(5)TFBot<8><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<8><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<8><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(6)TFBot<9><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<9><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<9><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(7)TFBot<10><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<10><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<10><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(8)TFBot<11><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<11><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<11><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(9)TFBot<12><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<12><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<12><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(10)TFBot<13><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<13><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<13><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(11)TFBot<14><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<14><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<14><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(12)TFBot<15><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<15><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<15><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(13)TFBot<16><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<16><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<16><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(14)TFBot<17><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<17><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<17><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(15)TFBot<18><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<18><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<18><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(16)TFBot<19><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<19><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<19><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(17)TFBot<20><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<20><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<20><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(18)TFBot<21><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<21><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<21><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(19)TFBot<22><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<22><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<22><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(20)TFBot<23><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<23><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<23><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: "(21)TFBot<24><BOT><>" connected, address "none"
+L 10/14/2020 - 07:02:01: "<24><BOT><>" entered the game
+L 10/14/2020 - 07:02:01: "TFBot<24><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:02:01: server_cvar: "mp_tournament" "1"
+L 10/14/2020 - 07:02:02: server_cvar: "tf_bot_count" "22"
+L 10/14/2020 - 07:02:06: "GrapParadox<2><[U:1:1135510135]><Red>" say "!joinblue"
+L 10/14/2020 - 07:02:10: "GrapParadox<2><[U:1:1135510135]><Red>" say "rtv"
+L 10/14/2020 - 07:02:16: MVM assigned GrapParadox to defending team (4 more slots remaining after us)
+L 10/14/2020 - 07:02:16: server_cvar: "mp_tournament" "0"
+L 10/14/2020 - 07:02:16: [META] Loaded 0 plugins (1 already loaded)
+L 10/14/2020 - 07:02:16: Loading map "mvm_underground_rc3"
+L 10/14/2020 - 07:02:16: server cvars start
+L 10/14/2020 - 07:02:16: "kartify_version" = "1.5.0A"
+L 10/14/2020 - 07:02:16: "ngs_backpacktf_version" = "2.12.3A"
+L 10/14/2020 - 07:02:16: "steamrep_checker_version" = "1.2.0A"
+L 10/14/2020 - 07:02:16: "local_item_server_version" = "1.1.5A"
+L 10/14/2020 - 07:02:16: "sw_gamedesc_override_version" = "1.1A"
+L 10/14/2020 - 07:02:16: "enhanced_items_version" = "1.1.0A"
+L 10/14/2020 - 07:02:16: "sm_playerpitch_high" = "200"
+L 10/14/2020 - 07:02:16: "sm_playerpitch_low" = "50"
+L 10/14/2020 - 07:02:16: "sm_playerpitch_version" = "1.1.1"
+L 10/14/2020 - 07:02:16: "sm_calladmin_version" = "0.1.8"
+L 10/14/2020 - 07:02:16: "sm_unusuals_version" = "1.0"
+L 10/14/2020 - 07:02:16: "cronjobs_version" = "2.0"
+L 10/14/2020 - 07:02:16: "crontab_version" = "2.0"
+L 10/14/2020 - 07:02:16: "sm_cannounce_version" = "1.8.2"
+L 10/14/2020 - 07:02:16: "sgadmins_version" = "1.2.0"
+L 10/14/2020 - 07:02:16: "sm_sourcesleuth_version" = "1.6.3"
+L 10/14/2020 - 07:02:16: "sm_bhats_version" = "2.0"
+L 10/14/2020 - 07:02:16: "sm_updater_version" = "1.2.2"
+L 10/14/2020 - 07:02:16: "sbpp_report_version" = "1.6.3"
+L 10/14/2020 - 07:02:16: "discord_version" = "1.0"
+L 10/14/2020 - 07:02:16: "sm_helpmenu_version" = "1.0"
+L 10/14/2020 - 07:02:16: "sm_gbc_version" = "1.10"
+L 10/14/2020 - 07:02:16: "sm_spectate_version" = "1.2.3"
+L 10/14/2020 - 07:02:16: "dm_redirect_version" = "0.2.6"
+L 10/14/2020 - 07:02:16: "ssm_core_inc_ver" = "1.0.$Revision: 74 $"
+L 10/14/2020 - 07:02:16: "ssm_core_pl_ver" = "1.0.$Revision: 91 $"
+L 10/14/2020 - 07:02:16: "sm_logo_version" = "2.2"
+L 10/14/2020 - 07:02:16: "sm_resize_version" = "1.6.0"
+L 10/14/2020 - 07:02:16: "sm_tf2idb_version" = "0.93"
+L 10/14/2020 - 07:02:16: "sm_achmod_version" = "1.0"
+L 10/14/2020 - 07:02:16: "webshortcutsredux_version" = "1.2newsyntax"
+L 10/14/2020 - 07:02:16: "discord_sourcebans_version" = "1.0"
+L 10/14/2020 - 07:02:16: "sm_necromash_version" = "1.1"
+L 10/14/2020 - 07:02:16: "tfh_normalhealth" = "1"
+L 10/14/2020 - 07:02:16: "tfh_endoftheline" = "1"
+L 10/14/2020 - 07:02:16: "tfh_aprilfools" = "0"
+L 10/14/2020 - 07:02:16: "tfh_valentines" = "0"
+L 10/14/2020 - 07:02:16: "tfh_winter" = "1"
+L 10/14/2020 - 07:02:16: "tfh_birthday" = "1"
+L 10/14/2020 - 07:02:16: "tfh_fullmoon" = "1"
+L 10/14/2020 - 07:02:16: "tfh_halloween" = "0"
+L 10/14/2020 - 07:02:16: "tfh_enabled" = "1"
+L 10/14/2020 - 07:02:16: "tfh_version" = "1.10.2"
+L 10/14/2020 - 07:02:16: "tf2attributes_version" = "1.3.2"
+L 10/14/2020 - 07:02:16: "discord_sourcecomms_version" = "1.1"
+L 10/14/2020 - 07:02:16: "scp_version" = "2.3.0"
+L 10/14/2020 - 07:02:16: "sm_retryonrestart_enabled" = "1"
+L 10/14/2020 - 07:02:16: "sm_retryonrestart" = "1.2"
+L 10/14/2020 - 07:02:16: "sm_bread_version" = "1.0"
+L 10/14/2020 - 07:02:16: "sm_hive365radio_version" = "4.0.5"
+L 10/14/2020 - 07:02:16: "SA3_version" = "3.1.4"
+L 10/14/2020 - 07:02:16: "sm_cidr_version" = "1.1.6"
+L 10/14/2020 - 07:02:16: "sm_spec_version" = "2.1.2"
+L 10/14/2020 - 07:02:16: "sm_tidychat_version" = "0.5"
+L 10/14/2020 - 07:02:16: "sm_translator_version" = "1.0"
+L 10/14/2020 - 07:02:16: "ffcr_version" = "0.1"
+L 10/14/2020 - 07:02:16: "sbr_version" = "1.6.3"
+L 10/14/2020 - 07:02:16: "sb_version" = "1.6.3"
+L 10/14/2020 - 07:02:16: "sm_ssh_version" = "1.3.4"
+L 10/14/2020 - 07:02:16: "sm_spray_version" = "1.3.4"
+L 10/14/2020 - 07:02:16: "sm_wear_version" = "1.0"
+L 10/14/2020 - 07:02:16: "discord_calladmin_version" = "1.1"
+L 10/14/2020 - 07:02:16: "sbchecker_version" = "1.6.3"
+L 10/14/2020 - 07:02:16: "sourcecomms_version" = "1.6.3"
+L 10/14/2020 - 07:02:16: "sm_tauntspeed_version" = "2.2"
+L 10/14/2020 - 07:02:16: "sm_observerpoint_version" = "1.0.100"
+L 10/14/2020 - 07:02:16: "tf2items_giveweapon_version" = "3.14159"
+L 10/14/2020 - 07:02:16: "tenmvm_version" = "1.1"
+L 10/14/2020 - 07:02:16: "thirdperson_version" = "2.1.0"
+L 10/14/2020 - 07:02:16: "steamtools_version" = "0.10.0+54fdc51"
+L 10/14/2020 - 07:02:16: "tf2items_version" = "1.6.4"
+L 10/14/2020 - 07:02:16: "sourcemod_version" = "1.10.0.6492"
+L 10/14/2020 - 07:02:16: "sm_nextmap" = ""
+L 10/14/2020 - 07:02:16: "metamod_version" = "1.10.7-devV"
+L 10/14/2020 - 07:02:16: "tf_server_identity_disable_quickplay" = "0"
+L 10/14/2020 - 07:02:16: "sv_registration_successful" = "0"
+L 10/14/2020 - 07:02:16: "sv_registration_message" = "No account specified"
+L 10/14/2020 - 07:02:16: "tf_mm_servermode" = "0"
+L 10/14/2020 - 07:02:16: "tf_mm_strict" = "0"
+L 10/14/2020 - 07:02:16: "tf_mm_trusted" = "0"
+L 10/14/2020 - 07:02:16: "sv_vote_quorum_ratio" = "0.6"
+L 10/14/2020 - 07:02:16: "mp_friendlyfire" = "0"
+L 10/14/2020 - 07:02:16: "mp_fadetoblack" = "0"
+L 10/14/2020 - 07:02:16: "sv_gravity" = "800"
+L 10/14/2020 - 07:02:16: "sv_stopspeed" = "100"
+L 10/14/2020 - 07:02:16: "sv_noclipaccelerate" = "5"
+L 10/14/2020 - 07:02:16: "sv_noclipspeed" = "5"
+L 10/14/2020 - 07:02:16: "sv_specaccelerate" = "5"
+L 10/14/2020 - 07:02:16: "sv_specspeed" = "3"
+L 10/14/2020 - 07:02:16: "sv_specnoclip" = "1"
+L 10/14/2020 - 07:02:16: "sv_maxspeed" = "320"
+L 10/14/2020 - 07:02:16: "sv_accelerate" = "10"
+L 10/14/2020 - 07:02:16: "sv_airaccelerate" = "10"
+L 10/14/2020 - 07:02:16: "sv_wateraccelerate" = "10"
+L 10/14/2020 - 07:02:16: "sv_waterfriction" = "1"
+L 10/14/2020 - 07:02:16: "sv_footsteps" = "1"
+L 10/14/2020 - 07:02:16: "sv_rollspeed" = "200"
+L 10/14/2020 - 07:02:16: "sv_rollangle" = "0"
+L 10/14/2020 - 07:02:16: "sv_friction" = "4"
+L 10/14/2020 - 07:02:16: "sv_bounce" = "0"
+L 10/14/2020 - 07:02:16: "sv_stepsize" = "18"
+L 10/14/2020 - 07:02:16: "r_VehicleViewDampen" = "1"
+L 10/14/2020 - 07:02:16: "r_JeepViewDampenFreq" = "7.0"
+L 10/14/2020 - 07:02:16: "r_JeepViewDampenDamp" = "1.0"
+L 10/14/2020 - 07:02:16: "r_JeepViewZHeight" = "10.0"
+L 10/14/2020 - 07:02:16: "r_AirboatViewDampenFreq" = "7.0"
+L 10/14/2020 - 07:02:16: "r_AirboatViewDampenDamp" = "1.0"
+L 10/14/2020 - 07:02:16: "r_AirboatViewZHeight" = "0.0"
+L 10/14/2020 - 07:02:16: "mp_timelimit" = "0"
+L 10/14/2020 - 07:02:16: "mp_fraglimit" = "0"
+L 10/14/2020 - 07:02:16: "nextlevel" = ""
+L 10/14/2020 - 07:02:16: "mp_respawnwavetime" = "10.0"
+L 10/14/2020 - 07:02:16: "mp_tournament" = "0"
+L 10/14/2020 - 07:02:16: "mp_highlander" = "0"
+L 10/14/2020 - 07:02:16: "tf_arena_preround_time" = "10"
+L 10/14/2020 - 07:02:16: "tf_arena_round_time" = "0"
+L 10/14/2020 - 07:02:16: "tf_arena_max_streak" = "3"
+L 10/14/2020 - 07:02:16: "tf_arena_use_queue" = "1"
+L 10/14/2020 - 07:02:16: "mp_maxrounds" = "0"
+L 10/14/2020 - 07:02:16: "mp_winlimit" = "0"
+L 10/14/2020 - 07:02:16: "mp_disable_respawn_times" = "0"
+L 10/14/2020 - 07:02:16: "mp_stalemate_meleeonly" = "0"
+L 10/14/2020 - 07:02:16: "mp_forceautoteam" = "0"
+L 10/14/2020 - 07:02:16: "mp_autoteambalance" = "1"
+L 10/14/2020 - 07:02:16: "mp_stalemate_enable" = "1"
+L 10/14/2020 - 07:02:16: "mp_match_end_at_timelimit" = "0"
+L 10/14/2020 - 07:02:16: "mp_holiday_nogifts" = "0"
+L 10/14/2020 - 07:02:16: "mp_scrambleteams_auto" = "1"
+L 10/14/2020 - 07:02:16: "mp_scrambleteams_auto_windifference" = "2"
+L 10/14/2020 - 07:02:16: "tf_overtime_nag" = "0"
+L 10/14/2020 - 07:02:16: "tf_passtime_scores_per_round" = "5"
+L 10/14/2020 - 07:02:16: "tf_passtime_ball_damping_scale" = "0.01f"
+L 10/14/2020 - 07:02:16: "tf_passtime_ball_drag_coefficient" = "0.01f"
+L 10/14/2020 - 07:02:16: "tf_passtime_ball_inertia_scale" = "1.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_ball_mass" = "1.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_ball_model" = "models/passtime/ball/passtime_ball.mdl"
+L 10/14/2020 - 07:02:16: "tf_passtime_ball_sphere_collision" = "1"
+L 10/14/2020 - 07:02:16: "tf_passtime_ball_sphere_radius" = "7.2f"
+L 10/14/2020 - 07:02:16: "tf_passtime_ball_reset_time" = "15"
+L 10/14/2020 - 07:02:16: "tf_passtime_ball_rotdamping_scale" = "1.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_ball_seek_range" = "128"
+L 10/14/2020 - 07:02:16: "tf_passtime_ball_seek_speed_factor" = "3f"
+L 10/14/2020 - 07:02:16: "tf_passtime_ball_takedamage" = "1"
+L 10/14/2020 - 07:02:16: "tf_passtime_ball_takedamage_force" = "800.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_flinch_boost" = "0"
+L 10/14/2020 - 07:02:16: "tf_passtime_mode_homing_lock_sec" = "1.5f"
+L 10/14/2020 - 07:02:16: "tf_passtime_mode_homing_speed" = "1000.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_overtime_idle_sec" = "5"
+L 10/14/2020 - 07:02:16: "tf_passtime_player_reticles_enemies" = "1"
+L 10/14/2020 - 07:02:16: "tf_passtime_player_reticles_friends" = "2"
+L 10/14/2020 - 07:02:16: "tf_passtime_score_crit_sec" = "5.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_speedboost_on_get_ball_time" = "2.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_steal_on_melee" = "1"
+L 10/14/2020 - 07:02:16: "tf_passtime_teammate_steal_time" = "45"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwarc_scout" = "0.1f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwarc_soldier" = "0.1f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwarc_pyro" = "0.1f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwarc_demoman" = "0.15f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwarc_heavy" = "0.175f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwarc_engineer" = "0.2f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwarc_medic" = "0.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwarc_sniper" = "0.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwarc_spy" = "0.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwspeed_scout" = "700.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwspeed_soldier" = "800.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwspeed_pyro" = "750.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwspeed_demoman" = "850.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwspeed_heavy" = "850.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwspeed_engineer" = "850.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwspeed_medic" = "900.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwspeed_sniper" = "900.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwspeed_spy" = "900.0f"
+L 10/14/2020 - 07:02:16: "tf_passtime_throwspeed_velocity_scale" = "0.33f"
+L 10/14/2020 - 07:02:16: "tf_passtime_save_stats" = "0"
+L 10/14/2020 - 07:02:16: "tf_passtime_experiment_telepass" = "0"
+L 10/14/2020 - 07:02:16: "tf_passtime_experiment_instapass_charge" = "0"
+L 10/14/2020 - 07:02:16: "tf_passtime_experiment_autopass" = "0"
+L 10/14/2020 - 07:02:16: "tf_passtime_experiment_instapass" = "0"
+L 10/14/2020 - 07:02:16: "tf_passtime_powerball_decayamount" = "1"
+L 10/14/2020 - 07:02:16: "tf_passtime_powerball_decaysec" = "4.5f"
+L 10/14/2020 - 07:02:16: "tf_passtime_powerball_decaysec_neutral" = "1.5f"
+L 10/14/2020 - 07:02:16: "tf_passtime_powerball_passpoints" = "25"
+L 10/14/2020 - 07:02:16: "tf_passtime_powerball_threshold" = "80"
+L 10/14/2020 - 07:02:16: "tf_passtime_powerball_airtimebonus" = "40"
+L 10/14/2020 - 07:02:16: "tf_passtime_powerball_maxairtimebonus" = "100"
+L 10/14/2020 - 07:02:16: "tf_passtime_powerball_decay_delay" = "10"
+L 10/14/2020 - 07:02:16: "tf_passtime_pack_range" = "512"
+L 10/14/2020 - 07:02:16: "tf_passtime_pack_speed" = "1"
+L 10/14/2020 - 07:02:16: "tf_passtime_pack_hp_per_sec" = "2.0f"
+L 10/14/2020 - 07:02:16: "tf_use_fixed_weaponspreads" = "0"
+L 10/14/2020 - 07:02:16: "tf_max_charge_speed" = "750"
+L 10/14/2020 - 07:02:16: "tf_halloween_allow_truce_during_boss_event" = "0"
+L 10/14/2020 - 07:02:16: "tf_player_name_change_time" = "60"
+L 10/14/2020 - 07:02:16: "tf_spec_xray" = "1"
+L 10/14/2020 - 07:02:16: "tf_spawn_glows_duration" = "10"
+L 10/14/2020 - 07:02:16: "tf_force_holidays_off" = "0"
+L 10/14/2020 - 07:02:16: "tf_birthday" = "0"
+L 10/14/2020 - 07:02:16: "tf_spells_enabled" = "0"
+L 10/14/2020 - 07:02:16: "mp_tournament_stopwatch" = "1"
+L 10/14/2020 - 07:02:16: "mp_tournament_readymode" = "1"
+L 10/14/2020 - 07:02:16: "mp_tournament_readymode_min" = "2"
+L 10/14/2020 - 07:02:16: "mp_tournament_readymode_team_size" = "0"
+L 10/14/2020 - 07:02:16: "mp_tournament_readymode_countdown" = "10"
+L 10/14/2020 - 07:02:16: "mp_windifference" = "0"
+L 10/14/2020 - 07:02:16: "mp_windifference_min" = "0"
+L 10/14/2020 - 07:02:16: "tf_classlimit" = "0"
+L 10/14/2020 - 07:02:16: "tf_medieval" = "0"
+L 10/14/2020 - 07:02:16: "tf_medieval_autorp" = "1"
+L 10/14/2020 - 07:02:16: "tf_arena_force_class" = "0"
+L 10/14/2020 - 07:02:16: "tf_arena_change_limit" = "1"
+L 10/14/2020 - 07:02:16: "tf_arena_override_cap_enable_time" = "-1"
+L 10/14/2020 - 07:02:16: "tf_arena_first_blood" = "1"
+L 10/14/2020 - 07:02:16: "tf_mvm_min_players_to_start" = "2"
+L 10/14/2020 - 07:02:16: "tf_gamemode_arena" = "0"
+L 10/14/2020 - 07:02:16: "tf_gamemode_cp" = "0"
+L 10/14/2020 - 07:02:16: "tf_gamemode_ctf" = "0"
+L 10/14/2020 - 07:02:16: "tf_gamemode_sd" = "0"
+L 10/14/2020 - 07:02:16: "tf_gamemode_rd" = "0"
+L 10/14/2020 - 07:02:16: "tf_gamemode_pd" = "0"
+L 10/14/2020 - 07:02:16: "tf_gamemode_tc" = "0"
+L 10/14/2020 - 07:02:16: "tf_beta_content" = "0"
+L 10/14/2020 - 07:02:16: "tf_gamemode_payload" = "0"
+L 10/14/2020 - 07:02:16: "tf_gamemode_mvm" = "1"
+L 10/14/2020 - 07:02:16: "tf_gamemode_passtime" = "0"
+L 10/14/2020 - 07:02:16: "tf_gamemode_misc" = "0"
+L 10/14/2020 - 07:02:16: "tf_bot_count" = "22"
+L 10/14/2020 - 07:02:16: "tf_gravetalk" = "1"
+L 10/14/2020 - 07:02:16: "tf_ctf_bonus_time" = "10"
+L 10/14/2020 - 07:02:16: "tf_powerup_mode" = "0"
+L 10/14/2020 - 07:02:16: "tf_damage_disablespread" = "1"
+L 10/14/2020 - 07:02:16: "tf_weapon_criticals" = "1"
+L 10/14/2020 - 07:02:16: "tf_weapon_criticals_melee" = "1"
+L 10/14/2020 - 07:02:16: "sv_alltalk" = "1"
+L 10/14/2020 - 07:02:16: "mp_teamplay" = "0"
+L 10/14/2020 - 07:02:16: "mp_falldamage" = "0"
+L 10/14/2020 - 07:02:16: "mp_weaponstay" = "0"
+L 10/14/2020 - 07:02:16: "mp_forcerespawn" = "1"
+L 10/14/2020 - 07:02:16: "mp_footsteps" = "1"
+L 10/14/2020 - 07:02:16: "mp_flashlight" = "0"
+L 10/14/2020 - 07:02:16: "mp_autocrosshair" = "1"
+L 10/14/2020 - 07:02:16: "decalfrequency" = "0"
+L 10/14/2020 - 07:02:16: "mp_teamlist" = "hgrunt;scientist"
+L 10/14/2020 - 07:02:16: "mp_allowNPCs" = "1"
+L 10/14/2020 - 07:02:16: "sv_maxusrcmdprocessticks" = "24"
+L 10/14/2020 - 07:02:16: "tf_playergib" = "1"
+L 10/14/2020 - 07:02:16: "tf_allow_player_use" = "0"
+L 10/14/2020 - 07:02:16: "tf_mvm_death_penalty" = "0"
+L 10/14/2020 - 07:02:16: "sv_password" = ""
+L 10/14/2020 - 07:02:16: "sv_tags" = "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/14/2020 - 07:02:16: "tv_relaypassword" = ""
+L 10/14/2020 - 07:02:16: "tv_password" = ""
+L 10/14/2020 - 07:02:16: "deathmatch" = "1"
+L 10/14/2020 - 07:02:16: "coop" = "0"
+L 10/14/2020 - 07:02:16: "sv_cheats" = "0"
+L 10/14/2020 - 07:02:16: "sv_pausable" = "0"
+L 10/14/2020 - 07:02:16: "sv_contact" = "admin@pancakes.tf"
+L 10/14/2020 - 07:02:16: "sv_voiceenable" = "1"
+L 10/14/2020 - 07:02:16: "tv_enable" = "0"
+L 10/14/2020 - 07:02:16: "sv_steamgroup" = ""
+L 10/14/2020 - 07:02:16: server cvars end
+L 10/14/2020 - 07:02:17: Started map "mvm_underground_rc3" (CRC "633b49d7972d9c7b3b2179c4c351a7a9")
+L 10/14/2020 - 07:02:17: Executing dedicated server config file tf2server.cfg
+L 10/14/2020 - 07:02:21: server_cvar: "tf_gamemode_mvm" "0"
+L 10/14/2020 - 07:02:21: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,pot"
+L 10/14/2020 - 07:02:21: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,pot"
+L 10/14/2020 - 07:02:21: server_cvar: "sv_tags" "alltalk,best,bots,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,pot"
+L 10/14/2020 - 07:02:21: server_cvar: "sv_tags" "alltalk,best,bots,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,pot"
+L 10/14/2020 - 07:02:21: server_cvar: "tf_bot_count" "0"
+L 10/14/2020 - 07:02:21: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,pot"
+L 10/14/2020 - 07:02:21: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,pot"
+L 10/14/2020 - 07:02:21: server_cvar: "tf_gamemode_mvm" "1"
+L 10/14/2020 - 07:02:21: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/14/2020 - 07:02:21: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/14/2020 - 07:02:22: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/14/2020 - 07:03:14: "GrapParadox<2><[U:1:1135510135]><>" entered the game
+L 10/14/2020 - 07:03:17: MVM assigned GrapParadox to defending team (5 more slots remaining after us)
+L 10/14/2020 - 07:03:17: MVM assigned GrapParadox to defending team (5 more slots remaining after us)
+L 10/14/2020 - 07:03:17: "GrapParadox<2><[U:1:1135510135]><Unassigned>" joined team "Red"
+L 10/14/2020 - 07:03:30: "GrapParadox<2><[U:1:1135510135]><Red>" changed role to "soldier"
+L 10/14/2020 - 07:03:30: "TFBot<25><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<25><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<25><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(1)TFBot<26><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<26><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<26><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(2)TFBot<27><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<27><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<27><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(3)TFBot<28><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<28><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<28><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(4)TFBot<29><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<29><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<29><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(5)TFBot<30><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<30><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<30><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(6)TFBot<31><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<31><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<31><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(7)TFBot<32><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<32><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<32><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(8)TFBot<33><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<33><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<33><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(9)TFBot<34><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<34><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<34><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(10)TFBot<35><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<35><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<35><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(11)TFBot<36><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<36><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<36><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(12)TFBot<37><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<37><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<37><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(13)TFBot<38><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<38><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<38><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(14)TFBot<39><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<39><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<39><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(15)TFBot<40><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<40><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<40><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(16)TFBot<41><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<41><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<41><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(17)TFBot<42><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<42><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<42><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(18)TFBot<43><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<43><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<43><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(19)TFBot<44><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<44><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<44><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(20)TFBot<45><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<45><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<45><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: "(21)TFBot<46><BOT><>" connected, address "none"
+L 10/14/2020 - 07:03:30: "<46><BOT><>" entered the game
+L 10/14/2020 - 07:03:30: "TFBot<46><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 07:03:30: server_cvar: "mp_tournament" "1"
+L 10/14/2020 - 07:03:32: server_cvar: "tf_bot_count" "22"
+L 10/14/2020 - 07:03:49: "GrapParadox<2><[U:1:1135510135]><Red>" say "!menu"
+L 10/14/2020 - 07:04:23: "GrapParadox<2><[U:1:1135510135]><Red>" disconnected (reason "Disconnect by user.")
+L 10/14/2020 - 07:04:23: MVM assigned GrapParadox to defending team (4 more slots remaining after us)
+L 10/14/2020 - 07:44:21: "koryakin.stepan<47><[U:1:1137847278]><>" connected, address "109.252.118.205:16228"
+L 10/14/2020 - 07:44:21: "koryakin.stepan<47><[U:1:1137847278]><>" STEAM USERID validated
+L 10/14/2020 - 07:45:16: "koryakin.stepan<47><[U:1:1137847278]><>" disconnected (reason "Disconnect by user.")
+L 10/14/2020 - 13:36:08: "Eulogy<48><[U:1:82609079]><>" connected, address "70.163.154.113:27005"
+L 10/14/2020 - 13:36:08: "Eulogy<48><[U:1:82609079]><>" STEAM USERID validated
+L 10/14/2020 - 13:36:24: "Eulogy<48><[U:1:82609079]><>" entered the game
+L 10/14/2020 - 13:36:30: MVM assigned Eulogy to defending team (5 more slots remaining after us)
+L 10/14/2020 - 13:36:30: MVM assigned Eulogy to defending team (5 more slots remaining after us)
+L 10/14/2020 - 13:36:30: "Eulogy<48><[U:1:82609079]><Unassigned>" joined team "Red"
+L 10/14/2020 - 13:36:31: "Eulogy<48><[U:1:82609079]><Red>" changed role to "sniper"
+L 10/14/2020 - 13:37:25: "Eulogy<48><[U:1:82609079]><Red>" disconnected (reason "Disconnect by user.")
+L 10/14/2020 - 13:37:25: MVM assigned Eulogy to defending team (4 more slots remaining after us)
+L 10/14/2020 - 13:50:45: "bebop<49><[U:1:409752038]><>" connected, address "50.53.174.153:27005"
+L 10/14/2020 - 13:50:45: "bebop<49><[U:1:409752038]><>" STEAM USERID validated
+L 10/14/2020 - 13:51:06: "bebop<49><[U:1:409752038]><>" entered the game
+L 10/14/2020 - 13:51:14: MVM assigned bebop to defending team (5 more slots remaining after us)
+L 10/14/2020 - 13:51:14: MVM assigned bebop to defending team (5 more slots remaining after us)
+L 10/14/2020 - 13:51:14: "bebop<49><[U:1:409752038]><Unassigned>" joined team "Red"
+L 10/14/2020 - 13:51:16: "bebop<49><[U:1:409752038]><Red>" changed role to "sniper"
+L 10/14/2020 - 13:53:23: "Mr.NoBody ツ<50><[U:1:164842207]><>" connected, address "68.57.42.166:27005"
+L 10/14/2020 - 13:53:23: "Mr.NoBody ツ<50><[U:1:164842207]><>" STEAM USERID validated
+L 10/14/2020 - 13:56:00: "bebop<49><[U:1:409752038]><Red>" disconnected (reason "Disconnect by user.")
+L 10/14/2020 - 13:56:00: MVM assigned bebop to defending team (4 more slots remaining after us)
+L 10/14/2020 - 13:57:40: "Mr.NoBody ツ<50><[U:1:164842207]><>" entered the game
+L 10/14/2020 - 13:58:05: MVM assigned Mr.NoBody ツ to defending team (5 more slots remaining after us)
+L 10/14/2020 - 13:58:05: MVM assigned Mr.NoBody ツ to defending team (5 more slots remaining after us)
+L 10/14/2020 - 13:58:05: "Mr.NoBody ツ<50><[U:1:164842207]><Unassigned>" joined team "Red"
+L 10/14/2020 - 13:58:07: "Mr.NoBody ツ<50><[U:1:164842207]><Red>" changed role to "engineer"
+L 10/14/2020 - 14:00:30: "Mr.NoBody ツ<50><[U:1:164842207]><Red>" disconnected (reason "Disconnect by user.")
+L 10/14/2020 - 14:00:30: MVM assigned Mr.NoBody ツ to defending team (4 more slots remaining after us)
+L 10/14/2020 - 18:17:02: Connection to Steam servers lost.  (Result = 20)
+L 10/14/2020 - 18:17:21: Connection to Steam servers successful.
+L 10/14/2020 - 18:17:21:    Public IP is 104.192.224.18.
+L 10/14/2020 - 18:17:21: Assigned anonymous gameserver Steam ID [A:1:764998659:15715].
+L 10/14/2020 - 18:17:22: VAC secure mode is activated.
+L 10/14/2020 - 19:11:40: "Jo<51><[U:1:98545269]><>" connected, address "134.50.157.117:27005"
+L 10/14/2020 - 19:11:40: "Jo<51><[U:1:98545269]><>" STEAM USERID validated
+L 10/14/2020 - 19:11:45: "Encarra<52><[U:1:60429372]><>" connected, address "75.132.180.167:27005"
+L 10/14/2020 - 19:11:45: "Encarra<52><[U:1:60429372]><>" STEAM USERID validated
+L 10/14/2020 - 19:14:28: "Jo<51><[U:1:98545269]><>" entered the game
+L 10/14/2020 - 19:14:41: MVM assigned Jo to defending team (5 more slots remaining after us)
+L 10/14/2020 - 19:14:41: MVM assigned Jo to defending team (5 more slots remaining after us)
+L 10/14/2020 - 19:14:41: "Jo<51><[U:1:98545269]><Unassigned>" joined team "Red"
+L 10/14/2020 - 19:14:55: "Jo<51><[U:1:98545269]><Red>" changed role to "pyro"
+L 10/14/2020 - 19:15:32: "Encarra<52><[U:1:60429372]><>" entered the game
+L 10/14/2020 - 19:15:38: MVM assigned Encarra to defending team (4 more slots remaining after us)
+L 10/14/2020 - 19:15:38: MVM assigned Encarra to defending team (4 more slots remaining after us)
+L 10/14/2020 - 19:15:38: "Encarra<52><[U:1:60429372]><Unassigned>" joined team "Red"
+L 10/14/2020 - 19:15:41: "Encarra<52><[U:1:60429372]><Red>" changed role to "engineer"
+L 10/14/2020 - 19:15:47: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "65 4311 -103")
+L 10/14/2020 - 19:16:13: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "1262 -638 -19")
+L 10/14/2020 - 19:16:15: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "995 -745 -35")
+L 10/14/2020 - 19:16:17: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "1251 -682 -25")
+L 10/14/2020 - 19:16:18: "Encarra<52><[U:1:60429372]><Red>" triggered "player_carryobject" (object "OBJ_DISPENSER") (position "1175 -700 -34")
+L 10/14/2020 - 19:16:21: "Encarra<52><[U:1:60429372]><Red>" triggered "player_dropobject" (object "OBJ_DISPENSER") (position "685 -1371 -72")
+L 10/14/2020 - 19:16:21: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "685 -1371 -72")
+L 10/14/2020 - 19:16:53: "Encarra<52><[U:1:60429372]><Red>" committed suicide with "world" (attacker_position "992 -817 29")
+L 10/14/2020 - 19:17:05: server_cvar: "mp_tournament_stopwatch" "0"
+L 10/14/2020 - 19:17:05: "TFBot<25><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:17:05: "TFBot<25><BOT><Blue>" changed role to "scout"
+L 10/14/2020 - 19:17:05: "press f4<25><BOT><Blue>" triggered "flagevent" (event "picked up") (position "37 4875 -103")
+L 10/14/2020 - 19:17:06: "press f4<25><BOT><Blue>" committed suicide with "world" (attacker_position "140 4597 -103")
+L 10/14/2020 - 19:17:06: "press f4<25><BOT><Blue>" triggered "flagevent" (event "dropped") (position "140 4597 -103")
+L 10/14/2020 - 19:17:11: "press f4<25><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:17:56: "Jo<51><[U:1:98545269]><Red>" committed suicide with "world" (attacker_position "-260 1615 5")
+L 10/14/2020 - 19:18:36: "(1)TFBot<26><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:18:36: "(1)TFBot<26><BOT><Blue>" changed role to "scout"
+L 10/14/2020 - 19:18:37: "come on press f4<26><BOT><Blue>" triggered "flagevent" (event "picked up") (position "37 4875 -103")
+L 10/14/2020 - 19:18:37: "come on press f4<26><BOT><Blue>" committed suicide with "world" (attacker_position "142 4604 -103")
+L 10/14/2020 - 19:18:37: "come on press f4<26><BOT><Blue>" triggered "flagevent" (event "dropped") (position "142 4604 -103")
+L 10/14/2020 - 19:18:43: "come on press f4<26><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:04: "(2)TFBot<27><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:04: "(2)TFBot<27><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:04: "gj mate you did it<27><BOT><Blue>" triggered "flagevent" (event "picked up") (position "525 4950 -103")
+L 10/14/2020 - 19:19:05: "gj mate you did it<27><BOT><Blue>" committed suicide with "world" (attacker_position "535 4775 -157")
+L 10/14/2020 - 19:19:05: "gj mate you did it<27><BOT><Blue>" triggered "flagevent" (event "dropped") (position "535 4775 -157")
+L 10/14/2020 - 19:19:10: "gj mate you did it<27><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:30: "(3)TFBot<28><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:30: "(3)TFBot<28><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:30: "(4)TFBot<29><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:30: "(4)TFBot<29><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:30: "Extended Conch Soldier<28><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-537 -2562 -111")
+L 10/14/2020 - 19:19:35: "(5)TFBot<30><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:35: "(5)TFBot<30><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:35: "(6)TFBot<31><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:35: "(6)TFBot<31><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:35: "(7)TFBot<32><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:35: "(7)TFBot<32><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:35: "(8)TFBot<33><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:35: "(8)TFBot<33><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:35: "(9)TFBot<34><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:35: "(9)TFBot<34><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:35: "(10)TFBot<35><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:35: "(10)TFBot<35><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:35: "(11)TFBot<36><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:35: "(11)TFBot<36><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:35: "(12)TFBot<37><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:35: "(12)TFBot<37><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:36: "(13)TFBot<38><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:36: "(13)TFBot<38><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:36: "(14)TFBot<39><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:36: "(14)TFBot<39><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:36: "(15)TFBot<40><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:36: "(15)TFBot<40><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:36: "(16)TFBot<41><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:36: "(16)TFBot<41><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:36: "(17)TFBot<42><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:36: "(17)TFBot<42><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:36: "(18)TFBot<43><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:36: "(18)TFBot<43><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:36: "(19)TFBot<44><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:36: "(19)TFBot<44><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:36: "(20)TFBot<45><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:36: "(20)TFBot<45><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:36: "(21)TFBot<46><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:36: "(21)TFBot<46><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:36: "press f4<25><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:36: "press f4<25><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:36: "come on press f4<26><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:36: "come on press f4<26><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:19:36: "gj mate you did it<27><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:41: "Encarra<52><[U:1:60429372]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "1079 -770 -37")
+L 10/14/2020 - 19:19:42: "Encarra<52><[U:1:60429372]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "1110 -959 -61")
+L 10/14/2020 - 19:19:42: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1110 -959 -61")
+L 10/14/2020 - 19:19:43: "Encarra<52><[U:1:60429372]><Red>" triggered "flagevent" (event "defended") (position "1061 -793 -37")
+L 10/14/2020 - 19:19:43: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<28><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1061 -793 -37") (victim_position "660 -1778 -132")
+L 10/14/2020 - 19:19:43: "Extended Conch Soldier<28><BOT><Blue>" triggered "flagevent" (event "dropped") (position "660 -1778 -132")
+L 10/14/2020 - 19:19:43: "Extended Conch Soldier<42><BOT><Blue>" triggered "flagevent" (event "picked up") (position "613 -1777 -135")
+L 10/14/2020 - 19:19:46: "Encarra<52><[U:1:60429372]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "1082 -957 -59")
+L 10/14/2020 - 19:19:47: "Encarra<52><[U:1:60429372]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "1105 -881 -46")
+L 10/14/2020 - 19:19:47: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1105 -881 -46")
+L 10/14/2020 - 19:19:47: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<35><BOT><Blue>" with "phlogistinator" (attacker_position "1043 -1249 -74") (victim_position "974 -1463 -100")
+L 10/14/2020 - 19:19:47: "Encarra<52><[U:1:60429372]><Red>" triggered "kill assist" against "Extended Conch Soldier<35><BOT><Blue>" (assister_position "1099 -884 -46") (attacker_position "1043 -1249 -74") (victim_position "974 -1463 -100")
+L 10/14/2020 - 19:19:47: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<39><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1116 -836 -42") (victim_position "1034 -1116 -83")
+L 10/14/2020 - 19:19:48: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<32><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1117 -756 -37") (victim_position "967 -1113 -76")
+L 10/14/2020 - 19:19:48: "Jo<51><[U:1:98545269]><Red>" triggered "kill assist" against "Extended Conch Soldier<32><BOT><Blue>" (assister_position "935 -1228 -48") (attacker_position "1117 -756 -37") (victim_position "967 -1113 -76")
+L 10/14/2020 - 19:19:48: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<46><BOT><Blue>" with "phlogistinator" (attacker_position "902 -1218 -90") (victim_position "864 -1270 -89")
+L 10/14/2020 - 19:19:48: "Encarra<52><[U:1:60429372]><Red>" triggered "kill assist" against "Extended Conch Soldier<46><BOT><Blue>" (assister_position "1073 -623 -37") (attacker_position "902 -1218 -90") (victim_position "864 -1270 -89")
+L 10/14/2020 - 19:19:48: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<41><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1055 -577 -36") (victim_position "999 -1049 -69")
+L 10/14/2020 - 19:19:48: "Jo<51><[U:1:98545269]><Red>" triggered "kill assist" against "Extended Conch Soldier<41><BOT><Blue>" (assister_position "871 -1217 -72") (attacker_position "1055 -577 -36") (victim_position "999 -1049 -69")
+L 10/14/2020 - 19:19:48: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<27><BOT><Blue>" with "phlogistinator" (attacker_position "871 -1217 -72") (victim_position "1072 -1081 -82")
+L 10/14/2020 - 19:19:49: "Extended Conch Soldier<28><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:50: "Jo<51><[U:1:98545269]><Red>" triggered "flagevent" (event "defended") (position "454 -1146 -44")
+L 10/14/2020 - 19:19:50: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<42><BOT><Blue>" with "phlogistinator" (attacker_position "454 -1146 -44") (victim_position "386 -1316 -49")
+L 10/14/2020 - 19:19:50: "Extended Conch Soldier<42><BOT><Blue>" triggered "flagevent" (event "dropped") (position "386 -1316 -49")
+L 10/14/2020 - 19:19:50: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<38><BOT><Blue>" with "phlogistinator" (attacker_position "310 -1172 -54") (victim_position "945 -725 -34")
+L 10/14/2020 - 19:19:50: "Encarra<52><[U:1:60429372]><Red>" triggered "kill assist" against "Extended Conch Soldier<38><BOT><Blue>" (assister_position "996 -456 -42") (attacker_position "310 -1172 -54") (victim_position "945 -725 -34")
+L 10/14/2020 - 19:19:50: "Extended Conch Soldier<26><BOT><Blue>" triggered "flagevent" (event "picked up") (position "449 -1328 -52")
+L 10/14/2020 - 19:19:51: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<44><BOT><Blue>" with "obj_sentrygun3" (attacker_position "936 -402 -43") (victim_position "988 -1054 -68")
+L 10/14/2020 - 19:19:51: "Jo<51><[U:1:98545269]><Red>" triggered "kill assist" against "Extended Conch Soldier<44><BOT><Blue>" (assister_position "270 -1228 -51") (attacker_position "936 -402 -43") (victim_position "988 -1054 -68")
+L 10/14/2020 - 19:19:51: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<43><BOT><Blue>" with "obj_sentrygun3" (attacker_position "936 -402 -43") (victim_position "1011 -812 -36")
+L 10/14/2020 - 19:19:51: "Jo<51><[U:1:98545269]><Red>" triggered "kill assist" against "Extended Conch Soldier<43><BOT><Blue>" (assister_position "270 -1228 -51") (attacker_position "936 -402 -43") (victim_position "1011 -812 -36")
+L 10/14/2020 - 19:19:51: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<34><BOT><Blue>" with "obj_sentrygun3" (attacker_position "936 -402 -43") (victim_position "1141 -928 -57")
+L 10/14/2020 - 19:19:51: "Jo<51><[U:1:98545269]><Red>" triggered "kill assist" against "Extended Conch Soldier<34><BOT><Blue>" (assister_position "270 -1228 -51") (attacker_position "936 -402 -43") (victim_position "1141 -928 -57")
+L 10/14/2020 - 19:19:52: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<33><BOT><Blue>" with "phlogistinator" (attacker_position "15 -1154 9") (victim_position "151 -1185 -39")
+L 10/14/2020 - 19:19:52: "Extended Conch Soldier<35><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:52: "Extended Conch Soldier<28><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:52: "Extended Conch Soldier<35><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:19:53: "Extended Conch Soldier<39><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:53: "Extended Conch Soldier<32><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:53: "Extended Conch Soldier<46><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:54: "Extended Conch Soldier<41><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:54: "Extended Conch Soldier<27><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:54: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<36><BOT><Blue>" with "obj_sentrygun3" (attacker_position "843 -390 -43") (victim_position "1121 -1040 -77")
+L 10/14/2020 - 19:19:54: "Jo<51><[U:1:98545269]><Red>" triggered "kill assist" against "Extended Conch Soldier<36><BOT><Blue>" (assister_position "-311 -1163 105") (attacker_position "843 -390 -43") (victim_position "1121 -1040 -77")
+L 10/14/2020 - 19:19:54: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<40><BOT><Blue>" with "obj_sentrygun3" (attacker_position "843 -390 -43") (victim_position "1065 -867 -41")
+L 10/14/2020 - 19:19:54: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<30><BOT><Blue>" with "obj_sentrygun3" (attacker_position "843 -390 -43") (victim_position "1173 -943 -63")
+L 10/14/2020 - 19:19:54: "Jo<51><[U:1:98545269]><Red>" triggered "flagevent" (event "defended") (position "-300 -1074 36")
+L 10/14/2020 - 19:19:54: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<26><BOT><Blue>" with "phlogistinator" (attacker_position "-300 -1074 36") (victim_position "-112 -1111 37")
+L 10/14/2020 - 19:19:54: "Extended Conch Soldier<26><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-112 -1111 37")
+L 10/14/2020 - 19:19:55: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<31><BOT><Blue>" with "rescue_ranger" (attacker_position "980 -453 -42") (victim_position "1043 -801 -37")
+L 10/14/2020 - 19:19:55: "Extended Conch Soldier<42><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:55: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<25><BOT><Blue>" with "obj_sentrygun3" (attacker_position "951 -506 -39") (victim_position "255 -1186 -52")
+L 10/14/2020 - 19:19:55: "Jo<51><[U:1:98545269]><Red>" triggered "kill assist" against "Extended Conch Soldier<25><BOT><Blue>" (assister_position "-289 -788 33") (attacker_position "951 -506 -39") (victim_position "255 -1186 -52")
+L 10/14/2020 - 19:19:55: "Extended Conch Soldier<38><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:55: "Extended Conch Soldier<29><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-49 -1100 30")
+L 10/14/2020 - 19:19:56: "Extended Conch Soldier<43><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:56: "Extended Conch Soldier<44><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:56: "Extended Conch Soldier<34><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:56: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<45><BOT><Blue>" with "obj_sentrygun3" (attacker_position "855 -598 -32") (victim_position "18 -1146 8")
+L 10/14/2020 - 19:19:57: "Extended Conch Soldier<33><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:58: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<37><BOT><Blue>" with "phlogistinator" (attacker_position "-305 -786 32") (victim_position "-200 -902 41")
+L 10/14/2020 - 19:19:59: "Jo<51><[U:1:98545269]><Red>" triggered "flagevent" (event "defended") (position "-360 -781 74")
+L 10/14/2020 - 19:19:59: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<29><BOT><Blue>" with "phlogistinator" (attacker_position "-360 -781 74") (victim_position "-298 -831 33")
+L 10/14/2020 - 19:19:59: "Extended Conch Soldier<29><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-298 -831 33")
+L 10/14/2020 - 19:19:59: "Extended Conch Soldier<30><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:59: "Extended Conch Soldier<40><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:19:59: "Extended Conch Soldier<36><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:20:00: "Extended Conch Soldier<26><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:20:00: "Extended Conch Soldier<31><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:20:01: "Extended Conch Soldier<25><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:20:02: "Extended Conch Soldier<45><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:20:04: "Extended Conch Soldier<37><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:20:04: "Extended Conch Soldier<29><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:20:07: "Giant Concheror Soldier<28><BOT><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "rocketlauncher") (objectowner "Encarra<52><[U:1:60429372]><Red>") (attacker_position "676 -1341 -62")
+L 10/14/2020 - 19:20:10: "Extended Conch Soldier<39><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:20:10: "Extended Conch Soldier<39><BOT><Blue>" changed role to "demoman"
+L 10/14/2020 - 19:20:12: "Giant Concheror Soldier<35><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Encarra<52><[U:1:60429372]><Red>") (attacker_position "190 -1277 -38")
+L 10/14/2020 - 19:20:17: "Giant Concheror Soldier<35><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-274 -919 39")
+L 10/14/2020 - 19:20:20: "BUSTA RHYMES<39><BOT><Blue>" committed suicide with "world" (attacker_position "1084 -1037 -70")
+L 10/14/2020 - 19:20:22: "Giant Concheror Soldier<28><BOT><Blue>" killed "Encarra<52><[U:1:60429372]><Red>" with "tf_projectile_rocket" (attacker_position "-339 -588 24") (victim_position "-405 -727 23")
+L 10/14/2020 - 19:20:22: "Giant Concheror Soldier<35><BOT><Blue>" triggered "kill assist" against "Encarra<52><[U:1:60429372]><Red>" (assister_position "-317 -240 31") (attacker_position "-339 -588 24") (victim_position "-405 -727 23")
+L 10/14/2020 - 19:20:26: "BUSTA RHYMES<39><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:20:28: "Jo<51><[U:1:98545269]><Red>" killed "Giant Concheror Soldier<28><BOT><Blue>" with "phlogistinator" (attacker_position "-403 98 80") (victim_position "-170 154 32")
+L 10/14/2020 - 19:20:28: "Giant Concheror Soldier<35><BOT><Blue>" killed "Jo<51><[U:1:98545269]><Red>" with "tf_projectile_rocket" (attacker_position "96 304 32") (victim_position "-408 60 56")
+L 10/14/2020 - 19:20:28: "Giant Concheror Soldier<28><BOT><Blue>" triggered "kill assist" against "Jo<51><[U:1:98545269]><Red>" (assister_position "-170 154 186") (attacker_position "96 304 32") (victim_position "-408 60 56")
+L 10/14/2020 - 19:20:33: "Giant Concheror Soldier<28><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:20:40: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "698 3981 -180")
+L 10/14/2020 - 19:20:43: "Giant Concheror Soldier<35><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Encarra<52><[U:1:60429372]><Red>") (attacker_position "455 2505 -100")
+L 10/14/2020 - 19:20:48: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "607 3777 -180")
+L 10/14/2020 - 19:20:50: "Giant Concheror Soldier<35><BOT><Blue>" killed "Jo<51><[U:1:98545269]><Red>" with "tf_projectile_rocket" (attacker_position "246 3278 -170") (victim_position "93 3049 -150")
+L 10/14/2020 - 19:20:54: "Giant Concheror Soldier<35><BOT><Blue>" triggered "flagevent" (event "captured") (team_caps "0") (caps_per_round "3") (position "566 3486 -197")
+L 10/14/2020 - 19:20:54: World triggered "Round_Win" (winner "Blue")
+L 10/14/2020 - 19:20:54: World triggered "Round_Length" (seconds "44240.71")
+L 10/14/2020 - 19:20:54: Team "Red" current score "0" with "2" players
+L 10/14/2020 - 19:20:54: Team "Blue" current score "1" with "1" players
+L 10/14/2020 - 19:20:58: "Encarra<52><[U:1:60429372]><Red>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "547 4041 -166")
+L 10/14/2020 - 19:20:58: "Encarra<52><[U:1:60429372]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Encarra<52><[U:1:60429372]><Red>") (attacker_position "547 4041 -166")
+L 10/14/2020 - 19:20:59: World triggered "Round_Start"
+L 10/14/2020 - 19:20:59: World triggered "Round_Setup_Begin"
+L 10/14/2020 - 19:20:59: "Giant Concheror Soldier<35><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:21:06: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "63 4251 -103")
+L 10/14/2020 - 19:21:26: "Jo<51><[U:1:98545269]><Red>" changed role to "soldier"
+L 10/14/2020 - 19:21:27: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-291 -1044 62")
+L 10/14/2020 - 19:21:30: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "394 -1363 -49")
+L 10/14/2020 - 19:21:30: "Encarra<52><[U:1:60429372]><Red>" triggered "player_carryobject" (object "OBJ_DISPENSER") (position "394 -1363 -49")
+L 10/14/2020 - 19:21:39: "Encarra<52><[U:1:60429372]><Red>" triggered "player_dropobject" (object "OBJ_DISPENSER") (position "-403 -905 28")
+L 10/14/2020 - 19:21:39: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-403 -905 28")
+L 10/14/2020 - 19:21:58: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "171 -293 240")
+L 10/14/2020 - 19:25:08: "Extended Conch Soldier<32><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:08: "Extended Conch Soldier<46><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:08: "Extended Conch Soldier<32><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-537 -2562 -111")
+L 10/14/2020 - 19:25:11: "Encarra<52><[U:1:60429372]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-282 -1023 37")
+L 10/14/2020 - 19:25:13: "Encarra<52><[U:1:60429372]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-190 -1056 42")
+L 10/14/2020 - 19:25:13: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-190 -1056 42")
+L 10/14/2020 - 19:25:13: "Extended Conch Soldier<41><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:13: "Extended Conch Soldier<27><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:13: "Extended Conch Soldier<42><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:13: "Extended Conch Soldier<38><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:13: "Extended Conch Soldier<43><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:13: "Extended Conch Soldier<44><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:14: "Extended Conch Soldier<34><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:14: "Extended Conch Soldier<33><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:14: "Extended Conch Soldier<30><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:14: "Extended Conch Soldier<40><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:14: "Extended Conch Soldier<36><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:14: "Extended Conch Soldier<26><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:14: "Extended Conch Soldier<31><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:14: "Extended Conch Soldier<25><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:14: "Extended Conch Soldier<45><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:14: "Extended Conch Soldier<37><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:14: "Extended Conch Soldier<29><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:14: "BUSTA RHYMES<39><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:14: "BUSTA RHYMES<39><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:25:14: "Giant Concheror Soldier<28><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:14: "Giant Concheror Soldier<35><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:24: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<46><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-253 -1101 40") (victim_position "488 -1286 -54")
+L 10/14/2020 - 19:25:24: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<44><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-208 -1070 41") (victim_position "539 -1270 -55")
+L 10/14/2020 - 19:25:25: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<34><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-235 -1028 40") (victim_position "502 -1126 -49")
+L 10/14/2020 - 19:25:26: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<28><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-274 -940 37") (victim_position "198 -1266 -43")
+L 10/14/2020 - 19:25:27: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<38><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-316 -757 30") (victim_position "115 -1195 -21")
+L 10/14/2020 - 19:25:29: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<36><BOT><Blue>" with "dumpster_device" (attacker_position "-410 -595 19") (victim_position "-187 -1047 43")
+L 10/14/2020 - 19:25:29: "Encarra<52><[U:1:60429372]><Red>" triggered "kill assist" against "Extended Conch Soldier<36><BOT><Blue>" (assister_position "-286 -744 31") (attacker_position "-410 -595 19") (victim_position "-187 -1047 43")
+L 10/14/2020 - 19:25:29: "Extended Conch Soldier<46><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:29: "Extended Conch Soldier<44><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:29: "Extended Conch Soldier<46><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:29: "Extended Conch Soldier<44><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:30: "Extended Conch Soldier<34><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:30: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<45><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-391 -703 23") (victim_position "-72 -1112 36")
+L 10/14/2020 - 19:25:30: "Jo<51><[U:1:98545269]><Red>" triggered "kill assist" against "Extended Conch Soldier<45><BOT><Blue>" (assister_position "-544 -539 29") (attacker_position "-391 -703 23") (victim_position "-72 -1112 36")
+L 10/14/2020 - 19:25:30: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<25><BOT><Blue>" with "dumpster_device" (attacker_position "-549 -573 28") (victim_position "-249 -829 35")
+L 10/14/2020 - 19:25:30: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<27><BOT><Blue>" with "dumpster_device" (attacker_position "-549 -573 28") (victim_position "-284 -904 36")
+L 10/14/2020 - 19:25:30: "Encarra<52><[U:1:60429372]><Red>" triggered "kill assist" against "Extended Conch Soldier<27><BOT><Blue>" (assister_position "-404 -737 23") (attacker_position "-549 -573 28") (victim_position "-284 -904 36")
+L 10/14/2020 - 19:25:31: "Extended Conch Soldier<28><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:31: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<35><BOT><Blue>" with "dumpster_device" (attacker_position "-484 -438 26") (victim_position "-129 -1032 44")
+L 10/14/2020 - 19:25:31: "Encarra<52><[U:1:60429372]><Red>" triggered "kill assist" against "Extended Conch Soldier<35><BOT><Blue>" (assister_position "-494 -575 20") (attacker_position "-484 -438 26") (victim_position "-129 -1032 44")
+L 10/14/2020 - 19:25:31: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<42><BOT><Blue>" with "rescue_ranger" (attacker_position "-542 -551 28") (victim_position "-128 -1205 35")
+L 10/14/2020 - 19:25:32: "Extended Conch Soldier<38><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:32: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<37><BOT><Blue>" with "dumpster_device" (attacker_position "-527 -605 23") (victim_position "-44 -1075 30")
+L 10/14/2020 - 19:25:32: "Encarra<52><[U:1:60429372]><Red>" triggered "kill assist" against "Extended Conch Soldier<37><BOT><Blue>" (assister_position "-411 -607 19") (attacker_position "-527 -605 23") (victim_position "-44 -1075 30")
+L 10/14/2020 - 19:25:34: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<43><BOT><Blue>" with "dumpster_device" (attacker_position "-537 -671 65") (victim_position "-161 -1063 42")
+L 10/14/2020 - 19:25:34: "Encarra<52><[U:1:60429372]><Red>" triggered "kill assist" against "Extended Conch Soldier<43><BOT><Blue>" (assister_position "-479 -674 23") (attacker_position "-537 -671 65") (victim_position "-161 -1063 42")
+L 10/14/2020 - 19:25:34: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<26><BOT><Blue>" with "wrench" (attacker_position "-456 -664 21") (victim_position "-385 -675 23")
+L 10/14/2020 - 19:25:34: "Jo<51><[U:1:98545269]><Red>" triggered "kill assist" against "Extended Conch Soldier<26><BOT><Blue>" (assister_position "-539 -657 72") (attacker_position "-456 -664 21") (victim_position "-385 -675 23")
+L 10/14/2020 - 19:25:34: "Extended Conch Soldier<36><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:35: "Extended Conch Soldier<45><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:36: "Extended Conch Soldier<27><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:36: "Extended Conch Soldier<25><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:36: "Extended Conch Soldier<35><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:37: "Extended Conch Soldier<42><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:37: "Extended Conch Soldier<37><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:37: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<41><BOT><Blue>" with "wrench" (attacker_position "-475 -355 24") (victim_position "-485 -407 26")
+L 10/14/2020 - 19:25:39: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<40><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-502 -506 26") (victim_position "-105 -1139 35")
+L 10/14/2020 - 19:25:39: "Extended Conch Soldier<26><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:39: "Extended Conch Soldier<43><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:39: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<30><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-579 -689 35") (victim_position "-105 -1152 34")
+L 10/14/2020 - 19:25:42: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<29><BOT><Blue>" with "dumpster_device" (attacker_position "-476 -766 110") (victim_position "-187 -1009 43")
+L 10/14/2020 - 19:25:42: "Encarra<52><[U:1:60429372]><Red>" triggered "kill assist" against "Extended Conch Soldier<29><BOT><Blue>" (assister_position "-599 -319 37") (attacker_position "-476 -766 110") (victim_position "-187 -1009 43")
+L 10/14/2020 - 19:25:42: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<31><BOT><Blue>" with "wrangler_kill" (attacker_position "-596 -341 36") (victim_position "-518 -808 25")
+L 10/14/2020 - 19:25:42: "Jo<51><[U:1:98545269]><Red>" triggered "kill assist" against "Extended Conch Soldier<31><BOT><Blue>" (assister_position "-476 -736 124") (attacker_position "-596 -341 36") (victim_position "-518 -808 25")
+L 10/14/2020 - 19:25:43: "Encarra<52><[U:1:60429372]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-545 -316 28")
+L 10/14/2020 - 19:25:43: "Extended Conch Soldier<41><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:43: "Encarra<52><[U:1:60429372]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-551 -174 29")
+L 10/14/2020 - 19:25:43: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-551 -174 29")
+L 10/14/2020 - 19:25:44: "Extended Conch Soldier<40><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:45: "Extended Conch Soldier<30><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:45: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<39><BOT><Blue>" with "dumpster_device" (attacker_position "-393 -182 23") (victim_position "-189 -884 41")
+L 10/14/2020 - 19:25:45: "Jo<51><[U:1:98545269]><Red>" triggered "flagevent" (event "defended") (position "-340 -76 71")
+L 10/14/2020 - 19:25:45: "Jo<51><[U:1:98545269]><Red>" killed "Extended Conch Soldier<32><BOT><Blue>" with "dumpster_device" (attacker_position "-340 -76 71") (victim_position "-305 -528 25")
+L 10/14/2020 - 19:25:45: "Encarra<52><[U:1:60429372]><Red>" triggered "kill assist" against "Extended Conch Soldier<32><BOT><Blue>" (assister_position "-559 -126 31") (attacker_position "-340 -76 71") (victim_position "-305 -528 25")
+L 10/14/2020 - 19:25:45: "Extended Conch Soldier<32><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-305 -528 25")
+L 10/14/2020 - 19:25:45: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<33><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-560 -158 30") (victim_position "-293 -800 33")
+L 10/14/2020 - 19:25:45: "Jo<51><[U:1:98545269]><Red>" triggered "kill assist" against "Extended Conch Soldier<33><BOT><Blue>" (assister_position "-324 -44 52") (attacker_position "-560 -158 30") (victim_position "-293 -800 33")
+L 10/14/2020 - 19:25:47: "Giant Concheror Soldier<46><BOT><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "Encarra<52><[U:1:60429372]><Red>") (attacker_position "498 -1311 -54")
+L 10/14/2020 - 19:25:47: "Extended Conch Soldier<29><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:47: "Extended Conch Soldier<31><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:48: "Extended Conch Soldier<34><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:25:48: "Extended Conch Soldier<34><BOT><Blue>" changed role to "demoman"
+L 10/14/2020 - 19:25:50: "Extended Conch Soldier<39><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:50: "Extended Conch Soldier<32><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:51: "Extended Conch Soldier<33><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:25:51: "Giant Concheror Soldier<44><BOT><Blue>" killed "Encarra<52><[U:1:60429372]><Red>" with "tf_projectile_rocket" (attacker_position "-30 -1139 28") (victim_position "-177 -924 43")
+L 10/14/2020 - 19:25:51: "Giant Concheror Soldier<46><BOT><Blue>" triggered "kill assist" against "Encarra<52><[U:1:60429372]><Red>" (assister_position "-110 -1094 40") (attacker_position "-30 -1139 28") (victim_position "-177 -924 43")
+L 10/14/2020 - 19:25:55: "Giant Concheror Soldier<46><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-350 -616 25")
+L 10/14/2020 - 19:25:56: "Giant Concheror Soldier<46><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Encarra<52><[U:1:60429372]><Red>") (attacker_position "-327 -460 24")
+L 10/14/2020 - 19:26:06: "BUSTA RHYMES<34><BOT><Blue>" committed suicide with "world" (attacker_position "-428 -257 22")
+L 10/14/2020 - 19:26:08: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "238 4074 -103")
+L 10/14/2020 - 19:26:12: "BUSTA RHYMES<34><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:26:20: "Encarra<52><[U:1:60429372]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "311 4068 -103")
+L 10/14/2020 - 19:26:22: "Encarra<52><[U:1:60429372]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "866 3797 -179")
+L 10/14/2020 - 19:26:22: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "866 3797 -179")
+L 10/14/2020 - 19:26:29: "Giant Concheror Soldier<46><BOT><Blue>" triggered "flagevent" (event "captured") (team_caps "0") (caps_per_round "3") (position "564 3488 -197")
+L 10/14/2020 - 19:26:29: World triggered "Round_Win" (winner "Blue")
+L 10/14/2020 - 19:26:29: World triggered "Round_Length" (seconds "329.64")
+L 10/14/2020 - 19:26:29: Team "Red" current score "0" with "2" players
+L 10/14/2020 - 19:26:29: Team "Blue" current score "2" with "2" players
+L 10/14/2020 - 19:26:30: "Giant Concheror Soldier<44><BOT><Blue>" committed suicide with "world" (attacker_position "232 3246 -167")
+L 10/14/2020 - 19:26:30: "Encarra<52><[U:1:60429372]><Red>" committed suicide with "world" (attacker_position "918 3925 -180")
+L 10/14/2020 - 19:26:34: World triggered "Round_Start"
+L 10/14/2020 - 19:26:34: World triggered "Round_Setup_Begin"
+L 10/14/2020 - 19:26:34: "Giant Concheror Soldier<44><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:26:34: "Giant Concheror Soldier<46><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:26:41: "Jo<51><[U:1:98545269]><Red>" committed suicide with "dumpster_device" (attacker_position "581 4599 -183")
+L 10/14/2020 - 19:26:56: "Jo<51><[U:1:98545269]><Red>" changed role to "demoman"
+L 10/14/2020 - 19:32:37: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "70 4398 -103")
+L 10/14/2020 - 19:32:40: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "161 3614 -181")
+L 10/14/2020 - 19:32:43: "Encarra<52><[U:1:60429372]><Red>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "-298 2579 117")
+L 10/14/2020 - 19:32:43: "Encarra<52><[U:1:60429372]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Encarra<52><[U:1:60429372]><Red>") (attacker_position "-298 2579 117")
+L 10/14/2020 - 19:32:55: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-287 -1055 36")
+L 10/14/2020 - 19:33:03: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "145 -278 240")
+L 10/14/2020 - 19:33:40: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-397 -904 28")
+L 10/14/2020 - 19:33:40: "Encarra<52><[U:1:60429372]><Red>" triggered "player_carryobject" (object "OBJ_DISPENSER") (position "-387 -905 29")
+L 10/14/2020 - 19:33:41: "Encarra<52><[U:1:60429372]><Red>" triggered "player_dropobject" (object "OBJ_DISPENSER") (position "-396 -904 28")
+L 10/14/2020 - 19:33:41: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-396 -904 28")
+L 10/14/2020 - 19:34:31: "Encarra<52><[U:1:60429372]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-297 -1038 35")
+L 10/14/2020 - 19:34:32: "Encarra<52><[U:1:60429372]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-178 -984 43")
+L 10/14/2020 - 19:34:32: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-178 -984 43")
+L 10/14/2020 - 19:34:33: "Encarra<52><[U:1:60429372]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-182 -980 43")
+L 10/14/2020 - 19:34:34: "Encarra<52><[U:1:60429372]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-228 -1016 40")
+L 10/14/2020 - 19:34:34: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-228 -1016 40")
+L 10/14/2020 - 19:34:36: "Extended Conch Soldier<28><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:36: "Extended Conch Soldier<38><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:36: "Extended Conch Soldier<28><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-700 -2437 -113")
+L 10/14/2020 - 19:34:41: "Extended Conch Soldier<36><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:41: "Extended Conch Soldier<45><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:41: "Extended Conch Soldier<27><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:41: "Extended Conch Soldier<25><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:41: "Extended Conch Soldier<35><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:41: "Extended Conch Soldier<42><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:41: "Extended Conch Soldier<37><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:41: "Extended Conch Soldier<26><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:41: "Extended Conch Soldier<43><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:42: "Extended Conch Soldier<41><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:42: "Extended Conch Soldier<40><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:42: "Extended Conch Soldier<30><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:42: "Extended Conch Soldier<29><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:42: "Extended Conch Soldier<31><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:42: "Extended Conch Soldier<39><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:42: "Extended Conch Soldier<32><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:42: "Extended Conch Soldier<33><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:42: "BUSTA RHYMES<34><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:42: "BUSTA RHYMES<34><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 19:34:42: "Giant Concheror Soldier<44><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:42: "Giant Concheror Soldier<46><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:44: "Encarra<52><[U:1:60429372]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-227 -978 40")
+L 10/14/2020 - 19:34:44: "Encarra<52><[U:1:60429372]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-188 -1013 43")
+L 10/14/2020 - 19:34:44: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-188 -1013 43")
+L 10/14/2020 - 19:34:53: "Encarra<52><[U:1:60429372]><Red>" triggered "flagevent" (event "defended") (position "-237 -1056 40")
+L 10/14/2020 - 19:34:53: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<28><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-237 -1056 40") (victim_position "596 -1847 -140")
+L 10/14/2020 - 19:34:53: "Extended Conch Soldier<28><BOT><Blue>" triggered "flagevent" (event "dropped") (position "596 -1847 -140")
+L 10/14/2020 - 19:34:53: "Extended Conch Soldier<40><BOT><Blue>" triggered "flagevent" (event "picked up") (position "541 -1789 -141")
+L 10/14/2020 - 19:34:54: "Encarra<52><[U:1:60429372]><Red>" triggered "flagevent" (event "defended") (position "-275 -985 37")
+L 10/14/2020 - 19:34:54: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<40><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-275 -985 37") (victim_position "590 -1690 -133")
+L 10/14/2020 - 19:34:54: "Extended Conch Soldier<40><BOT><Blue>" triggered "flagevent" (event "dropped") (position "590 -1690 -133")
+L 10/14/2020 - 19:34:55: "Extended Conch Soldier<38><BOT><Blue>" triggered "flagevent" (event "picked up") (position "527 -1700 -139")
+L 10/14/2020 - 19:34:58: "Extended Conch Soldier<28><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:34:58: "Encarra<52><[U:1:60429372]><Red>" triggered "flagevent" (event "defended") (position "-246 -990 39")
+L 10/14/2020 - 19:34:58: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<38><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-246 -990 39") (victim_position "747 -1319 -75")
+L 10/14/2020 - 19:34:58: "Extended Conch Soldier<38><BOT><Blue>" triggered "flagevent" (event "dropped") (position "747 -1319 -75")
+L 10/14/2020 - 19:34:59: "Extended Conch Soldier<40><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:34:59: "Extended Conch Soldier<28><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:34:59: "Extended Conch Soldier<40><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 19:35:00: "Extended Conch Soldier<43><BOT><Blue>" triggered "flagevent" (event "picked up") (position "784 -1389 -88")
+L 10/14/2020 - 19:35:02: "Encarra<52><[U:1:60429372]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-224 -1089 40")
+L 10/14/2020 - 19:35:03: "Extended Conch Soldier<38><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:35:06: "Giant Concheror Soldier<28><BOT><Blue>" killed "Jo<51><[U:1:98545269]><Red>" with "tf_projectile_rocket" (attacker_position "-79 -2077 -155") (victim_position "132 -1903 -168")
+L 10/14/2020 - 19:35:06: "Giant Concheror Soldier<40><BOT><Blue>" triggered "kill assist" against "Jo<51><[U:1:98545269]><Red>" (assister_position "-176 -2146 -158") (attacker_position "-79 -2077 -155") (victim_position "132 -1903 -168")
+L 10/14/2020 - 19:35:06: "Encarra<52><[U:1:60429372]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "909 -1189 -87")
+L 10/14/2020 - 19:35:06: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "909 -1189 -87")
+L 10/14/2020 - 19:35:07: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<34><BOT><Blue>" with "obj_sentrygun3" (attacker_position "992 -1288 -97") (victim_position "924 -1079 -70")
+L 10/14/2020 - 19:35:07: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<26><BOT><Blue>" with "obj_sentrygun3" (attacker_position "992 -1288 -97") (victim_position "844 -1032 -56")
+L 10/14/2020 - 19:35:08: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<42><BOT><Blue>" with "obj_sentrygun3" (attacker_position "1025 -1320 -98") (victim_position "898 -1065 -68")
+L 10/14/2020 - 19:35:09: "Encarra<52><[U:1:60429372]><Red>" triggered "flagevent" (event "defended") (position "1013 -1348 -98")
+L 10/14/2020 - 19:35:09: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<43><BOT><Blue>" with "wrangler_kill" (attacker_position "1013 -1348 -98") (victim_position "954 -529 -39")
+L 10/14/2020 - 19:35:09: "Extended Conch Soldier<43><BOT><Blue>" triggered "flagevent" (event "dropped") (position "954 -529 -39")
+L 10/14/2020 - 19:35:12: "Extended Conch Soldier<26><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:35:12: "Extended Conch Soldier<34><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:35:13: "Extended Conch Soldier<45><BOT><Blue>" triggered "flagevent" (event "picked up") (position "949 -596 -37")
+L 10/14/2020 - 19:35:13: "Extended Conch Soldier<42><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:35:13: "Encarra<52><[U:1:60429372]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "898 -234 -43")
+L 10/14/2020 - 19:35:14: "Encarra<52><[U:1:60429372]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "863 -108 -38")
+L 10/14/2020 - 19:35:14: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "863 -108 -38")
+L 10/14/2020 - 19:35:14: "Extended Conch Soldier<43><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:35:15: "Encarra<52><[U:1:60429372]><Red>" triggered "flagevent" (event "defended") (position "874 -54 -33")
+L 10/14/2020 - 19:35:15: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<45><BOT><Blue>" with "obj_sentrygun3" (attacker_position "874 -54 -33") (victim_position "1064 -246 -42")
+L 10/14/2020 - 19:35:15: "Extended Conch Soldier<45><BOT><Blue>" triggered "flagevent" (event "dropped") (position "1064 -246 -42")
+L 10/14/2020 - 19:35:15: "Giant Concheror Soldier<40><BOT><Blue>" killed "Encarra<52><[U:1:60429372]><Red>" with "tf_projectile_rocket" (attacker_position "754 -1403 -81") (victim_position "863 -84 -22")
+L 10/14/2020 - 19:35:15: "Giant Concheror Soldier<28><BOT><Blue>" triggered "kill assist" against "Encarra<52><[U:1:60429372]><Red>" (assister_position "763 -1244 -65") (attacker_position "754 -1403 -81") (victim_position "863 -84 -22")
+L 10/14/2020 - 19:35:15: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<44><BOT><Blue>" with "obj_sentrygun3" (attacker_position "863 -84 45") (victim_position "820 -231 -44")
+L 10/14/2020 - 19:35:16: "Extended Conch Soldier<27><BOT><Blue>" triggered "flagevent" (event "picked up") (position "1066 -314 -42")
+L 10/14/2020 - 19:35:16: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<36><BOT><Blue>" with "obj_sentrygun3" (attacker_position "863 -84 45") (victim_position "935 -167 -43")
+L 10/14/2020 - 19:35:17: "Giant Concheror Soldier<40><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Encarra<52><[U:1:60429372]><Red>") (attacker_position "802 -1084 -48")
+L 10/14/2020 - 19:35:20: "Extended Conch Soldier<45><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:35:21: "Extended Conch Soldier<44><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:35:22: "Extended Conch Soldier<36><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:35:34: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1068 3808 -175")
+L 10/14/2020 - 19:35:39: "Giant Concheror Soldier<40><BOT><Blue>" killed "Jo<51><[U:1:98545269]><Red>" with "tf_projectile_rocket" (attacker_position "1345 1516 32") (victim_position "875 1708 -31")
+L 10/14/2020 - 19:35:39: "Giant Concheror Soldier<28><BOT><Blue>" triggered "kill assist" against "Jo<51><[U:1:98545269]><Red>" (assister_position "1159 1504 57") (attacker_position "1345 1516 32") (victim_position "875 1708 -31")
+L 10/14/2020 - 19:35:48: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<25><BOT><Blue>" with "obj_sentrygun2" (attacker_position "1155 3769 -168") (victim_position "624 3645 -197")
+L 10/14/2020 - 19:35:50: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<32><BOT><Blue>" with "obj_sentrygun2" (attacker_position "1164 3782 -169") (victim_position "959 3544 -172")
+L 10/14/2020 - 19:35:50: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<31><BOT><Blue>" with "obj_sentrygun2" (attacker_position "1165 3780 -169") (victim_position "998 3716 -174")
+L 10/14/2020 - 19:35:51: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<46><BOT><Blue>" with "obj_sentrygun2" (attacker_position "1178 3751 -167") (victim_position "1059 3649 -160")
+L 10/14/2020 - 19:35:53: "Extended Conch Soldier<25><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:35:55: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<35><BOT><Blue>" with "wrench" (attacker_position "1175 3776 -169") (victim_position "1204 3810 -171")
+L 10/14/2020 - 19:35:55: "Extended Conch Soldier<32><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:35:55: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<29><BOT><Blue>" with "obj_sentrygun2" (attacker_position "1252 3801 -170") (victim_position "1100 3666 -160")
+L 10/14/2020 - 19:35:56: "Extended Conch Soldier<31><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:35:56: "Giant Concheror Soldier<28><BOT><Blue>" killed "Encarra<52><[U:1:60429372]><Red>" with "tf_projectile_rocket" (attacker_position "502 3428 -188") (victim_position "1132 3790 -171")
+L 10/14/2020 - 19:35:56: "Extended Conch Soldier<37><BOT><Blue>" triggered "kill assist" against "Encarra<52><[U:1:60429372]><Red>" (assister_position "426 3015 -171") (attacker_position "502 3428 -188") (victim_position "1132 3790 -171")
+L 10/14/2020 - 19:35:57: "Extended Conch Soldier<46><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:36:00: "Extended Conch Soldier<35><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:36:00: "Giant Concheror Soldier<28><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Encarra<52><[U:1:60429372]><Red>") (attacker_position "691 3531 -197")
+L 10/14/2020 - 19:36:01: "Extended Conch Soldier<29><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:36:02: "Extended Conch Soldier<27><BOT><Blue>" triggered "flagevent" (event "captured") (team_caps "0") (caps_per_round "3") (position "590 3505 -197")
+L 10/14/2020 - 19:36:02: World triggered "Round_Win" (winner "Blue")
+L 10/14/2020 - 19:36:02: World triggered "Round_Length" (seconds "567.64")
+L 10/14/2020 - 19:36:02: Team "Red" current score "0" with "2" players
+L 10/14/2020 - 19:36:02: Team "Blue" current score "3" with "8" players
+L 10/14/2020 - 19:36:03: "Giant Concheror Soldier<40><BOT><Blue>" killed "Jo<51><[U:1:98545269]><Red>" with "tf_projectile_rocket" (attacker_position "995 3365 -154") (victim_position "593 3559 -91")
+L 10/14/2020 - 19:36:03: "Giant Concheror Soldier<28><BOT><Blue>" triggered "kill assist" against "Jo<51><[U:1:98545269]><Red>" (assister_position "704 3852 -180") (attacker_position "995 3365 -154") (victim_position "593 3559 -91")
+L 10/14/2020 - 19:36:03: "Extended Conch Soldier<39><BOT><Blue>" committed suicide with "world" (attacker_position "499 3513 -193")
+L 10/14/2020 - 19:36:03: "Extended Conch Soldier<37><BOT><Blue>" committed suicide with "world" (attacker_position "580 3498 -197")
+L 10/14/2020 - 19:36:03: "Extended Conch Soldier<30><BOT><Blue>" committed suicide with "world" (attacker_position "683 3556 -197")
+L 10/14/2020 - 19:36:03: "Extended Conch Soldier<41><BOT><Blue>" committed suicide with "world" (attacker_position "537 3624 -197")
+L 10/14/2020 - 19:36:03: "Encarra<52><[U:1:60429372]><Red>" killed "Extended Conch Soldier<33><BOT><Blue>" with "world" (attacker_position "593 3559 -77") (victim_position "651 3679 -197")
+L 10/14/2020 - 19:36:03: "Jo<51><[U:1:98545269]><Red>" killed "Giant Concheror Soldier<28><BOT><Blue>" with "world" (attacker_position "593 3559 -77") (victim_position "724 3852 -180")
+L 10/14/2020 - 19:36:03: "Encarra<52><[U:1:60429372]><Red>" killed "Giant Concheror Soldier<40><BOT><Blue>" with "player" (attacker_position "593 3559 -77") (victim_position "998 3371 -154")
+L 10/14/2020 - 19:36:07: World triggered "Round_Start"
+L 10/14/2020 - 19:36:07: World triggered "Round_Setup_Begin"
+L 10/14/2020 - 19:36:07: "Extended Conch Soldier<27><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:36:07: "Giant Concheror Soldier<28><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:36:07: "Extended Conch Soldier<30><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:36:07: "Extended Conch Soldier<33><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:36:07: "Extended Conch Soldier<37><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:36:07: "Extended Conch Soldier<39><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:36:07: "Giant Concheror Soldier<40><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:36:07: "Extended Conch Soldier<41><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 19:36:54: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "77 4332 -103")
+L 10/14/2020 - 19:39:45: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-241 -1072 39")
+L 10/14/2020 - 19:40:03: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "144 -283 240")
+L 10/14/2020 - 19:40:16: "Encarra<52><[U:1:60429372]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "328 -1414 -45")
+L 10/14/2020 - 19:48:26: "Encarra<52><[U:1:60429372]><Red>" disconnected (reason "Disconnect by user.")
+L 10/14/2020 - 19:48:26: "Encarra<52><[U:1:60429372]><Red>" triggered "object_detonated" (object "OBJ_DISPENSER") (position "1822 -1046 256")
+L 10/14/2020 - 19:48:26: "Encarra<52><[U:1:60429372]><Red>" triggered "object_detonated" (object "OBJ_TELEPORTER") (position "1822 -1046 256")
+L 10/14/2020 - 19:48:26: "Encarra<52><[U:1:60429372]><Red>" triggered "object_detonated" (object "OBJ_SENTRY

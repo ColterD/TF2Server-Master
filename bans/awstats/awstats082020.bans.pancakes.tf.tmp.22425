@@ -1,0 +1,309 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202008 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.bans.pancakes.tf.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2069                
+POS_TIME 2748                
+POS_VISITOR 7843                
+POS_DAY 8766                
+POS_DOMAIN 3260                
+POS_LOGIN 3521                
+POS_ROBOT 3676                
+POS_WORMS 3905                
+POS_EMAILSENDER 4036                
+POS_EMAILRECEIVER 4179                
+POS_SESSION 8851                
+POS_SIDER 9020                
+POS_FILETYPES 4314                
+POS_DOWNLOADS 4542                
+POS_OS 4590                
+POS_BROWSER 4700                
+POS_SCREENSIZE 4978                
+POS_UNKNOWNREFERER 5052                
+POS_UNKNOWNREFERERBROWSER 5417                
+POS_ORIGIN 5637                
+POS_SEREFERRALS 5773                
+POS_PAGEREFS 5926                
+POS_SEARCHWORDS 6179                
+POS_KEYWORDS 6340                
+POS_MISC 2412                
+POS_ERRORS 6408                
+POS_CLUSTER 3377                
+POS_SIDER_404 6519                
+POS_SIDER_400 7534                
+POS_SIDER_403 7452                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200807143638 487 125063 10847099968977
+FirstTime 20200807120157
+LastTime 20200807143638
+LastUpdate 20200921144002 0 0 0 0 0
+TotalVisits 16                  
+TotalUnique 15                  
+MonthHostsKnown 7                   
+MonthHostsUnknown 8                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 6 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 13 13 5017672 7 8 2693870
+13 162 346 7625194 13 118 76951
+14 2 2 41177 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+ip 141 252 10047767
+com 35 108 2636189
+org 1 1 87
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+(firefox/)([0-9]\.|[0-1][0]\.) 4 2603833 20200807121057 0
+no_user_agent 1 89524 20200807123307 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+js 94 2228098 0 0
+woff2 2 224936 0 0
+php 171 8222423 0 0
+woff 2 34968 0 0
+png 43 243301 0 0
+Unknown 4 348 0 0
+ttf 2 114336 0 0
+jpg 12 311452 0 0
+css 31 1304181 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+linux 2 2
+win7 1 1
+Unknown 6 6
+win10 352 168
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 11
+chrome51.0.2704.103 1 1
+firefox79.0 104 31
+mozilla 4 4
+chrome78.0.3904.108 3 3
+chrome72.0.3626.121 1 1
+netscape5.0 1 1
+chrome40.0.2214.85 1 1
+chrome76.0.3809.71 1 1
+chrome84.0.4147.105 243 132
+chrome72.0.3602.2 1 1
+Unknown 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20200807123706
+Mozilla/5.0_zgrab/0.x 20200807123307
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20200807120158
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20200807123706
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 26 27
+From1 0 0
+From2 1 1
+From3 5 5
+From4 145 328
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://steamcommunity.com/openid/login 2 2
+https://steamcommunity.com 2 2
+https://www.swcombine.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+amazon 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+amazon 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 9 37217
+404 95 18031
+301 2 388
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 14
+/robots.txt 1 -
+/images/logos/sb-large-mini.png 75 https://bans.pancakes.tf/index.php
+/index.php 1 -
+/install/images/dialog/dialog_topleft.png 1 http://bans.pancakes.tf/install/includes/css.php
+/updater/images/warning.png 1 http://bans.pancakes.tf/updater/
+/install/images/dialog/dialog_topright.png 1 http://bans.pancakes.tf/install/includes/css.php
+/install/images/dialog/dialog_bottomleft.png 1 http://bans.pancakes.tf/install/includes/css.php
+/solr/admin/info/system 1 -
+/install/images/dialog/dialog_border.png 1 http://bans.pancakes.tf/install/includes/css.php
+/manual/fr/index.html 1 -
+/install/images/warning.png 8 http://bans.pancakes.tf/install/index.php
+/install/images/ok.png 1 http://bans.pancakes.tf/install/includes/css.php
+/install/images/dialog/dialog_bottomright.png 1 http://bans.pancakes.tf/install/includes/css.php
+/updater/ 1 -
+END_SIDER_404
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+159.63.129.10 132 243 7353590 20200807135859 20200807131420 /
+097-090-130-046.biz.spectrum.com 30 103 2168644 20200807133820 20200807133352 /
+195.54.160.21 3 3 1301944 20200807131001
+172.69.70.167 1 1 650935 20200807122527
+worker-15.sfj.censys-scanner.com 1 1 426107 20200807123307
+5.202.82.216 1 1 41081 20200807135617 20200807135617 /
+ec2-34-211-6-84.us-west-2.compute.amazonaws.com 1 1 87 20200807120157
+ec2-18-196-96-172.eu-central-1.compute.amazonaws.com 1 1 87 20200807120157
+80.82.68.71 1 1 14720 20200807132241
+162.158.202.240 1 1 0 20200807143638 20200807143638 /
+ec2-3-128-26-105.us-east-2.compute.amazonaws.com 1 1 87 20200807120158
+65.154.226.109 1 1 650944 20200807121009
+102.165.30.13 1 1 34553 20200807123706
+outbound1.letsencrypt.org 1 1 87 20200807120158
+196.52.43.64.netsystemsresearch.com 1 1 41177 20200807142318 20200807142318 /
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20200807 177 361 12684043 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+15mn-30mn 1
+0s-30s 9
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 147 7895363 11 7
+/install/ 9 25434 1 0
+/install/includes/css.php 8 173414 0 0
+/themes/default/css/css.php 6 127254 0 0
+/.well-known/acme-challenge/eUy9gAwnsNMuhbEvFl7BsXSvTgAWZqIFt1Icr5hcQOw 4 348 4 4
+/themes/default/css/tf2build.ttf 2 114336 0 0
+/updater/ 1 958 0 0
+END_SIDER

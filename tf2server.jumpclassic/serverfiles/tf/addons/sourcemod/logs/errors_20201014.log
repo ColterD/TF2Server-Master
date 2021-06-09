@@ -1,0 +1,17 @@
+L 10/14/2020 - 01:34:14: SourceMod error session started
+L 10/14/2020 - 01:34:14: Info (map "jump_academy_classic_b") (file "/home/tf2server.jumpclassic/serverfiles/tf/addons/sourcemod/logs/errors_20201014.log")
+L 10/14/2020 - 01:34:14: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 25 seconds, making a timer for it!
+L 10/14/2020 - 06:30:12: Error log file session closed.
+L 10/14/2020 - 06:30:40: SourceMod error session started
+L 10/14/2020 - 06:30:40: Info (map "jump_academy_classic_b") (file "/home/tf2server.jumpclassic/serverfiles/tf/addons/sourcemod/logs/errors_20201014.log")
+L 10/14/2020 - 06:30:40: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 28 seconds, making a timer for it!
+L 10/14/2020 - 06:31:10: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 30 seconds, making a timer for it!
+L 10/14/2020 - 06:31:41: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 29 seconds, making a timer for it!
+L 10/14/2020 - 07:32:13: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 12 seconds, making a timer for it!
+L 10/14/2020 - 08:32:28: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/14/2020 - 09:32:32: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 4 seconds, making a timer for it!
+L 10/14/2020 - 11:32:41: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 2 seconds, making a timer for it!
+L 10/14/2020 - 12:33:20: [playeranalytics.smx] Unable to insert row for client 🔥Edgy Kanna🔥<28><[U:1:900398038]><>. Incorrect string value: '\xF0\x9F\x94\xA5Ed...' for column 'name' at row 1
+L 10/14/2020 - 13:32:47: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 5 seconds, making a timer for it!
+L 10/14/2020 - 14:32:59: [ngs_backpacktf.smx] backpack.tf API failed: An internal server error occurred
+L 10/15/2020 - 00:00:00: Error log file session closed.

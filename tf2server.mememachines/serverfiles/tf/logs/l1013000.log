@@ -1,0 +1,23 @@
+L 10/13/2020 - 06:30:35: Log file started (file "logs/L1013000.log") (game "/home/tf2server.mememachines/serverfiles/tf") (version "6135201")
+L 10/13/2020 - 06:30:35: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/13/2020 - 06:30:35: server_cvar: "tfh_birthday" "1"
+L 10/13/2020 - 06:30:35: server_cvar: "tfh_endoftheline" "1"
+L 10/13/2020 - 06:30:35: server_cvar: "tfh_fullmoon" "1"
+L 10/13/2020 - 06:30:35: server_cvar: "tfh_normalhealth" "1"
+L 10/13/2020 - 06:30:35: server_cvar: "tfh_winter" "1"
+L 10/13/2020 - 06:30:35: server_cvar: "mp_tournament_readymode" "1"
+L 10/13/2020 - 06:30:35: server_cvar: "tf_mvm_min_players_to_start" "2"
+L 10/13/2020 - 06:30:35: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/13/2020 - 06:30:35: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/13/2020 - 06:30:35: Connection to Steam servers successful.
+L 10/13/2020 - 06:30:35:    Public IP is 104.192.224.18.
+L 10/13/2020 - 06:30:35: Assigned anonymous gameserver Steam ID [A:1:520036359:15710].
+L 10/13/2020 - 06:30:35: VAC secure mode is activated.
+L 10/13/2020 - 16:00:09: Connection to Steam servers lost.  (Result = 3)
+L 10/13/2020 - 16:06:56: Connection to Steam servers successful.
+L 10/13/2020 - 16:06:56:    Public IP is 104.192.224.18.
+L 10/13/2020 - 16:06:56: Assigned anonymous gameserver Steam ID [A:1:520036359:15710].
+L 10/13/2020 - 16:06:56: VAC secure mode is activated.
+L 10/14/2020 - 06:30:11: [META] Loaded 0 plugins (1 already loaded)
+L 10/14/2020 - 06:30:11: server_message: "quit"
+L 10/14/2020 - 06:30:12: Log file closed.

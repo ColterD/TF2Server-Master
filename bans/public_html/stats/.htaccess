@@ -1,0 +1,7 @@
+AuthName "bans.pancakes.tf statistics"
+AuthType Basic
+AuthUserFile /home/bans/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

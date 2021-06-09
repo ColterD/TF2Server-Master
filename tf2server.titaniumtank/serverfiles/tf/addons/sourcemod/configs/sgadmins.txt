@@ -1,0 +1,12 @@
+"SteamGroupAdmins"
+{
+	"7667905"
+	{
+		"members"
+		{
+			"flags"		"ap"
+			"immunity"	"0"
+			"group"		"members"
+		}
+	}
+}

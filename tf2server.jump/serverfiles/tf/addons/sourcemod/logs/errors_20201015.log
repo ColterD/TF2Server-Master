@@ -1,0 +1,38 @@
+L 10/15/2020 - 05:32:45: SourceMod error session started
+L 10/15/2020 - 05:32:45: Info (map "jump_academy2_rc7") (file "/home/tf2server.jump/serverfiles/tf/addons/sourcemod/logs/errors_20201015.log")
+L 10/15/2020 - 05:32:45: [SM] Exception reported: Invalid response handle 0 (error 4)
+L 10/15/2020 - 05:32:45: [SM] Blaming: ngs_backpacktf.smx
+L 10/15/2020 - 05:32:45: [SM] Call stack trace:
+L 10/15/2020 - 05:32:45: [SM]   [0] System2Response.StatusCode.get
+L 10/15/2020 - 05:32:45: [SM]   [1] Line 378, D:\Coding\GitHub\sm-plugins\scripting\ngs_backpacktf.sp::OnBackpackTFComplete
+L 10/15/2020 - 06:30:12: Error log file session closed.
+L 10/15/2020 - 06:30:46: SourceMod error session started
+L 10/15/2020 - 06:30:46: Info (map "jump_academy2_rc7") (file "/home/tf2server.jump/serverfiles/tf/addons/sourcemod/logs/errors_20201015.log")
+L 10/15/2020 - 06:30:46: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 20 seconds, making a timer for it!
+L 10/15/2020 - 08:31:12: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/15/2020 - 09:31:16: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/15/2020 - 10:24:25: [hive365.smx] [Hive365] socket error 3 (errno 110)
+L 10/15/2020 - 10:30:20: Error log file session closed.
+L 10/15/2020 - 10:30:58: SourceMod error session started
+L 10/15/2020 - 10:30:58: Info (map "jump_academy2_rc7") (file "/home/tf2server.jump/serverfiles/tf/addons/sourcemod/logs/errors_20201015.log")
+L 10/15/2020 - 10:30:58: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 24 seconds, making a timer for it!
+L 10/15/2020 - 10:31:23: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 30 seconds, making a timer for it!
+L 10/15/2020 - 10:31:54: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 30 seconds, making a timer for it!
+L 10/15/2020 - 10:32:26: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 29 seconds, making a timer for it!
+L 10/15/2020 - 10:32:56: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 30 seconds, making a timer for it!
+L 10/15/2020 - 11:00:06: Error log file session closed.
+L 10/15/2020 - 11:00:33: SourceMod error session started
+L 10/15/2020 - 11:00:33: Info (map "jump_academy2_rc7") (file "/home/tf2server.jump/serverfiles/tf/addons/sourcemod/logs/errors_20201015.log")
+L 10/15/2020 - 11:00:33: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 25 seconds, making a timer for it!
+L 10/15/2020 - 11:00:59: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 30 seconds, making a timer for it!
+L 10/15/2020 - 11:01:30: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 30 seconds, making a timer for it!
+L 10/15/2020 - 11:02:02: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 29 seconds, making a timer for it!
+L 10/15/2020 - 12:02:34: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 2 seconds, making a timer for it!
+L 10/15/2020 - 13:02:39: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 5 seconds, making a timer for it!
+L 10/15/2020 - 14:02:50: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 4 seconds, making a timer for it!
+L 10/15/2020 - 15:02:57: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/15/2020 - 16:03:01: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 24 seconds, making a timer for it!
+L 10/15/2020 - 17:03:28: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/15/2020 - 18:03:34: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 6 seconds, making a timer for it!
+L 10/15/2020 - 19:03:43: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/16/2020 - 00:00:00: Error log file session closed.

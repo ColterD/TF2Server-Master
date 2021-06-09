@@ -1,0 +1,8 @@
+L 10/18/2020 - 15:31:33: SourceMod error session started
+L 10/18/2020 - 15:31:33: Info (map "jump_oats_b3") (file "/home/tf2server.jumpcomp/serverfiles/tf/addons/sourcemod/logs/errors_20201018.log")
+L 10/18/2020 - 15:31:33: [SM] Exception reported: Invalid response handle 0 (error 4)
+L 10/18/2020 - 15:31:33: [SM] Blaming: ngs_backpacktf.smx
+L 10/18/2020 - 15:31:33: [SM] Call stack trace:
+L 10/18/2020 - 15:31:33: [SM]   [0] System2Response.StatusCode.get
+L 10/18/2020 - 15:31:33: [SM]   [1] Line 378, D:\Coding\GitHub\sm-plugins\scripting\ngs_backpacktf.sp::OnBackpackTFComplete
+L 10/19/2020 - 00:00:00: Error log file session closed.

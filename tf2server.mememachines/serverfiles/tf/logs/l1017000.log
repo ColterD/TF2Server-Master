@@ -1,0 +1,55 @@
+L 10/17/2020 - 06:30:35: Log file started (file "logs/L1017000.log") (game "/home/tf2server.mememachines/serverfiles/tf") (version "6145689")
+L 10/17/2020 - 06:30:35: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/17/2020 - 06:30:35: server_cvar: "tfh_birthday" "1"
+L 10/17/2020 - 06:30:35: server_cvar: "tfh_endoftheline" "1"
+L 10/17/2020 - 06:30:35: server_cvar: "tfh_fullmoon" "1"
+L 10/17/2020 - 06:30:35: server_cvar: "tfh_normalhealth" "1"
+L 10/17/2020 - 06:30:35: server_cvar: "tfh_winter" "1"
+L 10/17/2020 - 06:30:35: server_cvar: "mp_tournament_readymode" "1"
+L 10/17/2020 - 06:30:35: server_cvar: "tf_mvm_min_players_to_start" "2"
+L 10/17/2020 - 06:30:35: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/17/2020 - 06:30:35: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,pot"
+L 10/17/2020 - 06:30:36: Connection to Steam servers successful.
+L 10/17/2020 - 06:30:36:    Public IP is 104.192.224.18.
+L 10/17/2020 - 06:30:36: Assigned anonymous gameserver Steam ID [A:1:855147531:15732].
+L 10/17/2020 - 06:30:36: VAC secure mode is activated.
+L 10/17/2020 - 09:44:13: "EastersLuck<2><[U:1:1035237500]><>" connected, address "73.66.96.80:27005"
+L 10/17/2020 - 09:44:13: "EastersLuck<2><[U:1:1035237500]><>" STEAM USERID validated
+L 10/17/2020 - 09:45:43: "EastersLuck<2><[U:1:1035237500]><>" entered the game
+L 10/17/2020 - 09:45:53: MVM assigned EastersLuck to defending team (5 more slots remaining after us)
+L 10/17/2020 - 09:45:53: MVM assigned EastersLuck to defending team (5 more slots remaining after us)
+L 10/17/2020 - 09:45:53: "EastersLuck<2><[U:1:1035237500]><Unassigned>" joined team "Red"
+L 10/17/2020 - 09:45:54: "EastersLuck<2><[U:1:1035237500]><Red>" changed role to "soldier"
+L 10/17/2020 - 09:45:54: "TFBot<3><BOT><>" connected, address "none"
+L 10/17/2020 - 09:45:54: "<3><BOT><>" entered the game
+L 10/17/2020 - 09:45:54: "TFBot<3><BOT><Unassigned>" joined team "Spectator"
+L 10/17/2020 - 09:45:54: "(1)TFBot<4><BOT><>" connected, address "none"
+L 10/17/2020 - 09:45:54: "<4><BOT><>" entered the game
+L 10/17/2020 - 09:45:54: "TFBot<4><BOT><Unassigned>" joined team "Spectator"
+L 10/17/2020 - 09:45:54: "(2)TFBot<5><BOT><>" connected, address "none"
+L 10/17/2020 - 09:45:54: "<5><BOT><>" entered the game
+L 10/17/2020 - 09:45:54: "TFBot<5><BOT><Unassigned>" joined team "Spectator"
+L 10/17/2020 - 09:45:54: "(3)TFBot<6><BOT><>" connected, address "none"
+L 10/17/2020 - 09:45:54: "<6><BOT><>" entered the game
+L 10/17/2020 - 09:45:54: "TFBot<6><BOT><Unassigned>" joined team "Spectator"
+L 10/17/2020 - 09:45:54: "(4)TFBot<7><BOT><>" connected, address "none"
+L 10/17/2020 - 09:45:54: "<7><BOT><>" entered the game
+L 10/17/2020 - 09:45:54: "TFBot<7><BOT><Unassigned>" joined team "Spectator"
+L 10/17/2020 - 09:45:54: "(5)TFBot<8><BOT><>" connected, address "none"
+L 10/17/2020 - 09:45:54: "<8><BOT><>" entered the game
+L 10/17/2020 - 09:45:54: "TFBot<8><BOT><Unassigned>" joined team "Spectator"
+L 10/17/2020 - 09:45:54: "(6)TFBot<9><BOT><>" connected, address "none"
+L 10/17/2020 - 09:45:54: "<9><BOT><>" entered the game
+L 10/17/2020 - 09:45:54: "TFBot<9><BOT><Unassigned>" joined team "Spectator"
+L 10/17/2020 - 09:45:54: "(7)TFBot<10><BOT><>" connected, address "none"
+L 10/17/2020 - 09:45:54: "<10><BOT><>" entered the game
+L 10/17/2020 - 09:45:54: "TFBot<10><BOT><Unassigned>" joined team "Spectator"
+L 10/17/2020 - 09:45:54: "(8)TFBot<11><BOT><>" connected, address "none"
+L 10/17/2020 - 09:45:54: "<11><BOT><>" entered the game
+L 10/17/2020 - 09:45:54: "TFBot<11><BOT><Unassigned>" joined team "Spectator"
+L 10/17/2020 - 09:45:54: "(9)TFBot<12><BOT><>" connected, address "none"
+L 10/17/2020 - 09:45:54: "<12><BOT><>" entered the game
+L 10/17/2020 - 09:45:54: "TFBot<12><BOT><Unassigned>" joined team "Spectator"
+L 10/17/2020 - 09:45:54: "(10)TFBot<13><BOT><>" connected, address "none"
+L 10/17/2020 - 09:45:54: "<13><BOT><>" entered the game
+L 10/17/2020 - 09:45:54: "TFBot<13><BOT><Unassig

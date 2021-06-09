@@ -1,0 +1,16 @@
+"response"
+{
+	"players"
+	{
+		"0"
+		{
+			"SteamId"	"76561198818224051"
+			"CommunityBanned"	"0"
+			"VACBanned"	"0"
+			"NumberOfVACBans"	"0"
+			"DaysSinceLastBan"	"0"
+			"NumberOfGameBans"	"0"
+			"EconomyBan"	"none"
+		}
+	}
+}

@@ -1,0 +1,73 @@
+L 10/15/2020 - 10:30:53: Log file started (file "logs/L1015001.log") (game "/home/tf2server.mge/serverfiles/tf") (version "6145689")
+L 10/15/2020 - 10:30:53: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/15/2020 - 10:30:53: server_cvar: "tfh_fullmoon" "1"
+L 10/15/2020 - 10:30:53: server_cvar: "tfh_winter" "1"
+L 10/15/2020 - 10:30:53: server_cvar: "tfh_birthday" "1"
+L 10/15/2020 - 10:30:53: server_cvar: "tfh_endoftheline" "1"
+L 10/15/2020 - 10:30:53: server_cvar: "tfh_normalhealth" "1"
+L 10/15/2020 - 10:30:53: server_cvar: "tf_use_fixed_weaponspreads" "1"
+L 10/15/2020 - 10:30:53: server_cvar: "tf_weapon_criticals" "0"
+L 10/15/2020 - 10:30:53: server_cvar: "sv_tags" "1v1,1vs1,2v2,2vs2,alltalk,best,comp,dm,duels,fast,fun,increased_maxplayers,la,mge,mod,nocrits,norespawntime,respawntimes,us,usa"
+L 10/15/2020 - 10:30:53: server_cvar: "sv_tags" "1v1,1vs1,2v2,2vs2,alltalk,best,comp,dm,duels,fast,fun,increased_maxplayers,la,mge,mod,nocrits,norespawntime,respawntimes,us,usa"
+L 10/15/2020 - 10:30:53: server_cvar: "tf_weapon_criticals_melee" "0"
+L 10/15/2020 - 10:30:54: Connection to Steam servers successful.
+L 10/15/2020 - 10:30:54:    Public IP is 104.192.224.18.
+L 10/15/2020 - 10:30:54: Assigned persistent gameserver Steam ID [G:1:3229395].
+L 10/15/2020 - 10:30:54: VAC secure mode is activated.
+L 10/15/2020 - 10:40:42: "Thewatertorch<2><[U:1:317329653]><>" connected, address "97.120.96.14:27005"
+L 10/15/2020 - 10:40:42: "Thewatertorch<2><[U:1:317329653]><>" STEAM USERID validated
+L 10/15/2020 - 10:40:48: "Sike hellcase.com<3><[U:1:301410590]><>" connected, address "75.164.30.78:27005"
+L 10/15/2020 - 10:40:48: "Sike hellcase.com<3><[U:1:301410590]><>" STEAM USERID validated
+L 10/15/2020 - 10:41:12: "Thewatertorch<2><[U:1:317329653]><Unassigned>" joined team "Spectator"
+L 10/15/2020 - 10:41:12: "Thewatertorch<2><[U:1:317329653]><>" entered the game
+L 10/15/2020 - 10:41:20: "Thewatertorch<2><[U:1:317329653]><Spectator>" say "!add"
+L 10/15/2020 - 10:41:25: "Sike hellcase.com<3><[U:1:301410590]><Unassigned>" joined team "Spectator"
+L 10/15/2020 - 10:41:25: "Sike hellcase.com<3><[U:1:301410590]><>" entered the game
+L 10/15/2020 - 10:41:25: "Thewatertorch<2><[U:1:317329653]><Spectator>" joined team "Red"
+L 10/15/2020 - 10:41:32: "Sike hellcase.com<3><[U:1:301410590]><Spectator>" say "!add"
+L 10/15/2020 - 10:41:36: "Sike hellcase.com<3><[U:1:301410590]><Spectator>" joined team "Blue"
+L 10/15/2020 - 10:41:36: "Thewatertorch<2><[U:1:317329653]><Red>" say "!add"
+L 10/15/2020 - 10:42:04: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "iron_bomber" (attacker_position "-10751 -13271 -838") (victim_position "-10937 -13577 -838")
+L 10/15/2020 - 10:42:19: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "world" (attacker_position "-10821 -13784 -1010") (victim_position "-10076 -14078 -1033")
+L 10/15/2020 - 10:42:38: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "world" (attacker_position "-11192 -13184 -800") (victim_position "-10520 -13659 -1117")
+L 10/15/2020 - 10:42:47: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "ham_shank" (attacker_position "-11448 -13506 -838") (victim_position "-11439 -13481 -838")
+L 10/15/2020 - 10:42:47: "Thewatertorch<2><[U:1:317329653]><Red>" triggered "domination" against "Sike hellcase.com<3><[U:1:301410590]><Blue>"
+L 10/15/2020 - 10:42:49: "Thewatertorch<2><[U:1:317329653]><Red>" committed suicide with "world" (attacker_position "-11600 -13176 -838")
+L 10/15/2020 - 10:42:56: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "iron_bomber" (attacker_position "-10906 -13419 -810") (victim_position "-11063 -13588 -838")
+L 10/15/2020 - 10:43:14: "Sike hellcase.com<3><[U:1:301410590]><Blue>" killed "Thewatertorch<2><[U:1:317329653]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-10507 -13723 -897") (victim_position "-10612 -13601 -816")
+L 10/15/2020 - 10:43:14: "Sike hellcase.com<3><[U:1:301410590]><Blue>" triggered "revenge" against "Thewatertorch<2><[U:1:317329653]><Red>"
+L 10/15/2020 - 10:44:11: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-10785 -13590 -838") (victim_position "-10855 -13946 -1002")
+L 10/15/2020 - 10:44:13: "Thewatertorch<2><[U:1:317329653]><Red>" committed suicide with "world" (attacker_position "-10785 -13590 -838")
+L 10/15/2020 - 10:44:34: "Sike hellcase.com<3><[U:1:301410590]><Blue>" killed "Thewatertorch<2><[U:1:317329653]><Red>" with "iron_bomber" (attacker_position "-10800 -13340 -1106") (victim_position "-10553 -13457 -1107")
+L 10/15/2020 - 10:44:54: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-11412 -13222 -838") (victim_position "-11703 -12571 -1010")
+L 10/15/2020 - 10:45:29: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "iron_bomber" (attacker_position "-11089 -13580 -838") (victim_position "-11097 -13736 -914")
+L 10/15/2020 - 10:45:33: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "iron_bomber" (attacker_position "-10416 -13214 -838") (victim_position "-10803 -13552 -838")
+L 10/15/2020 - 10:45:43: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "iron_bomber" (attacker_position "-10667 -13243 -838") (victim_position "-10820 -13062 -873")
+L 10/15/2020 - 10:45:43: "Thewatertorch<2><[U:1:317329653]><Red>" triggered "domination" against "Sike hellcase.com<3><[U:1:301410590]><Blue>"
+L 10/15/2020 - 10:45:53: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-10913 -13175 -838") (victim_position "-11454 -13232 -838")
+L 10/15/2020 - 10:46:09: "Sike hellcase.com<3><[U:1:301410590]><Blue>" killed "Thewatertorch<2><[U:1:317329653]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-10995 -14077 -961") (victim_position "-11285 -13699 -803")
+L 10/15/2020 - 10:46:09: "Sike hellcase.com<3><[U:1:301410590]><Blue>" triggered "revenge" against "Thewatertorch<2><[U:1:317329653]><Red>"
+L 10/15/2020 - 10:46:28: "Sike hellcase.com<3><[U:1:301410590]><Blue>" killed "Thewatertorch<2><[U:1:317329653]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-11130 -12463 -1153") (victim_position "-11075 -12715 -1087")
+L 10/15/2020 - 10:47:01: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "iron_bomber" (attacker_position "-10935 -13182 -838") (victim_position "-11587 -12883 -819")
+L 10/15/2020 - 10:47:09: "Sike hellcase.com<3><[U:1:301410590]><Blue>" killed "Thewatertorch<2><[U:1:317329653]><Red>" with "iron_bomber" (attacker_position "-10463 -13247 -838") (victim_position "-10480 -13187 -806")
+L 10/15/2020 - 10:47:24: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "iron_bomber" (attacker_position "-10591 -13479 -749") (victim_position "-10646 -13052 -850")
+L 10/15/2020 - 10:47:30: "Sike hellcase.com<3><[U:1:301410590]><Blue>" killed "Thewatertorch<2><[U:1:317329653]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-10758 -13442 -838") (victim_position "-11182 -13225 -838")
+L 10/15/2020 - 10:47:35: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "world" (attacker_position "-10173 -13477 -798") (victim_position "-10273 -13963 -1065")
+L 10/15/2020 - 10:48:09: "Sike hellcase.com<3><[U:1:301410590]><Blue>" killed "Thewatertorch<2><[U:1:317329653]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-10233 -13452 -997") (victim_position "-10350 -13775 -1113")
+L 10/15/2020 - 10:49:07: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "iron_bomber" (attacker_position "-11030 -13544 -838") (victim_position "-11273 -13482 -834")
+L 10/15/2020 - 10:49:14: "Sike hellcase.com<3><[U:1:301410590]><Blue>" killed "Thewatertorch<2><[U:1:317329653]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-10876 -13256 -822") (victim_position "-10632 -13494 -790")
+L 10/15/2020 - 10:50:19: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-10788 -13447 -838") (victim_position "-11623 -13442 -838")
+L 10/15/2020 - 10:50:26: "Sike hellcase.com<3><[U:1:301410590]><Blue>" killed "Thewatertorch<2><[U:1:317329653]><Red>" with "iron_bomber" (attacker_position "-10598 -13460 -838") (victim_position "-11042 -13593 -838")
+L 10/15/2020 - 10:50:34: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "iron_bomber" (attacker_position "-10660 -13560 -838") (victim_position "-10138 -13490 -838")
+L 10/15/2020 - 10:51:08: "Thewatertorch<2><[U:1:317329653]><Red>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "-10144 -12984 -846")
+L 10/15/2020 - 10:51:37: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-10357 -13538 -794") (victim_position "-10449 -14567 -1161")
+L 10/15/2020 - 10:51:41: "Sike hellcase.com<3><[U:1:301410590]><Blue>" killed "Thewatertorch<2><[U:1:317329653]><Red>" with "player" (attacker_position "-11192 -13216 -838") (victim_position "-10701 -13191 -838")
+L 10/15/2020 - 10:51:50: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "iron_bomber" (attacker_position "-9840 -13317 -838") (victim_position "-9868 -13189 -838")
+L 10/15/2020 - 10:52:31: "Thewatertorch<2><[U:1:317329653]><Red>" killed "Sike hellcase.com<3><[U:1:301410590]><Blue>" with "iron_bomber" (attacker_position "-11352 -13197 -838") (victim_position "-11703 -13309 -838")
+L 10/15/2020 - 10:52:39: "Thewatertorch<2><[U:1:317329653]><Red>" disconnected (reason "Disconnect by user.")
+L 10/15/2020 - 10:52:39: "Thewatertorch<2><[U:1:317329653]><Red>" joined team "Spectator"
+L 10/15/2020 - 10:53:12: "Sike hellcase.com<3><[U:1:301410590]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/15/2020 - 10:53:12: "Sike hellcase.com<3><[U:1:301410590]><Blue>" joined team "Spectator"
+L 10/15/2020 - 11:00:05: [META] Loaded 0 plugins (1 already loaded)
+L 10/15/2020 - 11:00:05: server_message: "quit"
+L 10/15/2020 - 11:00:05: Log file closed.

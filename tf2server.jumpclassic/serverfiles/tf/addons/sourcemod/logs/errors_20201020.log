@@ -1,0 +1,4 @@
+L 10/20/2020 - 06:30:56: SourceMod error session started
+L 10/20/2020 - 06:30:56: Info (map "jump_academy_classic_b") (file "/home/tf2server.jumpclassic/serverfiles/tf/addons/sourcemod/logs/errors_20201020.log")
+L 10/20/2020 - 06:30:56: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 10 seconds, making a timer for it!
+L 10/20/2020 - 06:31:08: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 29 seconds, making a timer for it!

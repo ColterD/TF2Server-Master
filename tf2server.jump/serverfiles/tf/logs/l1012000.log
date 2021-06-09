@@ -1,0 +1,599 @@
+L 10/12/2020 - 06:30:41: Log file started (file "logs/L1012000.log") (game "/home/tf2server.jump/serverfiles/tf") (version "6135201")
+L 10/12/2020 - 06:30:41: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/12/2020 - 06:30:41: server_cvar: "tfh_fullmoon" "1"
+L 10/12/2020 - 06:30:41: server_cvar: "tfh_winter" "1"
+L 10/12/2020 - 06:30:41: server_cvar: "tfh_birthday" "1"
+L 10/12/2020 - 06:30:41: server_cvar: "tfh_endoftheline" "1"
+L 10/12/2020 - 06:30:41: server_cvar: "tfh_normalhealth" "1"
+L 10/12/2020 - 06:30:41: server_cvar: "mp_forceautoteam" "1"
+L 10/12/2020 - 06:30:41: Connection to Steam servers successful.
+L 10/12/2020 - 06:30:41:    Public IP is 104.192.224.18.
+L 10/12/2020 - 06:30:41: Assigned persistent gameserver Steam ID [G:1:3240612].
+L 10/12/2020 - 06:30:41: VAC secure mode is activated.
+L 10/12/2020 - 06:30:41: server_cvar: "mp_respawnwavetime" "0"
+L 10/12/2020 - 06:30:41: server_cvar: "sv_noclipspeed" "2.500000"
+L 10/12/2020 - 06:30:41: server_cvar: "tf_weapon_criticals" "0"
+L 10/12/2020 - 06:30:41: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 06:30:41: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 08:33:21: "Sunrise Angel<2><[U:1:245911865]><>" connected, address "66.215.238.3:27005"
+L 10/12/2020 - 08:33:22: "Sunrise Angel<2><[U:1:245911865]><>" STEAM USERID validated
+L 10/12/2020 - 08:33:43: "JumpBOT<3><BOT><>" connected, address "none"
+L 10/12/2020 - 08:33:43: "JumpBOT<3><BOT><>" entered the game
+L 10/12/2020 - 08:33:43: "Sunrise Angel<2><[U:1:245911865]><>" entered the game
+L 10/12/2020 - 08:33:47: server_cvar: "tf_bot_count" "1"
+L 10/12/2020 - 08:33:47: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 08:33:47: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 08:33:50: "Sunrise Angel<2><[U:1:245911865]><Unassigned>" joined team "Red"
+L 10/12/2020 - 08:33:52: "Sunrise Angel<2><[U:1:245911865]><Red>" changed role to "soldier"
+L 10/12/2020 - 08:33:52: "JumpBOT<3><BOT><Unassigned>" joined team "Red"
+L 10/12/2020 - 08:36:17: "Sunrise Angel<2><[U:1:245911865]><Red>" committed suicide with "world" (attacker_position "10726 -5221 -10943")
+L 10/12/2020 - 08:37:13: "Sunrise Angel<2><[U:1:245911865]><Red>" committed suicide with "world" (attacker_position "1648 -7994 -16097")
+L 10/12/2020 - 08:37:48: "Sunrise Angel<2><[U:1:245911865]><Red>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 10:52:34: "RePLaY<4><[U:1:79710206]><>" connected, address "174.18.39.189:27005"
+L 10/12/2020 - 10:52:35: "RePLaY<4><[U:1:79710206]><>" STEAM USERID validated
+L 10/12/2020 - 10:52:56: "RePLaY<4><[U:1:79710206]><>" entered the game
+L 10/12/2020 - 10:53:04: "RePLaY<4><[U:1:79710206]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 10:53:05: "RePLaY<4><[U:1:79710206]><Blue>" changed role to "soldier"
+L 10/12/2020 - 10:54:24: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Strafe by Sitood") (numcappers "1") (player1 "RePLaY<4><[U:1:79710206]><Blue>") (position1 "10517 -11270 -16007") 
+L 10/12/2020 - 10:55:30: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Walls by pardinesis") (numcappers "1") (player1 "RePLaY<4><[U:1:79710206]><Blue>") (position1 "11454 -4598 -10931") 
+L 10/12/2020 - 10:59:25: "RePLaY<4><[U:1:79710206]><Blue>" changed role to "demoman"
+L 10/12/2020 - 11:00:33: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Strafe by Sitood") (numcappers "1") (player1 "RePLaY<4><[U:1:79710206]><Blue>") (position1 "10517 -11220 -15952") 
+L 10/12/2020 - 11:01:11: "RePLaY<4><[U:1:79710206]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 11:05:21: "Pyro OP?<5><[U:1:890315297]><>" connected, address "24.251.230.248:27005"
+L 10/12/2020 - 11:05:22: "Pyro OP?<5><[U:1:890315297]><>" STEAM USERID validated
+L 10/12/2020 - 11:07:34: "dank_bonkripper79<6><[U:1:1017458263]><>" connected, address "73.189.112.186:27005"
+L 10/12/2020 - 11:07:34: "dank_bonkripper79<6><[U:1:1017458263]><>" STEAM USERID validated
+L 10/12/2020 - 11:07:47: "Pyro OP?<5><[U:1:890315297]><>" entered the game
+L 10/12/2020 - 11:08:02: "Pyro OP?<5><[U:1:890315297]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 11:08:03: "dank_bonkripper79<6><[U:1:1017458263]><>" entered the game
+L 10/12/2020 - 11:08:08: "dank_bonkripper79<6><[U:1:1017458263]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 11:08:10: "dank_bonkripper79<6><[U:1:1017458263]><Blue>" changed role to "soldier"
+L 10/12/2020 - 11:08:17: "Pyro OP?<5><[U:1:890315297]><Blue>" changed role to "pyro"
+L 10/12/2020 - 11:09:22: "Pyro OP?<5><[U:1:890315297]><Blue>" changed role to "scout"
+L 10/12/2020 - 11:09:42: "Pyro OP?<5><[U:1:890315297]><Blue>" changed role to "soldier"
+L 10/12/2020 - 11:10:10: "Pyro OP?<5><[U:1:890315297]><Blue>" committed suicide with "world" (attacker_position "685 -6145 -7659")
+L 10/12/2020 - 11:12:02: "dank_bonkripper79<6><[U:1:1017458263]><Blue>" say "!menu"
+L 10/12/2020 - 11:12:17: "dank_bonkripper79<6><[U:1:1017458263]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 11:12:18: "sammyseiya<7><[U:1:1090346839]><>" connected, address "68.8.88.16:27005"
+L 10/12/2020 - 11:12:19: "sammyseiya<7><[U:1:1090346839]><>" STEAM USERID validated
+L 10/12/2020 - 11:12:42: "sammyseiya<7><[U:1:1090346839]><>" entered the game
+L 10/12/2020 - 11:12:50: "sammyseiya<7><[U:1:1090346839]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 11:12:53: "sammyseiya<7><[U:1:1090346839]><Blue>" changed role to "soldier"
+L 10/12/2020 - 11:13:28: "sammyseiya<7><[U:1:1090346839]><Blue>" committed suicide with "world" (attacker_position "-3394 -11960 1091")
+L 10/12/2020 - 11:14:02: "Pyro OP?<5><[U:1:890315297]><Blue>" committed suicide with "world" (attacker_position "10612 -13951 -14375")
+L 10/12/2020 - 11:14:17: "Pyro OP?<5><[U:1:890315297]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 11:14:30: "sammyseiya<7><[U:1:1090346839]><Blue>" committed suicide with "world" (attacker_position "15059 -14780 -7783")
+L 10/12/2020 - 11:15:14: "sammyseiya<7><[U:1:1090346839]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 11:38:59: "RePLaY<8><[U:1:79710206]><>" connected, address "174.18.39.189:27005"
+L 10/12/2020 - 11:39:00: "RePLaY<8><[U:1:79710206]><>" STEAM USERID validated
+L 10/12/2020 - 11:39:21: "RePLaY<8><[U:1:79710206]><>" entered the game
+L 10/12/2020 - 11:39:24: "RePLaY<8><[U:1:79710206]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 11:39:25: "RePLaY<8><[U:1:79710206]><Blue>" changed role to "soldier"
+L 10/12/2020 - 11:44:59: "RePLaY<8><[U:1:79710206]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 11:55:22: "wet cheeto<9><[U:1:238669961]><>" connected, address "68.149.37.94:27005"
+L 10/12/2020 - 11:55:22: "wet cheeto<9><[U:1:238669961]><>" STEAM USERID validated
+L 10/12/2020 - 11:55:46: "wet cheeto<9><[U:1:238669961]><>" entered the game
+L 10/12/2020 - 11:55:54: "wet cheeto<9><[U:1:238669961]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 11:56:02: "wet cheeto<9><[U:1:238669961]><Blue>" changed role to "soldier"
+L 10/12/2020 - 11:59:41: "wet cheeto<9><[U:1:238669961]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 13:36:17: "Spooky<10><[U:1:380062184]><>" connected, address "73.90.3.67:27005"
+L 10/12/2020 - 13:36:17: "Spooky<10><[U:1:380062184]><>" STEAM USERID validated
+L 10/12/2020 - 13:37:15: "Spooky<10><[U:1:380062184]><>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 13:37:15: "JumpBOT<3><BOT><Red>" disconnected (reason "Server is empty")
+L 10/12/2020 - 13:37:19: server_cvar: "tf_bot_count" "0"
+L 10/12/2020 - 13:37:19: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 13:37:19: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 13:55:56: "proppo.gaming<11><[U:1:444139905]><>" connected, address "72.220.170.144:27005"
+L 10/12/2020 - 13:55:56: "proppo.gaming<11><[U:1:444139905]><>" STEAM USERID validated
+L 10/12/2020 - 13:56:26: "JumpBOT<12><BOT><>" connected, address "none"
+L 10/12/2020 - 13:56:26: "JumpBOT<12><BOT><>" entered the game
+L 10/12/2020 - 13:56:26: "proppo.gaming<11><[U:1:444139905]><>" entered the game
+L 10/12/2020 - 13:56:27: server_cvar: "tf_bot_count" "1"
+L 10/12/2020 - 13:56:27: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 13:56:27: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 13:56:29: "proppo.gaming<11><[U:1:444139905]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 13:56:29: "proppo.gaming<11><[U:1:444139905]><Blue>" changed role to "soldier"
+L 10/12/2020 - 13:56:29: "JumpBOT<12><BOT><Unassigned>" joined team "Blue"
+L 10/12/2020 - 13:56:40: "proppo.gaming<11><[U:1:444139905]><Blue>" say "!rt"
+L 10/12/2020 - 13:56:42: "proppo.gaming<11><[U:1:444139905]><Blue>" say "!r"
+L 10/12/2020 - 14:01:16: "proppo.gaming<11><[U:1:444139905]><Blue>" say "!tp"
+L 10/12/2020 - 14:01:30: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Strafe by Sitood") (numcappers "1") (player1 "proppo.gaming<11><[U:1:444139905]><Blue>") (position1 "10519 -11204 -16007") 
+L 10/12/2020 - 14:01:50: "proppo.gaming<11><[U:1:444139905]><Blue>" say "!fp"
+L 10/12/2020 - 14:03:38: "proppo.gaming<11><[U:1:444139905]><Blue>" say "!tp"
+L 10/12/2020 - 14:04:34: "proppo.gaming<11><[U:1:444139905]><Blue>" say "!fp"
+L 10/12/2020 - 14:07:40: "proppo.gaming<11><[U:1:444139905]><Blue>" say "!tp"
+L 10/12/2020 - 14:07:44: "proppo.gaming<11><[U:1:444139905]><Blue>" say "!fp"
+L 10/12/2020 - 14:07:46: "proppo.gaming<11><[U:1:444139905]><Blue>" say "!t"
+L 10/12/2020 - 14:10:05: "proppo.gaming<11><[U:1:444139905]><Blue>" say "!t"
+L 10/12/2020 - 14:11:19: "JumpBOT<12><BOT><Blue>" joined team "Red"
+L 10/12/2020 - 14:11:19: "proppo.gaming<11><[U:1:444139905]><Blue>" joined team "Spectator"
+L 10/12/2020 - 14:11:24: "proppo.gaming<11><[U:1:444139905]><Spectator>" joined team "Blue"
+L 10/12/2020 - 14:17:18: "proppo.gaming<11><[U:1:444139905]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 14:30:47: "proppo.gaming<13><[U:1:444139905]><>" connected, address "72.220.170.144:27005"
+L 10/12/2020 - 14:30:48: "proppo.gaming<13><[U:1:444139905]><>" STEAM USERID validated
+L 10/12/2020 - 14:30:54: "proppo.gaming<13><[U:1:444139905]><>" entered the game
+L 10/12/2020 - 14:31:03: "proppo.gaming<13><[U:1:444139905]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 14:31:05: "proppo.gaming<13><[U:1:444139905]><Blue>" changed role to "soldier"
+L 10/12/2020 - 14:31:14: "proppo.gaming<13><[U:1:444139905]><Blue>" say "!r"
+L 10/12/2020 - 14:34:04: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Strafe by Sitood") (numcappers "1") (player1 "proppo.gaming<13><[U:1:444139905]><Blue>") (position1 "10518 -11155 -15828") 
+L 10/12/2020 - 14:38:05: "proppo.gaming<13><[U:1:444139905]><Blue>" say "!t"
+L 10/12/2020 - 14:39:17: "proppo.gaming<13><[U:1:444139905]><Blue>" joined team "Spectator"
+L 10/12/2020 - 14:39:23: "proppo.gaming<13><[U:1:444139905]><Spectator>" joined team "Blue"
+L 10/12/2020 - 14:40:35: "proppo.gaming<13><[U:1:444139905]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 16:01:10: "Savaqa<14><[U:1:197750960]><>" connected, address "73.66.151.134:27005"
+L 10/12/2020 - 16:01:10: "Savaqa<14><[U:1:197750960]><>" STEAM USERID validated
+L 10/12/2020 - 16:01:23: "Savaqa<14><[U:1:197750960]><>" entered the game
+L 10/12/2020 - 16:01:27: "Savaqa<14><[U:1:197750960]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 16:01:28: "Savaqa<14><[U:1:197750960]><Blue>" changed role to "soldier"
+L 10/12/2020 - 16:03:10: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Strafe by Sitood") (numcappers "1") (player1 "Savaqa<14><[U:1:197750960]><Blue>") (position1 "10517 -11318 -16007") 
+L 10/12/2020 - 16:04:21: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Walls by pardinesis") (numcappers "1") (player1 "Savaqa<14><[U:1:197750960]><Blue>") (position1 "11460 -4584 -10889") 
+L 10/12/2020 - 16:12:37: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Pogo by RNC1839") (numcappers "1") (player1 "Savaqa<14><[U:1:197750960]><Blue>") (position1 "-1572 -12948 -15428") 
+L 10/12/2020 - 16:14:10: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Jurf by pardinensis") (numcappers "1") (player1 "Savaqa<14><[U:1:197750960]><Blue>") (position1 "-14824 -12680 -12041") 
+L 10/12/2020 - 16:17:37: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Mixed by RNC1839") (numcappers "1") (player1 "Savaqa<14><[U:1:197750960]><Blue>") (position1 "-8875 -15195 -15349") 
+L 10/12/2020 - 16:18:27: "Savaqa<14><[U:1:197750960]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 16:28:35: "get trolld<15><[U:1:386729800]><>" connected, address "181.116.26.35:27005"
+L 10/12/2020 - 16:28:36: "get trolld<15><[U:1:386729800]><>" STEAM USERID validated
+L 10/12/2020 - 16:29:06: "get trolld<15><[U:1:386729800]><>" entered the game
+L 10/12/2020 - 16:48:46: "get trolld<15><[U:1:386729800]><Unassigned>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 17:14:19: "alpharius<16><[U:1:939524528]><>" connected, address "76.93.190.116:27005"
+L 10/12/2020 - 17:14:19: "alpharius<16><[U:1:939524528]><>" STEAM USERID validated
+L 10/12/2020 - 17:15:19: "alpharius<16><[U:1:939524528]><>" entered the game
+L 10/12/2020 - 17:15:24: "alpharius<16><[U:1:939524528]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 17:15:26: "alpharius<16><[U:1:939524528]><Blue>" changed role to "soldier"
+L 10/12/2020 - 17:17:07: "alpharius<16><[U:1:939524528]><Blue>" joined team "Spectator"
+L 10/12/2020 - 17:17:11: "alpharius<16><[U:1:939524528]><Spectator>" joined team "Blue"
+L 10/12/2020 - 17:17:42: "alpharius<16><[U:1:939524528]><Blue>" joined team "Spectator"
+L 10/12/2020 - 17:17:46: "alpharius<16><[U:1:939524528]><Spectator>" joined team "Blue"
+L 10/12/2020 - 17:18:22: "alpharius<16><[U:1:939524528]><Blue>" changed role to "demoman"
+L 10/12/2020 - 17:23:47: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Walls by pardinesis") (numcappers "1") (player1 "alpharius<16><[U:1:939524528]><Blue>") (position1 "11379 -4597 -11263") 
+L 10/12/2020 - 17:24:54: "alpharius<16><[U:1:939524528]><Blue>" joined team "Spectator"
+L 10/12/2020 - 17:25:00: "alpharius<16><[U:1:939524528]><Spectator>" joined team "Blue"
+L 10/12/2020 - 17:25:19: "alpharius<16><[U:1:939524528]><Blue>" joined team "Spectator"
+L 10/12/2020 - 17:25:26: "alpharius<16><[U:1:939524528]><Spectator>" joined team "Blue"
+L 10/12/2020 - 17:25:45: "alpharius<16><[U:1:939524528]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 17:28:43: "Cl0wn<17><[U:1:1107831487]><>" connected, address "24.51.8.141:27005"
+L 10/12/2020 - 17:28:43: "Cl0wn<17><[U:1:1107831487]><>" STEAM USERID validated
+L 10/12/2020 - 17:29:27: "Cl0wn<17><[U:1:1107831487]><>" entered the game
+L 10/12/2020 - 17:29:46: "Cl0wn<17><[U:1:1107831487]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 17:29:48: "Cl0wn<17><[U:1:1107831487]><Blue>" changed role to "soldier"
+L 10/12/2020 - 17:35:32: "Cl0wn<17><[U:1:1107831487]><Blue>" changed role to "demoman"
+L 10/12/2020 - 17:36:46: STEAMAUTH: Client Cl0wn received failure code 6
+L 10/12/2020 - 17:36:46: "Cl0wn<17><[U:1:1107831487]><Blue>" disconnected (reason "Client left game (Steam auth ticket has been canceled)")
+L 10/12/2020 - 17:37:19: "kilonova-6<18><[U:1:368559538]><>" connected, address "68.3.101.110:27005"
+L 10/12/2020 - 17:37:19: "kilonova-6<18><[U:1:368559538]><>" STEAM USERID validated
+L 10/12/2020 - 17:37:23: "kilonova-6<18><[U:1:368559538]><>" disconnected (reason "Map is missing")
+L 10/12/2020 - 17:37:23: "JumpBOT<12><BOT><Red>" disconnected (reason "Server is empty")
+L 10/12/2020 - 17:37:24: server_cvar: "tf_bot_count" "0"
+L 10/12/2020 - 17:37:24: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 17:37:24: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 17:41:41: "kilonova-6<19><[U:1:368559538]><>" connected, address "68.3.101.110:27005"
+L 10/12/2020 - 17:41:41: "kilonova-6<19><[U:1:368559538]><>" STEAM USERID validated
+L 10/12/2020 - 17:41:44: "kilonova-6<19><[U:1:368559538]><>" disconnected (reason "Map is missing")
+L 10/12/2020 - 17:41:59: "kilonova-6<20><[U:1:368559538]><>" connected, address "68.3.101.110:27005"
+L 10/12/2020 - 17:41:59: "kilonova-6<20><[U:1:368559538]><>" STEAM USERID validated
+L 10/12/2020 - 17:42:03: "kilonova-6<20><[U:1:368559538]><>" disconnected (reason "Map is missing")
+L 10/12/2020 - 18:06:06: "N'wah<21><[U:1:106031945]><>" connected, address "73.169.222.184:27005"
+L 10/12/2020 - 18:06:07: "N'wah<21><[U:1:106031945]><>" STEAM USERID validated
+L 10/12/2020 - 18:06:42: "JumpBOT<22><BOT><>" connected, address "none"
+L 10/12/2020 - 18:06:42: "JumpBOT<22><BOT><>" entered the game
+L 10/12/2020 - 18:06:42: "N'wah<21><[U:1:106031945]><>" entered the game
+L 10/12/2020 - 18:06:43: server_cvar: "tf_bot_count" "1"
+L 10/12/2020 - 18:06:43: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 18:06:43: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/12/2020 - 18:06:51: "N'wah<21><[U:1:106031945]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 18:06:52: "N'wah<21><[U:1:106031945]><Blue>" changed role to "soldier"
+L 10/12/2020 - 18:06:52: "JumpBOT<22><BOT><Unassigned>" joined team "Blue"
+L 10/12/2020 - 18:09:12: "PoliteAsbestos<23><[U:1:327950123]><>" connected, address "98.246.18.148:27005"
+L 10/12/2020 - 18:09:12: "PoliteAsbestos<23><[U:1:327950123]><>" STEAM USERID validated
+L 10/12/2020 - 18:09:18: "Rdatz<24><[U:1:152036088]><>" connected, address "67.185.65.124:27005"
+L 10/12/2020 - 18:09:18: "Rdatz<24><[U:1:152036088]><>" STEAM USERID validated
+L 10/12/2020 - 18:09:43: "Rdatz<24><[U:1:152036088]><>" entered the game
+L 10/12/2020 - 18:09:50: "PoliteAsbestos<23><[U:1:327950123]><>" entered the game
+L 10/12/2020 - 18:09:58: "PoliteAsbestos<23><[U:1:327950123]><Unassigned>" joined team "Red"
+L 10/12/2020 - 18:10:01: "PoliteAsbestos<23><[U:1:327950123]><Red>" changed role to "soldier"
+L 10/12/2020 - 18:10:14: "Rdatz<24><[U:1:152036088]><Unassigned>" joined team "Red"
+L 10/12/2020 - 18:10:16: "Rdatz<24><[U:1:152036088]><Red>" changed role to "soldier"
+L 10/12/2020 - 18:11:57: "N'wah<21><[U:1:106031945]><Blue>" joined team "Red"
+L 10/12/2020 - 18:17:55: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 18:18:02: "N'wah<21><[U:1:106031945]><Red>" say "!noclipme"
+L 10/12/2020 - 18:18:21: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 18:18:33: "N'wah<21><[U:1:106031945]><Red>" say "!map"
+L 10/12/2020 - 18:18:36: "N'wah<21><[U:1:106031945]><Red>" say "!mapvote"
+L 10/12/2020 - 18:18:38: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 18:18:44: "N'wah<21><[U:1:106031945]><Red>" say "!speedo"
+L 10/12/2020 - 18:19:13: "N'wah<21><[U:1:106031945]><Red>" say "!noclip"
+L 10/12/2020 - 18:19:18: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 18:19:21: "N'wah<21><[U:1:106031945]><Red>" say "!noclipme"
+L 10/12/2020 - 18:19:25: "Mommy's Laxitives<25><[U:1:876723453]><>" connected, address "72.194.71.209:27005"
+L 10/12/2020 - 18:19:25: "Mommy's Laxitives<25><[U:1:876723453]><>" STEAM USERID validated
+L 10/12/2020 - 18:19:37: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 18:20:12: "Mommy's Laxitives<25><[U:1:876723453]><>" entered the game
+L 10/12/2020 - 18:20:18: "Mommy's Laxitives<25><[U:1:876723453]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 18:20:19: "Mommy's Laxitives<25><[U:1:876723453]><Blue>" changed role to "demoman"
+L 10/12/2020 - 18:20:20: "Mommy's Laxitives<25><[U:1:876723453]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 18:20:23: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Red"
+L 10/12/2020 - 18:20:46: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 18:23:33: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Blue"
+L 10/12/2020 - 18:23:34: "N'wah<21><[U:1:106031945]><Blue>" joined team "Red"
+L 10/12/2020 - 18:23:38: "PoliteAsbestos<23><[U:1:327950123]><Red>" joined team "Blue"
+L 10/12/2020 - 18:23:39: "Rdatz<24><[U:1:152036088]><Red>" joined team "Blue"
+L 10/12/2020 - 18:23:40: "Rdatz<24><[U:1:152036088]><Blue>" joined team "Red"
+L 10/12/2020 - 18:23:42: "PoliteAsbestos<23><[U:1:327950123]><Blue>" joined team "Red"
+L 10/12/2020 - 18:32:07: "N'wah<21><[U:1:106031945]><Red>" say "!sve"
+L 10/12/2020 - 18:32:11: "N'wah<21><[U:1:106031945]><Red>" say "!save"
+L 10/12/2020 - 18:32:15: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 18:36:38: "JumpBOT<22><BOT><Blue>" joined team "Red"
+L 10/12/2020 - 18:36:38: "Rdatz<24><[U:1:152036088]><Red>" joined team "Spectator"
+L 10/12/2020 - 18:36:45: "Rdatz<24><[U:1:152036088]><Spectator>" joined team "Red"
+L 10/12/2020 - 18:40:22: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Red"
+L 10/12/2020 - 18:42:55: "N'wah<21><[U:1:106031945]><Red>" say "!save"
+L 10/12/2020 - 18:42:58: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 18:45:27: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Red"
+L 10/12/2020 - 18:45:34: "N'wah<21><[U:1:106031945]><Red>" say "!save"
+L 10/12/2020 - 18:45:38: "PoliteAsbestos<23><[U:1:327950123]><Red>" say "!save"
+L 10/12/2020 - 18:45:50: "PoliteAsbestos<23><[U:1:327950123]><Red>" joined team "Blue"
+L 10/12/2020 - 18:45:50: "PoliteAsbestos<23><[U:1:327950123]><Blue>" committed suicide with "world" (attacker_position "10697 -5187 -10943")
+L 10/12/2020 - 18:46:02: "PoliteAsbestos<23><[U:1:327950123]><Blue>" joined team "Spectator"
+L 10/12/2020 - 18:46:36: "Rdatz<24><[U:1:152036088]><Red>" joined team "Spectator"
+L 10/12/2020 - 18:46:42: "Rdatz<24><[U:1:152036088]><Spectator>" joined team "Red"
+L 10/12/2020 - 18:46:52: "PoliteAsbestos<23><[U:1:327950123]><Spectator>" joined team "Red"
+L 10/12/2020 - 18:50:01: "Rdatz<24><[U:1:152036088]><Red>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 18:50:39: Team "Red" triggered "pointcaptured" (cp "-1") (cpname "Easy Walls by pardinesis") (numcappers "1") (player1 "N'wah<21><[U:1:106031945]><Red>") (position1 "11555 -4598 -11263") 
+L 10/12/2020 - 18:52:38: "N'wah<21><[U:1:106031945]><Red>" say "!load"
+L 10/12/2020 - 18:52:42: "N'wah<21><[U:1:106031945]><Red>" say_team "!teleport"
+L 10/12/2020 - 18:52:45: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 18:52:54: "N'wah<21><[U:1:106031945]><Red>" say "!t"
+L 10/12/2020 - 18:55:35: Team "Red" triggered "pointcaptured" (cp "-1") (cpname "Easy Jurf by pardinensis") (numcappers "1") (player1 "N'wah<21><[U:1:106031945]><Red>") (position1 "-14972 -12688 -11885") 
+L 10/12/2020 - 19:00:48: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 19:00:54: Team "Red" triggered "pointcaptured" (cp "-1") (cpname "Easy Mixed by RNC1839") (numcappers "1") (player1 "JumpBOT<22><BOT><Red>") (position1 "-8874 -15137 -15257") 
+L 10/12/2020 - 19:00:55: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Red"
+L 10/12/2020 - 19:01:02: Team "Red" triggered "pointcaptured" (cp "-1") (cpname "Easy Mixed by RNC1839") (numcappers "1") (player1 "N'wah<21><[U:1:106031945]><Red>") (position1 "-8883 -14984 -15504") 
+L 10/12/2020 - 19:02:50: Team "Red" triggered "pointcaptured" (cp "-1") (cpname "Easy Strafe by Sitood") (numcappers "1") (player1 "N'wah<21><[U:1:106031945]><Red>") (position1 "10518 -11233 -16007") 
+L 10/12/2020 - 19:03:07: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 19:03:15: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Red"
+L 10/12/2020 - 19:04:07: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 19:04:17: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Red"
+L 10/12/2020 - 19:06:14: "N'wah<21><[U:1:106031945]><Red>" say "!t"
+L 10/12/2020 - 19:06:15: "N'wah<21><[U:1:106031945]><Red>" say "!s"
+L 10/12/2020 - 19:07:06: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 19:07:14: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 19:07:19: "N'wah<21><[U:1:106031945]><Red>" say "!tp"
+L 10/12/2020 - 19:09:24: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 19:09:27: "N'wah<21><[U:1:106031945]><Red>" say "!fp"
+L 10/12/2020 - 19:09:34: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 19:09:45: "N'wah<21><[U:1:106031945]><Red>" say "!radio"
+L 10/12/2020 - 19:10:29: "N'wah<21><[U:1:106031945]><Red>" say_team "!radio"
+L 10/12/2020 - 19:15:45: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 19:16:15: "PoliteAsbestos<23><[U:1:327950123]><Red>" joined team "Spectator"
+L 10/12/2020 - 19:16:20: "PoliteAsbestos<23><[U:1:327950123]><Spectator>" joined team "Red"
+L 10/12/2020 - 19:23:19: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Red"
+L 10/12/2020 - 19:23:27: "N'wah<21><[U:1:106031945]><Red>" say "!s"
+L 10/12/2020 - 19:25:44: "N'wah<21><[U:1:106031945]><Red>" say "!"
+L 10/12/2020 - 19:25:45: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 19:26:07: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Red"
+L 10/12/2020 - 19:26:16: "PoliteAsbestos<23><[U:1:327950123]><Red>" say "!s"
+L 10/12/2020 - 19:26:25: "PoliteAsbestos<23><[U:1:327950123]><Red>" joined team "Spectator"
+L 10/12/2020 - 19:28:09: "PoliteAsbestos<23><[U:1:327950123]><Spectator>" joined team "Red"
+L 10/12/2020 - 19:30:50: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 19:30:53: "N'wah<21><[U:1:106031945]><Red>" say "!noclipme"
+L 10/12/2020 - 19:35:27: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 19:38:33: "PoliteAsbestos<23><[U:1:327950123]><Red>" say "!t"
+L 10/12/2020 - 19:47:28: "Mommy's Laxitives<26><[U:1:876723453]><>" connected, address "72.194.71.209:27005"
+L 10/12/2020 - 19:47:28: "Mommy's Laxitives<26><[U:1:876723453]><>" STEAM USERID validated
+L 10/12/2020 - 19:47:47: "Mommy's Laxitives<26><[U:1:876723453]><>" entered the game
+L 10/12/2020 - 19:48:30: "Mommy's Laxitives<26><[U:1:876723453]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 19:48:30: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" changed role to "demoman"
+L 10/12/2020 - 19:48:38: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" committed suicide with "world" (attacker_position "1985 -9467 -15841")
+L 10/12/2020 - 19:48:42: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" say "!us"
+L 10/12/2020 - 19:48:47: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" say "!s"
+L 10/12/2020 - 19:48:57: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" say "!ds"
+L 10/12/2020 - 19:49:07: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" say "!help"
+L 10/12/2020 - 19:49:13: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" say "!s"
+L 10/12/2020 - 19:49:19: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" say "!help"
+L 10/12/2020 - 19:49:25: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" say "!t"
+L 10/12/2020 - 19:49:30: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" committed suicide with "world" (attacker_position "-643 -7482 -15951")
+L 10/12/2020 - 19:49:32: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" say "!t"
+L 10/12/2020 - 19:49:37: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" say "!help"
+L 10/12/2020 - 19:49:44: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" say "!r"
+L 10/12/2020 - 19:49:52: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" committed suicide with "world" (attacker_position "-544 -11926 1280")
+L 10/12/2020 - 19:50:30: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" committed suicide with "world" (attacker_position "1974 -9482 -15841")
+L 10/12/2020 - 19:50:34: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" say "!r"
+L 10/12/2020 - 19:53:27: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Red"
+L 10/12/2020 - 19:53:38: "PoliteAsbestos<23><[U:1:327950123]><Red>" joined team "Spectator"
+L 10/12/2020 - 19:55:03: "PoliteAsbestos<23><[U:1:327950123]><Spectator>" joined team "Red"
+L 10/12/2020 - 19:55:04: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Medium Speedshot by RNC1839") (numcappers "1") (player1 "Mommy's Laxitives<26><[U:1:876723453]><Blue>") (position1 "9657 8728 -10867") 
+L 10/12/2020 - 19:55:58: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Strafe by Sitood") (numcappers "1") (player1 "Mommy's Laxitives<26><[U:1:876723453]><Blue>") (position1 "10519 -11169 -15948") 
+L 10/12/2020 - 19:58:00: "N'wah<21><[U:1:106031945]><Red>" say "do you mind leaving us alone"
+L 10/12/2020 - 19:58:06: "N'wah<21><[U:1:106031945]><Red>" say "trying to teach a friend <3"
+L 10/12/2020 - 19:58:09: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" say "got it"
+L 10/12/2020 - 19:58:10: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" committed suicide with "world" (attacker_position "10552 -5240 -9957")
+L 10/12/2020 - 19:58:45: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" committed suicide with "world" (attacker_position "3301 -12770 -15455")
+L 10/12/2020 - 19:58:47: "Mommy's Laxitives<26><[U:1:876723453]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 19:58:53: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 19:59:31: "N'wah<21><[U:1:106031945]><Spectator>" say "!help"
+L 10/12/2020 - 19:59:38: "N'wah<21><[U:1:106031945]><Spectator>" say "!skeys"
+L 10/12/2020 - 20:01:30: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Blue"
+L 10/12/2020 - 20:01:30: "N'wah<21><[U:1:106031945]><Blue>" joined team "Red"
+L 10/12/2020 - 20:01:34: "PoliteAsbestos<23><[U:1:327950123]><Red>" joined team "Blue"
+L 10/12/2020 - 20:01:35: "PoliteAsbestos<23><[U:1:327950123]><Blue>" joined team "Red"
+L 10/12/2020 - 20:01:38: "N'wah<21><[U:1:106031945]><Red>" committed suicide with "world" (attacker_position "10667 -4824 -9279")
+L 10/12/2020 - 20:01:44: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 20:02:01: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 20:02:05: "N'wah<21><[U:1:106031945]><Red>" say "!noclipme"
+L 10/12/2020 - 20:02:09: "PoliteAsbestos<23><[U:1:327950123]><Red>" say "!help"
+L 10/12/2020 - 20:02:25: "PoliteAsbestos<23><[U:1:327950123]><Red>" say "!noclipme"
+L 10/12/2020 - 20:02:55: "N'wah<21><[U:1:106031945]><Red>" say "!noclipme"
+L 10/12/2020 - 20:03:27: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 20:03:41: Team "Red" triggered "pointcaptured" (cp "-1") (cpname "Easy Walls by pardinesis") (numcappers "1") (player1 "PoliteAsbestos<23><[U:1:327950123]><Red>") (position1 "11346 -4325 -10880") 
+L 10/12/2020 - 20:04:00: "PoliteAsbestos<23><[U:1:327950123]><Red>" say "!noclipme"
+L 10/12/2020 - 20:05:11: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 20:05:17: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Red"
+L 10/12/2020 - 20:05:33: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 20:05:48: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Red"
+L 10/12/2020 - 20:05:56: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 20:06:00: "N'wah<21><[U:1:106031945]><Red>" say "!r"
+L 10/12/2020 - 20:07:50: "PoliteAsbestos<23><[U:1:327950123]><Red>" joined team "Spectator"
+L 10/12/2020 - 20:07:56: "PoliteAsbestos<23><[U:1:327950123]><Spectator>" joined team "Red"
+L 10/12/2020 - 20:09:12: "N'wah<21><[U:1:106031945]><Red>" say "!s"
+L 10/12/2020 - 20:09:15: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 20:17:42: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Red"
+L 10/12/2020 - 20:17:55: "PoliteAsbestos<23><[U:1:327950123]><Red>" say "!s"
+L 10/12/2020 - 20:18:04: "PoliteAsbestos<23><[U:1:327950123]><Red>" joined team "Spectator"
+L 10/12/2020 - 20:20:20: "PoliteAsbestos<23><[U:1:327950123]><Spectator>" joined team "Red"
+L 10/12/2020 - 20:20:54: "N'wah<21><[U:1:106031945]><Red>" joined team "Spectator"
+L 10/12/2020 - 20:26:25: "N'wah<21><[U:1:106031945]><Spectator>" joined team "Red"
+L 10/12/2020 - 20:26:33: "N'wah<21><[U:1:106031945]><Red>" say "!help"
+L 10/12/2020 - 20:26:39: "N'wah<21><[U:1:106031945]><Red>" say "!r"
+L 10/12/2020 - 20:27:02: "PoliteAsbestos<23><[U:1:327950123]><Red>" joined team "Spectator"
+L 10/12/2020 - 20:52:23: "RePLaY<27><[U:1:79710206]><>" connected, address "174.18.39.189:1024"
+L 10/12/2020 - 20:52:23: "RePLaY<27><[U:1:79710206]><>" STEAM USERID validated
+L 10/12/2020 - 20:52:38: "RePLaY<27><[U:1:79710206]><>" entered the game
+L 10/12/2020 - 20:52:49: "RePLaY<27><[U:1:79710206]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 20:52:51: "RePLaY<27><[U:1:79710206]><Blue>" changed role to "soldier"
+L 10/12/2020 - 20:53:51: "RePLaY<27><[U:1:79710206]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 21:29:21: "N'wah<21><[U:1:106031945]><Red>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 21:34:23: "PoliteAsbestos<23><[U:1:327950123]><Spectator>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 22:01:56: "BiggestBrainOutThere<28><[U:1:956310083]><>" connected, address "98.203.254.101:27005"
+L 10/12/2020 - 22:01:56: "BiggestBrainOutThere<28><[U:1:956310083]><>" STEAM USERID validated
+L 10/12/2020 - 22:02:32: "BiggestBrainOutThere<28><[U:1:956310083]><>" entered the game
+L 10/12/2020 - 22:02:41: "BiggestBrainOutThere<28><[U:1:956310083]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 22:02:43: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" changed role to "soldier"
+L 10/12/2020 - 22:04:17: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" joined team "Spectator"
+L 10/12/2020 - 22:04:24: "BiggestBrainOutThere<28><[U:1:956310083]><Spectator>" joined team "Blue"
+L 10/12/2020 - 22:05:34: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!menu"
+L 10/12/2020 - 22:05:44: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!speedo"
+L 10/12/2020 - 22:06:16: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!meu"
+L 10/12/2020 - 22:06:18: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say_team "!menu"
+L 10/12/2020 - 22:06:23: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!skeys"
+L 10/12/2020 - 22:07:21: "roy2288<29><[U:1:117622066]><>" connected, address "168.105.192.182:27005"
+L 10/12/2020 - 22:07:21: "roy2288<29><[U:1:117622066]><>" STEAM USERID validated
+L 10/12/2020 - 22:07:49: "roy2288<29><[U:1:117622066]><>" entered the game
+L 10/12/2020 - 22:07:54: "roy2288<29><[U:1:117622066]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 22:07:55: "roy2288<29><[U:1:117622066]><Blue>" changed role to "soldier"
+L 10/12/2020 - 22:08:38: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" joined team "Spectator"
+L 10/12/2020 - 22:08:46: "BiggestBrainOutThere<28><[U:1:956310083]><Spectator>" joined team "Blue"
+L 10/12/2020 - 22:09:14: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Strafe by Sitood") (numcappers "1") (player1 "roy2288<29><[U:1:117622066]><Blue>") (position1 "10518 -11255 -15940") 
+L 10/12/2020 - 22:10:27: "RePLaY<30><[U:1:79710206]><>" connected, address "174.18.39.189:1024"
+L 10/12/2020 - 22:10:27: "RePLaY<30><[U:1:79710206]><>" STEAM USERID validated
+L 10/12/2020 - 22:10:36: "RePLaY<30><[U:1:79710206]><>" entered the game
+L 10/12/2020 - 22:10:40: "RePLaY<30><[U:1:79710206]><Unassigned>" joined team "Red"
+L 10/12/2020 - 22:10:41: "RePLaY<30><[U:1:79710206]><Red>" changed role to "soldier"
+L 10/12/2020 - 22:10:46: "RePLaY<30><[U:1:79710206]><Red>" joined team "Blue"
+L 10/12/2020 - 22:10:49: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Walls by pardinesis") (numcappers "1") (player1 "roy2288<29><[U:1:117622066]><Blue>") (position1 "11523 -4598 -10886") 
+L 10/12/2020 - 22:10:56: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!menu"
+L 10/12/2020 - 22:11:03: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!s"
+L 10/12/2020 - 22:11:09: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" changed role to "demoman"
+L 10/12/2020 - 22:11:40: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" changed role to "soldier"
+L 10/12/2020 - 22:11:41: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" changed role to "demoman"
+L 10/12/2020 - 22:11:48: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Strafe by Sitood") (numcappers "1") (player1 "RePLaY<30><[U:1:79710206]><Blue>") (position1 "10519 -11273 -16007") 
+L 10/12/2020 - 22:12:49: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Walls by pardinesis") (numcappers "1") (player1 "RePLaY<30><[U:1:79710206]><Blue>") (position1 "11505 -4529 -10892") 
+L 10/12/2020 - 22:13:39: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" changed role to "soldier"
+L 10/12/2020 - 22:14:19: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" joined team "Spectator"
+L 10/12/2020 - 22:14:24: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Pogo by RNC1839") (numcappers "1") (player1 "roy2288<29><[U:1:117622066]><Blue>") (position1 "-1572 -12639 -15571") 
+L 10/12/2020 - 22:14:27: "BiggestBrainOutThere<28><[U:1:956310083]><Spectator>" joined team "Blue"
+L 10/12/2020 - 22:15:07: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Pogo by RNC1839") (numcappers "1") (player1 "RePLaY<30><[U:1:79710206]><Blue>") (position1 "-1568 -12767 -15396") 
+L 10/12/2020 - 22:15:09: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!menu"
+L 10/12/2020 - 22:15:12: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!noclipme"
+L 10/12/2020 - 22:15:18: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!menu"
+L 10/12/2020 - 22:15:20: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!noclipme"
+L 10/12/2020 - 22:15:23: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!menu"
+L 10/12/2020 - 22:15:31: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!t"
+L 10/12/2020 - 22:15:33: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!t"
+L 10/12/2020 - 22:15:34: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!t"
+L 10/12/2020 - 22:15:36: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!menu"
+L 10/12/2020 - 22:15:41: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!r"
+L 10/12/2020 - 22:15:46: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!t"
+L 10/12/2020 - 22:15:48: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!t"
+L 10/12/2020 - 22:15:51: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" say "!r"
+L 10/12/2020 - 22:15:53: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Jurf by pardinensis") (numcappers "1") (player1 "roy2288<29><[U:1:117622066]><Blue>") (position1 "-14848 -12680 -11946") 
+L 10/12/2020 - 22:17:03: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" joined team "Spectator"
+L 10/12/2020 - 22:17:09: "BiggestBrainOutThere<28><[U:1:956310083]><Spectator>" joined team "Blue"
+L 10/12/2020 - 22:17:16: "BiggestBrainOutThere<28><[U:1:956310083]><Blue>" disconnected (reason "#GameUI_Disconnect_TooManyCommands")
+L 10/12/2020 - 22:21:08: "roy2288<29><[U:1:117622066]><Blue>" say "!goto"
+L 10/12/2020 - 22:21:13: "roy2288<29><[U:1:117622066]><Blue>" say "!goto"
+L 10/12/2020 - 22:21:17: "roy2288<29><[U:1:117622066]><Blue>" say "!goto"
+L 10/12/2020 - 22:21:25: "roy2288<29><[U:1:117622066]><Blue>" say "!menu"
+L 10/12/2020 - 22:21:28: "roy2288<29><[U:1:117622066]><Blue>" say "!noclipme"
+L 10/12/2020 - 22:21:37: "roy2288<29><[U:1:117622066]><Blue>" say "!noclipme"
+L 10/12/2020 - 22:21:38: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Sync by Niirvash/Elandi") (numcappers "1") (player1 "RePLaY<30><[U:1:79710206]><Blue>") (position1 "10964 40 -11838") 
+L 10/12/2020 - 22:22:39: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Jurf by pardinensis") (numcappers "1") (player1 "RePLaY<30><[U:1:79710206]><Blue>") (position1 "-14921 -12683 -12095") 
+L 10/12/2020 - 22:22:53: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Mixed by RNC1839") (numcappers "1") (player1 "roy2288<29><[U:1:117622066]><Blue>") (position1 "-8876 -14971 -15433") 
+L 10/12/2020 - 22:26:19: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Mixed by RNC1839") (numcappers "1") (player1 "RePLaY<30><[U:1:79710206]><Blue>") (position1 "-8876 -15082 -15405") 
+L 10/12/2020 - 22:33:52: "RePLaY<30><[U:1:79710206]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 22:37:07: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Medium Pogo by Dr Gains") (numcappers "1") (player1 "roy2288<29><[U:1:117622066]><Blue>") (position1 "10510 15080 -8068") 
+L 10/12/2020 - 22:37:12: "roy2288<29><[U:1:117622066]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 22:41:52: "KLaW<31><[U:1:293598027]><>" connected, address "121.55.211.248:27005"
+L 10/12/2020 - 22:41:52: "KLaW<31><[U:1:293598027]><>" STEAM USERID validated
+L 10/12/2020 - 22:42:38: "KLaW<31><[U:1:293598027]><>" entered the game
+L 10/12/2020 - 22:43:05: "KLaW<31><[U:1:293598027]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 22:43:08: "KLaW<31><[U:1:293598027]><Blue>" changed role to "engineer"
+L 10/12/2020 - 22:44:21: "KLaW<31><[U:1:293598027]><Blue>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-11585 16027 14848")
+L 10/12/2020 - 22:44:59: "KLaW<31><[U:1:293598027]><Blue>" changed role to "soldier"
+L 10/12/2020 - 22:46:02: "KLaW<31><[U:1:293598027]><Blue>" changed role to "demoman"
+L 10/12/2020 - 22:46:03: "KLaW<31><[U:1:293598027]><Blue>" changed role to "soldier"
+L 10/12/2020 - 22:46:59: "KLaW<31><[U:1:293598027]><Blue>" changed role to "pyro"
+L 10/12/2020 - 22:47:00: "KLaW<31><[U:1:293598027]><Blue>" changed role to "soldier"
+L 10/12/2020 - 22:48:00: "KLaW<31><[U:1:293598027]><Blue>" changed role to "demoman"
+L 10/12/2020 - 22:49:02: "KLaW<31><[U:1:293598027]><Blue>" changed role to "pyro"
+L 10/12/2020 - 22:49:03: "KLaW<31><[U:1:293598027]><Blue>" changed role to "demoman"
+L 10/12/2020 - 22:51:46: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Walls by pardinesis") (numcappers "1") (player1 "KLaW<31><[U:1:293598027]><Blue>") (position1 "11337 -4599 -11263") 
+L 10/12/2020 - 22:53:34: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Pogo by RNC1839") (numcappers "1") (player1 "KLaW<31><[U:1:293598027]><Blue>") (position1 "-1586 -13146 -15510") 
+L 10/12/2020 - 22:55:14: "KLaW<31><[U:1:293598027]><Blue>" changed role to "soldier"
+L 10/12/2020 - 22:56:21: "KLaW<31><[U:1:293598027]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 23:24:12: "Scattman_<32><[U:1:229210970]><>" connected, address "47.145.146.92:27005"
+L 10/12/2020 - 23:24:12: "Scattman_<32><[U:1:229210970]><>" STEAM USERID validated
+L 10/12/2020 - 23:24:23: "vesayak38@rambler.ru<33><[U:1:312486404]><>" connected, address "47.152.184.84:27005"
+L 10/12/2020 - 23:24:23: "vesayak38@rambler.ru<33><[U:1:312486404]><>" STEAM USERID validated
+L 10/12/2020 - 23:24:44: "Walrus<34><[U:1:171805072]><>" connected, address "192.235.242.72:27005"
+L 10/12/2020 - 23:24:44: "Walrus<34><[U:1:171805072]><>" STEAM USERID validated
+L 10/12/2020 - 23:25:04: "Scattman_<32><[U:1:229210970]><>" entered the game
+L 10/12/2020 - 23:25:14: "vesayak38@rambler.ru<33><[U:1:312486404]><>" entered the game
+L 10/12/2020 - 23:25:16: "Scattman_<32><[U:1:229210970]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 23:25:17: "Walrus<34><[U:1:171805072]><>" entered the game
+L 10/12/2020 - 23:25:18: "Scattman_<32><[U:1:229210970]><Blue>" changed role to "soldier"
+L 10/12/2020 - 23:25:23: "Walrus<34><[U:1:171805072]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 23:25:25: "Walrus<34><[U:1:171805072]><Blue>" changed role to "soldier"
+L 10/12/2020 - 23:25:34: "vesayak38@rambler.ru<33><[U:1:312486404]><Unassigned>" joined team "Red"
+L 10/12/2020 - 23:25:35: "vesayak38@rambler.ru<33><[U:1:312486404]><Red>" changed role to "soldier"
+L 10/12/2020 - 23:26:48: "vesayak38@rambler.ru<33><[U:1:312486404]><Red>" joined team "Spectator"
+L 10/12/2020 - 23:26:54: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Red"
+L 10/12/2020 - 23:27:11: "Scattman_<32><[U:1:229210970]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:27:16: "Scattman_<32><[U:1:229210970]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:29:02: "vesayak38@rambler.ru<33><[U:1:312486404]><Red>" joined team "Spectator"
+L 10/12/2020 - 23:29:10: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Red"
+L 10/12/2020 - 23:29:31: "Scattman_<32><[U:1:229210970]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:29:32: "Scattman_<32><[U:1:229210970]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:29:45: "Scattman_<32><[U:1:229210970]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:29:51: "Scattman_<32><[U:1:229210970]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:29:59: "vesayak38@rambler.ru<33><[U:1:312486404]><Red>" joined team "Spectator"
+L 10/12/2020 - 23:30:05: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Red"
+L 10/12/2020 - 23:30:50: "vesayak38@rambler.ru<33><[U:1:312486404]><Red>" joined team "Spectator"
+L 10/12/2020 - 23:30:57: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Red"
+L 10/12/2020 - 23:31:27: Team "Red" triggered "pointcaptured" (cp "-1") (cpname "Easy Walls by pardinesis") (numcappers "1") (player1 "vesayak38@rambler.ru<33><[U:1:312486404]><Red>") (position1 "11505 -4592 -10972") 
+L 10/12/2020 - 23:31:36: "vesayak38@rambler.ru<33><[U:1:312486404]><Red>" joined team "Spectator"
+L 10/12/2020 - 23:31:40: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Red"
+L 10/12/2020 - 23:31:52: "Scattman_<32><[U:1:229210970]><Blue>" committed suicide with "world" (attacker_position "9691 -3046 -9919")
+L 10/12/2020 - 23:31:52: "Walrus<34><[U:1:171805072]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:32:00: "Walrus<34><[U:1:171805072]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:32:22: "vesayak38@rambler.ru<33><[U:1:312486404]><Red>" joined team "Spectator"
+L 10/12/2020 - 23:32:26: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Red"
+L 10/12/2020 - 23:32:40: "Walrus<34><[U:1:171805072]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:32:45: "Walrus<34><[U:1:171805072]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:33:04: "vesayak38@rambler.ru<33><[U:1:312486404]><Red>" joined team "Spectator"
+L 10/12/2020 - 23:33:08: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Red"
+L 10/12/2020 - 23:33:20: "vesayak38@rambler.ru<33><[U:1:312486404]><Red>" joined team "Spectator"
+L 10/12/2020 - 23:33:24: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Red"
+L 10/12/2020 - 23:33:46: "vesayak38@rambler.ru<33><[U:1:312486404]><Red>" joined team "Spectator"
+L 10/12/2020 - 23:33:50: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Red"
+L 10/12/2020 - 23:34:12: "Walrus<34><[U:1:171805072]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:34:19: "Walrus<34><[U:1:171805072]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:34:20: "vesayak38@rambler.ru<33><[U:1:312486404]><Red>" joined team "Blue"
+L 10/12/2020 - 23:34:32: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" say "!spawn"
+L 10/12/2020 - 23:34:36: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" committed suicide with "world" (attacker_position "14439 14756 -9183")
+L 10/12/2020 - 23:35:20: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:35:24: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:35:25: "Walrus<34><[U:1:171805072]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:35:32: "Walrus<34><[U:1:171805072]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:36:08: "Walrus<34><[U:1:171805072]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:36:15: "Walrus<34><[U:1:171805072]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:36:16: "Scattman_<32><[U:1:229210970]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:36:22: "Scattman_<32><[U:1:229210970]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:36:23: "Walrus<34><[U:1:171805072]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:36:30: "Walrus<34><[U:1:171805072]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:36:31: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:36:32: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:36:47: "Scattman_<32><[U:1:229210970]><Blue>" say "!menu"
+L 10/12/2020 - 23:36:52: "Scattman_<32><[U:1:229210970]><Blue>" say "!preview"
+L 10/12/2020 - 23:37:09: "Scattman_<32><[U:1:229210970]><Blue>" say "!taunts"
+L 10/12/2020 - 23:37:17: "Scattman_<32><[U:1:229210970]><Blue>" say "!taunts"
+L 10/12/2020 - 23:37:43: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" committed suicide with "world" (attacker_position "2959 -6772 -15967")
+L 10/12/2020 - 23:37:49: "Scattman_<32><[U:1:229210970]><Blue>" committed suicide with "world" (attacker_position "1884 -8086 -16097")
+L 10/12/2020 - 23:38:15: "Walrus<34><[U:1:171805072]><Blue>" say "!spawn"
+L 10/12/2020 - 23:38:20: "Walrus<34><[U:1:171805072]><Blue>" committed suicide with "world" (attacker_position "10120 -3217 -10899")
+L 10/12/2020 - 23:38:30: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" committed suicide with "world" (attacker_position "-12737 -8986 -12351")
+L 10/12/2020 - 23:39:08: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:39:09: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:41:36: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:41:43: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:41:54: "Scattman_<32><[U:1:229210970]><Blue>" say "!noclipme"
+L 10/12/2020 - 23:42:05: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" say "!noclipme"
+L 10/12/2020 - 23:42:30: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" say "!noclipme"
+L 10/12/2020 - 23:42:32: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" committed suicide with "world" (attacker_position "-8502 -11456 -14751")
+L 10/12/2020 - 23:43:01: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:43:10: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:43:11: "Walrus<34><[U:1:171805072]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:43:16: "Walrus<34><[U:1:171805072]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:43:18: "Scattman_<32><[U:1:229210970]><Blue>" committed suicide with "world" (attacker_position "-435 -75 13912")
+L 10/12/2020 - 23:43:21: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:43:30: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:43:50: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:43:59: "vesayak38@rambler.ru<33><[U:1:312486404]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:44:00: "Scattman_<32><[U:1:229210970]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:44:09: "Scattman_<32><[U:1:229210970]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:44:40: "vesayak38@rambler.ru<33><[U:1:312486404]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 23:44:42: "Walrus<34><[U:1:171805072]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:44:47: "Walrus<34><[U:1:171805072]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:45:26: "Scattman_<32><[U:1:229210970]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:45:34: "Walrus<34><[U:1:171805072]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:45:39: "Walrus<34><[U:1:171805072]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:45:55: "vesayak38@rambler.ru<35><[U:1:312486404]><>" connected, address "47.152.184.84:27005"
+L 10/12/2020 - 23:45:55: "vesayak38@rambler.ru<35><[U:1:312486404]><>" STEAM USERID validated
+L 10/12/2020 - 23:46:01: "vesayak38@rambler.ru<35><[U:1:312486404]><>" entered the game
+L 10/12/2020 - 23:46:08: "vesayak38@rambler.ru<35><[U:1:312486404]><Unassigned>" joined team "Blue"
+L 10/12/2020 - 23:46:16: "vesayak38@rambler.ru<35><[U:1:312486404]><Blue>" changed role to "soldier"
+L 10/12/2020 - 23:46:22: "vesayak38@rambler.ru<35><[U:1:312486404]><Blue>" changed role to "pyro"
+L 10/12/2020 - 23:46:23: "vesayak38@rambler.ru<35><[U:1:312486404]><Blue>" changed role to "soldier"
+L 10/12/2020 - 23:47:33: "vesayak38@rambler.ru<35><[U:1:312486404]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:47:37: "vesayak38@rambler.ru<35><[U:1:312486404]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:47:41: "Walrus<34><[U:1:171805072]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:47:46: "Walrus<34><[U:1:171805072]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:48:13: "vesayak38@rambler.ru<35><[U:1:312486404]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:48:18: "vesayak38@rambler.ru<35><[U:1:312486404]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:48:54: Team "Blue" triggered "pointcaptured" (cp "-1") (cpname "Easy Strafe by Sitood") (numcappers "1") (player1 "vesayak38@rambler.ru<35><[U:1:312486404]><Blue>") (position1 "10518 -11277 -16007") 
+L 10/12/2020 - 23:50:14: "Walrus<34><[U:1:171805072]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:50:19: "Walrus<34><[U:1:171805072]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:50:30: "Scattman_<32><[U:1:229210970]><Spectator>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 23:50:34: "vesayak38@rambler.ru<35><[U:1:312486404]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:50:40: "vesayak38@rambler.ru<35><[U:1:312486404]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:51:06: "Walrus<34><[U:1:171805072]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/12/2020 - 23:51:11: "vesayak38@rambler.ru<35><[U:1:312486404]><Blue>" joined team "Spectator"
+L 10/12/2020 - 23:51:17: "vesayak38@rambler.ru<35><[U:1:312486404]><Spectator>" joined team "Blue"
+L 10/12/2020 - 23:51:22: "vesayak38@rambler.ru<35><[U:1:312486404]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/13/2020 - 05:40:28: "[TDI] CEO SPOOK<36><[U:1:1110587449]><>" connected, address "208.107.161.168:27005"
+L 10/13/2020 - 05:40:28: "[TDI] CEO SPOOK<36><[U:1:1110587449]><>" STEAM USERID validated
+L 10/13/2020 - 05:41:11: "[TDI] CEO SPOOK<36><[U:1:1110587449]><>" entered the game
+L 10/13/2020 - 05:41:26: "[TDI] CEO SPOOK<36><[U:1:1110587449]><Unassigned>" joined team "Blue"
+L 10/13/2020 - 05:41:27: "[TDI] CEO SPOOK<36><[U:1:1110587449]><Blue>" changed role to "soldier"
+L 10/13/2020 - 05:58:40: "lucilacurso<37><[U:1:1136166495]><>" connected, address "180.190.192.188:7203"
+L 10/13/2020 - 05:58:40: "lucilacurso<37><[U:1:1136166495]><>" STEAM USERID validated
+L 10/13/2020 - 05:58:54: "[TDI] CEO SPOOK<36><[U:1:1110587449]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/13/2020 - 05:59:20: "lucilacurso<37><[U:1:1136166495]><>" disconnected (reason "Disconnect by user.")
+L 10/13/2020 - 05:59:20: "JumpBOT<22><BOT><Red>" disconnected (reason "Server is empty")
+L 10/13/2020 - 05:59:22: server_cvar: "tf_bot_count" "0"
+L 10/13/2020 - 05:59:22: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/13/2020 - 05:59:22: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/13/2020 - 06:07:25: "[TDI] CEO SPOOK<38><[U:1:1110587449]><>" connected, address "208.107.161.168:27005"
+L 10/13/2020 - 06:07:25: "[TDI] CEO SPOOK<38><[U:1:1110587449]><>" STEAM USERID validated
+L 10/13/2020 - 06:07:33: "JumpBOT<39><BOT><>" connected, address "none"
+L 10/13/2020 - 06:07:33: "JumpBOT<39><BOT><>" entered the game
+L 10/13/2020 - 06:07:34: "[TDI] CEO SPOOK<38><[U:1:1110587449]><>" entered the game
+L 10/13/2020 - 06:07:38: server_cvar: "tf_bot_count" "1"
+L 10/13/2020 - 06:07:38: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/13/2020 - 06:07:38: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/13/2020 - 06:07:38: "[TDI] CEO SPOOK<38><[U:1:1110587449]><Unassigned>" joined team "Blue"
+L 10/13/2020 - 06:07:40: "[TDI] CEO SPOOK<38><[U:1:1110587449]><Blue>" changed role to "soldier"
+L 10/13/2020 - 06:07:40: "JumpBOT<39><BOT><Unassigned>" joined team "Blue"
+L 10/13/2020 - 06:07:47: "[TDI] CEO SPOOK<38><[U:1:1110587449]><Blue>" say "noclip"
+L 10/13/2020 - 06:07:51: "[TDI] CEO SPOOK<38><[U:1:1110587449]><Blue>" say "!noclip"
+L 10/13/2020 - 06:08:00: "[TDI] CEO SPOOK<38><[U:1:1110587449]><Blue>" say "!s"
+L 10/13/2020 - 06:08:21: "[TDI] CEO SPOOK<38><[U:1:1110587449]><Blue>" say "!menu"
+L 10/13/2020 - 06:08:29: "[TDI] CEO SPOOK<38><[U:1:1110587449]><Blue>" say "!noclipme"
+L 10/13/2020 - 06:08:41: "[TDI] CEO SPOOK<38><[U:1:1110587449]><Blue>" say "!noclipme"
+L 10/13/2020 - 06:08:43: "[TDI] CEO SPOOK<38><[U:1:1110587449]><Blue>" say "!s"
+L 10/13/2020 - 06:12:01: "[TDI] CEO SPOOK<38><[U:1:1110587449]><Blue>" say "!s"
+L 10/13/2020 - 06:19:39: "[TDI] CEO SPOOK<38><[U:1:1110587449]><Blue>" say "!s"
+L 10/13/2020 - 06:22:26: "[TDI] CEO SPOOK<38><[U:1:1110587449]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/13/2020 - 06:30:11: [META] Loaded 0 plugins (1 already loaded)
+L 10/13/2020 - 06:30:11: "JumpBOT<39><BOT><>" disconnected (reason "Server shutting down")
+L 10/13/2020 - 06:30:11: server_message: "quit"
+L 10/13/2020 - 06:30:11: Log file closed.

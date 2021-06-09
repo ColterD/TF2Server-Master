@@ -1,0 +1,635 @@
+L 10/14/2020 - 06:30:38: Log file started (file "logs/L1014001.log") (game "/home/tf2server.titaniumtank/serverfiles/tf") (version "6135201")
+L 10/14/2020 - 06:30:38: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/14/2020 - 06:30:38: server_cvar: "tfh_fullmoon" "1"
+L 10/14/2020 - 06:30:38: server_cvar: "tfh_winter" "1"
+L 10/14/2020 - 06:30:38: server_cvar: "tfh_birthday" "1"
+L 10/14/2020 - 06:30:38: server_cvar: "tfh_endoftheline" "1"
+L 10/14/2020 - 06:30:38: server_cvar: "tfh_normalhealth" "1"
+L 10/14/2020 - 06:30:38: server_cvar: "mp_tournament_readymode" "1"
+L 10/14/2020 - 06:30:38: server_cvar: "tf_mvm_min_players_to_start" "2"
+L 10/14/2020 - 06:30:38: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,mvm,pancakes,pancakestf,perks,potato,tank,tita"
+L 10/14/2020 - 06:30:38: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,mvm,pancakes,pancakestf,perks,potato,tank,tita"
+L 10/14/2020 - 06:30:38: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/14/2020 - 06:30:38: Connection to Steam servers successful.
+L 10/14/2020 - 06:30:38:    Public IP is 104.192.224.18.
+L 10/14/2020 - 06:30:38: Assigned persistent gameserver Steam ID [G:1:3464856].
+L 10/14/2020 - 06:30:38: VAC secure mode is activated.
+L 10/14/2020 - 08:58:38: "Tyson Latchford<2><[U:1:394518364]><>" connected, address "90.180.134.152:52055"
+L 10/14/2020 - 08:58:39: "Tyson Latchford<2><[U:1:394518364]><>" STEAM USERID validated
+L 10/14/2020 - 08:59:23: "Tyson Latchford<2><[U:1:394518364]><>" entered the game
+L 10/14/2020 - 08:59:29: MVM assigned Tyson Latchford to defending team (5 more slots remaining after us)
+L 10/14/2020 - 08:59:29: MVM assigned Tyson Latchford to defending team (5 more slots remaining after us)
+L 10/14/2020 - 08:59:29: "Tyson Latchford<2><[U:1:394518364]><Unassigned>" joined team "Red"
+L 10/14/2020 - 08:59:32: "Tyson Latchford<2><[U:1:394518364]><Red>" changed role to "heavyweapons"
+L 10/14/2020 - 08:59:32: "TFBot<3><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<3><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<3><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(1)TFBot<4><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<4><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<4><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(2)TFBot<5><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<5><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<5><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(3)TFBot<6><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<6><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<6><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(4)TFBot<7><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<7><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<7><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(5)TFBot<8><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<8><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<8><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(6)TFBot<9><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<9><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<9><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(7)TFBot<10><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<10><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<10><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(8)TFBot<11><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<11><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<11><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(9)TFBot<12><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<12><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<12><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(10)TFBot<13><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<13><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<13><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(11)TFBot<14><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<14><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<14><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(12)TFBot<15><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<15><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<15><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(13)TFBot<16><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<16><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<16><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(14)TFBot<17><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<17><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<17><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(15)TFBot<18><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<18><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<18><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(16)TFBot<19><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<19><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<19><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(17)TFBot<20><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<20><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<20><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(18)TFBot<21><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<21><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<21><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(19)TFBot<22><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<22><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<22><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(20)TFBot<23><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<23><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<23><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: "(21)TFBot<24><BOT><>" connected, address "none"
+L 10/14/2020 - 08:59:32: "<24><BOT><>" entered the game
+L 10/14/2020 - 08:59:32: "TFBot<24><BOT><Unassigned>" joined team "Spectator"
+L 10/14/2020 - 08:59:32: server_cvar: "mp_tournament" "1"
+L 10/14/2020 - 08:59:34: server_cvar: "tf_bot_count" "22"
+L 10/14/2020 - 09:00:47: "Tyson Latchford<2><[U:1:394518364]><Red>" say "!taunts"
+L 10/14/2020 - 09:03:38: "Tyson Latchford<2><[U:1:394518364]><Red>" disconnected (reason "Disconnect by user.")
+L 10/14/2020 - 09:03:38: MVM assigned Tyson Latchford to defending team (4 more slots remaining after us)
+L 10/14/2020 - 12:01:02: "edgar2tense<25><[U:1:116058474]><>" connected, address "75.84.97.106:27005"
+L 10/14/2020 - 12:01:02: "edgar2tense<25><[U:1:116058474]><>" STEAM USERID validated
+L 10/14/2020 - 12:01:45: "edgar2tense<25><[U:1:116058474]><>" entered the game
+L 10/14/2020 - 12:01:51: MVM assigned edgar2tense to defending team (5 more slots remaining after us)
+L 10/14/2020 - 12:01:51: MVM assigned edgar2tense to defending team (5 more slots remaining after us)
+L 10/14/2020 - 12:01:51: "edgar2tense<25><[U:1:116058474]><Unassigned>" joined team "Red"
+L 10/14/2020 - 12:01:56: "edgar2tense<25><[U:1:116058474]><Red>" changed role to "spy"
+L 10/14/2020 - 12:02:22: "edgar2tense<25><[U:1:116058474]><Red>" disconnected (reason "Disconnect by user.")
+L 10/14/2020 - 12:02:22: MVM assigned edgar2tense to defending team (4 more slots remaining after us)
+L 10/14/2020 - 13:53:57: "AAAAAAAAAAA!!<26><[U:1:1052448047]><>" connected, address "45.226.34.2:27005"
+L 10/14/2020 - 13:53:58: "AAAAAAAAAAA!!<26><[U:1:1052448047]><>" STEAM USERID validated
+L 10/14/2020 - 13:54:34: "AAAAAAAAAAA!!<26><[U:1:1052448047]><>" entered the game
+L 10/14/2020 - 13:54:42: MVM assigned AAAAAAAAAAA!! to defending team (5 more slots remaining after us)
+L 10/14/2020 - 13:54:42: MVM assigned AAAAAAAAAAA!! to defending team (5 more slots remaining after us)
+L 10/14/2020 - 13:54:42: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Unassigned>" joined team "Red"
+L 10/14/2020 - 13:54:47: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" changed role to "spy"
+L 10/14/2020 - 13:54:56: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" changed role to "sniper"
+L 10/14/2020 - 13:54:56: "putin<27><[U:1:1054848871]><>" connected, address "45.226.34.2:31880"
+L 10/14/2020 - 13:54:57: "putin<27><[U:1:1054848871]><>" STEAM USERID validated
+L 10/14/2020 - 13:55:09: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" changed role to "pyro"
+L 10/14/2020 - 13:55:42: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!help"
+L 10/14/2020 - 13:55:46: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 13:57:25: "putin<27><[U:1:1054848871]><>" entered the game
+L 10/14/2020 - 13:57:36: MVM assigned putin to defending team (4 more slots remaining after us)
+L 10/14/2020 - 13:57:36: MVM assigned putin to defending team (4 more slots remaining after us)
+L 10/14/2020 - 13:57:36: "putin<27><[U:1:1054848871]><Unassigned>" joined team "Red"
+L 10/14/2020 - 13:57:38: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "putooo"
+L 10/14/2020 - 13:57:42: "putin<27><[U:1:1054848871]><Red>" changed role to "pyro"
+L 10/14/2020 - 13:58:14: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 13:58:31: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 13:59:08: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 13:59:17: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "xd"
+L 10/14/2020 - 13:59:22: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" committed suicide with "world" (attacker_position "-2052 1951 91")
+L 10/14/2020 - 13:59:31: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" committed suicide with "world" (attacker_position "-2983 2209 91")
+L 10/14/2020 - 13:59:59: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 14:00:09: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" committed suicide with "world" (attacker_position "-1729 2208 91")
+L 10/14/2020 - 14:00:20: "putin<27><[U:1:1054848871]><Red>" say "que verga"
+L 10/14/2020 - 14:00:23: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" committed suicide with "world" (attacker_position "-1977 2131 82")
+L 10/14/2020 - 14:00:30: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "aaaaaaa"
+L 10/14/2020 - 14:01:44: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 14:01:47: "putin<27><[U:1:1054848871]><Red>" say "komo as obtuviste los vailes"
+L 10/14/2020 - 14:02:12: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "pone en el chat !taunt"
+L 10/14/2020 - 14:02:25: "putin<27><[U:1:1054848871]><Red>" say "taunt"
+L 10/14/2020 - 14:02:33: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "con el signo"
+L 10/14/2020 - 14:02:45: "putin<27><[U:1:1054848871]><Red>" say "¡taunt"
+L 10/14/2020 - 14:02:47: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 14:03:06: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "y eacojes un numero"
+L 10/14/2020 - 14:03:12: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 14:03:21: "putin<27><[U:1:1054848871]><Red>" say "¡ taunt"
+L 10/14/2020 - 14:03:27: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "pendejo"
+L 10/14/2020 - 14:03:38: "putin<27><[U:1:1054848871]><Red>" say "! tant"
+L 10/14/2020 - 14:03:45: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 14:03:48: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:03:59: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "listo"
+L 10/14/2020 - 14:04:11: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "solo ees por el server"
+L 10/14/2020 - 14:04:19: "putin<27><[U:1:1054848871]><Red>" say "ok"
+L 10/14/2020 - 14:04:40: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "y para los inusales es el 1"
+L 10/14/2020 - 14:04:51: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 14:04:52: "putin<27><[U:1:1054848871]><Red>" say "ok"
+L 10/14/2020 - 14:05:10: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:05:35: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "ok"
+L 10/14/2020 - 14:05:37: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" committed suicide with "world" (attacker_position "871 1461 44")
+L 10/14/2020 - 14:05:51: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:06:15: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "dale f4"
+L 10/14/2020 - 14:06:16: "putin<27><[U:1:1054848871]><Red>" changed role to "heavyweapons"
+L 10/14/2020 - 14:06:32: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "ponte mejoras y ven"
+L 10/14/2020 - 14:06:34: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:07:23: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 14:07:27: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" committed suicide with "world" (attacker_position "906 1444 44")
+L 10/14/2020 - 14:07:34: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 14:07:55: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:08:23: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:08:23: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 14:08:43: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "XD"
+L 10/14/2020 - 14:08:50: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:08:59: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" committed suicide with "world" (attacker_position "1319 1337 140")
+L 10/14/2020 - 14:09:10: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:09:16: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "yaa dale"
+L 10/14/2020 - 14:09:32: server_cvar: "mp_tournament_stopwatch" "0"
+L 10/14/2020 - 14:09:32: "TFBot<3><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:09:32: "TFBot<3><BOT><Blue>" changed role to "scout"
+L 10/14/2020 - 14:09:32: "Force-a-Nature Super Scout<3><BOT><Blue>" triggered "flagevent" (event "picked up") (position "150 -2600 28")
+L 10/14/2020 - 14:09:33: "(1)TFBot<4><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:09:33: "(1)TFBot<4><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:09:33: "(2)TFBot<5><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:09:33: "(2)TFBot<5><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:09:35: "(3)TFBot<6><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:09:35: "(3)TFBot<6><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:09:35: "(4)TFBot<7><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:09:35: "(4)TFBot<7><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:09:37: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "gas_attack" against "Force-a-Nature Super Scout<3><BOT><Blue>" with "tf_weapon_jar" (attacker_position "778 -582 -59") (victim_position "553 -975 -38")
+L 10/14/2020 - 14:09:37: "(5)TFBot<8><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:09:37: "(5)TFBot<8><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:09:37: "(6)TFBot<9><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:09:37: "(6)TFBot<9><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:09:56: "Extended Buff Soldier<7><BOT><Blue>" killed "putin<27><[U:1:1054848871]><Red>" with "tf_projectile_rocket" (attacker_position "1349 443 68") (victim_position "1096 978 44")
+L 10/14/2020 - 14:09:56: "Gear Gunner<6><BOT><Blue>" triggered "kill assist" against "putin<27><[U:1:1054848871]><Red>" (assister_position "1365 321 68") (attacker_position "1349 443 68") (victim_position "1096 978 44")
+L 10/14/2020 - 14:09:59: "Force-a-Nature Super Scout<3><BOT><Blue>" triggered "flagevent" (event "captured") (team_caps "0") (caps_per_round "3") (position "-2053 2533 24")
+L 10/14/2020 - 14:09:59: World triggered "Round_Win" (winner "Blue")
+L 10/14/2020 - 14:09:59: World triggered "Round_Length" (seconds "18624.78")
+L 10/14/2020 - 14:09:59: Team "Red" current score "0" with "2" players
+L 10/14/2020 - 14:09:59: Team "Blue" current score "0" with "7" players
+L 10/14/2020 - 14:10:04: "Force-a-Nature Super Scout<3><BOT><Blue>" stuck (position "-1384.34 2689.91 7.03") (duration "2.52") L 10/14/2020 - 14:10:04:    path_goal ( "-1450.37 2655.72 7.03" )
+L 10/14/2020 - 14:10:04: "Force-a-Nature Super Scout<3><BOT><Blue>" stuck (position "-1384.34 2706.64 32.34") (duration "2.62") L 10/14/2020 - 14:10:04:    path_goal ( "-1450.37 2655.72 7.03" )
+L 10/14/2020 - 14:10:04: World triggered "Round_Start"
+L 10/14/2020 - 14:10:04: World triggered "Round_Setup_Begin"
+L 10/14/2020 - 14:10:04: "Force-a-Nature Super Scout<3><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:10:04: "Gear Gunner<4><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:10:04: "Extended Buff Soldier<5><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:10:04: "Gear Gunner<6><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:10:04: "Extended Buff Soldier<7><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:10:04: "Gear Gunner<8><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:10:04: "Extended Buff Soldier<9><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:10:04: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "xd"
+L 10/14/2020 - 14:10:07: "putin<27><[U:1:1054848871]><Red>" changed role to "engineer"
+L 10/14/2020 - 14:10:10: "putin<27><[U:1:1054848871]><Red>" changed role to "medic"
+L 10/14/2020 - 14:10:19: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:10:32: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "ponte mejoras"
+L 10/14/2020 - 14:10:55: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" committed suicide with "world" (attacker_position "49 3887 -24")
+L 10/14/2020 - 14:11:26: "putin<27><[U:1:1054848871]><Red>" triggered "medic_death" against "putin<27><[U:1:1054848871]><Red>" (healing "0") (ubercharge "0")
+L 10/14/2020 - 14:11:26: "putin<27><[U:1:1054848871]><Red>" committed suicide with "world" (attacker_position "146 3757 -19")
+L 10/14/2020 - 14:11:36: "(7)TFBot<10><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:11:36: "(7)TFBot<10><BOT><Blue>" changed role to "scout"
+L 10/14/2020 - 14:11:36: "Force-a-Nature Super Scout<10><BOT><Blue>" triggered "flagevent" (event "picked up") (position "150 -2600 28")
+L 10/14/2020 - 14:11:37: "(8)TFBot<11><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:11:37: "(8)TFBot<11><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:11:37: "(9)TFBot<12><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:11:37: "(9)TFBot<12><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:11:39: "(10)TFBot<13><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:11:39: "(10)TFBot<13><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:11:39: "(11)TFBot<14><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:11:39: "(11)TFBot<14><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:11:41: "(12)TFBot<15><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:11:41: "(12)TFBot<15><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:11:41: "(13)TFBot<16><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:11:41: "(13)TFBot<16><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:11:47: "Gear Gunner<11><BOT><Blue>" killed "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" with "tomislav" (attacker_position "606 -1238 -36") (victim_position "396 -250 10")
+L 10/14/2020 - 14:11:47: "Extended Buff Soldier<12><BOT><Blue>" triggered "kill assist" against "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" (assister_position "610 -1108 -38") (attacker_position "606 -1238 -36") (victim_position "396 -250 10")
+L 10/14/2020 - 14:12:04: "Force-a-Nature Super Scout<10><BOT><Blue>" triggered "flagevent" (event "captured") (team_caps "0") (caps_per_round "3") (position "-2056 2559 24")
+L 10/14/2020 - 14:12:04: World triggered "Round_Win" (winner "Blue")
+L 10/14/2020 - 14:12:04: World triggered "Round_Length" (seconds "120.27")
+L 10/14/2020 - 14:12:04: Team "Red" current score "0" with "2" players
+L 10/14/2020 - 14:12:04: Team "Blue" current score "0" with "7" players
+L 10/14/2020 - 14:12:05: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" committed suicide with "world" (attacker_position "-2140 2461 24")
+L 10/14/2020 - 14:12:05: "putin<27><[U:1:1054848871]><Red>" triggered "medic_death" against "putin<27><[U:1:1054848871]><Red>" (healing "0") (ubercharge "0")
+L 10/14/2020 - 14:12:05: "Force-a-Nature Super Scout<10><BOT><Blue>" killed "putin<27><[U:1:1054848871]><Red>" with "world" (attacker_position "-2068 2527 24") (victim_position "-1821 2649 7")
+L 10/14/2020 - 14:12:09: World triggered "Round_Start"
+L 10/14/2020 - 14:12:09: World triggered "Round_Setup_Begin"
+L 10/14/2020 - 14:12:09: "Force-a-Nature Super Scout<10><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:12:09: "Gear Gunner<11><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:12:09: "Extended Buff Soldier<12><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:12:09: "Gear Gunner<13><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:12:09: "Extended Buff Soldier<14><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:12:09: "Gear Gunner<15><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:12:09: "Extended Buff Soldier<16><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:12:12: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" changed role to "heavyweapons"
+L 10/14/2020 - 14:12:13: "putin<27><[U:1:1054848871]><Red>" changed role to "soldier"
+L 10/14/2020 - 14:12:23: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:13:28: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:14:41: "(14)TFBot<17><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:14:41: "(14)TFBot<17><BOT><Blue>" changed role to "scout"
+L 10/14/2020 - 14:14:41: "Force-a-Nature Super Scout<17><BOT><Blue>" triggered "flagevent" (event "picked up") (position "150 -2600 28")
+L 10/14/2020 - 14:14:42: "(15)TFBot<18><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:14:42: "(15)TFBot<18><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:14:42: "(16)TFBot<19><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:14:42: "(16)TFBot<19><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:14:44: "(17)TFBot<20><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:14:44: "(17)TFBot<20><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:14:44: "(18)TFBot<21><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:14:44: "(18)TFBot<21><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:14:46: "(19)TFBot<22><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:14:46: "(19)TFBot<22><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:14:46: "(20)TFBot<23><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:14:46: "(20)TFBot<23><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:14:48: "Force-a-Nature Super Scout<17><BOT><Blue>" killed "putin<27><[U:1:1054848871]><Red>" with "force_a_nature" (attacker_position "548 -443 -59") (victim_position "831 -1205 -32")
+L 10/14/2020 - 14:15:11: "Force-a-Nature Super Scout<17><BOT><Blue>" triggered "flagevent" (event "captured") (team_caps "0") (caps_per_round "3") (position "-2078 2540 24")
+L 10/14/2020 - 14:15:11: World triggered "Round_Win" (winner "Blue")
+L 10/14/2020 - 14:15:11: World triggered "Round_Length" (seconds "181.53")
+L 10/14/2020 - 14:15:11: Team "Red" current score "0" with "2" players
+L 10/14/2020 - 14:15:11: Team "Blue" current score "0" with "7" players
+L 10/14/2020 - 14:15:12: "Force-a-Nature Super Scout<17><BOT><Blue>" killed "putin<27><[U:1:1054848871]><Red>" with "player" (attacker_position "-2332 2640 24") (victim_position "-2416 2702 48")
+L 10/14/2020 - 14:15:16: World triggered "Round_Start"
+L 10/14/2020 - 14:15:16: World triggered "Round_Setup_Begin"
+L 10/14/2020 - 14:15:16: "Force-a-Nature Super Scout<17><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:15:16: "Gear Gunner<18><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:15:16: "Extended Buff Soldier<19><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:15:16: "Gear Gunner<20><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:15:16: "Extended Buff Soldier<21><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:15:16: "Gear Gunner<22><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:15:16: "Extended Buff Soldier<23><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:15:18: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" changed role to "engineer"
+L 10/14/2020 - 14:15:25: "putin<27><[U:1:1054848871]><Red>" changed role to "engineer"
+L 10/14/2020 - 14:15:52: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1542 2624 7")
+L 10/14/2020 - 14:15:55: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2074 1980 91")
+L 10/14/2020 - 14:15:58: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2025 1898 91")
+L 10/14/2020 - 14:16:12: "putin<27><[U:1:1054848871]><Red>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "-970 2436 172")
+L 10/14/2020 - 14:16:12: "putin<27><[U:1:1054848871]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "putin<27><[U:1:1054848871]><Red>") (attacker_position "-970 2436 172")
+L 10/14/2020 - 14:16:13: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-1601 2076 91")
+L 10/14/2020 - 14:16:18: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-1147 2594 7")
+L 10/14/2020 - 14:16:24: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_carryobject" (object "OBJ_TELEPORTER") (position "-1142 2576 7")
+L 10/14/2020 - 14:16:27: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_dropobject" (object "OBJ_TELEPORTER") (position "-1719 2591 7")
+L 10/14/2020 - 14:16:27: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-1719 2591 7")
+L 10/14/2020 - 14:16:28: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "484 348 44")
+L 10/14/2020 - 14:16:38: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "38 2191 200")
+L 10/14/2020 - 14:16:42: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "881 544 44")
+L 10/14/2020 - 14:16:51: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:17:00: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 14:17:12: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 14:17:45: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:17:59: "(21)TFBot<24><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:17:59: "(21)TFBot<24><BOT><Blue>" changed role to "scout"
+L 10/14/2020 - 14:17:59: "Force-a-Nature Super Scout<24><BOT><Blue>" triggered "flagevent" (event "picked up") (position "150 -2600 28")
+L 10/14/2020 - 14:18:00: "Force-a-Nature Super Scout<3><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:00: "Force-a-Nature Super Scout<3><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:18:00: "Gear Gunner<4><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:00: "Gear Gunner<4><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:18:02: "Extended Buff Soldier<5><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:02: "Extended Buff Soldier<5><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:18:02: "Gear Gunner<6><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:02: "Gear Gunner<6><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:18:04: "Extended Buff Soldier<7><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:04: "Extended Buff Soldier<7><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:18:04: "Gear Gunner<8><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:04: "Gear Gunner<8><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:18:15: "putin<27><[U:1:1054848871]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "437 365 44")
+L 10/14/2020 - 14:18:16: "Gear Gunner<5><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "building_carried_destroyed") (objectowner "putin<27><[U:1:1054848871]><Red>") (attacker_position "531 -624 -59")
+L 10/14/2020 - 14:18:16: "Gear Gunner<5><BOT><Blue>" killed "putin<27><[U:1:1054848871]><Red>" with "tomislav" (attacker_position "531 -624 -59") (victim_position "356 481 252")
+L 10/14/2020 - 14:18:16: "Extended Buff Soldier<6><BOT><Blue>" triggered "kill assist" against "putin<27><[U:1:1054848871]><Red>" (assister_position "529 -502 -59") (attacker_position "531 -624 -59") (victim_position "356 481 252")
+L 10/14/2020 - 14:18:24: "Gear Gunner<5><BOT><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tomislav") (objectowner "putin<27><[U:1:1054848871]><Red>") (attacker_position "97 263 44")
+L 10/14/2020 - 14:18:26: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "flagevent" (event "defended") (position "-1774 2613 7")
+L 10/14/2020 - 14:18:26: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Force-a-Nature Super Scout<24><BOT><Blue>" with "wrangler_kill" (attacker_position "-1774 2613 7") (victim_position "-1386 2583 7")
+L 10/14/2020 - 14:18:26: "Force-a-Nature Super Scout<24><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-1386 2583 7")
+L 10/14/2020 - 14:18:29: "Extended Buff Soldier<9><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:29: "Extended Buff Soldier<9><BOT><Blue>" changed role to "sniper"
+L 10/14/2020 - 14:18:29: "Force-a-Nature Super Scout<10><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:29: "Force-a-Nature Super Scout<10><BOT><Blue>" changed role to "sniper"
+L 10/14/2020 - 14:18:31: "Gear Gunner<11><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:31: "Gear Gunner<11><BOT><Blue>" changed role to "scout"
+L 10/14/2020 - 14:18:31: "Force-a-Nature Super Scout<24><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:18:33: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1549 2729 7")
+L 10/14/2020 - 14:18:42: "putin<27><[U:1:1054848871]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-1993 2008 91")
+L 10/14/2020 - 14:18:46: "Gear Gunner<5><BOT><Blue>" killed "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" with "tomislav" (attacker_position "-527 2745 49") (victim_position "-1502 2165 91")
+L 10/14/2020 - 14:18:46: "Extended Buff Soldier<8><BOT><Blue>" triggered "kill assist" against "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" (assister_position "-290 3106 103") (attacker_position "-527 2745 49") (victim_position "-1502 2165 91")
+L 10/14/2020 - 14:18:47: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Extended Buff Soldier<6><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1502 2165 159") (victim_position "-772 2556 16")
+L 10/14/2020 - 14:18:49: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Gear Gunner<5><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1552 2678 7") (victim_position "-1008 2534 7")
+L 10/14/2020 - 14:18:49: "putin<27><[U:1:1054848871]><Red>" triggered "kill assist" against "Gear Gunner<5><BOT><Blue>" (assister_position "-1552 2678 7") (attacker_position "-1552 2678 7") (victim_position "-1008 2534 7")
+L 10/14/2020 - 14:18:49: "Extended Buff Soldier<12><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:49: "Extended Buff Soldier<12><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:18:49: "Gear Gunner<13><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:49: "Gear Gunner<13><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:18:52: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Extended Buff Soldier<4><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1552 2678 7") (victim_position "-984 2590 7")
+L 10/14/2020 - 14:18:52: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Extended Buff Soldier<8><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1552 2678 7") (victim_position "-1178 2584 7")
+L 10/14/2020 - 14:18:52: "putin<27><[U:1:1054848871]><Red>" triggered "kill assist" against "Extended Buff Soldier<8><BOT><Blue>" (assister_position "-1552 2678 7") (attacker_position "-1552 2678 7") (victim_position "-1178 2584 7")
+L 10/14/2020 - 14:18:52: "Extended Buff Soldier<14><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:52: "Extended Buff Soldier<14><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:18:52: "Gear Gunner<15><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:52: "Gear Gunner<15><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:18:53: "putin<27><[U:1:1054848871]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-1552 2678 7")
+L 10/14/2020 - 14:18:53: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1552 2678 7")
+L 10/14/2020 - 14:18:53: "Extended Buff Soldier<6><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:18:54: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Gear Gunner<3><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1557 2665 7") (victim_position "-1306 2586 7")
+L 10/14/2020 - 14:18:54: "putin<27><[U:1:1054848871]><Red>" triggered "kill assist" against "Gear Gunner<3><BOT><Blue>" (assister_position "-1557 2665 7") (attacker_position "-1557 2665 7") (victim_position "-1306 2586 7")
+L 10/14/2020 - 14:18:54: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Gear Gunner<7><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1562 2663 7") (victim_position "-1266 2550 7")
+L 10/14/2020 - 14:18:54: "putin<27><[U:1:1054848871]><Red>" triggered "kill assist" against "Gear Gunner<7><BOT><Blue>" (assister_position "-1562 2663 7") (attacker_position "-1562 2663 7") (victim_position "-1266 2550 7")
+L 10/14/2020 - 14:18:54: "Extended Buff Soldier<16><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:54: "Extended Buff Soldier<16><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:18:54: "Force-a-Nature Super Scout<17><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:18:54: "Force-a-Nature Super Scout<17><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:18:54: "Gear Gunner<5><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:18:57: "Extended Buff Soldier<4><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:18:57: "Extended Buff Soldier<8><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:18:59: "Gear Gunner<3><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:18:59: "Gear Gunner<7><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:19:00: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Loading Dock A") (numcappers "1") (player1 "Force-a-Nature Super Scout<11><BOT><Blue>") (position1 "1425 1822 140") 
+L 10/14/2020 - 14:19:06: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_carryobject" (object "OBJ_DISPENSER") (position "-2003 2620 69")
+L 10/14/2020 - 14:19:07: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-1778 2442 7")
+L 10/14/2020 - 14:19:10: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_dropobject" (object "OBJ_DISPENSER") (position "-1909 3141 7")
+L 10/14/2020 - 14:19:10: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-1909 3141 7")
+L 10/14/2020 - 14:19:13: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-1537 2659 7")
+L 10/14/2020 - 14:19:14: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-1635 2679 33")
+L 10/14/2020 - 14:19:14: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1635 2679 33")
+L 10/14/2020 - 14:19:15: "putin<27><[U:1:1054848871]><Red>" killed "Force-a-Nature Super Scout<11><BOT><Blue>" with "obj_minisentry" (attacker_position "-2544 2988 91") (victim_position "-1071 2598 7")
+L 10/14/2020 - 14:19:15: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "kill assist" against "Force-a-Nature Super Scout<11><BOT><Blue>" (assister_position "-1807 2714 7") (attacker_position "-2544 2988 91") (victim_position "-1071 2598 7")
+L 10/14/2020 - 14:19:17: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-1613 2674 7")
+L 10/14/2020 - 14:19:19: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-1567 2620 7")
+L 10/14/2020 - 14:19:19: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1567 2620 7")
+L 10/14/2020 - 14:19:21: "Force-a-Nature Super Scout<11><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:19:22: "Sniper<9><BOT><Blue>" stuck (position "1267.16 1405.26 140.03") (duration "21.31") L 10/14/2020 - 14:19:22:    path_goal ( "1200.00 1405.26 140.03" )
+L 10/14/2020 - 14:19:22: "Extended Buff Soldier<13><BOT><Blue>" stuck (position "582.13 -622.57 -59.48") (duration "22.26") L 10/14/2020 - 14:19:22:    path_goal ( "694.85 -1018.60 -39.32" )
+L 10/14/2020 - 14:19:22: "Extended Buff Soldier<15><BOT><Blue>" stuck (position "-511.79 -1714.45 328.03") (duration "22.26") L 10/14/2020 - 14:19:22:    path_goal ( "-500.00 -1725.00 328.03" )
+L 10/14/2020 - 14:19:22: "Gear Gunner<12><BOT><Blue>" stuck (position "595.51 -744.00 -48.88") (duration "22.37") L 10/14/2020 - 14:19:22:    path_goal ( "525.00 -475.00 -59.97" )
+L 10/14/2020 - 14:19:22: "Gear Gunner<14><BOT><Blue>" stuck (position "-479.62 -1835.35 328.03") (duration "22.37") L 10/14/2020 - 14:19:22:    path_goal ( "-375.00 -1650.00 328.03" )
+L 10/14/2020 - 14:19:23: "Extended Buff Soldier<17><BOT><Blue>" stuck (position "145.50 -2059.73 147.19") (duration "0.02") L 10/14/2020 - 14:19:23:    path_goal ( "157.44 -2349.95 31.52" )
+L 10/14/2020 - 14:19:23: "Sniper<10><BOT><Blue>" stuck (position "1287.05 2015.15 140.03") (duration "19.21") L 10/14/2020 - 14:19:23:    path_goal ( "1312.50 2000.00 140.03" )
+L 10/14/2020 - 14:19:23: "Extended Buff Soldier<15><BOT><Blue>" stuck (position "-438.86 -1717.43 328.03") (duration "23.26") L 10/14/2020 - 14:19:23:    path_goal ( "-386.39 -1676.52 328.03" )
+L 10/14/2020 - 14:19:24: "Extended Buff Soldier<17><BOT><Blue>" stuck (position "164.84 -2030.44 158.01") (duration "1.02") L 10/14/2020 - 14:19:24:    path_goal ( "165.86 -1925.00 188.03" )
+L 10/14/2020 - 14:19:26: "Gear Gunner<18><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:19:26: "Gear Gunner<18><BOT><Blue>" changed role to "scout"
+L 10/14/2020 - 14:19:26: "Force-a-Nature Super Scout<18><BOT><Blue>" triggered "flagevent" (event "picked up") (position "2500 1825 140")
+L 10/14/2020 - 14:19:35: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Sniper<9><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1894 3178 7") (victim_position "-677 2445 42")
+L 10/14/2020 - 14:19:35: "putin<27><[U:1:1054848871]><Red>" triggered "kill assist" against "Sniper<9><BOT><Blue>" (assister_position "-1756 2452 7") (attacker_position "-1894 3178 7") (victim_position "-677 2445 42")
+L 10/14/2020 - 14:19:38: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Sniper<10><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1609 2844 7") (victim_position "-706 2391 45")
+L 10/14/2020 - 14:19:38: "putin<27><[U:1:1054848871]><Red>" triggered "kill assist" against "Sniper<10><BOT><Blue>" (assister_position "-2243 2537 24") (attacker_position "-1609 2844 7") (victim_position "-706 2391 45")
+L 10/14/2020 - 14:19:41: "Sniper<9><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:19:43: "Sniper<10><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:19:47: "Force-a-Nature Super Scout<18><BOT><Blue>" triggered "flagevent" (event "captured") (team_caps "0") (caps_per_round "3") (position "-2117 2626 24")
+L 10/14/2020 - 14:19:47: World triggered "Round_Win" (winner "Blue")
+L 10/14/2020 - 14:19:47: World triggered "Round_Length" (seconds "271.09")
+L 10/14/2020 - 14:19:47: Team "Red" current score "0" with "2" players
+L 10/14/2020 - 14:19:47: Team "Blue" current score "1" with "7" players
+L 10/14/2020 - 14:19:48: "putin<27><[U:1:1054848871]><Red>" committed suicide with "world" (attacker_position "-1903 3127 7")
+L 10/14/2020 - 14:19:48: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" committed suicide with "world" (attacker_position "-1475 2851 7")
+L 10/14/2020 - 14:19:48: "Force-a-Nature Super Scout<18><BOT><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "world") (objectowner "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>") (attacker_position "-1771 2462 19")
+L 10/14/2020 - 14:19:48: "Force-a-Nature Super Scout<18><BOT><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "world") (objectowner "putin<27><[U:1:1054848871]><Red>") (attacker_position "-1768 2465 18")
+L 10/14/2020 - 14:19:52: World triggered "Round_Start"
+L 10/14/2020 - 14:19:52: World triggered "Round_Setup_Begin"
+L 10/14/2020 - 14:19:52: "Gear Gunner<12><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:19:52: "Extended Buff Soldier<13><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:19:52: "Gear Gunner<14><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:19:52: "Extended Buff Soldier<15><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:19:52: "Gear Gunner<16><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:19:52: "Extended Buff Soldier<17><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:19:52: "Force-a-Nature Super Scout<18><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:20:26: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1549 2632 7")
+L 10/14/2020 - 14:20:29: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1567 2694 7")
+L 10/14/2020 - 14:20:34: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-1772 2442 7")
+L 10/14/2020 - 14:20:36: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-1521 2602 7")
+L 10/14/2020 - 14:20:41: "putin<27><[U:1:1054848871]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-1540 2706 7")
+L 10/14/2020 - 14:20:46: "putin<27><[U:1:1054848871]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-1778 2502 7")
+L 10/14/2020 - 14:20:46: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1778 2502 7")
+L 10/14/2020 - 14:20:53: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1760 2436 7")
+L 10/14/2020 - 14:20:57: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-1544 2623 7")
+L 10/14/2020 - 14:20:57: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1544 2623 7")
+L 10/14/2020 - 14:20:58: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-1837 2446 7")
+L 10/14/2020 - 14:21:08: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-2766 2120 91")
+L 10/14/2020 - 14:21:12: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-1473 2668 7")
+L 10/14/2020 - 14:21:12: "putin<27><[U:1:1054848871]><Red>" triggered "player_carryobject" (object "OBJ_DISPENSER") (position "-1765 2470 19")
+L 10/14/2020 - 14:21:23: "putin<27><[U:1:1054848871]><Red>" triggered "player_dropobject" (object "OBJ_DISPENSER") (position "-2816 2182 103")
+L 10/14/2020 - 14:21:23: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-2816 2182 103")
+L 10/14/2020 - 14:21:26: "putin<27><[U:1:1054848871]><Red>" triggered "player_carryobject" (object "OBJ_DISPENSER") (position "-2724 2123 91")
+L 10/14/2020 - 14:21:41: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-1552 2625 7")
+L 10/14/2020 - 14:21:41: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1552 2625 7")
+L 10/14/2020 - 14:21:43: "putin<27><[U:1:1054848871]><Red>" triggered "player_dropobject" (object "OBJ_DISPENSER") (position "-1838 2512 7")
+L 10/14/2020 - 14:21:43: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-1838 2512 7")
+L 10/14/2020 - 14:21:45: "putin<27><[U:1:1054848871]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-1802 2504 7")
+L 10/14/2020 - 14:21:48: "putin<27><[U:1:1054848871]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-1545 2672 7")
+L 10/14/2020 - 14:21:48: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1545 2672 7")
+L 10/14/2020 - 14:21:48: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-1588 2587 7")
+L 10/14/2020 - 14:21:52: "putin<27><[U:1:1054848871]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-1766 2544 7")
+L 10/14/2020 - 14:21:57: "putin<27><[U:1:1054848871]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-1545 2619 7")
+L 10/14/2020 - 14:21:57: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1545 2619 7")
+L 10/14/2020 - 14:21:57: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-1532 3533 87")
+L 10/14/2020 - 14:21:57: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1532 3533 87")
+L 10/14/2020 - 14:22:03: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:22:05: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-1894 2493 7")
+L 10/14/2020 - 14:22:10: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-2773 1976 91")
+L 10/14/2020 - 14:22:16: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-1498 2588 7")
+L 10/14/2020 - 14:22:17: "Extended Buff Soldier<19><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:22:17: "Extended Buff Soldier<19><BOT><Blue>" changed role to "scout"
+L 10/14/2020 - 14:22:18: "Force-a-Nature Super Scout<19><BOT><Blue>" triggered "flagevent" (event "picked up") (position "150 -2600 28")
+L 10/14/2020 - 14:22:18: "Gear Gunner<20><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:22:18: "Extended Buff Soldier<21><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:22:20: "Gear Gunner<22><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:22:20: "Extended Buff Soldier<23><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:22:22: "Force-a-Nature Super Scout<24><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:22:22: "Force-a-Nature Super Scout<24><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:22:22: "Extended Buff Soldier<6><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:22:44: "Force-a-Nature Super Scout<19><BOT><Blue>" stuck (position "-1421.97 3462.03 96.79") (duration "2.52") L 10/14/2020 - 14:22:44:    path_goal ( "-2000.00 3475.00 87.03" )
+L 10/14/2020 - 14:22:44: "Force-a-Nature Super Scout<19><BOT><Blue>" stuck (position "-1421.97 3464.41 122.10") (duration "2.62") L 10/14/2020 - 14:22:44:    path_goal ( "-2000.00 3475.00 87.03" )
+L 10/14/2020 - 14:22:47: "Gear Gunner<5><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:22:47: "Gear Gunner<5><BOT><Blue>" changed role to "sniper"
+L 10/14/2020 - 14:22:47: "Extended Buff Soldier<4><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:22:47: "Extended Buff Soldier<4><BOT><Blue>" changed role to "sniper"
+L 10/14/2020 - 14:22:48: "Force-a-Nature Super Scout<19><BOT><Blue>" stuck (position "-1421.97 3462.03 96.79") (duration "2.62") L 10/14/2020 - 14:22:48:    path_goal ( "-2000.00 3475.00 87.03" )
+L 10/14/2020 - 14:22:48: "Force-a-Nature Super Scout<19><BOT><Blue>" stuck (position "-1421.97 3464.41 122.10") (duration "2.73") L 10/14/2020 - 14:22:48:    path_goal ( "-2000.00 3475.00 87.03" )
+L 10/14/2020 - 14:22:49: "Force-a-Nature Super Scout<19><BOT><Blue>" stuck (position "-1494.64 3483.89 155.08") (duration "3.78") L 10/14/2020 - 14:22:49:    path_goal ( "-2000.00 3475.00 87.03" )
+L 10/14/2020 - 14:22:50: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "flagevent" (event "defended") (position "-1704 3444 87")
+L 10/14/2020 - 14:22:50: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Force-a-Nature Super Scout<19><BOT><Blue>" with "wrangler_kill" (attacker_position "-1704 3444 87") (victim_position "-1596 3484 87")
+L 10/14/2020 - 14:22:50: "Force-a-Nature Super Scout<19><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-1596 3484 87")
+L 10/14/2020 - 14:22:55: "Extended Buff Soldier<8><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:22:55: "Extended Buff Soldier<8><BOT><Blue>" changed role to "scout"
+L 10/14/2020 - 14:22:55: "Force-a-Nature Super Scout<19><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:23:01: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Extended Buff Soldier<23><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-2092 3244 7") (victim_position "-1092 3518 84")
+L 10/14/2020 - 14:23:02: "Gear Gunner<22><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tomislav") (objectowner "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>") (attacker_position "-1158 3446 104")
+L 10/14/2020 - 14:23:04: "Gear Gunner<22><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-1531 3484 87")
+L 10/14/2020 - 14:23:06: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1874 2483 7")
+L 10/14/2020 - 14:23:06: "Extended Buff Soldier<23><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:23:13: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "flagevent" (event "defended") (position "-1626 2937 7")
+L 10/14/2020 - 14:23:13: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Gear Gunner<22><BOT><Blue>" with "obj_sentrygun" (attacker_position "-1626 2937 7") (victim_position "-1987 3466 87")
+L 10/14/2020 - 14:23:13: "Gear Gunner<22><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-1987 3466 87")
+L 10/14/2020 - 14:23:13: "Gear Gunner<3><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:23:13: "Gear Gunner<7><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:23:13: "Gear Gunner<7><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:23:14: "Gear Gunner<20><BOT><Blue>" triggered "flagevent" (event "picked up") (position "-1920 3481 87")
+L 10/14/2020 - 14:23:15: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Extended Buff Soldier<21><BOT><Blue>" with "obj_sentrygun" (attacker_position "-1795 2530 7") (victim_position "-2122 3435 87")
+L 10/14/2020 - 14:23:17: "Gear Gunner<20><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tomislav") (objectowner "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>") (attacker_position "-2064 3438 87")
+L 10/14/2020 - 14:23:17: "Gear Gunner<20><BOT><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tomislav") (objectowner "putin<27><[U:1:1054848871]><Red>") (attacker_position "-2095 3406 87")
+L 10/14/2020 - 14:23:18: "Gear Gunner<22><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:23:20: "putin<27><[U:1:1054848871]><Red>" killed "Extended Buff Soldier<6><BOT><Blue>" with "obj_minisentry" (attacker_position "-1927 2360 17") (victim_position "-984 2495 7")
+L 10/14/2020 - 14:23:20: "Force-a-Nature Super Scout<11><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:23:20: "Force-a-Nature Super Scout<11><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:23:20: "Sniper<9><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:23:20: "Sniper<9><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:23:21: "Extended Buff Soldier<21><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:23:21: "putin<27><[U:1:1054848871]><Red>" killed "Gear Gunner<24><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1901 2386 7") (victim_position "-950 2478 7")
+L 10/14/2020 - 14:23:22: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1559 2955 7")
+L 10/14/2020 - 14:23:23: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Loading Dock A") (numcappers "1") (player1 "Force-a-Nature Super Scout<8><BOT><Blue>") (position1 "1363 1734 140") 
+L 10/14/2020 - 14:23:23: "Gear Gunner<20><BOT><Blue>" triggered "flagevent" (event "dropped") (position "-2168 3373 84")
+L 10/14/2020 - 14:23:25: "Extended Buff Soldier<6><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:23:27: "Gear Gunner<24><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:23:28: "putin<27><[U:1:1054848871]><Red>" killed "Gear Gunner<20><BOT><Blue>" with "wrench" (attacker_position "-2190 3330 72") (victim_position "-2170 3378 86")
+L 10/14/2020 - 14:23:29: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-1626 2947 7")
+L 10/14/2020 - 14:23:34: "Gear Gunner<20><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:23:36: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-1562 3519 87")
+L 10/14/2020 - 14:23:36: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1562 3519 87")
+L 10/14/2020 - 14:23:36: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-1694 2520 7")
+L 10/14/2020 - 14:23:38: "putin<27><[U:1:1054848871]><Red>" killed "Force-a-Nature Super Scout<8><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1586 2665 7") (victim_position "-1173 2598 7")
+L 10/14/2020 - 14:23:43: "Force-a-Nature Super Scout<8><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:23:45: "Sniper<10><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:23:45: "Sniper<10><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:23:45: "Gear Gunner<12><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:23:45: "Gear Gunner<12><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:23:45: "Gear Gunner<10><BOT><Blue>" triggered "flagevent" (event "picked up") (position "2500 1825 140")
+L 10/14/2020 - 14:23:45: "Sniper<4><BOT><Blue>" stuck (position "1344.27 1046.57 44.03") (duration "22.39") L 10/14/2020 - 14:23:45:    path_goal ( "1344.27 1075.00 44.03" )
+L 10/14/2020 - 14:23:45: "Extended Buff Soldier<7><BOT><Blue>" stuck (position "834.37 -864.58 -43.52") (duration "22.26") L 10/14/2020 - 14:23:45:    path_goal ( "834.37 -875.00 -47.68" )
+L 10/14/2020 - 14:23:45: "Extended Buff Soldier<9><BOT><Blue>" stuck (position "2501.30 1772.00 140.03") (duration "22.26") L 10/14/2020 - 14:23:45:    path_goal ( "2403.99 1693.54 138.72" )
+L 10/14/2020 - 14:23:45: "Gear Gunner<3><BOT><Blue>" stuck (position "864.75 -905.71 -42.35") (duration "18.17") L 10/14/2020 - 14:23:45:    path_goal ( "700.00 -875.00 -40.64" )
+L 10/14/2020 - 14:23:45: "Gear Gunner<11><BOT><Blue>" stuck (position "2501.30 1772.00 140.03") (duration "18.18") L 10/14/2020 - 14:23:45:    path_goal ( "2350.00 1650.00 139.32" )
+L 10/14/2020 - 14:23:46: "Sniper<5><BOT><Blue>" stuck (position "854.76 1136.34 44.03") (duration "22.37") L 10/14/2020 - 14:23:46:    path_goal ( "1150.00 1135.26 44.03" )
+L 10/14/2020 - 14:23:46: "Extended Buff Soldier<7><BOT><Blue>" stuck (position "741.96 -896.23 -41.55") (duration "23.27") L 10/14/2020 - 14:23:46:    path_goal ( "726.74 -879.96 -40.88" )
+L 10/14/2020 - 14:23:46: "Gear Gunner<3><BOT><Blue>" stuck (position "833.11 -896.13 -43.23") (duration "19.21") L 10/14/2020 - 14:23:46:    path_goal ( "700.00 -875.00 -40.64" )
+L 10/14/2020 - 14:23:46: "Gear Gunner<11><BOT><Blue>" stuck (position "2472.95 1749.14 140.03") (duration "19.26") L 10/14/2020 - 14:23:46:    path_goal ( "2350.00 1650.00 139.32" )
+L 10/14/2020 - 14:23:49: "Extended Buff Soldier<13><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:23:49: "Extended Buff Soldier<13><BOT><Blue>" changed role to "scout"
+L 10/14/2020 - 14:24:09: "Extended Buff Soldier<9><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "putin<27><[U:1:1054848871]><Red>") (attacker_position "-1116 2478 9")
+L 10/14/2020 - 14:24:09: "putin<27><[U:1:1054848871]><Red>" killed "Gear Gunner<11><BOT><Blue>" with "obj_minisentry" (attacker_position "-1705 2504 7") (victim_position "-1053 2570 7")
+L 10/14/2020 - 14:24:10: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Force-a-Nature Super Scout<13><BOT><Blue>" with "wrangler_kill" (attacker_position "-1910 3561 87") (victim_position "-1284 3393 118")
+L 10/14/2020 - 14:24:10: "putin<27><[U:1:1054848871]><Red>" killed "Extended Buff Soldier<9><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-1704 2505 7") (victim_position "-1152 2504 7")
+L 10/14/2020 - 14:24:10: "Gear Gunner<14><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:24:10: "Extended Buff Soldier<15><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:24:13: "Sniper<4><BOT><Blue>" killed "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" with "sniperrifle" (attacker_position "298 2838 103") (victim_position "-1403 3513 96")
+L 10/14/2020 - 14:24:13: "Sniper<5><BOT><Blue>" triggered "kill assist" against "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" (assister_position "117 2921 103") (attacker_position "298 2838 103") (victim_position "-1403 3513 96")
+L 10/14/2020 - 14:24:14: "Gear Gunner<16><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:24:14: "Gear Gunner<16><BOT><Blue>" changed role to "scout"
+L 10/14/2020 - 14:24:14: "Gear Gunner<11><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:24:15: "Force-a-Nature Super Scout<13><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:24:15: "Extended Buff Soldier<9><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:24:20: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1569 2592 7")
+L 10/14/2020 - 14:24:21: "Sniper<5><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "sniperrifle") (objectowner "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>") (attacker_position "158 2949 103")
+L 10/14/2020 - 14:24:23: "Gear Gunner<3><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tomislav") (objectowner "putin<27><[U:1:1054848871]><Red>") (attacker_position "-1033 2540 7")
+L 10/14/2020 - 14:24:24: "Gear Gunner<3><BOT><Blue>" killed "putin<27><[U:1:1054848871]><Red>" with "tomislav" (attacker_position "-1061 2583 7") (victim_position "-1555 2564 7")
+L 10/14/2020 - 14:24:24: "Extended Buff Soldier<7><BOT><Blue>" triggered "kill assist" against "putin<27><[U:1:1054848871]><Red>" (assister_position "-1190 2552 7") (attacker_position "-1061 2583 7") (victim_position "-1555 2564 7")
+L 10/14/2020 - 14:24:24: "Extended Buff Soldier<7><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "putin<27><[U:1:1054848871]><Red>") (attacker_position "-1205 2600 7")
+L 10/14/2020 - 14:24:29: "Sniper<4><BOT><Blue>" killed "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" with "sniperrifle" (attacker_position "-680 2409 45") (victim_position "-2040 2979 7")
+L 10/14/2020 - 14:24:29: "Gear Gunner<3><BOT><Blue>" triggered "kill assist" against "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" (assister_position "-1433 2586 19") (attacker_position "-680 2409 45") (victim_position "-2040 2979 7")
+L 10/14/2020 - 14:24:38: "Sniper<5><BOT><Blue>" killed "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" with "sniperrifle" (attacker_position "-557 2438 140") (victim_position "-2326 3048 96")
+L 10/14/2020 - 14:24:40: "putin<27><[U:1:1054848871]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1450 2606 19")
+L 10/14/2020 - 14:24:41: "Gear Gunner<3><BOT><Blue>" killed "putin<27><[U:1:1054848871]><Red>" with "tomislav" (attacker_position "-1947 2626 19") (victim_position "-1472 2709 7")
+L 10/14/2020 - 14:24:41: "Extended Buff Soldier<7><BOT><Blue>" triggered "kill assist" against "putin<27><[U:1:1054848871]><Red>" (assister_position "-2010 2749 17") (attacker_position "-1947 2626 19") (victim_position "-1472 2709 7")
+L 10/14/2020 - 14:24:43: "Extended Buff Soldier<7><BOT><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "putin<27><[U:1:1054848871]><Red>") (attacker_position "-1845 2696 7")
+L 10/14/2020 - 14:24:44: "Extended Buff Soldier<7><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "putin<27><[U:1:1054848871]><Red>") (attacker_position "-1814 2693 7")
+L 10/14/2020 - 14:24:47: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2326 2785 7")
+L 10/14/2020 - 14:24:49: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Gear Gunner<3><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-2163 2429 24") (victim_position "-2125 2826 7")
+L 10/14/2020 - 14:24:49: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" killed "Extended Buff Soldier<7><BOT><Blue>" with "obj_sentrygun3" (attacker_position "-2095 2320 7") (victim_position "-1946 2762 8")
+L 10/14/2020 - 14:24:49: "Extended Buff Soldier<17><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:24:49: "Extended Buff Soldier<17><BOT><Blue>" changed role to "heavyweapons"
+L 10/14/2020 - 14:24:49: "Force-a-Nature Super Scout<18><BOT><Spectator>" joined team "Blue"
+L 10/14/2020 - 14:24:49: "Force-a-Nature Super Scout<18><BOT><Blue>" changed role to "soldier"
+L 10/14/2020 - 14:24:49: "Gear Gunner<17><BOT><Blue>" triggered "flagevent" (event "picked up") (position "2500 1825 140")
+L 10/14/2020 - 14:24:54: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" committed suicide with "obj_sentrygun3" (attacker_position "-1981 2736 19")
+L 10/14/2020 - 14:24:54: "Gear Gunner<3><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:24:54: "Extended Buff Soldier<7><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:24:58: "Sniper<5><BOT><Blue>" killed "putin<27><[U:1:1054848871]><Red>" with "sniperrifle" (attacker_position "-552 2459 140") (victim_position "-2814 2177 103")
+L 10/14/2020 - 14:24:58: "Extended Buff Soldier<12><BOT><Blue>" triggered "kill assist" against "putin<27><[U:1:1054848871]><Red>" (assister_position "-2026 3462 87") (attacker_position "-552 2459 140") (victim_position "-2814 2177 103")
+L 10/14/2020 - 14:24:59: "Force-a-Nature Super Scout<16><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "force_a_nature") (objectowner "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>") (attacker_position "-1674 3593 87")
+L 10/14/2020 - 14:25:01: "Extended Buff Soldier<15><BOT><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>") (attacker_position "-1898 3468 87")
+L 10/14/2020 - 14:25:06: "Gear Gunner<10><BOT><Blue>" killed "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" with "tomislav" (attacker_position "-2077 3055 7") (victim_position "-2675 2796 91")
+L 10/14/2020 - 14:25:06: "Extended Buff Soldier<15><BOT><Blue>" triggered "kill assist" against "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" (assister_position "-2256 3247 48") (attacker_position "-2077 3055 7") (victim_position "-2675 2796 91")
+L 10/14/2020 - 14:25:13: "Gear Gunner<10><BOT><Blue>" triggered "flagevent" (event "captured") (team_caps "0") (caps_per_round "3") (position "-2123 2610 24")
+L 10/14/2020 - 14:25:13: World triggered "Round_Win" (winner "Blue")
+L 10/14/2020 - 14:25:13: World triggered "Round_Length" (seconds "320.98")
+L 10/14/2020 - 14:25:13: Team "Red" current score "0" with "2" players
+L 10/14/2020 - 14:25:13: Team "Blue" current score "2" with "9" players
+L 10/14/2020 - 14:25:14: "Extended Buff Soldier<12><BOT><Blue>" committed suicide with "world" (attacker_position "-2172 2581 24")
+L 10/14/2020 - 14:25:14: "Extended Buff Soldier<15><BOT><Blue>" committed suicide with "world" (attacker_position "-2118 2732 19")
+L 10/14/2020 - 14:25:14: "Force-a-Nature Super Scout<16><BOT><Blue>" committed suicide with "world" (attacker_position "-2377 2664 19")
+L 10/14/2020 - 14:25:14: "Gear Gunner<14><BOT><Blue>" committed suicide with "world" (attacker_position "-2089 2888 7")
+L 10/14/2020 - 14:25:18: World triggered "Round_Start"
+L 10/14/2020 - 14:25:18: World triggered "Round_Setup_Begin"
+L 10/14/2020 - 14:25:18: "Sniper<4><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:25:18: "Sniper<5><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:25:18: "Gear Gunner<10><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:25:18: "Extended Buff Soldier<12><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:25:18: "Gear Gunner<14><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:25:18: "Extended Buff Soldier<15><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:25:18: "Force-a-Nature Super Scout<16><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:25:18: "Gear Gunner<17><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:25:18: "Extended Buff Soldier<18><BOT><Blue>" joined team "Spectator"
+L 10/14/2020 - 14:25:18: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "naaa es muy dificil"
+L 10/14/2020 - 14:25:22: "putin<27><[U:1:1054848871]><Red>" changed role to "pyro"
+L 10/14/2020 - 14:25:34: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "me boy tengo cosas que hacer "
+L 10/14/2020 - 14:25:42: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" say "!taunt"
+L 10/14/2020 - 14:25:57: "putin<27><[U:1:1054848871]><Red>" say "!taunt"
+L 10/14/2020 - 14:26:08: "AAAAAAAAAAA!!<26><[U:1:1052448047]><Red>" disconnected (reason "Disconnect by user.")
+L 10/14/2020 - 14:26:08: MVM assigned AAAAAAAAAAA!! to defending team (3 more slots remaining after us)
+L 10/14/2020 - 14:26:38: "putin<27><[U:1:1054848871]><Red>" disconnected (reason "Disconnect by user.")
+L 10/14/2020 - 14:26:38: MVM assigned putin to defending team (4 more slots remaining after us)
+L 10/14/2020 - 17:44:20: Connection to Steam servers lost.  (Result = 20)
+L 10/14/2020 - 17:44:53: Connection to Steam servers successful.
+L 10/14/2020 - 17:44:53:    Public IP is 104.192.224.18.
+L 10/14/2020 - 17:44:53: Assigned persistent gameserver Steam ID [G:1:3464856].
+L 10/14/2020 - 17:44:53: VAC secure mode is activated.
+L 10/14/2020 - 17:55:23: "Spookzies<28><[U:1:158954854]><>" connected, address "47.208.132.39:27005"
+L 10/14/2020 - 17:55:23: "Spookzies<28><[U:1:158954854]><>" STEAM USERID validated
+L 10/14/2020 - 17:55:23: "Spookzies<28><[U:1:158954854]><>" disconnected (reason "Disconnect by user.")
+L 10/15/2020 - 06:30:11: server_cvar: "mp_tournament" "0"
+L 10/15/2020 - 06:30:11: [META] Loaded 0 plugins (1 already loaded)
+L 10/15/2020 - 06:30:11: "Gear Gunner<24><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Extended Buff Soldier<23><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Gear Gunner<22><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Extended Buff Soldier<21><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Gear Gunner<20><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Force-a-Nature Super Scout<19><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Extended Buff Soldier<18><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Gear Gunner<17><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Force-a-Nature Super Scout<16><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Extended Buff Soldier<15><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Gear Gunner<14><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Force-a-Nature Super Scout<13><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Extended Buff Soldier<12><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Gear Gunner<11><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Gear Gunner<10><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Extended Buff Soldier<9><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Force-a-Nature Super Scout<8><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Extended Buff Soldier<7><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Extended Buff Soldier<6><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Sniper<5><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Sniper<4><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: "Gear Gunner<3><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 06:30:11: server_message: "quit"
+L 10/15/2020 - 06:30:11: Log file closed.

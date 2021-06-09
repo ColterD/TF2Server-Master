@@ -1,0 +1,15 @@
+L 10/14/2020 - 05:32:38: SourceMod error session started
+L 10/14/2020 - 05:32:38: Info (map "jump_academy2_rc7") (file "/home/tf2server.jump/serverfiles/tf/addons/sourcemod/logs/errors_20201014.log")
+L 10/14/2020 - 05:32:38: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 6 seconds, making a timer for it!
+L 10/14/2020 - 06:30:12: Error log file session closed.
+L 10/14/2020 - 06:30:42: SourceMod error session started
+L 10/14/2020 - 06:30:42: Info (map "jump_academy2_rc7") (file "/home/tf2server.jump/serverfiles/tf/addons/sourcemod/logs/errors_20201014.log")
+L 10/14/2020 - 06:30:42: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 26 seconds, making a timer for it!
+L 10/14/2020 - 07:31:12: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 11 seconds, making a timer for it!
+L 10/14/2020 - 09:31:29: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 4 seconds, making a timer for it!
+L 10/14/2020 - 11:31:39: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 2 seconds, making a timer for it!
+L 10/14/2020 - 12:31:44: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/14/2020 - 13:31:48: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/14/2020 - 21:32:07: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/14/2020 - 22:32:11: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/15/2020 - 00:00:00: Error log file session closed.

@@ -1,0 +1,41 @@
+L 10/15/2020 - 06:30:41: Log file started (file "logs/L1015000.log") (game "/home/tf2server.jumpcomp/serverfiles/tf") (version "6135201")
+L 10/15/2020 - 06:30:41: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/15/2020 - 06:30:41: server_cvar: "tfh_fullmoon" "1"
+L 10/15/2020 - 06:30:41: server_cvar: "tfh_winter" "1"
+L 10/15/2020 - 06:30:41: server_cvar: "tfh_birthday" "1"
+L 10/15/2020 - 06:30:41: server_cvar: "tfh_endoftheline" "1"
+L 10/15/2020 - 06:30:41: server_cvar: "tfh_normalhealth" "1"
+L 10/15/2020 - 06:30:41: server_cvar: "mp_forceautoteam" "1"
+L 10/15/2020 - 06:30:41: Connection to Steam servers successful.
+L 10/15/2020 - 06:30:41:    Public IP is 104.192.224.18.
+L 10/15/2020 - 06:30:41: Assigned persistent gameserver Steam ID [G:1:3463046].
+L 10/15/2020 - 06:30:41: VAC secure mode is activated.
+L 10/15/2020 - 06:30:41: server_cvar: "mp_respawnwavetime" "0"
+L 10/15/2020 - 06:30:41: server_cvar: "sv_noclipspeed" "2.500000"
+L 10/15/2020 - 06:30:41: server_cvar: "tf_weapon_criticals" "0"
+L 10/15/2020 - 06:30:41: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/15/2020 - 06:30:41: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/15/2020 - 09:32:49: "SEGNO<2><[U:1:142514385]><>" connected, address "73.14.38.173:27005"
+L 10/15/2020 - 09:32:49: "SEGNO<2><[U:1:142514385]><>" STEAM USERID validated
+L 10/15/2020 - 09:33:12: "JumpBOT<3><BOT><>" connected, address "none"
+L 10/15/2020 - 09:33:12: "JumpBOT<3><BOT><>" entered the game
+L 10/15/2020 - 09:33:12: "SEGNO<2><[U:1:142514385]><>" entered the game
+L 10/15/2020 - 09:33:14: server_cvar: "tf_bot_count" "1"
+L 10/15/2020 - 09:33:14: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/15/2020 - 09:33:14: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/15/2020 - 09:33:16: "SEGNO<2><[U:1:142514385]><Unassigned>" joined team "Red"
+L 10/15/2020 - 09:33:17: "SEGNO<2><[U:1:142514385]><Red>" changed role to "soldier"
+L 10/15/2020 - 09:33:17: "JumpBOT<3><BOT><Unassigned>" joined team "Red"
+L 10/15/2020 - 09:33:25: "SEGNO<2><[U:1:142514385]><Red>" joined team "Blue"
+L 10/15/2020 - 09:35:04: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "SEGNO<2><[U:1:142514385]><Blue>") (position1 "7439 1765 663") 
+L 10/15/2020 - 09:35:24: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "SEGNO<2><[U:1:142514385]><Blue>") (position1 "6127 -2604 432") 
+L 10/15/2020 - 09:38:03: "SEGNO<2><[U:1:142514385]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/15/2020 - 10:08:08: Your server needs to be restarted in order to receive the latest update.
+L 10/15/2020 - 10:13:08: Your server needs to be restarted in order to receive the latest update.
+L 10/15/2020 - 10:18:07: Your server needs to be restarted in order to receive the latest update.
+L 10/15/2020 - 10:23:09: Your server needs to be restarted in order to receive the latest update.
+L 10/15/2020 - 10:28:08: Your server needs to be restarted in order to receive the latest update.
+L 10/15/2020 - 10:30:19: [META] Loaded 0 plugins (1 already loaded)
+L 10/15/2020 - 10:30:19: "JumpBOT<3><BOT><>" disconnected (reason "Server shutting down")
+L 10/15/2020 - 10:30:19: server_message: "quit"
+L 10/15/2020 - 10:30:20: Log file closed.

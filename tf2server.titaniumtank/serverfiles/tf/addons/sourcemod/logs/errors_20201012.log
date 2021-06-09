@@ -1,0 +1,10 @@
+L 10/12/2020 - 06:30:42: SourceMod error session started
+L 10/12/2020 - 06:30:42: Info (map "mvm_dockyard_rc7") (file "/home/tf2server.titaniumtank/serverfiles/tf/addons/sourcemod/logs/errors_20201012.log")
+L 10/12/2020 - 06:30:42: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 27 seconds, making a timer for it!
+L 10/12/2020 - 06:31:11: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 29 seconds, making a timer for it!
+L 10/12/2020 - 07:31:43: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 3 seconds, making a timer for it!
+L 10/12/2020 - 08:31:49: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/12/2020 - 10:31:55: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 8 seconds, making a timer for it!
+L 10/12/2020 - 13:32:13: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/12/2020 - 16:32:21: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/13/2020 - 00:00:00: Error log file session closed.

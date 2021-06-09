@@ -1,0 +1,1189 @@
+L 10/17/2020 - 06:30:37: Log file started (file "logs/L1017000.log") (game "/home/tf2server.jumpcomp/serverfiles/tf") (version "6145689")
+L 10/17/2020 - 06:30:37: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/17/2020 - 06:30:37: server_cvar: "tfh_fullmoon" "1"
+L 10/17/2020 - 06:30:37: server_cvar: "tfh_winter" "1"
+L 10/17/2020 - 06:30:37: server_cvar: "tfh_birthday" "1"
+L 10/17/2020 - 06:30:37: server_cvar: "tfh_endoftheline" "1"
+L 10/17/2020 - 06:30:37: server_cvar: "tfh_normalhealth" "1"
+L 10/17/2020 - 06:30:37: server_cvar: "mp_forceautoteam" "1"
+L 10/17/2020 - 06:30:37: Connection to Steam servers successful.
+L 10/17/2020 - 06:30:37:    Public IP is 104.192.224.18.
+L 10/17/2020 - 06:30:37: Assigned persistent gameserver Steam ID [G:1:3463046].
+L 10/17/2020 - 06:30:37: VAC secure mode is activated.
+L 10/17/2020 - 06:30:37: server_cvar: "mp_respawnwavetime" "0"
+L 10/17/2020 - 06:30:37: server_cvar: "sv_noclipspeed" "2.500000"
+L 10/17/2020 - 06:30:37: server_cvar: "tf_weapon_criticals" "0"
+L 10/17/2020 - 06:30:37: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 06:30:37: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 06:46:01: "Ваш новый друг<2><[U:1:1104851089]><>" connected, address "95.105.28.104:27005"
+L 10/17/2020 - 06:46:02: "Ваш новый друг<2><[U:1:1104851089]><>" STEAM USERID validated
+L 10/17/2020 - 06:47:40: "JumpBOT<3><BOT><>" connected, address "none"
+L 10/17/2020 - 06:47:40: "JumpBOT<3><BOT><>" entered the game
+L 10/17/2020 - 06:47:40: "Ваш новый друг<2><[U:1:1104851089]><>" entered the game
+L 10/17/2020 - 06:47:42: server_cvar: "tf_bot_count" "1"
+L 10/17/2020 - 06:47:42: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 06:47:42: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 06:47:55: "Ваш новый друг<2><[U:1:1104851089]><Unassigned>" joined team "Red"
+L 10/17/2020 - 06:47:58: "Ваш новый друг<2><[U:1:1104851089]><Red>" changed role to "soldier"
+L 10/17/2020 - 06:47:58: "JumpBOT<3><BOT><Unassigned>" joined team "Red"
+L 10/17/2020 - 06:48:10: "Ваш новый друг<2><[U:1:1104851089]><Red>" changed role to "scout"
+L 10/17/2020 - 06:48:33: "Ваш новый друг<2><[U:1:1104851089]><Red>" say "!menu"
+L 10/17/2020 - 06:48:53: "Ваш новый друг<2><[U:1:1104851089]><Red>" joined team "Blue"
+L 10/17/2020 - 06:49:11: "Ваш новый друг<2><[U:1:1104851089]><Blue>" changed role to "soldier"
+L 10/17/2020 - 06:51:35: "Ваш новый друг<2><[U:1:1104851089]><Blue>" say "!noclip"
+L 10/17/2020 - 06:51:43: "Ваш новый друг<2><[U:1:1104851089]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 07:52:28: "Kokso SLOVAKIA<4><[U:1:19333902]><>" connected, address "31.131.227.88:27005"
+L 10/17/2020 - 07:52:29: "Kokso SLOVAKIA<4><[U:1:19333902]><>" STEAM USERID validated
+L 10/17/2020 - 07:52:33: "Kokso SLOVAKIA<4><[U:1:19333902]><>" disconnected (reason "Map is missing")
+L 10/17/2020 - 07:52:33: "JumpBOT<3><BOT><Red>" disconnected (reason "Server is empty")
+L 10/17/2020 - 07:52:35: server_cvar: "tf_bot_count" "0"
+L 10/17/2020 - 07:52:35: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 07:52:35: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 09:10:37: "560039877<5><[U:1:864662389]><>" connected, address "200.126.97.135:27005"
+L 10/17/2020 - 09:10:37: "560039877<5><[U:1:864662389]><>" STEAM USERID validated
+L 10/17/2020 - 09:11:14: "JumpBOT<6><BOT><>" connected, address "none"
+L 10/17/2020 - 09:11:14: "JumpBOT<6><BOT><>" entered the game
+L 10/17/2020 - 09:11:14: "560039877<5><[U:1:864662389]><>" entered the game
+L 10/17/2020 - 09:11:15: server_cvar: "tf_bot_count" "1"
+L 10/17/2020 - 09:11:15: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 09:11:15: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 09:11:21: "560039877<5><[U:1:864662389]><Unassigned>" joined team "Blue"
+L 10/17/2020 - 09:11:22: "560039877<5><[U:1:864662389]><Blue>" changed role to "soldier"
+L 10/17/2020 - 09:11:22: "JumpBOT<6><BOT><Unassigned>" joined team "Blue"
+L 10/17/2020 - 09:12:03: "560039877<5><[U:1:864662389]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 09:21:31: "BigSmoke<7><[U:1:1034704168]><>" connected, address "83.30.139.250:27005"
+L 10/17/2020 - 09:21:32: "BigSmoke<7><[U:1:1034704168]><>" STEAM USERID validated
+L 10/17/2020 - 09:23:56: "BigSmoke<7><[U:1:1034704168]><>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 09:23:56: "JumpBOT<6><BOT><Blue>" disconnected (reason "Server is empty")
+L 10/17/2020 - 09:23:56: server_cvar: "tf_bot_count" "0"
+L 10/17/2020 - 09:23:56: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 09:23:56: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 09:24:02: "BigSmoke<8><[U:1:1034704168]><>" connected, address "83.30.139.250:27005"
+L 10/17/2020 - 09:24:02: "BigSmoke<8><[U:1:1034704168]><>" STEAM USERID validated
+L 10/17/2020 - 09:24:22: "BigSmoke<8><[U:1:1034704168]><>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 11:01:43: "demoknight tf2<9><[U:1:884091128]><>" connected, address "142.165.170.113:10151"
+L 10/17/2020 - 11:01:43: "demoknight tf2<9><[U:1:884091128]><>" STEAM USERID validated
+L 10/17/2020 - 11:02:40: "JumpBOT<10><BOT><>" connected, address "none"
+L 10/17/2020 - 11:02:40: "JumpBOT<10><BOT><>" entered the game
+L 10/17/2020 - 11:02:40: "demoknight tf2<9><[U:1:884091128]><>" entered the game
+L 10/17/2020 - 11:02:44: server_cvar: "tf_bot_count" "1"
+L 10/17/2020 - 11:02:44: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 11:02:44: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 11:02:51: "demoknight tf2<9><[U:1:884091128]><Unassigned>" joined team "Red"
+L 10/17/2020 - 11:02:54: "demoknight tf2<9><[U:1:884091128]><Red>" changed role to "soldier"
+L 10/17/2020 - 11:02:54: "JumpBOT<10><BOT><Unassigned>" joined team "Red"
+L 10/17/2020 - 11:03:03: "demoknight tf2<9><[U:1:884091128]><Red>" joined team "Blue"
+L 10/17/2020 - 11:04:42: "lajom | muffin (but spooky)<11><[U:1:907316349]><>" connected, address "142.165.170.1:57975"
+L 10/17/2020 - 11:04:43: "lajom | muffin (but spooky)<11><[U:1:907316349]><>" STEAM USERID validated
+L 10/17/2020 - 11:05:33: "lajom | muffin (but spooky)<11><[U:1:907316349]><>" entered the game
+L 10/17/2020 - 11:05:39: "lajom | muffin (but spooky)<11><[U:1:907316349]><Unassigned>" joined team "Blue"
+L 10/17/2020 - 11:05:42: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" changed role to "soldier"
+L 10/17/2020 - 11:06:46: "demoknight tf2<9><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/17/2020 - 11:07:25: "demoknight tf2<9><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/17/2020 - 11:09:52: "JumpBOT<10><BOT><Red>" joined team "Blue"
+L 10/17/2020 - 11:09:52: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" joined team "Spectator"
+L 10/17/2020 - 11:09:58: "lajom | muffin (but spooky)<11><[U:1:907316349]><Spectator>" joined team "Blue"
+L 10/17/2020 - 11:10:08: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" joined team "Spectator"
+L 10/17/2020 - 11:10:14: "lajom | muffin (but spooky)<11><[U:1:907316349]><Spectator>" joined team "Blue"
+L 10/17/2020 - 11:12:11: "demoknight tf2<9><[U:1:884091128]><Blue>" say "demoknight tf2"
+L 10/17/2020 - 11:15:07: "demoknight tf2<9><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/17/2020 - 11:15:09: "demoknight tf2<9><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/17/2020 - 11:16:34: "demoknight tf2<9><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/17/2020 - 11:16:46: "demoknight tf2<9><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/17/2020 - 11:17:11: "demoknight tf2<9><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/17/2020 - 11:17:16: "demoknight tf2<9><[U:1:884091128]><Blue>" say "!noclipme"
+L 10/17/2020 - 11:18:45: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" say "!noclipme"
+L 10/17/2020 - 11:18:59: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" say "!noclipme"
+L 10/17/2020 - 11:21:16: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" changed role to "engineer"
+L 10/17/2020 - 11:21:45: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" changed role to "demoman"
+L 10/17/2020 - 11:22:37: "Lajom | Kona<12><[U:1:836150693]><>" connected, address "24.72.97.17:27005"
+L 10/17/2020 - 11:22:38: "Lajom | Kona<12><[U:1:836150693]><>" STEAM USERID validated
+L 10/17/2020 - 11:22:55: "Lajom | Kona<12><[U:1:836150693]><>" entered the game
+L 10/17/2020 - 11:23:00: "Lajom | Kona<12><[U:1:836150693]><Unassigned>" joined team "Red"
+L 10/17/2020 - 11:23:01: "Lajom | Kona<12><[U:1:836150693]><Red>" changed role to "scout"
+L 10/17/2020 - 11:23:04: "Lajom | Kona<12><[U:1:836150693]><Red>" joined team "Blue"
+L 10/17/2020 - 11:23:16: "Lajom | Kona<12><[U:1:836150693]><Blue>" say "!goto"
+L 10/17/2020 - 11:23:54: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>") (position1 "6903 2004 781") 
+L 10/17/2020 - 11:23:59: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Lajom | Kona<12><[U:1:836150693]><Blue>") (position1 "7529 1766 485") 
+L 10/17/2020 - 11:24:30: "Lajom | Kona<12><[U:1:836150693]><Blue>" changed role to "pyro"
+L 10/17/2020 - 11:24:30: "Lajom | Kona<12><[U:1:836150693]><Blue>" changed role to "demoman"
+L 10/17/2020 - 11:24:32: "Lajom | Kona<12><[U:1:836150693]><Blue>" say "!goto"
+L 10/17/2020 - 11:24:40: "Lajom | Kona<12><[U:1:836150693]><Blue>" changed role to "soldier"
+L 10/17/2020 - 11:24:41: "Lajom | Kona<12><[U:1:836150693]><Blue>" changed role to "demoman"
+L 10/17/2020 - 11:24:49: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "demoknight tf2<9><[U:1:884091128]><Blue>") (position1 "6876 1776 122") 
+L 10/17/2020 - 11:24:52: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Lajom | Kona<12><[U:1:836150693]><Blue>") (position1 "6979 1764 241") 
+L 10/17/2020 - 11:25:50: "Lajom | Kona<12><[U:1:836150693]><Blue>" say "!goto"
+L 10/17/2020 - 11:26:04: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "demoknight tf2<9><[U:1:884091128]><Blue>") (position1 "6090 -2608 354") 
+L 10/17/2020 - 11:26:14: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "Lajom | Kona<12><[U:1:836150693]><Blue>") (position1 "6055 -2609 466") 
+L 10/17/2020 - 11:26:26: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>") (position1 "6095 -2603 269") 
+L 10/17/2020 - 11:28:06: "Lajom | Kona<12><[U:1:836150693]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "2067 6377 42")
+L 10/17/2020 - 11:28:19: "Lajom | Kona<12><[U:1:836150693]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "2143 6098 52")
+L 10/17/2020 - 11:28:28: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" committed suicide with "sticky_resistance" (attacker_position "2139 6226 26")
+L 10/17/2020 - 11:28:34: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" committed suicide with "sticky_resistance" (attacker_position "2117 6246 32")
+L 10/17/2020 - 11:28:40: "Lajom | Kona<12><[U:1:836150693]><Blue>" changed role to "medic"
+L 10/17/2020 - 11:29:11: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" committed suicide with "sticky_resistance" (attacker_position "2121 6408 18")
+L 10/17/2020 - 11:29:52: "Lajom | Kona<12><[U:1:836150693]><Blue>" triggered "chargedeployed"
+L 10/17/2020 - 11:30:08: "Lajom | Kona<12><[U:1:836150693]><Blue>" changed role to "soldier"
+L 10/17/2020 - 11:30:40: "Fizzy Z<13><[U:1:235496181]><>" connected, address "174.53.8.135:27005"
+L 10/17/2020 - 11:30:41: "Fizzy Z<13><[U:1:235496181]><>" STEAM USERID validated
+L 10/17/2020 - 11:30:41: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" changed role to "medic"
+L 10/17/2020 - 11:30:47: "Fizzy Z<13><[U:1:235496181]><>" entered the game
+L 10/17/2020 - 11:30:57: "Fizzy Z<13><[U:1:235496181]><Unassigned>" joined team "Red"
+L 10/17/2020 - 11:30:58: "Fizzy Z<13><[U:1:235496181]><Red>" changed role to "soldier"
+L 10/17/2020 - 11:31:03: "Fizzy Z<13><[U:1:235496181]><Red>" joined team "Blue"
+L 10/17/2020 - 11:31:53: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" say "!noclipme"
+L 10/17/2020 - 11:31:59: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" say "!noclipme"
+L 10/17/2020 - 11:33:07: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" triggered "chargedeployed"
+L 10/17/2020 - 11:33:24: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Fizzy Z<13><[U:1:235496181]><Blue>") (position1 "7374 1764 154") 
+L 10/17/2020 - 11:34:56: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "Fizzy Z<13><[U:1:235496181]><Blue>") (position1 "6124 -2604 404") 
+L 10/17/2020 - 11:36:21: "lajom | muffin (but spooky)<11><[U:1:907316349]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 11:41:01: "Lajom | Kona<12><[U:1:836150693]><Blue>" disconnected (reason "Lajom | Kona timed out")
+L 10/17/2020 - 11:42:55: "Fizzy Z<13><[U:1:235496181]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 11:54:43: "demoknight tf2<9><[U:1:884091128]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 12:47:59: "BigSmoke<14><[U:1:1034704168]><>" connected, address "83.30.139.250:27005"
+L 10/17/2020 - 12:47:59: "BigSmoke<14><[U:1:1034704168]><>" STEAM USERID validated
+L 10/17/2020 - 12:48:39: "BigSmoke<14><[U:1:1034704168]><>" entered the game
+L 10/17/2020 - 12:49:01: "BigSmoke<14><[U:1:1034704168]><Unassigned>" joined team "Red"
+L 10/17/2020 - 12:49:03: "BigSmoke<14><[U:1:1034704168]><Red>" changed role to "demoman"
+L 10/17/2020 - 12:49:28: "BigSmoke<14><[U:1:1034704168]><Red>" joined team "Blue"
+L 10/17/2020 - 12:51:25: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "BigSmoke<14><[U:1:1034704168]><Blue>") (position1 "7376 1763 262") 
+L 10/17/2020 - 12:54:00: "BigSmoke<14><[U:1:1034704168]><Blue>" disconnected (reason "BigSmoke timed out")
+L 10/17/2020 - 13:05:17: "Cereal Guy<15><[U:1:296295936]><>" connected, address "75.158.102.141:27005"
+L 10/17/2020 - 13:05:17: "Cereal Guy<15><[U:1:296295936]><>" STEAM USERID validated
+L 10/17/2020 - 13:05:42: "Cereal Guy<15><[U:1:296295936]><>" entered the game
+L 10/17/2020 - 13:05:46: "Cereal Guy<15><[U:1:296295936]><Unassigned>" joined team "Red"
+L 10/17/2020 - 13:05:47: "Cereal Guy<15><[U:1:296295936]><Red>" changed role to "soldier"
+L 10/17/2020 - 13:05:54: "Cereal Guy<15><[U:1:296295936]><Red>" joined team "Blue"
+L 10/17/2020 - 13:29:34: "Cereal Guy<15><[U:1:296295936]><Blue>" say "!help"
+L 10/17/2020 - 13:29:42: "Cereal Guy<15><[U:1:296295936]><Blue>" say "!preview"
+L 10/17/2020 - 13:29:50: "Cereal Guy<15><[U:1:296295936]><Blue>" say "!preview"
+L 10/17/2020 - 13:29:54: "Cereal Guy<15><[U:1:296295936]><Blue>" say "!help"
+L 10/17/2020 - 13:30:11: "Cereal Guy<15><[U:1:296295936]><Blue>" say "!speedo"
+L 10/17/2020 - 13:30:28: "Cereal Guy<15><[U:1:296295936]><Blue>" say "!help"
+L 10/17/2020 - 13:30:32: "Cereal Guy<15><[U:1:296295936]><Blue>" say "!skeys"
+L 10/17/2020 - 13:33:35: "Kit<16><[U:1:154836919]><>" connected, address "107.210.189.227:27005"
+L 10/17/2020 - 13:33:35: "Kit<16><[U:1:154836919]><>" STEAM USERID validated
+L 10/17/2020 - 13:33:52: "Kit<16><[U:1:154836919]><>" entered the game
+L 10/17/2020 - 13:33:55: "Kit<16><[U:1:154836919]><Unassigned>" joined team "Red"
+L 10/17/2020 - 13:33:56: "Kit<16><[U:1:154836919]><Red>" changed role to "soldier"
+L 10/17/2020 - 13:34:17: "Kit<16><[U:1:154836919]><Red>" joined team "Blue"
+L 10/17/2020 - 13:35:15: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Kit<16><[U:1:154836919]><Blue>") (position1 "7159 1771 348") 
+L 10/17/2020 - 13:38:54: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Advanced Course") (numcappers "1") (player1 "Kit<16><[U:1:154836919]><Blue>") (position1 "5814 -8640 -3716") 
+L 10/17/2020 - 13:40:00: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "Pogo Mini Course") (numcappers "1") (player1 "Kit<16><[U:1:154836919]><Blue>") (position1 "-4884 8765 1307") 
+L 10/17/2020 - 13:40:05: "Kit<16><[U:1:154836919]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 13:42:49: "Cereal Guy<15><[U:1:296295936]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 13:48:10: "marks06<17><[U:1:414289890]><>" connected, address "81.166.136.179:27005"
+L 10/17/2020 - 13:48:10: "marks06<17><[U:1:414289890]><>" STEAM USERID validated
+L 10/17/2020 - 13:48:24: "marks06<17><[U:1:414289890]><>" entered the game
+L 10/17/2020 - 13:48:27: "marks06<17><[U:1:414289890]><Unassigned>" joined team "Red"
+L 10/17/2020 - 13:48:30: "marks06<17><[U:1:414289890]><Red>" changed role to "soldier"
+L 10/17/2020 - 13:48:43: "marks06<17><[U:1:414289890]><Red>" joined team "Blue"
+L 10/17/2020 - 13:49:34: "marks06<17><[U:1:414289890]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 14:21:53: "Edge_<18><[U:1:129460220]><>" connected, address "67.180.154.234:27005"
+L 10/17/2020 - 14:21:54: "Edge_<18><[U:1:129460220]><>" STEAM USERID validated
+L 10/17/2020 - 14:22:02: "Edge_<18><[U:1:129460220]><>" entered the game
+L 10/17/2020 - 14:22:04: "Edge_<18><[U:1:129460220]><Unassigned>" joined team "Red"
+L 10/17/2020 - 14:22:04: "Edge_<18><[U:1:129460220]><Red>" changed role to "soldier"
+L 10/17/2020 - 14:22:10: "Edge_<18><[U:1:129460220]><Red>" joined team "Blue"
+L 10/17/2020 - 14:22:19: "Edge_<18><[U:1:129460220]><Blue>" committed suicide with "world" (attacker_position "-10459 -4049 -4899")
+L 10/17/2020 - 14:22:50: "Edge_<18><[U:1:129460220]><Blue>" say "!s"
+L 10/17/2020 - 14:24:13: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Edge_<18><[U:1:129460220]><Blue>") (position1 "7352 1771 780") 
+L 10/17/2020 - 14:51:08: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Advanced Course") (numcappers "1") (player1 "Edge_<18><[U:1:129460220]><Blue>") (position1 "5821 -8722 -3695") 
+L 10/17/2020 - 14:55:26: "Edge_<18><[U:1:129460220]><Blue>" say "!rtv"
+L 10/17/2020 - 14:55:31: "Edge_<18><[U:1:129460220]><Blue>" say "!menu"
+L 10/17/2020 - 14:56:40: "Edge_<18><[U:1:129460220]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 15:00:17: "Scared Square Kid<19><[U:1:389592593]><>" connected, address "75.162.29.137:27005"
+L 10/17/2020 - 15:00:18: "Scared Square Kid<19><[U:1:389592593]><>" STEAM USERID validated
+L 10/17/2020 - 15:00:25: "Scared Square Kid<19><[U:1:389592593]><>" entered the game
+L 10/17/2020 - 15:00:29: "Scared Square Kid<19><[U:1:389592593]><Unassigned>" joined team "Red"
+L 10/17/2020 - 15:00:31: "Scared Square Kid<19><[U:1:389592593]><Red>" changed role to "soldier"
+L 10/17/2020 - 15:00:38: "Scared Square Kid<19><[U:1:389592593]><Red>" joined team "Blue"
+L 10/17/2020 - 15:02:43: "Scared Square Kid<19><[U:1:389592593]><Blue>" joined team "Spectator"
+L 10/17/2020 - 15:02:45: "Scared Square Kid<19><[U:1:389592593]><Spectator>" joined team "Blue"
+L 10/17/2020 - 15:04:32: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Scared Square Kid<19><[U:1:389592593]><Blue>") (position1 "6874 1911 187") 
+L 10/17/2020 - 15:05:46: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "Scared Square Kid<19><[U:1:389592593]><Blue>") (position1 "6094 -2602 457") 
+L 10/17/2020 - 15:05:59: "Scared Square Kid<19><[U:1:389592593]><Blue>" say "!noclipme"
+L 10/17/2020 - 15:06:21: "Scared Square Kid<19><[U:1:389592593]><Blue>" say "!noclipme"
+L 10/17/2020 - 15:09:03: "Scared Square Kid<19><[U:1:389592593]><Blue>" joined team "Spectator"
+L 10/17/2020 - 15:09:20: "Scared Square Kid<19><[U:1:389592593]><Spectator>" joined team "Blue"
+L 10/17/2020 - 15:10:53: "Scared Square Kid<19><[U:1:389592593]><Blue>" say "!noclipme"
+L 10/17/2020 - 15:10:59: "Scared Square Kid<19><[U:1:389592593]><Blue>" say "!noclipme"
+L 10/17/2020 - 15:11:11: "Scared Square Kid<19><[U:1:389592593]><Blue>" say "!noclipme"
+L 10/17/2020 - 15:11:41: "Scared Square Kid<19><[U:1:389592593]><Blue>" say "!noclipme"
+L 10/17/2020 - 15:11:59: "Scared Square Kid<19><[U:1:389592593]><Blue>" say "!noclipme"
+L 10/17/2020 - 15:12:36: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Advanced Course") (numcappers "1") (player1 "Scared Square Kid<19><[U:1:389592593]><Blue>") (position1 "5810 -8607 -4117") 
+L 10/17/2020 - 15:13:06: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "Bonus Badwater") (numcappers "1") (player1 "Scared Square Kid<19><[U:1:389592593]><Blue>") (position1 "-3788 -3557 -4787") 
+L 10/17/2020 - 15:13:39: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "Bonus Water Ramps") (numcappers "1") (player1 "Scared Square Kid<19><[U:1:389592593]><Blue>") (position1 "5795 -6458 -4117") 
+L 10/17/2020 - 15:13:52: "Scared Square Kid<19><[U:1:389592593]><Blue>" say "!noclipme"
+L 10/17/2020 - 15:13:57: "Scared Square Kid<19><[U:1:389592593]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 15:30:02: "Trepak III<20><[U:1:372054801]><>" connected, address "72.201.180.112:27005"
+L 10/17/2020 - 15:30:02: "Trepak III<20><[U:1:372054801]><>" STEAM USERID validated
+L 10/17/2020 - 15:30:34: "Trepak III<20><[U:1:372054801]><>" entered the game
+L 10/17/2020 - 15:30:38: "Trepak III<20><[U:1:372054801]><Unassigned>" joined team "Red"
+L 10/17/2020 - 15:30:40: "Trepak III<20><[U:1:372054801]><Red>" changed role to "soldier"
+L 10/17/2020 - 15:31:14: "Trepak III<20><[U:1:372054801]><Red>" say "!ammo"
+L 10/17/2020 - 15:31:26: "Trepak III<20><[U:1:372054801]><Red>" joined team "Blue"
+L 10/17/2020 - 15:40:17: "Trepak III<20><[U:1:372054801]><Blue>" say "!menu"
+L 10/17/2020 - 15:40:21: "Trepak III<20><[U:1:372054801]><Blue>" say "!preview"
+L 10/17/2020 - 15:40:28: "Trepak III<20><[U:1:372054801]><Blue>" say "!menu"
+L 10/17/2020 - 15:40:49: "Trepak III<20><[U:1:372054801]><Blue>" say "!preview"
+L 10/17/2020 - 15:43:21: "Trepak III<20><[U:1:372054801]><Blue>" say "!menu"
+L 10/17/2020 - 15:43:28: "Trepak III<20><[U:1:372054801]><Blue>" say "!skeys"
+L 10/17/2020 - 15:43:38: "Trepak III<20><[U:1:372054801]><Blue>" say "!skeys"
+L 10/17/2020 - 15:43:46: "Trepak III<20><[U:1:372054801]><Blue>" joined team "Spectator"
+L 10/17/2020 - 15:43:51: "Trepak III<20><[U:1:372054801]><Spectator>" joined team "Blue"
+L 10/17/2020 - 15:44:02: "Trepak III<20><[U:1:372054801]><Blue>" joined team "Spectator"
+L 10/17/2020 - 15:44:07: "Trepak III<20><[U:1:372054801]><Spectator>" joined team "Blue"
+L 10/17/2020 - 15:44:32: "Trepak III<20><[U:1:372054801]><Blue>" joined team "Spectator"
+L 10/17/2020 - 15:44:37: "Trepak III<20><[U:1:372054801]><Spectator>" joined team "Blue"
+L 10/17/2020 - 15:44:52: "Trepak III<20><[U:1:372054801]><Blue>" joined team "Spectator"
+L 10/17/2020 - 15:44:57: "Trepak III<20><[U:1:372054801]><Spectator>" joined team "Blue"
+L 10/17/2020 - 15:46:45: "Trepak III<20><[U:1:372054801]><Blue>" joined team "Spectator"
+L 10/17/2020 - 15:46:50: "Trepak III<20><[U:1:372054801]><Spectator>" joined team "Blue"
+L 10/17/2020 - 15:47:01: "Trepak III<20><[U:1:372054801]><Blue>" joined team "Spectator"
+L 10/17/2020 - 15:47:06: "Trepak III<20><[U:1:372054801]><Spectator>" joined team "Blue"
+L 10/17/2020 - 15:48:17: "Trepak III<20><[U:1:372054801]><Blue>" joined team "Spectator"
+L 10/17/2020 - 15:48:22: "Trepak III<20><[U:1:372054801]><Spectator>" joined team "Blue"
+L 10/17/2020 - 15:48:25: "Trepak III<20><[U:1:372054801]><Blue>" disconnected (reason "#GameUI_Disconnect_TooManyCommands")
+L 10/17/2020 - 15:52:16: "Trepak III<21><[U:1:372054801]><>" connected, address "72.201.180.112:27005"
+L 10/17/2020 - 15:52:16: "Trepak III<21><[U:1:372054801]><>" STEAM USERID validated
+L 10/17/2020 - 15:52:21: "Trepak III<21><[U:1:372054801]><>" entered the game
+L 10/17/2020 - 15:52:25: "Trepak III<21><[U:1:372054801]><Unassigned>" joined team "Red"
+L 10/17/2020 - 15:52:26: "Trepak III<21><[U:1:372054801]><Red>" changed role to "soldier"
+L 10/17/2020 - 15:52:27: "Trepak III<21><[U:1:372054801]><Red>" joined team "Blue"
+L 10/17/2020 - 15:52:39: "Trepak III<21><[U:1:372054801]><Blue>" say "!ammo"
+L 10/17/2020 - 15:56:45: "Trepak III<21><[U:1:372054801]><Blue>" joined team "Spectator"
+L 10/17/2020 - 15:56:50: "Trepak III<21><[U:1:372054801]><Spectator>" joined team "Blue"
+L 10/17/2020 - 15:57:00: "Trepak III<21><[U:1:372054801]><Blue>" joined team "Spectator"
+L 10/17/2020 - 15:57:05: "Trepak III<21><[U:1:372054801]><Spectator>" joined team "Blue"
+L 10/17/2020 - 15:57:39: "Trepak III<21><[U:1:372054801]><Blue>" joined team "Spectator"
+L 10/17/2020 - 15:57:45: "Trepak III<21><[U:1:372054801]><Spectator>" joined team "Blue"
+L 10/17/2020 - 15:58:43: "Trepak III<21><[U:1:372054801]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 16:12:40: "Noceur<22><[U:1:193217638]><>" connected, address "66.74.39.47:27005"
+L 10/17/2020 - 16:12:40: "Noceur<22><[U:1:193217638]><>" STEAM USERID validated
+L 10/17/2020 - 16:12:51: "Noceur<22><[U:1:193217638]><>" entered the game
+L 10/17/2020 - 16:12:55: "Noceur<22><[U:1:193217638]><Unassigned>" joined team "Red"
+L 10/17/2020 - 16:12:56: "Noceur<22><[U:1:193217638]><Red>" changed role to "soldier"
+L 10/17/2020 - 16:13:07: "Noceur<22><[U:1:193217638]><Red>" joined team "Blue"
+L 10/17/2020 - 16:15:27: "Noceur<22><[U:1:193217638]><Blue>" joined team "Spectator"
+L 10/17/2020 - 16:15:32: "Noceur<22><[U:1:193217638]><Spectator>" joined team "Blue"
+L 10/17/2020 - 16:17:55: "Noceur<22><[U:1:193217638]><Blue>" joined team "Spectator"
+L 10/17/2020 - 16:18:00: "Noceur<22><[U:1:193217638]><Spectator>" joined team "Blue"
+L 10/17/2020 - 16:19:18: "Noceur<22><[U:1:193217638]><Blue>" joined team "Spectator"
+L 10/17/2020 - 16:19:24: "Noceur<22><[U:1:193217638]><Spectator>" joined team "Blue"
+L 10/17/2020 - 16:19:24: "Noceur<22><[U:1:193217638]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 16:51:21: "Master of the Hellish Yard<23><[U:1:176586398]><>" connected, address "216.165.229.138:27005"
+L 10/17/2020 - 16:51:22: "Master of the Hellish Yard<23><[U:1:176586398]><>" STEAM USERID validated
+L 10/17/2020 - 16:51:24: "Master of the Hellish Yard<23><[U:1:176586398]><>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 16:51:24: "JumpBOT<10><BOT><Blue>" disconnected (reason "Server is empty")
+L 10/17/2020 - 16:51:27: server_cvar: "tf_bot_count" "0"
+L 10/17/2020 - 16:51:27: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 16:51:27: server_cvar: "sv_tags" "academy,alltalk,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 17:06:02: "Jdz0619<24><[U:1:397042530]><>" connected, address "72.188.80.97:27005"
+L 10/17/2020 - 17:06:02: "Jdz0619<24><[U:1:397042530]><>" STEAM USERID validated
+L 10/17/2020 - 17:06:14: "JumpBOT<25><BOT><>" connected, address "none"
+L 10/17/2020 - 17:06:14: "JumpBOT<25><BOT><>" entered the game
+L 10/17/2020 - 17:06:14: "Jdz0619<24><[U:1:397042530]><>" entered the game
+L 10/17/2020 - 17:06:17: "Jdz0619<24><[U:1:397042530]><Unassigned>" joined team "Red"
+L 10/17/2020 - 17:06:19: server_cvar: "tf_bot_count" "1"
+L 10/17/2020 - 17:06:19: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 17:06:19: server_cvar: "sv_tags" "academy,alltalk,bots,cp,fast,fun,increased_maxplayers,jump,la,learning,nocrits,norespawntime,pancakes,respawntimes,soldier,trai"
+L 10/17/2020 - 17:06:19: "Jdz0619<24><[U:1:397042530]><Red>" changed role to "demoman"
+L 10/17/2020 - 17:06:19: "JumpBOT<25><BOT><Unassigned>" joined team "Red"
+L 10/17/2020 - 17:06:26: "Jdz0619<24><[U:1:397042530]><Red>" disconnected (reason "Jdz0619 timed out")
+L 10/17/2020 - 17:45:41: "Pipe piper<26><[U:1:1025595488]><>" connected, address "73.92.61.161:27005"
+L 10/17/2020 - 17:45:41: "Pipe piper<26><[U:1:1025595488]><>" STEAM USERID validated
+L 10/17/2020 - 17:45:56: "Pipe piper<26><[U:1:1025595488]><>" entered the game
+L 10/17/2020 - 17:45:59: "Pipe piper<26><[U:1:1025595488]><Unassigned>" joined team "Blue"
+L 10/17/2020 - 17:46:00: "Pipe piper<26><[U:1:1025595488]><Blue>" changed role to "soldier"
+L 10/17/2020 - 17:50:20: "Pipe piper<26><[U:1:1025595488]><Blue>" say "!noclipme"
+L 10/17/2020 - 17:50:27: "Pipe piper<26><[U:1:1025595488]><Blue>" say "!s"
+L 10/17/2020 - 17:50:30: "Pipe piper<26><[U:1:1025595488]><Blue>" say "!noclipme"
+L 10/17/2020 - 17:52:08: "Pipe piper<26><[U:1:1025595488]><Blue>" changed role to "demoman"
+L 10/17/2020 - 17:53:36: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "Pogo Mini Course") (numcappers "1") (player1 "Pipe piper<26><[U:1:1025595488]><Blue>") (position1 "-4884 8717 1384") 
+L 10/17/2020 - 17:56:02: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Pipe piper<26><[U:1:1025595488]><Blue>") (position1 "7155 1763 610") 
+L 10/17/2020 - 17:56:25: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "Pipe piper<26><[U:1:1025595488]><Blue>") (position1 "6091 -2604 520") 
+L 10/17/2020 - 18:01:15: "Pipe piper<26><[U:1:1025595488]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "-8048 3803 -5114")
+L 10/17/2020 - 18:02:14: "Pipe piper<26><[U:1:1025595488]><Blue>" changed role to "soldier"
+L 10/17/2020 - 18:03:31: "Pipe piper<26><[U:1:1025595488]><Blue>" say "!s"
+L 10/17/2020 - 18:03:42: "Pipe piper<26><[U:1:1025595488]><Blue>" say "!t"
+L 10/17/2020 - 18:05:31: "Pipe piper<26><[U:1:1025595488]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 18:59:48: "Robo<27><[U:1:118868502]><>" connected, address "24.24.204.211:27005"
+L 10/17/2020 - 18:59:48: "Robo<27><[U:1:118868502]><>" STEAM USERID validated
+L 10/17/2020 - 19:00:04: "Robo<27><[U:1:118868502]><>" entered the game
+L 10/17/2020 - 19:00:07: "Robo<27><[U:1:118868502]><Unassigned>" joined team "Blue"
+L 10/17/2020 - 19:00:09: "Robo<27><[U:1:118868502]><Blue>" changed role to "soldier"
+L 10/17/2020 - 19:04:10: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Robo<27><[U:1:118868502]><Blue>") (position1 "7240 1765 686") 
+L 10/17/2020 - 19:06:18: "Robo<27><[U:1:118868502]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 19:54:16: "MZR | Conman<28><[U:1:866158720]><>" connected, address "71.83.253.116:27005"
+L 10/17/2020 - 19:54:16: "MZR | Conman<28><[U:1:866158720]><>" STEAM USERID validated
+L 10/17/2020 - 19:54:24: "MZR | Conman<28><[U:1:866158720]><>" entered the game
+L 10/17/2020 - 19:55:30: "MZR | Conman<28><[U:1:866158720]><Unassigned>" joined team "Blue"
+L 10/17/2020 - 19:55:37: "MZR | Conman<28><[U:1:866158720]><Blue>" changed role to "soldier"
+L 10/17/2020 - 20:09:36: "aloe vera<29><[U:1:313302573]><>" connected, address "69.178.109.64:27005"
+L 10/17/2020 - 20:09:36: "aloe vera<29><[U:1:313302573]><>" STEAM USERID validated
+L 10/17/2020 - 20:09:53: "aloe vera<29><[U:1:313302573]><>" entered the game
+L 10/17/2020 - 20:10:31: "aloe vera<29><[U:1:313302573]><Unassigned>" joined team "Blue"
+L 10/17/2020 - 20:10:32: "aloe vera<29><[U:1:313302573]><Blue>" changed role to "soldier"
+L 10/17/2020 - 20:10:56: "JumpBOT<25><BOT><Red>" joined team "Blue"
+L 10/17/2020 - 20:10:56: "MZR | Conman<28><[U:1:866158720]><Blue>" joined team "Spectator"
+L 10/17/2020 - 20:11:02: "MZR | Conman<28><[U:1:866158720]><Spectator>" joined team "Blue"
+L 10/17/2020 - 20:11:56: "MZR | Conman<28><[U:1:866158720]><Blue>" joined team "Spectator"
+L 10/17/2020 - 20:12:02: "MZR | Conman<28><[U:1:866158720]><Spectator>" joined team "Blue"
+L 10/17/2020 - 20:16:40: "MZR | Conman<28><[U:1:866158720]><Blue>" joined team "Spectator"
+L 10/17/2020 - 20:16:46: "MZR | Conman<28><[U:1:866158720]><Spectator>" joined team "Blue"
+L 10/17/2020 - 20:17:50: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "aloe vera<29><[U:1:313302573]><Blue>") (position1 "6999 1763 448") 
+L 10/17/2020 - 20:21:45: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "aloe vera<29><[U:1:313302573]><Blue>") (position1 "5982 -2758 582") 
+L 10/17/2020 - 20:24:13: "thelastdreadi<30><[U:1:106965956]><>" connected, address "50.125.252.11:27005"
+L 10/17/2020 - 20:24:13: "thelastdreadi<30><[U:1:106965956]><>" STEAM USERID validated
+L 10/17/2020 - 20:24:19: "thelastdreadi<30><[U:1:106965956]><>" entered the game
+L 10/17/2020 - 20:24:21: "thelastdreadi<30><[U:1:106965956]><Unassigned>" joined team "Red"
+L 10/17/2020 - 20:24:22: "thelastdreadi<30><[U:1:106965956]><Red>" changed role to "soldier"
+L 10/17/2020 - 20:24:26: "thelastdreadi<30><[U:1:106965956]><Red>" joined team "Blue"
+L 10/17/2020 - 20:25:57: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "thelastdreadi<30><[U:1:106965956]><Blue>") (position1 "6930 1768 218") 
+L 10/17/2020 - 20:26:26: "aloe vera<29><[U:1:313302573]><Blue>" disconnected (reason "aloe vera timed out")
+L 10/17/2020 - 20:26:28: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "thelastdreadi<30><[U:1:106965956]><Blue>") (position1 "5991 -2607 557") 
+L 10/17/2020 - 20:28:35: "thelastdreadi<30><[U:1:106965956]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 20:52:12: "MZR | Conman<28><[U:1:866158720]><Blue>" joined team "Spectator"
+L 10/17/2020 - 20:52:18: "MZR | Conman<28><[U:1:866158720]><Spectator>" joined team "Blue"
+L 10/17/2020 - 20:58:25: "MZR | Conman<28><[U:1:866158720]><Blue>" joined team "Spectator"
+L 10/17/2020 - 20:58:31: "MZR | Conman<28><[U:1:866158720]><Spectator>" joined team "Blue"
+L 10/17/2020 - 21:07:19: "MZR | Conman<28><[U:1:866158720]><Blue>" joined team "Spectator"
+L 10/17/2020 - 21:07:26: "MZR | Conman<28><[U:1:866158720]><Spectator>" joined team "Blue"
+L 10/17/2020 - 21:08:10: "MZR | Conman<28><[U:1:866158720]><Blue>" joined team "Spectator"
+L 10/17/2020 - 21:08:17: "MZR | Conman<28><[U:1:866158720]><Spectator>" joined team "Blue"
+L 10/17/2020 - 21:10:13: "MZR | Conman<28><[U:1:866158720]><Blue>" joined team "Spectator"
+L 10/17/2020 - 21:10:22: "MZR | Conman<28><[U:1:866158720]><Spectator>" joined team "Blue"
+L 10/17/2020 - 21:15:44: "MZR | Conman<28><[U:1:866158720]><Blue>" joined team "Spectator"
+L 10/17/2020 - 21:15:50: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "JumpBOT<25><BOT><Blue>") (position1 "7366 1766 674") 
+L 10/17/2020 - 21:15:52: "MZR | Conman<28><[U:1:866158720]><Spectator>" joined team "Blue"
+L 10/17/2020 - 21:23:07: "MZR | Conman<28><[U:1:866158720]><Blue>" joined team "Spectator"
+L 10/17/2020 - 21:23:15: "MZR | Conman<28><[U:1:866158720]><Spectator>" joined team "Blue"
+L 10/17/2020 - 21:28:26: "durablebinder5631<31><[U:1:196086588]><>" connected, address "47.156.167.134:27005"
+L 10/17/2020 - 21:28:26: "durablebinder5631<31><[U:1:196086588]><>" STEAM USERID validated
+L 10/17/2020 - 21:29:00: "durablebinder5631<31><[U:1:196086588]><>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 21:29:52: "durablebinder5631<32><[U:1:196086588]><>" connected, address "47.156.167.134:27005"
+L 10/17/2020 - 21:29:52: "durablebinder5631<32><[U:1:196086588]><>" STEAM USERID validated
+L 10/17/2020 - 21:30:21: "durablebinder5631<32><[U:1:196086588]><>" entered the game
+L 10/17/2020 - 21:30:25: "durablebinder5631<32><[U:1:196086588]><Unassigned>" joined team "Red"
+L 10/17/2020 - 21:30:27: "durablebinder5631<32><[U:1:196086588]><Red>" changed role to "engineer"
+L 10/17/2020 - 21:30:36: "durablebinder5631<32><[U:1:196086588]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "6713 -3385 208")
+L 10/17/2020 - 21:30:42: "durablebinder5631<32><[U:1:196086588]><Red>" triggered "object_detonated" (object "OBJ_DISPENSER") (position "6596 -3321 208")
+L 10/17/2020 - 21:30:42: "durablebinder5631<32><[U:1:196086588]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "pda_engineer") (objectowner "durablebinder5631<32><[U:1:196086588]><Red>") (attacker_position "6596 -3321 208")
+L 10/17/2020 - 21:30:47: "durablebinder5631<32><[U:1:196086588]><Red>" joined team "Blue"
+L 10/17/2020 - 21:31:03: "durablebinder5631<32><[U:1:196086588]><Blue>" changed role to "soldier"
+L 10/17/2020 - 21:31:05: "durablebinder5631<32><[U:1:196086588]><Blue>" changed role to "engineer"
+L 10/17/2020 - 21:31:12: "durablebinder5631<32><[U:1:196086588]><Blue>" changed role to "soldier"
+L 10/17/2020 - 21:34:44: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "durablebinder5631<32><[U:1:196086588]><Blue>") (position1 "6941 1763 170") 
+L 10/17/2020 - 21:35:19: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "durablebinder5631<32><[U:1:196086588]><Blue>") (position1 "6066 -2605 589") 
+L 10/17/2020 - 21:37:26: "durablebinder5631<32><[U:1:196086588]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 21:58:36: "MZR | Conman<28><[U:1:866158720]><Blue>" joined team "Spectator"
+L 10/17/2020 - 21:58:43: "MZR | Conman<28><[U:1:866158720]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:08:18: "MZR | Conman<28><[U:1:866158720]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:08:25: "MZR | Conman<28><[U:1:866158720]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:11:28: "Dad<33><[U:1:123675685]><>" connected, address "47.6.252.23:27005"
+L 10/17/2020 - 22:11:28: "Dad<33><[U:1:123675685]><>" STEAM USERID validated
+L 10/17/2020 - 22:12:01: "Dad<33><[U:1:123675685]><>" entered the game
+L 10/17/2020 - 22:12:04: "Dad<33><[U:1:123675685]><Unassigned>" joined team "Red"
+L 10/17/2020 - 22:12:05: "Dad<33><[U:1:123675685]><Red>" changed role to "soldier"
+L 10/17/2020 - 22:12:19: "Dad<33><[U:1:123675685]><Red>" joined team "Blue"
+L 10/17/2020 - 22:12:45: "aloe vera<34><[U:1:313302573]><>" connected, address "69.178.109.64:27005"
+L 10/17/2020 - 22:12:45: "aloe vera<34><[U:1:313302573]><>" STEAM USERID validated
+L 10/17/2020 - 22:12:52: "aloe vera<34><[U:1:313302573]><>" entered the game
+L 10/17/2020 - 22:12:55: "aloe vera<34><[U:1:313302573]><Unassigned>" joined team "Red"
+L 10/17/2020 - 22:12:56: "aloe vera<34><[U:1:313302573]><Red>" changed role to "soldier"
+L 10/17/2020 - 22:13:04: "aloe vera<34><[U:1:313302573]><Red>" joined team "Blue"
+L 10/17/2020 - 22:14:46: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Dad<33><[U:1:123675685]><Blue>") (position1 "6909 1767 152") 
+L 10/17/2020 - 22:16:12: "Tetsero Hamada<35><[U:1:160833330]><>" connected, address "193.56.117.41:27005"
+L 10/17/2020 - 22:16:13: "Tetsero Hamada<35><[U:1:160833330]><>" STEAM USERID validated
+L 10/17/2020 - 22:16:21: "Tetsero Hamada<35><[U:1:160833330]><>" entered the game
+L 10/17/2020 - 22:16:30: "Tetsero Hamada<35><[U:1:160833330]><Unassigned>" joined team "Red"
+L 10/17/2020 - 22:16:31: "Tetsero Hamada<35><[U:1:160833330]><Red>" changed role to "soldier"
+L 10/17/2020 - 22:16:44: "Tetsero Hamada<35><[U:1:160833330]><Red>" say "r"
+L 10/17/2020 - 22:16:50: "Tetsero Hamada<35><[U:1:160833330]><Red>" say ".r"
+L 10/17/2020 - 22:17:04: "Tetsero Hamada<35><[U:1:160833330]><Red>" joined team "Blue"
+L 10/17/2020 - 22:19:45: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Tetsero Hamada<35><[U:1:160833330]><Blue>") (position1 "7358 1768 649") 
+L 10/17/2020 - 22:21:47: "Tetsero Hamada<35><[U:1:160833330]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 22:23:43: "Dad<33><[U:1:123675685]><Blue>" changed role to "demoman"
+L 10/17/2020 - 22:24:20: "Spooky Extra Sharp New York Che<36><[U:1:88538302]><>" connected, address "24.96.250.99:27005"
+L 10/17/2020 - 22:24:20: "Spooky Extra Sharp New York Che<36><[U:1:88538302]><>" STEAM USERID validated
+L 10/17/2020 - 22:24:25: "Haunted JellyDoge<37><[U:1:133663992]><>" connected, address "75.186.57.143:27005"
+L 10/17/2020 - 22:24:26: "Haunted JellyDoge<37><[U:1:133663992]><>" STEAM USERID validated
+L 10/17/2020 - 22:24:31: "Spooky Extra Sharp New York Che<36><[U:1:88538302]><>" entered the game
+L 10/17/2020 - 22:24:34: "spooky pan<38><[U:1:75372004]><>" connected, address "136.53.54.19:27005"
+L 10/17/2020 - 22:24:34: "spooky pan<38><[U:1:75372004]><>" STEAM USERID validated
+L 10/17/2020 - 22:24:38: "Haunted JellyDoge<37><[U:1:133663992]><>" entered the game
+L 10/17/2020 - 22:24:39: "Spooky Extra Sharp New York Che<36><[U:1:88538302]><Unassigned>" joined team "Red"
+L 10/17/2020 - 22:24:40: "Spooky Extra Sharp New York Che<36><[U:1:88538302]><Red>" changed role to "soldier"
+L 10/17/2020 - 22:24:42: "Haunted JellyDoge<37><[U:1:133663992]><Unassigned>" joined team "Red"
+L 10/17/2020 - 22:24:43: "spooky pan<38><[U:1:75372004]><>" entered the game
+L 10/17/2020 - 22:24:45: "Spooky Extra Sharp New York Che<36><[U:1:88538302]><Red>" joined team "Blue"
+L 10/17/2020 - 22:24:45: "Haunted JellyDoge<37><[U:1:133663992]><Red>" changed role to "soldier"
+L 10/17/2020 - 22:24:50: "Haunted JellyDoge<37><[U:1:133663992]><Red>" joined team "Blue"
+L 10/17/2020 - 22:24:51: "spooky pan<38><[U:1:75372004]><Unassigned>" joined team "Red"
+L 10/17/2020 - 22:24:52: "spooky pan<38><[U:1:75372004]><Red>" changed role to "soldier"
+L 10/17/2020 - 22:24:59: "spooky pan<38><[U:1:75372004]><Red>" joined team "Blue"
+L 10/17/2020 - 22:25:32: "aloe vera<34><[U:1:313302573]><Blue>" committed suicide with "world" (attacker_position "4007 6837 144")
+L 10/17/2020 - 22:25:41: "aloe vera<34><[U:1:313302573]><Blue>" changed role to "demoman"
+L 10/17/2020 - 22:25:46: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Dad<33><[U:1:123675685]><Blue>") (position1 "8112 2204 779") 
+L 10/17/2020 - 22:25:54: "Dad<33><[U:1:123675685]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:26:02: "Dad<33><[U:1:123675685]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:26:17: "MZR | Conman<28><[U:1:866158720]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:26:24: "MZR | Conman<28><[U:1:866158720]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:26:58: "Dad<33><[U:1:123675685]><Blue>" committed suicide with "sticky_resistance" (attacker_position "7536 1973 85")
+L 10/17/2020 - 22:28:00: "aloe vera<34><[U:1:313302573]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "-8120 4195 -5127")
+L 10/17/2020 - 22:28:16: "Haunted JellyDoge<37><[U:1:133663992]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:28:22: "Haunted JellyDoge<37><[U:1:133663992]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:29:14: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "aloe vera<34><[U:1:313302573]><Blue>") (position1 "7619 2381 785") 
+L 10/17/2020 - 22:29:44: "Spooky Extra Sharp New York Che<36><[U:1:88538302]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 22:29:48: "Haunted JellyDoge<37><[U:1:133663992]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 22:29:52: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!noclipme"
+L 10/17/2020 - 22:29:53: "spooky pan<38><[U:1:75372004]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 22:29:55: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "aloe vera<34><[U:1:313302573]><Blue>") (position1 "6317 -2851 396") 
+L 10/17/2020 - 22:30:02: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "MZR | Conman<28><[U:1:866158720]><Blue>") (position1 "7383 1764 143") 
+L 10/17/2020 - 22:30:11: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!noclipme"
+L 10/17/2020 - 22:30:22: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!noclipme"
+L 10/17/2020 - 22:30:51: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!noclipme"
+L 10/17/2020 - 22:30:56: "Dad<33><[U:1:123675685]><Blue>" changed role to "engineer"
+L 10/17/2020 - 22:31:16: "Dad<33><[U:1:123675685]><Blue>" joined team "Red"
+L 10/17/2020 - 22:31:22: "Dad<33><[U:1:123675685]><Red>" changed role to "heavyweapons"
+L 10/17/2020 - 22:31:27: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 22:32:02: "aloe vera<34><[U:1:313302573]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "2111 6092 29")
+L 10/17/2020 - 22:32:05: "aloe vera<34><[U:1:313302573]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "2120 6251 35")
+L 10/17/2020 - 22:32:27: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 22:32:35: "aloe vera<34><[U:1:313302573]><Blue>" changed role to "soldier"
+L 10/17/2020 - 22:33:49: "aloe vera<34><[U:1:313302573]><Blue>" committed suicide with "world" (attacker_position "1847 6194 125")
+L 10/17/2020 - 22:34:33: "Dad<33><[U:1:123675685]><Red>" changed role to "pyro"
+L 10/17/2020 - 22:34:37: "Dad<33><[U:1:123675685]><Red>" say "!noclip"
+L 10/17/2020 - 22:34:42: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 22:34:55: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 22:35:04: "aloe vera<34><[U:1:313302573]><Blue>" say "!noclipme"
+L 10/17/2020 - 22:35:29: "aloe vera<34><[U:1:313302573]><Blue>" say "!noclipme"
+L 10/17/2020 - 22:36:15: "aloe vera<34><[U:1:313302573]><Blue>" say "!noclipme"
+L 10/17/2020 - 22:36:38: "aloe vera<34><[U:1:313302573]><Blue>" say "!noclipme"
+L 10/17/2020 - 22:36:43: "aloe vera<34><[U:1:313302573]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 22:37:36: "Sky<39><[U:1:216083645]><>" connected, address "179.6.57.114:1677"
+L 10/17/2020 - 22:37:36: "Sky<39><[U:1:216083645]><>" STEAM USERID validated
+L 10/17/2020 - 22:38:25: "Sky<39><[U:1:216083645]><>" entered the game
+L 10/17/2020 - 22:38:34: "Sky<39><[U:1:216083645]><Unassigned>" joined team "Red"
+L 10/17/2020 - 22:38:35: "Sky<39><[U:1:216083645]><Red>" changed role to "soldier"
+L 10/17/2020 - 22:38:45: "Sky<39><[U:1:216083645]><Red>" joined team "Blue"
+L 10/17/2020 - 22:39:12: "nthh<40><[U:1:296852714]><>" connected, address "190.43.177.229:27005"
+L 10/17/2020 - 22:39:12: "nthh<40><[U:1:296852714]><>" STEAM USERID validated
+L 10/17/2020 - 22:39:37: "nthh<40><[U:1:296852714]><>" entered the game
+L 10/17/2020 - 22:40:17: "ghasperr999ms<41><[U:1:210639978]><>" connected, address "190.234.196.238:27005"
+L 10/17/2020 - 22:40:17: "ghasperr999ms<41><[U:1:210639978]><>" STEAM USERID validated
+L 10/17/2020 - 22:40:20: "nthh<40><[U:1:296852714]><Unassigned>" joined team "Red"
+L 10/17/2020 - 22:40:23: "nthh<40><[U:1:296852714]><Red>" changed role to "demoman"
+L 10/17/2020 - 22:40:28: "nthh<40><[U:1:296852714]><Red>" joined team "Blue"
+L 10/17/2020 - 22:40:30: "nthh<40><[U:1:296852714]><Blue>" changed role to "soldier"
+L 10/17/2020 - 22:40:33: "ghasperr999ms<41><[U:1:210639978]><>" entered the game
+L 10/17/2020 - 22:43:02: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:43:08: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:44:25: "ghasperr999ms<41><[U:1:210639978]><Unassigned>" joined team "Red"
+L 10/17/2020 - 22:44:28: "ghasperr999ms<41><[U:1:210639978]><Red>" changed role to "pyro"
+L 10/17/2020 - 22:44:29: "ghasperr999ms<41><[U:1:210639978]><Red>" joined team "Blue"
+L 10/17/2020 - 22:44:33: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:44:39: "ghasperr999ms<41><[U:1:210639978]><Blue>" changed role to "soldier"
+L 10/17/2020 - 22:44:40: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:45:14: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:45:15: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:45:34: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Dad<33><[U:1:123675685]><Red>") (position1 "7001 1765 450") 
+L 10/17/2020 - 22:45:39: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:45:40: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:46:29: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:46:30: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:46:54: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "nthh<40><[U:1:296852714]><Blue>") (position1 "7388 1764 621") 
+L 10/17/2020 - 22:47:34: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:47:35: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:47:47: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "ghasperr999ms<41><[U:1:210639978]><Blue>") (position1 "7161 1776 163") 
+L 10/17/2020 - 22:48:21: "Dad<33><[U:1:123675685]><Red>" changed role to "engineer"
+L 10/17/2020 - 22:48:24: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 22:48:42: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 22:49:12: "Dad<33><[U:1:123675685]><Red>" changed role to "medic"
+L 10/17/2020 - 22:49:18: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 22:49:32: "MZR | Conman<28><[U:1:866158720]><Blue>" changed role to "demoman"
+L 10/17/2020 - 22:50:19: "MZR | Conman<28><[U:1:866158720]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "4403 3928 67")
+L 10/17/2020 - 22:50:27: "Dad<33><[U:1:123675685]><Red>" changed role to "sniper"
+L 10/17/2020 - 22:50:31: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 22:50:46: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "world" (attacker_position "1725 6181 -14") (victim_position "2334 6890 -15")
+L 10/17/2020 - 22:50:57: "MZR | Conman<28><[U:1:866158720]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "2244 6890 40")
+L 10/17/2020 - 22:51:15: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "world" (attacker_position "-12902 7076 -4865") (victim_position "-12665 7092 -4827")
+L 10/17/2020 - 22:51:24: "MZR | Conman<28><[U:1:866158720]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "1928 6376 -15")
+L 10/17/2020 - 22:51:33: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "1839 6625 -11") (victim_position "2144 6371 -15")
+L 10/17/2020 - 22:51:35: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "ghasperr999ms<41><[U:1:210639978]><Blue>") (position1 "6029 -2602 597") 
+L 10/17/2020 - 22:51:37: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "1839 6625 -11") (victim_position "2144 6563 -15")
+L 10/17/2020 - 22:51:37: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 22:51:38: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "nthh<40><[U:1:296852714]><Blue>") (position1 "6121 -2606 409") 
+L 10/17/2020 - 22:51:58: "nthh<40><[U:1:296852714]><Blue>" committed suicide with "world" (attacker_position "1938 6690 -15")
+L 10/17/2020 - 22:52:15: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 22:52:19: "MZR | Conman<28><[U:1:866158720]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "-12640 7009 -4831")
+L 10/17/2020 - 22:52:59: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "the_classic" (customkill "headshot") (attacker_position "-9765 7039 -4990") (victim_position "-12769 6943 -4866")
+L 10/17/2020 - 22:53:20: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:53:21: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:53:23: "MZR | Conman<28><[U:1:866158720]><Blue>" changed role to "soldier"
+L 10/17/2020 - 22:53:38: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:53:39: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:53:43: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 22:55:05: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:55:06: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:55:20: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "machina" (customkill "headshot") (attacker_position "3788 4047 2617") (victim_position "4319 3752 188")
+L 10/17/2020 - 22:55:22: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:55:25: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:57:00: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Sky<39><[U:1:216083645]><Blue>") (position1 "6873 1906 180") 
+L 10/17/2020 - 22:58:19: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "Sky<39><[U:1:216083645]><Blue>") (position1 "5991 -2604 624") 
+L 10/17/2020 - 22:58:54: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:58:55: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:59:23: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 22:59:24: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 22:59:34: "sniplax<42><[U:1:196210035]><>" connected, address "104.192.200.144:27005"
+L 10/17/2020 - 22:59:34: "sniplax<42><[U:1:196210035]><>" STEAM USERID validated
+L 10/17/2020 - 22:59:45: "Dad<33><[U:1:123675685]><Red>" say "!noclip"
+L 10/17/2020 - 22:59:48: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 23:00:01: "sniplax<42><[U:1:196210035]><>" entered the game
+L 10/17/2020 - 23:00:04: "sniplax<42><[U:1:196210035]><Unassigned>" joined team "Red"
+L 10/17/2020 - 23:00:05: "sniplax<42><[U:1:196210035]><Red>" changed role to "soldier"
+L 10/17/2020 - 23:00:09: "sniplax<42><[U:1:196210035]><Red>" joined team "Blue"
+L 10/17/2020 - 23:00:53: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:00:54: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:00:57: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 23:01:06: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "sniplax<42><[U:1:196210035]><Blue>" with "tf_weapon_jar" (attacker_position "7601 3758 393") (victim_position "7202 3579 388")
+L 10/17/2020 - 23:01:07: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6820 3848 292") (victim_position "6739 3574 243")
+L 10/17/2020 - 23:01:08: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "sniplax<42><[U:1:196210035]><Blue>" with "tf_weapon_jar" (attacker_position "6696 3887 285") (victim_position "6358 3585 128")
+L 10/17/2020 - 23:01:08: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6696 3887 285") (victim_position "6283 3627 128")
+L 10/17/2020 - 23:01:09: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6368 3586 128")
+L 10/17/2020 - 23:01:09: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "sniplax<42><[U:1:196210035]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6376 3503 128")
+L 10/17/2020 - 23:01:09: "sniplax<42><[U:1:196210035]><Blue>" say "wtf"
+L 10/17/2020 - 23:01:10: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "sniplax<42><[U:1:196210035]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6376 3503 128")
+L 10/17/2020 - 23:01:10: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6484 3455 192")
+L 10/17/2020 - 23:01:10: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:01:11: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:01:12: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "xd"
+L 10/17/2020 - 23:01:13: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "sniplax<42><[U:1:196210035]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6396 3472 132")
+L 10/17/2020 - 23:01:16: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6418 3586 128")
+L 10/17/2020 - 23:01:17: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6571 3459 255")
+L 10/17/2020 - 23:01:19: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6442 3465 156")
+L 10/17/2020 - 23:01:21: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6279 3608 128")
+L 10/17/2020 - 23:01:21: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!shop"
+L 10/17/2020 - 23:01:21: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6422 3503 128")
+L 10/17/2020 - 23:01:24: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6281 3619 134")
+L 10/17/2020 - 23:01:25: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!hub"
+L 10/17/2020 - 23:01:25: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6378 3533 128")
+L 10/17/2020 - 23:01:26: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6636 3512 297")
+L 10/17/2020 - 23:01:27: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6316 3632 128")
+L 10/17/2020 - 23:01:28: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6400 3475 128")
+L 10/17/2020 - 23:01:30: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6342 3623 128")
+L 10/17/2020 - 23:01:30: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6403 3515 128")
+L 10/17/2020 - 23:01:31: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6659 3453 316")
+L 10/17/2020 - 23:01:33: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6356 3610 128")
+L 10/17/2020 - 23:01:33: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!taunts"
+L 10/17/2020 - 23:01:34: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6469 3476 184")
+L 10/17/2020 - 23:01:34: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:01:35: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6361 3525 128")
+L 10/17/2020 - 23:01:36: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:01:36: "Dad<33><[U:1:123675685]><Red>" triggered "jarate_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6562 3928 285") (victim_position "6581 3502 231")
+L 10/17/2020 - 23:01:43: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!unusual"
+L 10/17/2020 - 23:01:46: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "market_gardener" (attacker_position "6561 3931 358") (victim_position "6562 3928 285")
+L 10/17/2020 - 23:01:46: "nthh<40><[U:1:296852714]><Blue>" say "!taunts"
+L 10/17/2020 - 23:01:51: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 23:01:51: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:01:54: "Dad<33><[U:1:123675685]><Red>" changed role to "scout"
+L 10/17/2020 - 23:02:02: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 23:02:07: "nthh<40><[U:1:296852714]><Blue>" say "!taunts"
+L 10/17/2020 - 23:02:10: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:02:16: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6886 3701 159") (victim_position "6593 3471 194")
+L 10/17/2020 - 23:02:17: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6882 3781 159") (victim_position "6388 3574 128")
+L 10/17/2020 - 23:02:18: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:02:18: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6882 3781 159") (victim_position "6404 3485 128")
+L 10/17/2020 - 23:02:19: "nthh<40><[U:1:296852714]><Blue>" say "!taunts"
+L 10/17/2020 - 23:02:19: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6882 3781 159") (victim_position "6443 3622 128")
+L 10/17/2020 - 23:02:23: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6907 4061 753") (victim_position "6252 3643 128")
+L 10/17/2020 - 23:02:23: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6907 4061 753") (victim_position "6339 3554 128")
+L 10/17/2020 - 23:02:24: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6907 4061 753") (victim_position "6520 3502 216")
+L 10/17/2020 - 23:02:24: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:02:26: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6907 4061 753") (victim_position "6321 3633 128")
+L 10/17/2020 - 23:02:27: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6907 4061 753") (victim_position "6434 3495 128")
+L 10/17/2020 - 23:02:29: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6907 4061 753") (victim_position "6310 3524 128")
+L 10/17/2020 - 23:02:30: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6907 4061 753") (victim_position "6508 3481 210")
+L 10/17/2020 - 23:02:31: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6907 4061 753") (victim_position "6468 3688 128")
+L 10/17/2020 - 23:02:32: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:02:32: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6907 4061 753") (victim_position "6391 3545 128")
+L 10/17/2020 - 23:02:33: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6907 4061 753") (victim_position "6585 3516 264")
+L 10/17/2020 - 23:02:36: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6907 4061 753") (victim_position "6459 3448 163")
+L 10/17/2020 - 23:02:38: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6907 4061 753") (victim_position "6348 3603 128")
+L 10/17/2020 - 23:02:42: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "sniplax<42><[U:1:196210035]><Blue>") (position1 "7362 1763 81") 
+L 10/17/2020 - 23:02:45: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6907 4061 753") (victim_position "6611 3542 310")
+L 10/17/2020 - 23:02:47: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6907 4061 753") (victim_position "6450 3483 128")
+L 10/17/2020 - 23:02:47: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:03:03: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!taunt"
+L 10/17/2020 - 23:03:14: "Sky<39><[U:1:216083645]><Blue>" say "!taunt"
+L 10/17/2020 - 23:03:15: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "6627 3608 272") (victim_position "6492 3558 282")
+L 10/17/2020 - 23:03:30: "Sky<39><[U:1:216083645]><Blue>" say "!taunt"
+L 10/17/2020 - 23:03:33: "Dad<33><[U:1:123675685]><Red>" triggered "milk_attack" against "MZR | Conman<28><[U:1:866158720]><Blue>" with "tf_weapon_jar" (attacker_position "7119 3766 642") (victim_position "6683 3533 314")
+L 10/17/2020 - 23:03:56: "nthh<40><[U:1:296852714]><Blue>" say "!taunts"
+L 10/17/2020 - 23:04:03: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Dad<33><[U:1:123675685]><Red>") (position1 "7394 1766 320") 
+L 10/17/2020 - 23:04:15: Team "Red" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "Dad<33><[U:1:123675685]><Red>") (position1 "6104 -2603 411") 
+L 10/17/2020 - 23:05:16: "MZR | Conman<28><[U:1:866158720]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:05:22: "MZR | Conman<28><[U:1:866158720]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:05:38: "nthh<40><[U:1:296852714]><Blue>" say "!taunts"
+L 10/17/2020 - 23:06:06: "sniplax<42><[U:1:196210035]><Blue>" say "how do you do this one?"
+L 10/17/2020 - 23:06:17: "sniplax<42><[U:1:196210035]><Blue>" say "2 speedshots?"
+L 10/17/2020 - 23:06:34: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:06:47: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:07:36: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:07:41: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:07:54: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:07:58: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:08:01: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:08:03: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 23:08:07: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:08:12: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:08:12: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:08:24: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 23:08:31: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:08:43: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:08:46: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:09:00: "Sky<39><[U:1:216083645]><Blue>" say "!radio"
+L 10/17/2020 - 23:09:05: "nthh<40><[U:1:296852714]><Blue>" say "!radio"
+L 10/17/2020 - 23:09:13: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:09:14: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 23:09:22: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:09:29: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:09:47: "Dad<33><[U:1:123675685]><Red>" say "!taunt"
+L 10/17/2020 - 23:09:48: "Sky<39><[U:1:216083645]><Blue>" say "!radio"
+L 10/17/2020 - 23:09:50: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:10:02: "Dr. Misha Bandikut<43><[U:1:221276931]><>" connected, address "200.41.102.254:27005"
+L 10/17/2020 - 23:10:02: "Dr. Misha Bandikut<43><[U:1:221276931]><>" STEAM USERID validated
+L 10/17/2020 - 23:10:10: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!taunt"
+L 10/17/2020 - 23:10:13: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:10:22: "Dad<33><[U:1:123675685]><Red>" say "!taunt"
+L 10/17/2020 - 23:10:29: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:11:10: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:11:43: "Dr. Misha Bandikut<43><[U:1:221276931]><>" entered the game
+L 10/17/2020 - 23:11:57: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:12:13: "Dr. Misha Bandikut<43><[U:1:221276931]><Unassigned>" joined team "Red"
+L 10/17/2020 - 23:12:15: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:12:19: "Dr. Misha Bandikut<43><[U:1:221276931]><Red>" changed role to "soldier"
+L 10/17/2020 - 23:12:28: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:12:40: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:12:44: "Dr. Misha Bandikut<43><[U:1:221276931]><Red>" joined team "Blue"
+L 10/17/2020 - 23:12:55: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:13:06: "Sky<39><[U:1:216083645]><Blue>" say "!taunt"
+L 10/17/2020 - 23:13:24: "Sky<39><[U:1:216083645]><Blue>" say "!taunt"
+L 10/17/2020 - 23:13:26: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:13:35: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:13:38: "sniplax<42><[U:1:196210035]><Blue>" say "!progress"
+L 10/17/2020 - 23:13:41: "Sky<39><[U:1:216083645]><Blue>" say "!taunt"
+L 10/17/2020 - 23:13:43: "Dr. Misha Bandikut<43><[U:1:221276931]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:14:27: "Sky<39><[U:1:216083645]><Blue>" say "!taunt"
+L 10/17/2020 - 23:14:45: "Dad<33><[U:1:123675685]><Red>" say "!save"
+L 10/17/2020 - 23:14:52: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:14:57: "Dr. Misha Bandikut<43><[U:1:221276931]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:14:59: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "market_gardener" (attacker_position "3883 1719 205") (victim_position "3921 1779 212")
+L 10/17/2020 - 23:15:34: "MZR | Conman<28><[U:1:866158720]><Blue>" changed role to "spy"
+L 10/17/2020 - 23:15:43: "MZR | Conman<28><[U:1:866158720]><Blue>" say_team "!noclipme"
+L 10/17/2020 - 23:15:48: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:15:53: "Dr. Misha Bandikut<43><[U:1:221276931]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:16:10: "Dad<33><[U:1:123675685]><Red>" changed role to "spy"
+L 10/17/2020 - 23:16:17: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 23:16:22: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:16:25: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:16:28: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:16:31: "Dr. Misha Bandikut<43><[U:1:221276931]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:17:06: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:17:09: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Dad<33><[U:1:123675685]><Red>") (position1 "7020 1769 330") 
+L 10/17/2020 - 23:17:12: "Dr. Misha Bandikut<43><[U:1:221276931]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:17:14: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "MZR | Conman<28><[U:1:866158720]><Blue>") (position1 "7311 1768 167") 
+L 10/17/2020 - 23:17:15: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:17:21: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!taunt"
+L 10/17/2020 - 23:17:44: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!taunt"
+L 10/17/2020 - 23:17:51: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!noclipme"
+L 10/17/2020 - 23:17:52: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!taunt"
+L 10/17/2020 - 23:17:55: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:18:00: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:18:00: "Sky<39><[U:1:216083645]><Blue>" say "!taunt"
+L 10/17/2020 - 23:18:01: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!noclipme"
+L 10/17/2020 - 23:18:05: "nthh<40><[U:1:296852714]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:18:17: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:18:22: "nthh<40><[U:1:296852714]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:18:26: "Mister Cakers<44><[U:1:112081286]><>" connected, address "134.215.129.66:27005"
+L 10/17/2020 - 23:18:26: "Mister Cakers<44><[U:1:112081286]><>" STEAM USERID validated
+L 10/17/2020 - 23:18:26: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:18:27: "nthh<40><[U:1:296852714]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:18:29: "Dad<33><[U:1:123675685]><Red>" say "!noclipme"
+L 10/17/2020 - 23:18:31: "nthh<40><[U:1:296852714]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:18:31: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:18:31: "Dad<33><[U:1:123675685]><Red>" say "!save"
+L 10/17/2020 - 23:18:36: "MZR | Conman<28><[U:1:866158720]><Blue>" say_team "!noclipme"
+L 10/17/2020 - 23:18:39: "Sky<39><[U:1:216083645]><Blue>" say "!taunt"
+L 10/17/2020 - 23:18:39: "Mister Cakers<44><[U:1:112081286]><>" entered the game
+L 10/17/2020 - 23:18:39: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!save"
+L 10/17/2020 - 23:18:43: "Mister Cakers<44><[U:1:112081286]><Unassigned>" joined team "Red"
+L 10/17/2020 - 23:18:43: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:18:45: "Mister Cakers<44><[U:1:112081286]><Red>" changed role to "scout"
+L 10/17/2020 - 23:18:46: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:18:46: "Dad<33><[U:1:123675685]><Red>" say "!t"
+L 10/17/2020 - 23:18:47: "Mister Cakers<44><[U:1:112081286]><Red>" changed role to "soldier"
+L 10/17/2020 - 23:18:49: "Dr. Misha Bandikut<43><[U:1:221276931]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:18:52: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "sharp_dresser" (customkill "backstab") (attacker_position "7303 2142 32") (victim_position "7291 2135 32")
+L 10/17/2020 - 23:18:53: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:18:59: "Mister Cakers<44><[U:1:112081286]><Red>" committed suicide with "world" (attacker_position "6655 -3516 208")
+L 10/17/2020 - 23:19:03: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:19:09: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "sharp_dresser" (customkill "backstab") (attacker_position "7462 2004 32") (victim_position "7436 1984 32")
+L 10/17/2020 - 23:19:10: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:19:13: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:19:17: "Mister Cakers<44><[U:1:112081286]><Red>" joined team "Blue"
+L 10/17/2020 - 23:19:17: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:19:23: "Dr. Misha Bandikut<43><[U:1:221276931]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:19:27: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "sharp_dresser" (customkill "backstab") (attacker_position "7547 2679 2") (victim_position "7522 2600 32")
+L 10/17/2020 - 23:19:40: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:19:42: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!taunt"
+L 10/17/2020 - 23:19:51: "Sky<39><[U:1:216083645]><Blue>" say "!taunt"
+L 10/17/2020 - 23:19:55: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "sharp_dresser" (customkill "backstab") (attacker_position "7879 2092 32") (victim_position "7831 2054 32")
+L 10/17/2020 - 23:19:55: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 23:20:15: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:20:25: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:20:35: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:20:36: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "sharp_dresser" (customkill "backstab") (attacker_position "7643 2019 39") (victim_position "7648 2072 39")
+L 10/17/2020 - 23:20:41: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:20:49: "Dr. Misha Bandikut<43><[U:1:221276931]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:20:51: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "big_earner" (customkill "backstab") (attacker_position "7937 2102 32") (victim_position "7894 2069 32")
+L 10/17/2020 - 23:20:51: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:20:53: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:20:56: "Sky<39><[U:1:216083645]><Blue>" say "!taunt"
+L 10/17/2020 - 23:20:57: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:21:00: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "big_earner" (customkill "backstab") (attacker_position "7957 2025 32") (victim_position "7896 2006 32")
+L 10/17/2020 - 23:21:02: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:21:05: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!taunt"
+L 10/17/2020 - 23:21:18: "sniplax<42><[U:1:196210035]><Blue>" say "!showme"
+L 10/17/2020 - 23:21:21: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "big_earner" (customkill "backstab") (attacker_position "7976 2125 32") (victim_position "7912 2072 32")
+L 10/17/2020 - 23:21:22: "sniplax<42><[U:1:196210035]><Blue>" say "fuckk"
+L 10/17/2020 - 23:21:23: "Bubastis<45><[U:1:80808881]><>" connected, address "68.189.69.234:27005"
+L 10/17/2020 - 23:21:23: "Bubastis<45><[U:1:80808881]><>" STEAM USERID validated
+L 10/17/2020 - 23:21:31: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!noclipme"
+L 10/17/2020 - 23:21:33: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "sharp_dresser" (customkill "backstab") (attacker_position "7954 2163 32") (victim_position "7909 2115 32")
+L 10/17/2020 - 23:21:33: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:21:41: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:21:47: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:21:54: "sniplax<42><[U:1:196210035]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 23:21:54: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:21:58: "Dr. Misha Bandikut<43><[U:1:221276931]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:22:01: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "spy_cicle" (customkill "backstab") (attacker_position "7831 1960 32") (victim_position "7842 2026 32")
+L 10/17/2020 - 23:22:06: "Sky<39><[U:1:216083645]><Blue>" say "!taunt"
+L 10/17/2020 - 23:22:10: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:22:13: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:22:16: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "spy_cicle" (customkill "backstab") (attacker_position "7957 2300 77") (victim_position "7994 2246 16")
+L 10/17/2020 - 23:22:18: "Dr. Misha Bandikut<43><[U:1:221276931]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:22:18: "Bubastis<45><[U:1:80808881]><>" entered the game
+L 10/17/2020 - 23:22:20: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "spy_cicle" (customkill "backstab") (attacker_position "7670 2034 39") (victim_position "7641 2100 39")
+L 10/17/2020 - 23:22:20: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 23:22:25: "Bubastis<45><[U:1:80808881]><Unassigned>" joined team "Red"
+L 10/17/2020 - 23:22:26: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:22:28: "Bubastis<45><[U:1:80808881]><Red>" changed role to "soldier"
+L 10/17/2020 - 23:22:54: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "spy_cicle" (customkill "backstab") (attacker_position "8174 2191 128") (victim_position "8241 2144 175")
+L 10/17/2020 - 23:22:59: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "spy_cicle" (customkill "backstab") (attacker_position "8357 2468 96") (victim_position "8337 2390 127")
+L 10/17/2020 - 23:23:04: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:23:07: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:23:10: "Bubastis<45><[U:1:80808881]><Red>" changed role to "medic"
+L 10/17/2020 - 23:23:12: "Bubastis<45><[U:1:80808881]><Red>" joined team "Blue"
+L 10/17/2020 - 23:23:13: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "spy_cicle" (customkill "backstab") (attacker_position "8148 2389 44") (victim_position "8097 2374 33")
+L 10/17/2020 - 23:23:13: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:23:15: "Bubastis<45><[U:1:80808881]><Blue>" changed role to "soldier"
+L 10/17/2020 - 23:23:42: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:23:49: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:23:54: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "spy_cicle" (customkill "backstab") (attacker_position "8309 2478 96") (victim_position "8297 2425 117")
+L 10/17/2020 - 23:23:56: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:24:01: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>") (position1 "7158 1767 220") 
+L 10/17/2020 - 23:24:02: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "spy_cicle" (customkill "backstab") (attacker_position "8364 2096 128") (victim_position "8348 2071 128")
+L 10/17/2020 - 23:24:05: "Dad<33><[U:1:123675685]><Red>" killed "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" with "spy_cicle" (customkill "backstab") (attacker_position "8119 2074 81") (victim_position "8187 2107 160")
+L 10/17/2020 - 23:24:06: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "spy_cicle" (customkill "backstab") (attacker_position "8084 2067 32") (victim_position "8117 2146 32")
+L 10/17/2020 - 23:24:13: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:24:16: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!tp ghasper"
+L 10/17/2020 - 23:24:25: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:24:25: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!fp"
+L 10/17/2020 - 23:24:27: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "spy_cicle" (customkill "backstab") (attacker_position "8289 2191 128") (victim_position "8338 2203 128")
+L 10/17/2020 - 23:24:35: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:24:35: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "spy_cicle" (customkill "backstab") (attacker_position "8315 2061 128") (victim_position "8320 2088 128")
+L 10/17/2020 - 23:24:53: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:24:54: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "spy_cicle" (customkill "backstab") (attacker_position "8355 2314 186") (victim_position "8377 2289 128")
+L 10/17/2020 - 23:25:09: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:25:20: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8394 2267 128") (victim_position "8397 2314 126")
+L 10/17/2020 - 23:25:20: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:25:23: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8190 2503 62") (victim_position "8200 2458 60")
+L 10/17/2020 - 23:25:28: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "7715 2005 37") (victim_position "7752 1960 32")
+L 10/17/2020 - 23:25:30: "Mister Cakers<44><[U:1:112081286]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:25:36: "Mister Cakers<44><[U:1:112081286]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:25:37: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:25:40: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!taunt"
+L 10/17/2020 - 23:25:44: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:25:51: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!noclipme"
+L 10/17/2020 - 23:26:01: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "8350 2300 128") (victim_position "8343 2278 128")
+L 10/17/2020 - 23:26:04: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:26:09: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8378 2050 128") (victim_position "8354 2049 128")
+L 10/17/2020 - 23:26:46: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:27:20: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8289 2453 96") (victim_position "8347 2515 96")
+L 10/17/2020 - 23:27:36: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:27:40: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8426 3154 133") (victim_position "8443 3092 109")
+L 10/17/2020 - 23:28:06: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:28:13: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!t"
+L 10/17/2020 - 23:28:16: "Mister Cakers<44><[U:1:112081286]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 23:28:32: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:28:48: "Sky<39><[U:1:216083645]><Blue>" say "!taunt"
+L 10/17/2020 - 23:29:12: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8402 2961 96") (victim_position "8432 3007 165")
+L 10/17/2020 - 23:29:12: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 23:29:18: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "8302 2976 96") (victim_position "8286 2924 96")
+L 10/17/2020 - 23:29:18: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:29:25: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!noclipme"
+L 10/17/2020 - 23:29:27: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8292 2694 96") (victim_position "8374 2688 96")
+L 10/17/2020 - 23:29:40: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:29:41: "Dr. Misha Bandikut<43><[U:1:221276931]><Spectator>" say "!noclipme"
+L 10/17/2020 - 23:29:47: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8493 2409 96") (victim_position "8418 2405 96")
+L 10/17/2020 - 23:29:47: "Dr. Misha Bandikut<43><[U:1:221276931]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:29:54: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:29:55: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:30:00: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:30:09: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:30:10: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:30:20: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "6840 2503 96") (victim_position "6853 2462 96")
+L 10/17/2020 - 23:30:27: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:30:32: "Sky<39><[U:1:216083645]><Blue>" say "!noclip"
+L 10/17/2020 - 23:30:34: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "7874 2348 1") (victim_position "7879 2402 8")
+L 10/17/2020 - 23:30:36: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:30:37: "Dr. Misha Bandikut<43><[U:1:221276931]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:30:46: "Sky<39><[U:1:216083645]><Blue>" say "!noclip"
+L 10/17/2020 - 23:30:51: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:31:04: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:31:15: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:31:23: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "7048 2559 112") (victim_position "7025 2569 75")
+L 10/17/2020 - 23:31:58: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "6875 2332 117") (victim_position "6844 2273 128")
+L 10/17/2020 - 23:32:08: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "7427 2897 88") (victim_position "7450 2854 15")
+L 10/17/2020 - 23:32:12: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8015 2532 33") (victim_position "8028 2516 33")
+L 10/17/2020 - 23:32:20: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!t"
+L 10/17/2020 - 23:32:38: "Dad<33><[U:1:123675685]><Red>" say "!t"
+L 10/17/2020 - 23:32:42: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!t"
+L 10/17/2020 - 23:32:50: "Dad<33><[U:1:123675685]><Red>" say "!t"
+L 10/17/2020 - 23:32:57: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8364 2060 128") (victim_position "8338 2042 128")
+L 10/17/2020 - 23:33:04: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:33:09: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:33:14: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "7866 2444 14") (victim_position "7850 2483 20")
+L 10/17/2020 - 23:33:19: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:33:29: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "6844 2685 96") (victim_position "6869 2686 96")
+L 10/17/2020 - 23:33:41: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "7610 2672 5") (victim_position "7536 2641 11")
+L 10/17/2020 - 23:34:06: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "7061 2048 128") (victim_position "7027 2042 128")
+L 10/17/2020 - 23:34:17: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:34:52: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8459 2298 128") (victim_position "8420 2243 157")
+L 10/17/2020 - 23:35:03: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:35:12: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:35:30: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8341 2155 128") (victim_position "8324 2203 128")
+L 10/17/2020 - 23:35:57: "Sky<39><[U:1:216083645]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:36:08: "Sky<39><[U:1:216083645]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:36:19: "nthh<40><[U:1:296852714]><Blue>" say "!taunt"
+L 10/17/2020 - 23:36:27: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8424 2639 96") (victim_position "8465 2715 96")
+L 10/17/2020 - 23:36:37: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!taunt"
+L 10/17/2020 - 23:37:14: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "8455 2754 96") (victim_position "8426 2784 98")
+L 10/17/2020 - 23:37:17: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8556 2669 139") (victim_position "8525 2705 96")
+L 10/17/2020 - 23:37:22: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!taunt"
+L 10/17/2020 - 23:37:25: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "8440 2485 96") (victim_position "8475 2569 96")
+L 10/17/2020 - 23:37:39: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8605 2801 96") (victim_position "8554 2790 96")
+L 10/17/2020 - 23:37:44: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8607 2414 96") (victim_position "8562 2406 146")
+L 10/17/2020 - 23:37:49: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8615 2416 96") (victim_position "8581 2409 146")
+L 10/17/2020 - 23:37:49: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!taunt"
+L 10/17/2020 - 23:37:59: "ghasperr999ms<41><[U:1:210639978]><Blue>" say_team "!noclipme"
+L 10/17/2020 - 23:38:18: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:38:21: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:38:35: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8615 2470 96") (victim_position "8609 2473 96")
+L 10/17/2020 - 23:38:35: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 23:38:56: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8615 2475 96") (victim_position "8576 2509 96")
+L 10/17/2020 - 23:39:10: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8542 2484 96") (victim_position "8506 2521 164")
+L 10/17/2020 - 23:39:17: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8615 2376 96") (victim_position "8559 2412 137")
+L 10/17/2020 - 23:39:26: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "8615 2592 96") (victim_position "8615 2552 96")
+L 10/17/2020 - 23:39:26: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:40:00: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8419 2477 96") (victim_position "8474 2429 96")
+L 10/17/2020 - 23:40:31: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!t"
+L 10/17/2020 - 23:40:36: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "ambassador" (customkill "feign_death") (attacker_position "7456 2261 295") (victim_position "8226 2172 128")
+L 10/17/2020 - 23:40:36: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:40:42: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "ambassador" (customkill "feign_death") (attacker_position "7715 1881 295") (victim_position "8274 2220 128")
+L 10/17/2020 - 23:40:42: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:40:53: "ghasperr999ms<41><[U:1:210639978]><Blue>" say "xD"
+L 10/17/2020 - 23:41:07: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8388 2959 96") (victim_position "8328 2948 96")
+L 10/17/2020 - 23:41:14: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "feign_death") (attacker_position "8187 3052 96") (victim_position "8119 3063 96")
+L 10/17/2020 - 23:41:14: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:41:19: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:41:20: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "8085 3062 96") (victim_position "8111 3053 96")
+L 10/17/2020 - 23:41:30: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "7642 2918 37") (victim_position "7610 2905 34")
+L 10/17/2020 - 23:41:30: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 23:41:32: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:41:32: "ghasperr999ms<41><[U:1:210639978]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 23:41:34: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:41:43: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:41:45: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:41:51: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "6860 3027 92") (victim_position "6898 2982 88")
+L 10/17/2020 - 23:41:51: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:41:51: "Dr. Misha Bandikut<43><[U:1:221276931]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:41:58: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "6958 3063 97") (victim_position "7004 3044 94")
+L 10/17/2020 - 23:42:14: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "7057 3063 151") (victim_position "7026 3001 88")
+L 10/17/2020 - 23:42:17: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "7091 2868 155") (victim_position "7046 2877 70")
+L 10/17/2020 - 23:42:30: "Dr. Misha Bandikut<43><[U:1:221276931]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 23:42:33: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "6946 2947 86") (victim_position "6908 2909 153")
+L 10/17/2020 - 23:42:40: "nthh<40><[U:1:296852714]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:42:44: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "6971 2921 83") (victim_position "6958 2866 83")
+L 10/17/2020 - 23:42:45: "nthh<40><[U:1:296852714]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:42:53: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "7194 2875 27") (victim_position "7239 2855 13")
+L 10/17/2020 - 23:42:53: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:43:00: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "7412 2009 83") (victim_position "7423 2011 32")
+L 10/17/2020 - 23:43:01: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:43:06: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5049 96 256") (victim_position "5072 114 256")
+L 10/17/2020 - 23:43:23: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "4864 -207 260") (victim_position "4879 -159 256")
+L 10/17/2020 - 23:43:33: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "5048 71 256") (victim_position "5101 33 256")
+L 10/17/2020 - 23:43:36: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:43:39: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "5055 65 256") (victim_position "5066 64 256")
+L 10/17/2020 - 23:43:44: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:43:46: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "5157 245 256") (victim_position "5143 182 256")
+L 10/17/2020 - 23:43:46: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 23:43:49: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "5032 120 256") (victim_position "5091 62 256")
+L 10/17/2020 - 23:44:01: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "4920 -132 256") (victim_position "4904 -163 256")
+L 10/17/2020 - 23:44:09: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "5032 72 256") (victim_position "5093 69 256")
+L 10/17/2020 - 23:44:20: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "5122 300 256") (victim_position "5129 250 256")
+L 10/17/2020 - 23:44:54: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "4526 -203 159") (victim_position "4523 -129 157")
+L 10/17/2020 - 23:45:06: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5192 395 256") (victim_position "5192 439 256")
+L 10/17/2020 - 23:45:06: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:45:24: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:45:25: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:45:28: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "5297 411 256") (victim_position "5314 366 256")
+L 10/17/2020 - 23:45:37: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "5040 283 256") (victim_position "5032 260 256")
+L 10/17/2020 - 23:45:41: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:45:42: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:45:47: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5239 375 256") (victim_position "5211 376 256")
+L 10/17/2020 - 23:45:57: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "5282 439 256") (victim_position "5291 433 256")
+L 10/17/2020 - 23:46:02: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "5078 105 256") (victim_position "5136 113 256")
+L 10/17/2020 - 23:46:10: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:46:14: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:46:16: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "5241 134 256") (victim_position "5184 128 256")
+L 10/17/2020 - 23:46:24: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "5048 90 256") (victim_position "5110 40 256")
+L 10/17/2020 - 23:46:24: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 23:46:29: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!s"
+L 10/17/2020 - 23:46:36: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:46:37: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:46:40: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5104 292 256") (victim_position "5142 248 256")
+L 10/17/2020 - 23:46:40: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:46:44: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5032 72 256") (victim_position "5092 97 256")
+L 10/17/2020 - 23:46:57: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5265 400 256") (victim_position "5257 337 256")
+L 10/17/2020 - 23:47:01: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "5067 240 284") (victim_position "5102 240 256")
+L 10/17/2020 - 23:47:09: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "eternal_reward" (customkill "backstab") (attacker_position "5013 -86 256") (victim_position "5010 -118 256")
+L 10/17/2020 - 23:47:15: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5026 -114 256") (victim_position "5100 -148 256")
+L 10/17/2020 - 23:47:24: "Dad<33><[U:1:123675685]><Red>" say "!save"
+L 10/17/2020 - 23:47:43: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!s"
+L 10/17/2020 - 23:47:54: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5185 256 256") (victim_position "5226 230 256")
+L 10/17/2020 - 23:47:56: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5048 100 256") (victim_position "5078 90 256")
+L 10/17/2020 - 23:48:09: "Sky<39><[U:1:216083645]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:48:17: "Sky<39><[U:1:216083645]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:48:54: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:48:59: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "3481 194 144") (victim_position "3544 191 144")
+L 10/17/2020 - 23:49:07: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:49:13: "Dad<33><[U:1:123675685]><Red>" say "!t"
+L 10/17/2020 - 23:49:15: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "4829 -206 256") (victim_position "4845 -187 256")
+L 10/17/2020 - 23:49:17: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5216 169 256") (victim_position "5194 154 256")
+L 10/17/2020 - 23:49:18: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5163 219 256") (victim_position "5192 166 256")
+L 10/17/2020 - 23:49:18: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 23:49:22: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5112 192 256") (victim_position "5120 244 256")
+L 10/17/2020 - 23:49:28: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5156 72 256") (victim_position "5153 78 288")
+L 10/17/2020 - 23:49:39: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5139 290 256") (victim_position "5113 246 256")
+L 10/17/2020 - 23:49:39: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:49:49: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5032 343 256") (victim_position "5072 312 256")
+L 10/17/2020 - 23:49:50: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:49:54: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5128 174 256") (victim_position "5164 188 256")
+L 10/17/2020 - 23:49:59: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5192 439 256") (victim_position "5192 436 256")
+L 10/17/2020 - 23:50:01: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5222 185 256") (victim_position "5229 166 256")
+L 10/17/2020 - 23:50:04: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:50:09: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5032 244 256") (victim_position "5083 241 256")
+L 10/17/2020 - 23:50:41: "Bubastis<45><[U:1:80808881]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 23:50:45: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5233 388 256") (victim_position "5288 361 256")
+L 10/17/2020 - 23:50:56: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5092 295 256") (victim_position "5084 271 256")
+L 10/17/2020 - 23:50:58: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5163 224 256") (victim_position "5124 174 256")
+L 10/17/2020 - 23:50:58: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 23:51:01: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5088 214 256") (victim_position "5164 215 256")
+L 10/17/2020 - 23:51:01: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:51:08: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5032 158 343") (victim_position "5055 167 256")
+L 10/17/2020 - 23:51:09: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5229 185 256") (victim_position "5194 155 256")
+L 10/17/2020 - 23:51:11: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5201 229 256") (victim_position "5184 158 256")
+L 10/17/2020 - 23:51:12: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5100 266 256") (victim_position "5135 213 256")
+L 10/17/2020 - 23:51:13: "Sky<39><[U:1:216083645]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:51:15: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5051 282 256") (victim_position "5074 266 256")
+L 10/17/2020 - 23:51:21: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!s"
+L 10/17/2020 - 23:51:22: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5240 401 256") (victim_position "5258 386 256")
+L 10/17/2020 - 23:51:26: "Sky<39><[U:1:216083645]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:51:44: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5123 -202 256") (victim_position "5183 -166 256")
+L 10/17/2020 - 23:51:49: "Sky<39><[U:1:216083645]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:51:51: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5242 290 256") (victim_position "5303 227 256")
+L 10/17/2020 - 23:51:51: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 23:52:00: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5492 439 258") (victim_position "5462 439 256")
+L 10/17/2020 - 23:52:01: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5336 387 256") (victim_position "5309 353 256")
+L 10/17/2020 - 23:52:07: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5168 343 256") (victim_position "5208 318 307")
+L 10/17/2020 - 23:52:07: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:52:43: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5192 439 256") (victim_position "5192 439 256")
+L 10/17/2020 - 23:52:47: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5201 343 256") (victim_position "5198 296 256")
+L 10/17/2020 - 23:52:51: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:52:55: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:53:03: "nthh<40><[U:1:296852714]><Blue>" say "noclipme"
+L 10/17/2020 - 23:53:06: "nthh<40><[U:1:296852714]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:53:14: "nthh<40><[U:1:296852714]><Blue>" say "!noclipme"
+L 10/17/2020 - 23:53:14: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5044 -153 256") (victim_position "5021 -132 256")
+L 10/17/2020 - 23:53:21: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5107 -207 256") (victim_position "5089 -189 256")
+L 10/17/2020 - 23:53:29: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5066 310 256") (victim_position "5065 330 256")
+L 10/17/2020 - 23:53:34: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5241 367 256") (victim_position "5221 343 256")
+L 10/17/2020 - 23:53:36: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5081 131 256") (victim_position "5133 84 256")
+L 10/17/2020 - 23:53:36: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 23:53:37: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/17/2020 - 23:53:44: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5093 125 256") (victim_position "5152 96 256")
+L 10/17/2020 - 23:53:45: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!s"
+L 10/17/2020 - 23:53:50: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/17/2020 - 23:53:50: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5092 198 256") (victim_position "5113 183 256")
+L 10/17/2020 - 23:53:50: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:53:56: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5124 26 256") (victim_position "5085 4 256")
+L 10/17/2020 - 23:53:59: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5096 120 256") (victim_position "5142 92 256")
+L 10/17/2020 - 23:54:08: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5121 215 256") (victim_position "5106 271 256")
+L 10/17/2020 - 23:54:14: "Sky<39><[U:1:216083645]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/17/2020 - 23:54:20: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "4982 -176 337") (victim_position "5022 -161 256")
+L 10/17/2020 - 23:54:23: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5185 281 256") (victim_position "5189 252 256")
+L 10/17/2020 - 23:54:33: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5105 271 256") (victim_position "5111 208 256")
+L 10/17/2020 - 23:54:40: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5032 72 268") (victim_position "5088 69 256")
+L 10/17/2020 - 23:54:40: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 23:54:41: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5085 102 256") (victim_position "5116 46 256")
+L 10/17/2020 - 23:54:47: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5032 208 256") (victim_position "5032 269 256")
+L 10/17/2020 - 23:54:54: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5191 129 256") (victim_position "5169 126 256")
+L 10/17/2020 - 23:54:59: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5218 74 256") (victim_position "5148 92 256")
+L 10/17/2020 - 23:55:12: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5199 -122 256") (victim_position "5156 -149 256")
+L 10/17/2020 - 23:56:35: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5032 187 256") (victim_position "5065 157 256")
+L 10/17/2020 - 23:56:35: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:56:38: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5032 228 256") (victim_position "5058 210 256")
+L 10/17/2020 - 23:56:41: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5048 319 256") (victim_position "5129 274 256")
+L 10/17/2020 - 23:56:48: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5173 203 256") (victim_position "5216 276 256")
+L 10/17/2020 - 23:56:50: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5115 334 256") (victim_position "5115 305 256")
+L 10/17/2020 - 23:56:50: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 23:56:52: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5034 163 256") (victim_position "5081 142 256")
+L 10/17/2020 - 23:56:58: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5212 439 256") (victim_position "5250 397 256")
+L 10/17/2020 - 23:57:04: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5211 401 256") (victim_position "5184 343 256")
+L 10/17/2020 - 23:57:10: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5271 413 256") (victim_position "5195 375 256")
+L 10/17/2020 - 23:57:13: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5042 113 256") (victim_position "5085 103 256")
+L 10/17/2020 - 23:57:31: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5033 200 256") (victim_position "5058 172 256")
+L 10/17/2020 - 23:57:35: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "ambassador" (customkill "headshot") (attacker_position "5255 439 256") (victim_position "5050 158 256")
+L 10/17/2020 - 23:57:35: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:57:38: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5299 266 256") (victim_position "5274 320 256")
+L 10/17/2020 - 23:57:39: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5295 306 256") (victim_position "5261 310 256")
+L 10/17/2020 - 23:57:43: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5104 50 256") (victim_position "5058 62 256")
+L 10/17/2020 - 23:57:59: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5173 138 256") (victim_position "5153 126 256")
+L 10/17/2020 - 23:57:59: "Dad<33><[U:1:123675685]><Red>" triggered "domination" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/17/2020 - 23:58:04: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5092 -79 256") (victim_position "5070 -52 256")
+L 10/17/2020 - 23:58:06: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5070 128 256") (victim_position "5121 106 256")
+L 10/17/2020 - 23:58:13: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5110 93 256") (victim_position "5178 123 256")
+L 10/17/2020 - 23:59:36: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!t"
+L 10/17/2020 - 23:59:39: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5290 406 256") (victim_position "5330 338 256")
+L 10/17/2020 - 23:59:43: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5172 343 256") (victim_position "5153 312 256")
+L 10/17/2020 - 23:59:43: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "revenge" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:59:44: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5032 277 256") (victim_position "5032 274 256")
+L 10/17/2020 - 23:59:53: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5032 343 322") (victim_position "5032 341 256")
+L 10/17/2020 - 23:59:57: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5032 343 310") (victim_position "5045 343 256")
+L 10/17/2020 - 23:59:57: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "domination" against "Dad<33><[U:1:123675685]><Red>"
+L 10/17/2020 - 23:59:59: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5032 343 304") (victim_position "5057 327 256")
+L 10/18/2020 - 00:00:02: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5142 15 256") (victim_position "5090 45 256")
+L 10/18/2020 - 00:00:02: "Dad<33><[U:1:123675685]><Red>" triggered "revenge" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/18/2020 - 00:00:22: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5032 188 256") (victim_position "5047 191 256")
+L 10/18/2020 - 00:00:50: "Dad<33><[U:1:123675685]><Red>" committed suicide with "world" (attacker_position "4395 -120 128")
+L 10/18/2020 - 00:00:52: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "4782 -144 256") (victim_position "4823 -121 256")
+L 10/18/2020 - 00:01:01: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5032 343 333") (victim_position "5032 343 256")
+L 10/18/2020 - 00:01:03: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5054 88 256") (victim_position "5101 87 256")
+L 10/18/2020 - 00:01:10: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5021 -207 256") (victim_position "5066 -176 256")
+L 10/18/2020 - 00:01:11: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5199 -85 256") (victim_position "5199 -47 256")
+L 10/18/2020 - 00:01:11: "MZR | Conman<28><[U:1:866158720]><Blue>" triggered "domination" against "Dad<33><[U:1:123675685]><Red>"
+L 10/18/2020 - 00:01:17: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5134 -66 256") (victim_position "5104 -12 256")
+L 10/18/2020 - 00:01:18: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5017 -151 256") (victim_position "5050 -115 291")
+L 10/18/2020 - 00:01:23: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/18/2020 - 00:01:25: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5099 -84 256") (victim_position "5139 -14 256")
+L 10/18/2020 - 00:01:27: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/18/2020 - 00:01:29: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5052 -80 256") (victim_position "5131 -122 256")
+L 10/18/2020 - 00:01:43: "Dad<33><[U:1:123675685]><Red>" say "!t"
+L 10/18/2020 - 00:01:48: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5026 -141 256") (victim_position "4961 -153 256")
+L 10/18/2020 - 00:01:57: "MZR | Conman<28><[U:1:866158720]><Blue>" say "!t"
+L 10/18/2020 - 00:02:02: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5136 169 256") (victim_position "5143 189 256")
+L 10/18/2020 - 00:02:03: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5103 -3 256") (victim_position "5147 12 256")
+L 10/18/2020 - 00:02:11: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5094 88 256") (victim_position "5058 103 256")
+L 10/18/2020 - 00:02:11: "Dad<33><[U:1:123675685]><Red>" triggered "revenge" against "MZR | Conman<28><[U:1:866158720]><Blue>"
+L 10/18/2020 - 00:02:30: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5113 -192 256") (victim_position "5076 -174 256")
+L 10/18/2020 - 00:02:37: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5137 293 256") (victim_position "5152 342 256")
+L 10/18/2020 - 00:02:39: "MZR | Conman<28><[U:1:866158720]><Blue>" killed "Dad<33><[U:1:123675685]><Red>" with "knife" (customkill "backstab") (attacker_position "5202 302 256") (victim_position "5215 355 256")
+L 10/18/2020 - 00:02:44: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5097 197 256") (victim_position "5073 245 256")
+L 10/18/2020 - 00:02:47: "Dad<33><[U:1:123675685]><Red>" killed "MZR | Conman<28><[U:1:866158720]><Blue>" with "big_earner" (customkill "backstab") (attacker_position "5214 314 256") (victim_position "5193 292 256")
+L 10/18/2020 - 00:03:04: "Dad<33><[U:1:123675685]><Red>" disconnected (reason "Disconnect by user.")
+L 10/18/2020 - 00:03:48: "MZR | Conman<28><[U:1:866158720]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/18/2020 - 00:11:12: "Boomstick<46><[U:1:85237501]><>" connected, address "173.30.64.21:27005"
+L 10/18/2020 - 00:11:12: "Boomstick<46><[U:1:85237501]><>" STEAM USERID validated
+L 10/18/2020 - 00:11:17: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/18/2020 - 00:11:20: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/18/2020 - 00:11:32: "Boomstick<46><[U:1:85237501]><>" entered the game
+L 10/18/2020 - 00:11:36: "Boomstick<46><[U:1:85237501]><Unassigned>" joined team "Red"
+L 10/18/2020 - 00:11:37: "Boomstick<46><[U:1:85237501]><Red>" changed role to "soldier"
+L 10/18/2020 - 00:11:51: "Boomstick<46><[U:1:85237501]><Red>" joined team "Blue"
+L 10/18/2020 - 00:15:18: "Boomstick<46><[U:1:85237501]><Blue>" joined team "Spectator"
+L 10/18/2020 - 00:15:26: "Boomstick<46><[U:1:85237501]><Spectator>" joined team "Blue"
+L 10/18/2020 - 00:15:50: "night<47><[U:1:66854565]><>" connected, address "76.171.21.36:27005"
+L 10/18/2020 - 00:15:50: "night<47><[U:1:66854565]><>" STEAM USERID validated
+L 10/18/2020 - 00:15:57: "night<47><[U:1:66854565]><>" entered the game
+L 10/18/2020 - 00:15:58: "night<47><[U:1:66854565]><Unassigned>" joined team "Red"
+L 10/18/2020 - 00:15:59: "night<47><[U:1:66854565]><Red>" changed role to "soldier"
+L 10/18/2020 - 00:16:01: "night<47><[U:1:66854565]><Red>" joined team "Blue"
+L 10/18/2020 - 00:17:51: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "night<47><[U:1:66854565]><Blue>") (position1 "7331 1769 689") 
+L 10/18/2020 - 00:18:11: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Beginner Course Bonus") (numcappers "1") (player1 "night<47><[U:1:66854565]><Blue>") (position1 "6126 -2771 639") 
+L 10/18/2020 - 00:19:05: "ORKYPORKY YT<48><[U:1:1078754625]><>" connected, address "142.165.139.104:36219"
+L 10/18/2020 - 00:19:06: "ORKYPORKY YT<48><[U:1:1078754625]><>" STEAM USERID validated
+L 10/18/2020 - 00:20:47: "ORKYPORKY YT<48><[U:1:1078754625]><>" entered the game
+L 10/18/2020 - 00:21:04: "ORKYPORKY YT<48><[U:1:1078754625]><Unassigned>" joined team "Red"
+L 10/18/2020 - 00:21:07: "ORKYPORKY YT<48><[U:1:1078754625]><Red>" changed role to "soldier"
+L 10/18/2020 - 00:21:14: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "Boomstick<46><[U:1:85237501]><Blue>") (position1 "7300 1772 72") 
+L 10/18/2020 - 00:21:20: "ORKYPORKY YT<48><[U:1:1078754625]><Red>" joined team "Blue"
+L 10/18/2020 - 00:21:35: "Boomstick<46><[U:1:85237501]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/18/2020 - 00:22:46: "ORKYPORKY YT<48><[U:1:1078754625]><Blue>" say "!noclipme"
+L 10/18/2020 - 00:22:58: "ORKYPORKY YT<48><[U:1:1078754625]><Blue>" say "!noclipme"
+L 10/18/2020 - 00:25:36: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/18/2020 - 00:25:40: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/18/2020 - 00:27:09: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/18/2020 - 00:27:11: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/18/2020 - 00:27:23: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/18/2020 - 00:27:24: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/18/2020 - 00:27:44: "nicthegiant<49><[U:1:178199954]><>" connected, address "98.146.194.87:27005"
+L 10/18/2020 - 00:27:44: "nicthegiant<49><[U:1:178199954]><>" STEAM USERID validated
+L 10/18/2020 - 00:28:00: "nicthegiant<49><[U:1:178199954]><>" entered the game
+L 10/18/2020 - 00:28:06: "nicthegiant<49><[U:1:178199954]><Unassigned>" joined team "Red"
+L 10/18/2020 - 00:28:09: "nicthegiant<49><[U:1:178199954]><Red>" changed role to "soldier"
+L 10/18/2020 - 00:28:13: "nicthegiant<49><[U:1:178199954]><Red>" joined team "Blue"
+L 10/18/2020 - 00:28:34: "nicthegiant<49><[U:1:178199954]><Blue>" say "!ammo"
+L 10/18/2020 - 00:28:35: "ORKYPORKY YT<48><[U:1:1078754625]><Blue>" disconnected (reason "ORKYPORKY YT timed out")
+L 10/18/2020 - 00:29:20: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/18/2020 - 00:29:33: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/18/2020 - 00:29:57: "nthh<40><[U:1:296852714]><Blue>" joined team "Spectator"
+L 10/18/2020 - 00:30:02: "nthh<40><[U:1:296852714]><Spectator>" joined team "Blue"
+L 10/18/2020 - 00:32:22: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Beginner Course") (numcappers "1") (player1 "nicthegiant<49><[U:1:178199954]><Blue>") (position1 "7368 1775 334") 
+L 10/18/2020 - 00:38:12: "nicthegiant<49><[U:1:178199954]><Blue>" say "youll get this one eventually its an annoying one"
+L 10/18/2020 - 00:39:16: "nthh<40><[U:1:296852714]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/18/2020 - 00:44:43: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Advanced Course") (numcappers "1") (player1 "nicthegiant<49><[U:1:178199954]><Blue>") (position1 "5804 -8279 -3681") 
+L 10/18/2020 - 00:44:48: "nicthegiant<49><[U:1:178199954]><Blue>" say "made it"
+L 10/18/2020 - 00:44:54: "nicthegiant<49><[U:1:178199954]><Blue>" say "you got this"
+L 10/18/2020 - 00:45:06: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Advanced Course") (numcappers "1") (player1 "night<47><[U:1:66854565]><Blue>") (position1 "5801 -8791 -3639") 
+L 10/18/2020 - 00:45:09: "nicthegiant<49><[U:1:178199954]><Blue>" say "nice timing"
+L 10/18/2020 - 00:46:17: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "Bonus Water Ramps") (numcappers "1") (player1 "night<47><[U:1:66854565]><Blue>") (position1 "5787 -6478 -3796") 
+L 10/18/2020 - 00:54:27: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "Pogo Mini Course") (numcappers "1") (player1 "night<47><[U:1:66854565]><Blue>") (position1 "-4884 8823 1320") 
+L 10/18/2020 - 00:54:41: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "Bonus Water Ramps") (numcappers "1") (player1 "nicthegiant<49><[U:1:178199954]><Blue>") (position1 "5803 -6076 -4049") 
+L 10/18/2020 - 00:56:20: "night<47><[U:1:66854565]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/18/2020 - 00:58:04: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "Pogo Mini Course") (numcappers "1") (player1 "nicthegiant<49><[U:1:178199954]><Blue>") (position1 "-4884 8895 1318") 
+L 10/18/2020 - 01:00:17: "nicthegiant<49><[U:1:178199954]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/18/2020 - 05:20:29: "Devin<50><[U:1:76587716]><>" connected, address "24.251.97.176:27005"
+L 10/18/2020 - 05:20:29: "Devin<50><[U:1:76587716]><>" STEAM USERID validated
+L 10/18/2020 - 05:20:55: "Devin<50><[U:1:76587716]><>" entered the game
+L 10/18/2020 - 05:20:58: "Devin<50><[U:1:76587716]><Unassigned>" joined team "Red"
+L 10/18/2020 - 05:21:01: "Devin<50><[U:1:76587716]><Red>" changed role to "soldier"
+L 10/18/2020 - 05:21:12: "Devin<50><[U:1:76587716]><Red>" committed suicide with "world" (attacker_position "6608 -3451 208")
+L 10/18/2020 - 05:21:14: "Devin<50><[U:1:76587716]><Red>" joined team "Blue"
+L 10/18/2020 - 05:22:49: "Devin<50><[U:1:76587716]><Blue>" disconnected (reason "Disconnect by user.")
+L 10/18/2020 - 06:30:11: [META] Loaded 0 plugins (1 already loaded)
+L 10/18/2020 - 06:30:11: "JumpBOT<25><BOT><>" disconnected (reason "Server shutting down")
+L 10/18/2020 - 06:30:11: server_message: "quit"
+L 10/18/2020 - 06:30:12: Log file closed.

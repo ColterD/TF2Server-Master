@@ -1,0 +1,684 @@
+L 10/19/2020 - 06:30:37: Log file started (file "logs/L1019000.log") (game "/home/tf2server.titaniumtank/serverfiles/tf") (version "6145689")
+L 10/19/2020 - 06:30:37: server_cvar: "sv_contact" "admin@pancakes.tf"
+L 10/19/2020 - 06:30:37: server_cvar: "tfh_fullmoon" "1"
+L 10/19/2020 - 06:30:37: server_cvar: "tfh_winter" "1"
+L 10/19/2020 - 06:30:37: server_cvar: "tfh_birthday" "1"
+L 10/19/2020 - 06:30:37: server_cvar: "tfh_endoftheline" "1"
+L 10/19/2020 - 06:30:37: server_cvar: "tfh_normalhealth" "1"
+L 10/19/2020 - 06:30:37: server_cvar: "mp_tournament_readymode" "1"
+L 10/19/2020 - 06:30:37: server_cvar: "tf_mvm_min_players_to_start" "2"
+L 10/19/2020 - 06:30:37: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,mvm,pancakes,pancakestf,perks,potato,tank,tita"
+L 10/19/2020 - 06:30:37: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,mvm,pancakes,pancakestf,perks,potato,tank,tita"
+L 10/19/2020 - 06:30:37: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 06:30:37: Connection to Steam servers successful.
+L 10/19/2020 - 06:30:37:    Public IP is 104.192.224.18.
+L 10/19/2020 - 06:30:37: Assigned persistent gameserver Steam ID [G:1:3464856].
+L 10/19/2020 - 06:30:37: VAC secure mode is activated.
+L 10/19/2020 - 10:06:51: "Dr.Scaled<2><[U:1:489278965]><>" connected, address "45.67.215.34:27005"
+L 10/19/2020 - 10:06:51: "Dr.Scaled<2><[U:1:489278965]><>" STEAM USERID validated
+L 10/19/2020 - 10:07:12: "Rikardo Markus<3><[U:1:132488790]><>" connected, address "188.163.52.212:58917"
+L 10/19/2020 - 10:07:12: "Rikardo Markus<3><[U:1:132488790]><>" STEAM USERID validated
+L 10/19/2020 - 10:08:09: "Rikardo Markus<3><[U:1:132488790]><>" entered the game
+L 10/19/2020 - 10:08:10: "Dr.Scaled<2><[U:1:489278965]><>" entered the game
+L 10/19/2020 - 10:08:16: "Fidele Huff<4><[U:1:434850322]><>" connected, address "109.86.248.63:27005"
+L 10/19/2020 - 10:08:16: "Fidele Huff<4><[U:1:434850322]><>" STEAM USERID validated
+L 10/19/2020 - 10:08:17: MVM assigned Dr.Scaled to defending team (5 more slots remaining after us)
+L 10/19/2020 - 10:08:17: MVM assigned Dr.Scaled to defending team (5 more slots remaining after us)
+L 10/19/2020 - 10:08:17: "Dr.Scaled<2><[U:1:489278965]><Unassigned>" joined team "Red"
+L 10/19/2020 - 10:08:18: "Dr.Scaled<2><[U:1:489278965]><Red>" changed role to "engineer"
+L 10/19/2020 - 10:08:18: "TFBot<5><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<5><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<5><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(1)TFBot<6><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<6><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<6><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(2)TFBot<7><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<7><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<7><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(3)TFBot<8><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<8><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<8><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(4)TFBot<9><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<9><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<9><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(5)TFBot<10><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<10><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<10><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(6)TFBot<11><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<11><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<11><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(7)TFBot<12><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<12><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<12><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(8)TFBot<13><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<13><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<13><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(9)TFBot<14><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<14><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<14><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(10)TFBot<15><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<15><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<15><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(11)TFBot<16><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<16><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<16><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(12)TFBot<17><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<17><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<17><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(13)TFBot<18><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<18><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<18><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(14)TFBot<19><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<19><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<19><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(15)TFBot<20><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<20><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<20><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(16)TFBot<21><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<21><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<21><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(17)TFBot<22><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<22><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<22><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(18)TFBot<23><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<23><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<23><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(19)TFBot<24><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<24><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<24><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(20)TFBot<25><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<25><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<25><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:18: "(21)TFBot<26><BOT><>" connected, address "none"
+L 10/19/2020 - 10:08:18: "<26><BOT><>" entered the game
+L 10/19/2020 - 10:08:18: "TFBot<26><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 10:08:19: server_cvar: "mp_tournament" "1"
+L 10/19/2020 - 10:08:19: server_cvar: "mp_tournament_stopwatch" "0"
+L 10/19/2020 - 10:08:19: "TFBot<5><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:08:19: "TFBot<5><BOT><Blue>" changed role to "scout"
+L 10/19/2020 - 10:08:19: "Force-a-Nature Super Scout<5><BOT><Blue>" triggered "flagevent" (event "picked up") (position "150 -2600 28")
+L 10/19/2020 - 10:08:20: "(1)TFBot<6><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:08:20: "(1)TFBot<6><BOT><Blue>" changed role to "heavyweapons"
+L 10/19/2020 - 10:08:20: "(2)TFBot<7><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:08:20: "(2)TFBot<7><BOT><Blue>" changed role to "soldier"
+L 10/19/2020 - 10:08:21: server_cvar: "tf_bot_count" "22"
+L 10/19/2020 - 10:08:22: "(3)TFBot<8><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:08:22: "(3)TFBot<8><BOT><Blue>" changed role to "heavyweapons"
+L 10/19/2020 - 10:08:22: "(4)TFBot<9><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:08:22: "(4)TFBot<9><BOT><Blue>" changed role to "soldier"
+L 10/19/2020 - 10:08:24: "(5)TFBot<10><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:08:24: "(5)TFBot<10><BOT><Blue>" changed role to "heavyweapons"
+L 10/19/2020 - 10:08:24: "(6)TFBot<11><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:08:24: "(6)TFBot<11><BOT><Blue>" changed role to "soldier"
+L 10/19/2020 - 10:08:33: MVM assigned Rikardo Markus to defending team (4 more slots remaining after us)
+L 10/19/2020 - 10:08:33: MVM assigned Rikardo Markus to defending team (4 more slots remaining after us)
+L 10/19/2020 - 10:08:33: "Rikardo Markus<3><[U:1:132488790]><Unassigned>" joined team "Red"
+L 10/19/2020 - 10:08:36: "Rikardo Markus<3><[U:1:132488790]><Red>" changed role to "engineer"
+L 10/19/2020 - 10:08:40: "Dr.Scaled<2><[U:1:489278965]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2588 2734 91")
+L 10/19/2020 - 10:08:43: "Force-a-Nature Super Scout<5><BOT><Blue>" triggered "flagevent" (event "captured") (team_caps "0") (caps_per_round "3") (position "-2049 2564 24")
+L 10/19/2020 - 10:08:43: World triggered "Round_Win" (winner "Blue")
+L 10/19/2020 - 10:08:43: World triggered "Round_Length" (seconds "24.84")
+L 10/19/2020 - 10:08:43: Team "Red" current score "0" with "2" players
+L 10/19/2020 - 10:08:43: Team "Blue" current score "0" with "7" players
+L 10/19/2020 - 10:08:44: "Rikardo Markus<3><[U:1:132488790]><Red>" committed suicide with "world" (attacker_position "-2186 2526 24")
+L 10/19/2020 - 10:08:44: "Dr.Scaled<2><[U:1:489278965]><Red>" committed suicide with "world" (attacker_position "-2538 2626 90")
+L 10/19/2020 - 10:08:48: World triggered "Round_Start"
+L 10/19/2020 - 10:08:48: World triggered "Round_Setup_Begin"
+L 10/19/2020 - 10:08:48: "Force-a-Nature Super Scout<5><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:08:48: "Gear Gunner<6><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:08:48: "Extended Buff Soldier<7><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:08:48: "Gear Gunner<8><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:08:48: "Extended Buff Soldier<9><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:08:48: "Gear Gunner<10><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:08:48: "Extended Buff Soldier<11><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:09:38: "Dr.Scaled<2><[U:1:489278965]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-372 388 44")
+L 10/19/2020 - 10:10:06: "Dr.Scaled<2><[U:1:489278965]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-2691 2783 91")
+L 10/19/2020 - 10:10:29: "Dr.Scaled<2><[U:1:489278965]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "1278 -540 28")
+L 10/19/2020 - 10:10:31: "Fidele Huff<4><[U:1:434850322]><>" entered the game
+L 10/19/2020 - 10:10:37: "Dr.Scaled<2><[U:1:489278965]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "308 -732 12")
+L 10/19/2020 - 10:10:46: MVM assigned Fidele Huff to defending team (3 more slots remaining after us)
+L 10/19/2020 - 10:10:46: MVM assigned Fidele Huff to defending team (3 more slots remaining after us)
+L 10/19/2020 - 10:10:46: "Fidele Huff<4><[U:1:434850322]><Unassigned>" joined team "Red"
+L 10/19/2020 - 10:10:51: "Fidele Huff<4><[U:1:434850322]><Red>" changed role to "engineer"
+L 10/19/2020 - 10:11:54: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-2694 2898 91")
+L 10/19/2020 - 10:11:57: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "player_carryobject" (object "OBJ_TELEPORTER") (position "-2697 2821 91")
+L 10/19/2020 - 10:12:00: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "player_dropobject" (object "OBJ_TELEPORTER") (position "-2796 2170 91")
+L 10/19/2020 - 10:12:00: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-2796 2170 91")
+L 10/19/2020 - 10:12:01: "Rikardo Markus<3><[U:1:132488790]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "336 -759 12")
+L 10/19/2020 - 10:12:07: "Rikardo Markus<3><[U:1:132488790]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "332 -651 12")
+L 10/19/2020 - 10:12:12: "Rikardo Markus<3><[U:1:132488790]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "206 -732 12")
+L 10/19/2020 - 10:12:25: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "159 -719 12")
+L 10/19/2020 - 10:12:27: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "player_carryobject" (object "OBJ_TELEPORTER") (position "83 -721 12")
+L 10/19/2020 - 10:12:31: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "player_dropobject" (object "OBJ_TELEPORTER") (position "-505 -297 -59")
+L 10/19/2020 - 10:12:31: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-505 -297 -59")
+L 10/19/2020 - 10:12:38: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "131 -726 12")
+L 10/19/2020 - 10:12:58: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "92 -673 12")
+L 10/19/2020 - 10:13:03: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "89 -575 12")
+L 10/19/2020 - 10:13:47: "(7)TFBot<12><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:13:47: "(7)TFBot<12><BOT><Blue>" changed role to "scout"
+L 10/19/2020 - 10:13:47: "Force-a-Nature Super Scout<12><BOT><Blue>" triggered "flagevent" (event "picked up") (position "150 -2600 28")
+L 10/19/2020 - 10:13:48: "(8)TFBot<13><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:13:48: "(8)TFBot<13><BOT><Blue>" changed role to "heavyweapons"
+L 10/19/2020 - 10:13:48: "(9)TFBot<14><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:13:48: "(9)TFBot<14><BOT><Blue>" changed role to "soldier"
+L 10/19/2020 - 10:13:50: "(10)TFBot<15><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:13:50: "(10)TFBot<15><BOT><Blue>" changed role to "heavyweapons"
+L 10/19/2020 - 10:13:50: "(11)TFBot<16><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:13:50: "(11)TFBot<16><BOT><Blue>" changed role to "soldier"
+L 10/19/2020 - 10:13:52: "(12)TFBot<17><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:13:52: "(12)TFBot<17><BOT><Blue>" changed role to "heavyweapons"
+L 10/19/2020 - 10:13:52: "(13)TFBot<18><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:13:52: "(13)TFBot<18><BOT><Blue>" changed role to "soldier"
+L 10/19/2020 - 10:13:55: "Dr.Scaled<2><[U:1:489278965]><Red>" triggered "flagevent" (event "defended") (position "263 -818 12")
+L 10/19/2020 - 10:13:55: "Dr.Scaled<2><[U:1:489278965]><Red>" killed "Force-a-Nature Super Scout<12><BOT><Blue>" with "obj_sentrygun3" (attacker_position "263 -818 12") (victim_position "189 -336 -26")
+L 10/19/2020 - 10:13:55: "Rikardo Markus<3><[U:1:132488790]><Red>" triggered "kill assist" against "Force-a-Nature Super Scout<12><BOT><Blue>" (assister_position "281 -728 12") (attacker_position "263 -818 12") (victim_position "189 -336 -26")
+L 10/19/2020 - 10:13:55: "Force-a-Nature Super Scout<12><BOT><Blue>" triggered "flagevent" (event "dropped") (position "189 -336 -26")
+L 10/19/2020 - 10:13:59: "Extended Buff Soldier<14><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Rikardo Markus<3><[U:1:132488790]><Red>") (attacker_position "602 -1067 -38")
+L 10/19/2020 - 10:13:59: "Fidele Huff<4><[U:1:434850322]><Red>" killed "Extended Buff Soldier<14><BOT><Blue>" with "frontier_justice" (attacker_position "538 -664 5") (victim_position "617 -1062 -39")
+L 10/19/2020 - 10:13:59: "Dr.Scaled<2><[U:1:489278965]><Red>" triggered "kill assist" against "Extended Buff Soldier<14><BOT><Blue>" (assister_position "175 -579 12") (attacker_position "538 -664 5") (victim_position "617 -1062 -39")
+L 10/19/2020 - 10:14:00: "Gear Gunner<13><BOT><Blue>" killed "Fidele Huff<4><[U:1:434850322]><Red>" with "tomislav" (attacker_position "639 -1103 -38") (victim_position "553 -692 -9")
+L 10/19/2020 - 10:14:00: "Extended Buff Soldier<14><BOT><Blue>" triggered "kill assist" against "Fidele Huff<4><[U:1:434850322]><Red>" (assister_position "580 -1013 28") (attacker_position "639 -1103 -38") (victim_position "553 -692 -9")
+L 10/19/2020 - 10:14:00: "(14)TFBot<19><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:14:00: "(14)TFBot<19><BOT><Blue>" changed role to "scout"
+L 10/19/2020 - 10:14:00: "Force-a-Nature Super Scout<12><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:14:02: "Rikardo Markus<3><[U:1:132488790]><Red>" killed "Gear Gunner<13><BOT><Blue>" with "obj_sentrygun3" (attacker_position "370 -524 12") (victim_position "616 -789 -44")
+L 10/19/2020 - 10:14:02: "Dr.Scaled<2><[U:1:489278965]><Red>" triggered "kill assist" against "Gear Gunner<13><BOT><Blue>" (assister_position "236 -724 12") (attacker_position "370 -524 12") (victim_position "616 -789 -44")
+L 10/19/2020 - 10:14:02: "(15)TFBot<20><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:14:02: "(15)TFBot<20><BOT><Blue>" changed role to "heavyweapons"
+L 10/19/2020 - 10:14:02: "(16)TFBot<21><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:14:02: "(16)TFBot<21><BOT><Blue>" changed role to "soldier"
+L 10/19/2020 - 10:14:03: "Dr.Scaled<2><[U:1:489278965]><Red>" killed "Extended Buff Soldier<16><BOT><Blue>" with "obj_sentrygun3" (attacker_position "215 -671 12") (victim_position "450 -1208 -39")
+L 10/19/2020 - 10:14:03: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "kill assist" against "Extended Buff Soldier<16><BOT><Blue>" (assister_position "553 -692 4") (attacker_position "215 -671 12") (victim_position "450 -1208 -39")
+L 10/19/2020 - 10:14:03: "Gear Gunner<17><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tomislav") (objectowner "Fidele Huff<4><[U:1:434850322]><Red>") (attacker_position "-422 -1439 100")
+L 10/19/2020 - 10:14:03: "Extended Buff Soldier<18><BOT><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "Fidele Huff<4><[U:1:434850322]><Red>") (attacker_position "-483 -1311 100")
+L 10/19/2020 - 10:14:03: "Gear Gunner<17><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tomislav") (objectowner "Fidele Huff<4><[U:1:434850322]><Red>") (attacker_position "-457 -1381 100")
+L 10/19/2020 - 10:14:04: "Extended Buff Soldier<14><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:14:04: "Gear Gunner<15><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tomislav") (objectowner "Dr.Scaled<2><[U:1:489278965]><Red>") (attacker_position "441 -1071 -35")
+L 10/19/2020 - 10:14:07: "Gear Gunner<17><BOT><Blue>" killed "Dr.Scaled<2><[U:1:489278965]><Red>" with "tomislav" (attacker_position "-510 -1114 46") (victim_position "353 -578 12")
+L 10/19/2020 - 10:14:07: "Extended Buff Soldier<18><BOT><Blue>" triggered "kill assist" against "Dr.Scaled<2><[U:1:489278965]><Red>" (assister_position "-526 -994 46") (attacker_position "-510 -1114 46") (victim_position "353 -578 12")
+L 10/19/2020 - 10:14:07: "Gear Gunner<13><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:14:07: "Rikardo Markus<3><[U:1:132488790]><Red>" killed "Gear Gunner<15><BOT><Blue>" with "obj_sentrygun3" (attacker_position "297 -740 12") (victim_position "627 -803 -43")
+L 10/19/2020 - 10:14:07: "Dr.Scaled<2><[U:1:489278965]><Red>" triggered "kill assist" against "Gear Gunner<15><BOT><Blue>" (assister_position "353 -578 26") (attacker_position "297 -740 12") (victim_position "627 -803 -43")
+L 10/19/2020 - 10:14:07: "(17)TFBot<22><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:14:07: "(17)TFBot<22><BOT><Blue>" changed role to "heavyweapons"
+L 10/19/2020 - 10:14:07: "(18)TFBot<23><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:14:07: "(18)TFBot<23><BOT><Blue>" changed role to "soldier"
+L 10/19/2020 - 10:14:08: "Extended Buff Soldier<16><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:14:08: "Gear Gunner<17><BOT><Blue>" killed "Rikardo Markus<3><[U:1:132488790]><Red>" with "tomislav" (attacker_position "-517 -948 46") (victim_position "323 -723 12")
+L 10/19/2020 - 10:14:08: "Extended Buff Soldier<18><BOT><Blue>" triggered "kill assist" against "Rikardo Markus<3><[U:1:132488790]><Red>" (assister_position "-554 -808 46") (attacker_position "-517 -948 46") (victim_position "323 -723 12")
+L 10/19/2020 - 10:14:09: "Gear Gunner<17><BOT><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tomislav") (objectowner "Rikardo Markus<3><[U:1:132488790]><Red>") (attacker_position "-532 -884 46")
+L 10/19/2020 - 10:14:10: "Gear Gunner<17><BOT><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tomislav") (objectowner "Dr.Scaled<2><[U:1:489278965]><Red>") (attacker_position "-603 -807 46")
+L 10/19/2020 - 10:14:10: "Extended Buff Soldier<18><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Rikardo Markus<3><[U:1:132488790]><Red>") (attacker_position "-661 -607 81")
+L 10/19/2020 - 10:14:12: "Gear Gunner<15><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:14:16: "Gear Gunner<20><BOT><Blue>" triggered "flagevent" (event "picked up") (position "256 -351 -59")
+L 10/19/2020 - 10:14:16: "Gear Gunner<20><BOT><Blue>" killed "Fidele Huff<4><[U:1:434850322]><Red>" with "tomislav" (attacker_position "250 -349 -59") (victim_position "-590 -301 -47")
+L 10/19/2020 - 10:14:16: "Extended Buff Soldier<21><BOT><Blue>" triggered "kill assist" against "Fidele Huff<4><[U:1:434850322]><Red>" (assister_position "115 -300 -59") (attacker_position "250 -349 -59") (victim_position "-590 -301 -47")
+L 10/19/2020 - 10:14:17: "(19)TFBot<24><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:14:17: "(19)TFBot<24><BOT><Blue>" changed role to "sniper"
+L 10/19/2020 - 10:14:17: "(20)TFBot<25><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:14:17: "(20)TFBot<25><BOT><Blue>" changed role to "sniper"
+L 10/19/2020 - 10:14:20: "Yeral._.XD<27><[U:1:1131069720]><>" connected, address "190.79.156.85:27005"
+L 10/19/2020 - 10:14:20: "Yeral._.XD<27><[U:1:1131069720]><>" STEAM USERID validated
+L 10/19/2020 - 10:14:26: "Gear Gunner<17><BOT><Blue>" killed "Rikardo Markus<3><[U:1:132488790]><Red>" with "tomislav" (attacker_position "-192 -197 -59") (victim_position "-289 -36 -59")
+L 10/19/2020 - 10:14:26: "Extended Buff Soldier<18><BOT><Blue>" triggered "kill assist" against "Rikardo Markus<3><[U:1:132488790]><Red>" (assister_position "-55 -255 -59") (attacker_position "-192 -197 -59") (victim_position "-289 -36 -59")
+L 10/19/2020 - 10:14:30: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Loading Dock A") (numcappers "1") (player1 "Force-a-Nature Super Scout<19><BOT><Blue>") (position1 "1297 1582 140") 
+L 10/19/2020 - 10:14:30: "Gear Gunner<20><BOT><Blue>" triggered "flagevent" (event "dropped") (position "116 75 44")
+L 10/19/2020 - 10:14:32: "Yeral._.XD<27><[U:1:1131069720]><>" disconnected (reason "Disconnect by user.")
+L 10/19/2020 - 10:14:40: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1071 2741 166")
+L 10/19/2020 - 10:14:41: "Dr.Scaled<2><[U:1:489278965]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1834 2196 91")
+L 10/19/2020 - 10:14:44: "Force-a-Nature Super Scout<19><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "force_a_nature") (objectowner "Fidele Huff<4><[U:1:434850322]><Red>") (attacker_position "-1171 2414 47")
+L 10/19/2020 - 10:14:51: "Dr.Scaled<2><[U:1:489278965]><Red>" killed "Force-a-Nature Super Scout<19><BOT><Blue>" with "obj_sentrygun" (attacker_position "-1515 2266 91") (victim_position "-1381 2345 87")
+L 10/19/2020 - 10:14:52: "Sniper<24><BOT><Blue>" stuck (position "126.79 213.37 44.01") (duration "22.36") L 10/19/2020 - 10:14:52:    path_goal ( "126.79 275.00 44.03" )
+L 10/19/2020 - 10:14:53: "Sniper<25><BOT><Blue>" stuck (position "-488.42 330.61 44.03") (duration "22.36") L 10/19/2020 - 10:14:53:    path_goal ( "-175.00 375.00 44.03" )
+L 10/19/2020 - 10:14:53: "Rikardo Markus<3><[U:1:132488790]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1887 2115 91")
+L 10/19/2020 - 10:14:53: "Extended Buff Soldier<21><BOT><Blue>" stuck (position "196.03 173.73 44.03") (duration "23.27") L 10/19/2020 - 10:14:53:    path_goal ( "151.45 206.81 44.03" )
+L 10/19/2020 - 10:14:53: "Extended Buff Soldier<18><BOT><Blue>" stuck (position "-55.77 -255.07 -59.97") (duration "22.26") L 10/19/2020 - 10:14:53:    path_goal ( "-169.20 -74.49 -59.97" )
+L 10/19/2020 - 10:14:53: "Gear Gunner<17><BOT><Blue>" stuck (position "-187.94 -190.46 -59.97") (duration "18.17") L 10/19/2020 - 10:14:53:    path_goal ( "-150.00 25.00 -59.76" )
+L 10/19/2020 - 10:14:54: "Extended Buff Soldier<18><BOT><Blue>" stuck (position "-73.20 -220.66 -59.97") (duration "23.26") L 10/19/2020 - 10:14:54:    path_goal ( "-150.00 -50.00 -59.97" )
+L 10/19/2020 - 10:14:56: "(21)TFBot<26><BOT><Spectator>" joined team "Blue"
+L 10/19/2020 - 10:14:56: "(21)TFBot<26><BOT><Blue>" changed role to "scout"
+L 10/19/2020 - 10:14:56: "Force-a-Nature Super Scout<26><BOT><Blue>" triggered "flagevent" (event "picked up") (position "2500 1825 140")
+L 10/19/2020 - 10:14:56: "Force-a-Nature Super Scout<19><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:14:57: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1078 2787 166")
+L 10/19/2020 - 10:14:59: "Rikardo Markus<3><[U:1:132488790]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-1823 2006 91")
+L 10/19/2020 - 10:15:00: "Fidele Huff<4><[U:1:434850322]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-1138 3034 166")
+L 10/19/2020 - 10:15:17: "Extended Buff Soldier<23><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Fidele Huff<4><[U:1:434850322]><Red>") (attacker_position "144 3140 103")
+L 10/19/2020 - 10:15:17: "Force-a-Nature Super Scout<26><BOT><Blue>" triggered "flagevent" (event "captured") (team_caps "0") (caps_per_round "3") (position "-2129 2609 24")
+L 10/19/2020 - 10:15:18: World triggered "Round_Win" (winner "Blue")
+L 10/19/2020 - 10:15:18: World triggered "Round_Length" (seconds "388.93")
+L 10/19/2020 - 10:15:18: Team "Red" current score "0" with "3" players
+L 10/19/2020 - 10:15:18: Team "Blue" current score "1" with "9" players
+L 10/19/2020 - 10:15:19: "Dr.Scaled<2><[U:1:489278965]><Red>" committed suicide with "world" (attacker_position "-2103 2543 24")
+L 10/19/2020 - 10:15:19: "Fidele Huff<4><[U:1:434850322]><Red>" committed suicide with "world" (attacker_position "-2156 2654 24")
+L 10/19/2020 - 10:15:19: "Rikardo Markus<3><[U:1:132488790]><Red>" committed suicide with "world" (attacker_position "-1837 2110 91")
+L 10/19/2020 - 10:15:21: "Force-a-Nature Super Scout<26><BOT><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "world") (objectowner "Rikardo Markus<3><[U:1:132488790]><Red>") (attacker_position "-1830 2092 91")
+L 10/19/2020 - 10:15:22: "Extended Buff Soldier<21><BOT><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Rikardo Markus<3><[U:1:132488790]><Red>") (attacker_position "-635 2515 47")
+L 10/19/2020 - 10:15:23: World triggered "Round_Start"
+L 10/19/2020 - 10:15:23: World triggered "Round_Setup_Begin"
+L 10/19/2020 - 10:15:23: "Gear Gunner<17><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:15:23: "Extended Buff Soldier<18><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:15:23: "Gear Gunner<20><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:15:23: "Extended Buff Soldier<21><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:15:23: "Gear Gunner<22><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:15:23: "Extended Buff Soldier<23><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:15:23: "Sniper<24><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:15:23: "Sniper<25><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:15:23: "Force-a-Nature Super Scout<26><BOT><Blue>" joined team "Spectator"
+L 10/19/2020 - 10:15:25: STEAMAUTH: Client Dr.Scaled received failure code 6
+L 10/19/2020 - 10:15:25: "Dr.Scaled<2><[U:1:489278965]><Red>" disconnected (reason "Client left game (Steam auth ticket has been canceled)")
+L 10/19/2020 - 10:15:25: MVM assigned Dr.Scaled to defending team (2 more slots remaining after us)
+L 10/19/2020 - 10:15:27: STEAMAUTH: Client Fidele Huff received failure code 6
+L 10/19/2020 - 10:15:27: "Fidele Huff<4><[U:1:434850322]><Red>" disconnected (reason "Client left game (Steam auth ticket has been canceled)")
+L 10/19/2020 - 10:15:27: MVM assigned Fidele Huff to defending team (3 more slots remaining after us)
+L 10/19/2020 - 10:15:28: STEAMAUTH: Client Rikardo Markus received failure code 6
+L 10/19/2020 - 10:15:28: "Rikardo Markus<3><[U:1:132488790]><Red>" disconnected (reason "Client left game (Steam auth ticket has been canceled)")
+L 10/19/2020 - 10:15:28: MVM assigned Rikardo Markus to defending team (4 more slots remaining after us)
+L 10/19/2020 - 13:11:50: "Fredbear_chomp<28><[U:1:1107053084]><>" connected, address "76.88.116.19:1024"
+L 10/19/2020 - 13:11:50: "Fredbear_chomp<28><[U:1:1107053084]><>" STEAM USERID validated
+L 10/19/2020 - 13:12:06: "Fredbear_chomp<28><[U:1:1107053084]><>" entered the game
+L 10/19/2020 - 13:12:13: MVM assigned Fredbear_chomp to defending team (5 more slots remaining after us)
+L 10/19/2020 - 13:12:13: MVM assigned Fredbear_chomp to defending team (5 more slots remaining after us)
+L 10/19/2020 - 13:12:13: "Fredbear_chomp<28><[U:1:1107053084]><Unassigned>" joined team "Red"
+L 10/19/2020 - 13:12:15: "Fredbear_chomp<28><[U:1:1107053084]><Red>" changed role to "medic"
+L 10/19/2020 - 13:13:27: "Fredbear_chomp<28><[U:1:1107053084]><Red>" triggered "medic_death" against "Fredbear_chomp<28><[U:1:1107053084]><Red>" (healing "0") (ubercharge "0")
+L 10/19/2020 - 13:13:27: "Fredbear_chomp<28><[U:1:1107053084]><Red>" committed suicide with "world" (attacker_position "88 3875 -23")
+L 10/19/2020 - 13:13:38: "Fredbear_chomp<28><[U:1:1107053084]><Red>" disconnected (reason "Disconnect by user.")
+L 10/19/2020 - 13:13:38: MVM assigned Fredbear_chomp to defending team (4 more slots remaining after us)
+L 10/19/2020 - 14:05:25: "HeadlessTheHexman<29><[U:1:131445178]><>" connected, address "208.64.186.86:27005"
+L 10/19/2020 - 14:05:26: "HeadlessTheHexman<29><[U:1:131445178]><>" STEAM USERID validated
+L 10/19/2020 - 14:05:57: "HeadlessTheHexman<29><[U:1:131445178]><>" entered the game
+L 10/19/2020 - 14:06:19: MVM assigned HeadlessTheHexman to defending team (5 more slots remaining after us)
+L 10/19/2020 - 14:06:19: MVM assigned HeadlessTheHexman to defending team (5 more slots remaining after us)
+L 10/19/2020 - 14:06:19: "HeadlessTheHexman<29><[U:1:131445178]><Unassigned>" joined team "Red"
+L 10/19/2020 - 14:06:20: "HeadlessTheHexman<29><[U:1:131445178]><Red>" changed role to "spy"
+L 10/19/2020 - 14:07:23: "HeadlessTheHexman<29><[U:1:131445178]><Red>" say "!rtv"
+L 10/19/2020 - 14:07:29: MVM assigned HeadlessTheHexman to defending team (4 more slots remaining after us)
+L 10/19/2020 - 14:07:30: server_cvar: "mp_tournament" "0"
+L 10/19/2020 - 14:07:30: [META] Loaded 0 plugins (1 already loaded)
+L 10/19/2020 - 14:07:30: Loading map "mvm_steep_rc3a"
+L 10/19/2020 - 14:07:30: server cvars start
+L 10/19/2020 - 14:07:30: "kartify_version" = "1.5.0A"
+L 10/19/2020 - 14:07:30: "ngs_backpacktf_version" = "2.12.3A"
+L 10/19/2020 - 14:07:30: "steamrep_checker_version" = "1.2.0A"
+L 10/19/2020 - 14:07:30: "local_item_server_version" = "1.1.5A"
+L 10/19/2020 - 14:07:30: "sw_gamedesc_override_version" = "1.1A"
+L 10/19/2020 - 14:07:30: "enhanced_items_version" = "1.1.0A"
+L 10/19/2020 - 14:07:30: "sm_playerpitch_high" = "200"
+L 10/19/2020 - 14:07:30: "sm_playerpitch_low" = "50"
+L 10/19/2020 - 14:07:30: "sm_playerpitch_version" = "1.1.1"
+L 10/19/2020 - 14:07:30: "sm_calladmin_version" = "0.1.8"
+L 10/19/2020 - 14:07:30: "sm_unusuals_version" = "1.0"
+L 10/19/2020 - 14:07:30: "cronjobs_version" = "2.0"
+L 10/19/2020 - 14:07:30: "crontab_version" = "2.0"
+L 10/19/2020 - 14:07:30: "sm_cannounce_version" = "1.8.2"
+L 10/19/2020 - 14:07:30: "sgadmins_version" = "1.2.0"
+L 10/19/2020 - 14:07:30: "sm_sourcesleuth_version" = "1.6.3"
+L 10/19/2020 - 14:07:30: "sm_bhats_version" = "2.0"
+L 10/19/2020 - 14:07:30: "sm_updater_version" = "1.2.2"
+L 10/19/2020 - 14:07:30: "sbpp_report_version" = "1.6.3"
+L 10/19/2020 - 14:07:30: "discord_version" = "1.0"
+L 10/19/2020 - 14:07:30: "sm_helpmenu_version" = "1.0"
+L 10/19/2020 - 14:07:30: "sm_gbc_version" = "1.10"
+L 10/19/2020 - 14:07:30: "sm_spectate_version" = "1.2.3"
+L 10/19/2020 - 14:07:30: "dm_redirect_version" = "0.2.6"
+L 10/19/2020 - 14:07:30: "ssm_core_inc_ver" = "1.0.$Revision: 74 $"
+L 10/19/2020 - 14:07:30: "ssm_core_pl_ver" = "1.0.$Revision: 91 $"
+L 10/19/2020 - 14:07:30: "sm_logo_version" = "2.2"
+L 10/19/2020 - 14:07:30: "sm_resize_version" = "1.6.0"
+L 10/19/2020 - 14:07:30: "sm_tf2idb_version" = "0.93"
+L 10/19/2020 - 14:07:30: "sm_achmod_version" = "1.0"
+L 10/19/2020 - 14:07:30: "webshortcutsredux_version" = "1.2newsyntax"
+L 10/19/2020 - 14:07:30: "discord_sourcebans_version" = "1.0"
+L 10/19/2020 - 14:07:30: "sm_necromash_version" = "1.1"
+L 10/19/2020 - 14:07:30: "tfh_normalhealth" = "1"
+L 10/19/2020 - 14:07:30: "tfh_endoftheline" = "1"
+L 10/19/2020 - 14:07:30: "tfh_aprilfools" = "0"
+L 10/19/2020 - 14:07:30: "tfh_valentines" = "0"
+L 10/19/2020 - 14:07:30: "tfh_winter" = "1"
+L 10/19/2020 - 14:07:30: "tfh_birthday" = "1"
+L 10/19/2020 - 14:07:30: "tfh_fullmoon" = "1"
+L 10/19/2020 - 14:07:30: "tfh_halloween" = "0"
+L 10/19/2020 - 14:07:30: "tfh_enabled" = "1"
+L 10/19/2020 - 14:07:30: "tfh_version" = "1.10.2"
+L 10/19/2020 - 14:07:30: "tf2attributes_version" = "1.3.3@nosoop-1.6.0"
+L 10/19/2020 - 14:07:30: "discord_sourcecomms_version" = "1.1"
+L 10/19/2020 - 14:07:30: "scp_version" = "2.3.0"
+L 10/19/2020 - 14:07:30: "sm_retryonrestart_enabled" = "1"
+L 10/19/2020 - 14:07:30: "sm_retryonrestart" = "1.2"
+L 10/19/2020 - 14:07:30: "sm_bread_version" = "1.0"
+L 10/19/2020 - 14:07:30: "sm_hive365radio_version" = "4.0.5"
+L 10/19/2020 - 14:07:30: "SA3_version" = "3.1.4"
+L 10/19/2020 - 14:07:30: "sm_cidr_version" = "1.1.6"
+L 10/19/2020 - 14:07:30: "sm_spec_version" = "2.1.2"
+L 10/19/2020 - 14:07:30: "sm_tidychat_version" = "0.5"
+L 10/19/2020 - 14:07:30: "sm_translator_version" = "1.0"
+L 10/19/2020 - 14:07:30: "ffcr_version" = "0.1"
+L 10/19/2020 - 14:07:30: "sbr_version" = "1.6.3"
+L 10/19/2020 - 14:07:30: "sb_version" = "1.6.3"
+L 10/19/2020 - 14:07:30: "sm_ssh_version" = "1.3.4"
+L 10/19/2020 - 14:07:30: "sm_spray_version" = "1.3.4"
+L 10/19/2020 - 14:07:30: "sm_wear_version" = "1.0"
+L 10/19/2020 - 14:07:30: "discord_calladmin_version" = "1.1"
+L 10/19/2020 - 14:07:30: "sbchecker_version" = "1.6.3"
+L 10/19/2020 - 14:07:30: "sourcecomms_version" = "1.6.3"
+L 10/19/2020 - 14:07:30: "sm_tauntspeed_version" = "2.2"
+L 10/19/2020 - 14:07:30: "sm_observerpoint_version" = "1.0.100"
+L 10/19/2020 - 14:07:30: "tf2items_giveweapon_version" = "3.14159"
+L 10/19/2020 - 14:07:30: "tenmvm_version" = "1.1"
+L 10/19/2020 - 14:07:30: "thirdperson_version" = "2.1.0"
+L 10/19/2020 - 14:07:30: "steamtools_version" = "0.10.0+54fdc51"
+L 10/19/2020 - 14:07:30: "tf2items_version" = "1.6.4"
+L 10/19/2020 - 14:07:30: "sourcemod_version" = "1.10.0.6492"
+L 10/19/2020 - 14:07:30: "sm_nextmap" = ""
+L 10/19/2020 - 14:07:30: "metamod_version" = "1.10.7-devV"
+L 10/19/2020 - 14:07:30: "tf_server_identity_disable_quickplay" = "0"
+L 10/19/2020 - 14:07:30: "sv_registration_successful" = "0"
+L 10/19/2020 - 14:07:30: "sv_registration_message" = "No account specified"
+L 10/19/2020 - 14:07:30: "tf_mm_servermode" = "0"
+L 10/19/2020 - 14:07:30: "tf_mm_strict" = "0"
+L 10/19/2020 - 14:07:30: "tf_mm_trusted" = "0"
+L 10/19/2020 - 14:07:30: "sv_vote_quorum_ratio" = "0.6"
+L 10/19/2020 - 14:07:30: "mp_friendlyfire" = "0"
+L 10/19/2020 - 14:07:30: "mp_fadetoblack" = "0"
+L 10/19/2020 - 14:07:30: "sv_gravity" = "800"
+L 10/19/2020 - 14:07:30: "sv_stopspeed" = "100"
+L 10/19/2020 - 14:07:30: "sv_noclipaccelerate" = "5"
+L 10/19/2020 - 14:07:30: "sv_noclipspeed" = "5"
+L 10/19/2020 - 14:07:30: "sv_specaccelerate" = "5"
+L 10/19/2020 - 14:07:30: "sv_specspeed" = "3"
+L 10/19/2020 - 14:07:30: "sv_specnoclip" = "1"
+L 10/19/2020 - 14:07:30: "sv_maxspeed" = "320"
+L 10/19/2020 - 14:07:30: "sv_accelerate" = "10"
+L 10/19/2020 - 14:07:30: "sv_airaccelerate" = "10"
+L 10/19/2020 - 14:07:30: "sv_wateraccelerate" = "10"
+L 10/19/2020 - 14:07:30: "sv_waterfriction" = "1"
+L 10/19/2020 - 14:07:30: "sv_footsteps" = "1"
+L 10/19/2020 - 14:07:30: "sv_rollspeed" = "200"
+L 10/19/2020 - 14:07:30: "sv_rollangle" = "0"
+L 10/19/2020 - 14:07:30: "sv_friction" = "4"
+L 10/19/2020 - 14:07:30: "sv_bounce" = "0"
+L 10/19/2020 - 14:07:30: "sv_stepsize" = "18"
+L 10/19/2020 - 14:07:30: "r_VehicleViewDampen" = "1"
+L 10/19/2020 - 14:07:30: "r_JeepViewDampenFreq" = "7.0"
+L 10/19/2020 - 14:07:30: "r_JeepViewDampenDamp" = "1.0"
+L 10/19/2020 - 14:07:30: "r_JeepViewZHeight" = "10.0"
+L 10/19/2020 - 14:07:30: "r_AirboatViewDampenFreq" = "7.0"
+L 10/19/2020 - 14:07:30: "r_AirboatViewDampenDamp" = "1.0"
+L 10/19/2020 - 14:07:30: "r_AirboatViewZHeight" = "0.0"
+L 10/19/2020 - 14:07:30: "mp_timelimit" = "0"
+L 10/19/2020 - 14:07:30: "mp_fraglimit" = "0"
+L 10/19/2020 - 14:07:30: "nextlevel" = ""
+L 10/19/2020 - 14:07:30: "mp_respawnwavetime" = "10.0"
+L 10/19/2020 - 14:07:30: "mp_tournament" = "0"
+L 10/19/2020 - 14:07:30: "mp_highlander" = "0"
+L 10/19/2020 - 14:07:30: "tf_arena_preround_time" = "10"
+L 10/19/2020 - 14:07:30: "tf_arena_round_time" = "0"
+L 10/19/2020 - 14:07:30: "tf_arena_max_streak" = "3"
+L 10/19/2020 - 14:07:30: "tf_arena_use_queue" = "1"
+L 10/19/2020 - 14:07:30: "mp_maxrounds" = "0"
+L 10/19/2020 - 14:07:30: "mp_winlimit" = "0"
+L 10/19/2020 - 14:07:30: "mp_disable_respawn_times" = "0"
+L 10/19/2020 - 14:07:30: "mp_stalemate_meleeonly" = "0"
+L 10/19/2020 - 14:07:30: "mp_forceautoteam" = "0"
+L 10/19/2020 - 14:07:30: "mp_autoteambalance" = "1"
+L 10/19/2020 - 14:07:30: "mp_stalemate_enable" = "1"
+L 10/19/2020 - 14:07:30: "mp_match_end_at_timelimit" = "0"
+L 10/19/2020 - 14:07:30: "mp_holiday_nogifts" = "0"
+L 10/19/2020 - 14:07:30: "mp_scrambleteams_auto" = "1"
+L 10/19/2020 - 14:07:30: "mp_scrambleteams_auto_windifference" = "2"
+L 10/19/2020 - 14:07:30: "tf_overtime_nag" = "0"
+L 10/19/2020 - 14:07:30: "tf_passtime_scores_per_round" = "5"
+L 10/19/2020 - 14:07:30: "tf_passtime_ball_damping_scale" = "0.01f"
+L 10/19/2020 - 14:07:30: "tf_passtime_ball_drag_coefficient" = "0.01f"
+L 10/19/2020 - 14:07:30: "tf_passtime_ball_inertia_scale" = "1.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_ball_mass" = "1.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_ball_model" = "models/passtime/ball/passtime_ball.mdl"
+L 10/19/2020 - 14:07:30: "tf_passtime_ball_sphere_collision" = "1"
+L 10/19/2020 - 14:07:30: "tf_passtime_ball_sphere_radius" = "7.2f"
+L 10/19/2020 - 14:07:30: "tf_passtime_ball_reset_time" = "15"
+L 10/19/2020 - 14:07:30: "tf_passtime_ball_rotdamping_scale" = "1.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_ball_seek_range" = "128"
+L 10/19/2020 - 14:07:30: "tf_passtime_ball_seek_speed_factor" = "3f"
+L 10/19/2020 - 14:07:30: "tf_passtime_ball_takedamage" = "1"
+L 10/19/2020 - 14:07:30: "tf_passtime_ball_takedamage_force" = "800.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_flinch_boost" = "0"
+L 10/19/2020 - 14:07:30: "tf_passtime_mode_homing_lock_sec" = "1.5f"
+L 10/19/2020 - 14:07:30: "tf_passtime_mode_homing_speed" = "1000.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_overtime_idle_sec" = "5"
+L 10/19/2020 - 14:07:30: "tf_passtime_player_reticles_enemies" = "1"
+L 10/19/2020 - 14:07:30: "tf_passtime_player_reticles_friends" = "2"
+L 10/19/2020 - 14:07:30: "tf_passtime_score_crit_sec" = "5.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_speedboost_on_get_ball_time" = "2.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_steal_on_melee" = "1"
+L 10/19/2020 - 14:07:30: "tf_passtime_teammate_steal_time" = "45"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwarc_scout" = "0.1f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwarc_soldier" = "0.1f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwarc_pyro" = "0.1f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwarc_demoman" = "0.15f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwarc_heavy" = "0.175f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwarc_engineer" = "0.2f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwarc_medic" = "0.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwarc_sniper" = "0.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwarc_spy" = "0.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwspeed_scout" = "700.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwspeed_soldier" = "800.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwspeed_pyro" = "750.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwspeed_demoman" = "850.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwspeed_heavy" = "850.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwspeed_engineer" = "850.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwspeed_medic" = "900.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwspeed_sniper" = "900.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwspeed_spy" = "900.0f"
+L 10/19/2020 - 14:07:30: "tf_passtime_throwspeed_velocity_scale" = "0.33f"
+L 10/19/2020 - 14:07:30: "tf_passtime_save_stats" = "0"
+L 10/19/2020 - 14:07:30: "tf_passtime_experiment_telepass" = "0"
+L 10/19/2020 - 14:07:30: "tf_passtime_experiment_instapass_charge" = "0"
+L 10/19/2020 - 14:07:30: "tf_passtime_experiment_autopass" = "0"
+L 10/19/2020 - 14:07:30: "tf_passtime_experiment_instapass" = "0"
+L 10/19/2020 - 14:07:30: "tf_passtime_powerball_decayamount" = "1"
+L 10/19/2020 - 14:07:30: "tf_passtime_powerball_decaysec" = "4.5f"
+L 10/19/2020 - 14:07:30: "tf_passtime_powerball_decaysec_neutral" = "1.5f"
+L 10/19/2020 - 14:07:30: "tf_passtime_powerball_passpoints" = "25"
+L 10/19/2020 - 14:07:30: "tf_passtime_powerball_threshold" = "80"
+L 10/19/2020 - 14:07:30: "tf_passtime_powerball_airtimebonus" = "40"
+L 10/19/2020 - 14:07:30: "tf_passtime_powerball_maxairtimebonus" = "100"
+L 10/19/2020 - 14:07:30: "tf_passtime_powerball_decay_delay" = "10"
+L 10/19/2020 - 14:07:30: "tf_passtime_pack_range" = "512"
+L 10/19/2020 - 14:07:30: "tf_passtime_pack_speed" = "1"
+L 10/19/2020 - 14:07:30: "tf_passtime_pack_hp_per_sec" = "2.0f"
+L 10/19/2020 - 14:07:30: "tf_use_fixed_weaponspreads" = "0"
+L 10/19/2020 - 14:07:30: "tf_max_charge_speed" = "750"
+L 10/19/2020 - 14:07:30: "tf_halloween_allow_truce_during_boss_event" = "0"
+L 10/19/2020 - 14:07:30: "tf_player_name_change_time" = "60"
+L 10/19/2020 - 14:07:30: "tf_spec_xray" = "1"
+L 10/19/2020 - 14:07:30: "tf_spawn_glows_duration" = "10"
+L 10/19/2020 - 14:07:30: "tf_force_holidays_off" = "0"
+L 10/19/2020 - 14:07:30: "tf_birthday" = "0"
+L 10/19/2020 - 14:07:30: "tf_spells_enabled" = "0"
+L 10/19/2020 - 14:07:30: "mp_tournament_stopwatch" = "0"
+L 10/19/2020 - 14:07:30: "mp_tournament_readymode" = "1"
+L 10/19/2020 - 14:07:30: "mp_tournament_readymode_min" = "2"
+L 10/19/2020 - 14:07:30: "mp_tournament_readymode_team_size" = "0"
+L 10/19/2020 - 14:07:30: "mp_tournament_readymode_countdown" = "10"
+L 10/19/2020 - 14:07:30: "mp_windifference" = "0"
+L 10/19/2020 - 14:07:30: "mp_windifference_min" = "0"
+L 10/19/2020 - 14:07:30: "tf_classlimit" = "0"
+L 10/19/2020 - 14:07:30: "tf_medieval" = "0"
+L 10/19/2020 - 14:07:30: "tf_medieval_autorp" = "1"
+L 10/19/2020 - 14:07:30: "tf_arena_force_class" = "0"
+L 10/19/2020 - 14:07:30: "tf_arena_change_limit" = "1"
+L 10/19/2020 - 14:07:30: "tf_arena_override_cap_enable_time" = "-1"
+L 10/19/2020 - 14:07:30: "tf_arena_first_blood" = "1"
+L 10/19/2020 - 14:07:30: "tf_mvm_min_players_to_start" = "2"
+L 10/19/2020 - 14:07:30: "tf_gamemode_arena" = "0"
+L 10/19/2020 - 14:07:30: "tf_gamemode_cp" = "0"
+L 10/19/2020 - 14:07:30: "tf_gamemode_ctf" = "0"
+L 10/19/2020 - 14:07:30: "tf_gamemode_sd" = "0"
+L 10/19/2020 - 14:07:30: "tf_gamemode_rd" = "0"
+L 10/19/2020 - 14:07:30: "tf_gamemode_pd" = "0"
+L 10/19/2020 - 14:07:30: "tf_gamemode_tc" = "0"
+L 10/19/2020 - 14:07:30: "tf_beta_content" = "0"
+L 10/19/2020 - 14:07:30: "tf_gamemode_payload" = "0"
+L 10/19/2020 - 14:07:30: "tf_gamemode_mvm" = "1"
+L 10/19/2020 - 14:07:30: "tf_gamemode_passtime" = "0"
+L 10/19/2020 - 14:07:30: "tf_gamemode_misc" = "0"
+L 10/19/2020 - 14:07:30: "tf_bot_count" = "22"
+L 10/19/2020 - 14:07:30: "tf_gravetalk" = "1"
+L 10/19/2020 - 14:07:30: "tf_ctf_bonus_time" = "10"
+L 10/19/2020 - 14:07:30: "tf_powerup_mode" = "0"
+L 10/19/2020 - 14:07:30: "tf_damage_disablespread" = "1"
+L 10/19/2020 - 14:07:30: "tf_weapon_criticals" = "1"
+L 10/19/2020 - 14:07:30: "tf_weapon_criticals_melee" = "1"
+L 10/19/2020 - 14:07:30: "sv_alltalk" = "1"
+L 10/19/2020 - 14:07:30: "mp_teamplay" = "0"
+L 10/19/2020 - 14:07:30: "mp_falldamage" = "0"
+L 10/19/2020 - 14:07:30: "mp_weaponstay" = "0"
+L 10/19/2020 - 14:07:30: "mp_forcerespawn" = "1"
+L 10/19/2020 - 14:07:30: "mp_footsteps" = "1"
+L 10/19/2020 - 14:07:30: "mp_flashlight" = "0"
+L 10/19/2020 - 14:07:30: "mp_autocrosshair" = "1"
+L 10/19/2020 - 14:07:30: "decalfrequency" = "0"
+L 10/19/2020 - 14:07:30: "mp_teamlist" = "hgrunt;scientist"
+L 10/19/2020 - 14:07:30: "mp_allowNPCs" = "1"
+L 10/19/2020 - 14:07:30: "sv_maxusrcmdprocessticks" = "24"
+L 10/19/2020 - 14:07:30: "tf_playergib" = "1"
+L 10/19/2020 - 14:07:30: "tf_allow_player_use" = "0"
+L 10/19/2020 - 14:07:30: "tf_mvm_death_penalty" = "0"
+L 10/19/2020 - 14:07:30: "sv_password" = ""
+L 10/19/2020 - 14:07:30: "sv_tags" = "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 14:07:30: "tv_relaypassword" = ""
+L 10/19/2020 - 14:07:30: "tv_password" = ""
+L 10/19/2020 - 14:07:30: "deathmatch" = "1"
+L 10/19/2020 - 14:07:30: "coop" = "0"
+L 10/19/2020 - 14:07:30: "sv_cheats" = "0"
+L 10/19/2020 - 14:07:30: "sv_pausable" = "0"
+L 10/19/2020 - 14:07:30: "sv_contact" = "admin@pancakes.tf"
+L 10/19/2020 - 14:07:30: "sv_voiceenable" = "1"
+L 10/19/2020 - 14:07:30: "tv_enable" = "0"
+L 10/19/2020 - 14:07:30: "sv_steamgroup" = ""
+L 10/19/2020 - 14:07:30: server cvars end
+L 10/19/2020 - 14:07:31: Started map "mvm_steep_rc3a" (CRC "6b92d62fa505f171d5fa179e2e985ac0")
+L 10/19/2020 - 14:07:31: Executing dedicated server config file tf2server.cfg
+L 10/19/2020 - 14:07:35: server_cvar: "tf_gamemode_mvm" "0"
+L 10/19/2020 - 14:07:35: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 14:07:35: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 14:07:35: server_cvar: "sv_tags" "alltalk,best,bots,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 14:07:35: server_cvar: "sv_tags" "alltalk,best,bots,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 14:07:35: server_cvar: "tf_bot_count" "0"
+L 10/19/2020 - 14:07:35: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 14:07:35: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 14:07:35: server_cvar: "tf_gamemode_mvm" "1"
+L 10/19/2020 - 14:07:35: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 14:07:35: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,machine,meme,mvm,pancakes,pancakestf,perks,potato,tank,tt,us,usa"
+L 10/19/2020 - 14:07:35: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,mvm,pancakes,pancakestf,perks,potato,tank,titanium,tt"
+L 10/19/2020 - 14:07:35: server_cvar: "sv_tags" "alltalk,best,crazy,custom,discord,fast,friends,fun,funny,la,mvm,pancakes,pancakestf,perks,potato,tank,titanium,tt"
+L 10/19/2020 - 14:07:46: "HeadlessTheHexman<29><[U:1:131445178]><>" entered the game
+L 10/19/2020 - 14:08:47: MVM assigned HeadlessTheHexman to defending team (5 more slots remaining after us)
+L 10/19/2020 - 14:08:47: MVM assigned HeadlessTheHexman to defending team (5 more slots remaining after us)
+L 10/19/2020 - 14:08:47: "HeadlessTheHexman<29><[U:1:131445178]><Unassigned>" joined team "Red"
+L 10/19/2020 - 14:08:48: "HeadlessTheHexman<29><[U:1:131445178]><Red>" changed role to "spy"
+L 10/19/2020 - 14:08:48: "TFBot<30><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<30><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<30><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(1)TFBot<31><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<31><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<31><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(2)TFBot<32><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<32><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<32><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(3)TFBot<33><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<33><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<33><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(4)TFBot<34><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<34><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<34><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(5)TFBot<35><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<35><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<35><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(6)TFBot<36><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<36><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<36><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(7)TFBot<37><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<37><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<37><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(8)TFBot<38><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<38><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<38><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(9)TFBot<39><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<39><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<39><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(10)TFBot<40><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<40><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<40><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(11)TFBot<41><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<41><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<41><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(12)TFBot<42><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<42><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<42><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(13)TFBot<43><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<43><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<43><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(14)TFBot<44><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<44><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<44><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(15)TFBot<45><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<45><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<45><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(16)TFBot<46><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<46><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<46><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(17)TFBot<47><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<47><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<47><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(18)TFBot<48><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<48><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<48><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(19)TFBot<49><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<49><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<49><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(20)TFBot<50><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<50><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<50><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: "(21)TFBot<51><BOT><>" connected, address "none"
+L 10/19/2020 - 14:08:48: "<51><BOT><>" entered the game
+L 10/19/2020 - 14:08:48: "TFBot<51><BOT><Unassigned>" joined team "Spectator"
+L 10/19/2020 - 14:08:48: server_cvar: "mp_tournament" "1"
+L 10/19/2020 - 14:08:51: server_cvar: "tf_bot_count" "22"
+L 10/19/2020 - 14:12:07: "HeadlessTheHexman<29><[U:1:131445178]><Red>" disconnected (reason "Disconnect by user.")
+L 10/19/2020 - 14:12:07: MVM assigned HeadlessTheHexman to defending team (4 more slots remaining after us)
+L 10/19/2020 - 21:35:58: "gavinthegr2008<52><[U:1:1139581906]><>" connected, address "47.156.43.118:27005"
+L 10/19/2020 - 21:35:58: "gavinthegr2008<52><[U:1:1139581906]><>" STEAM USERID validated
+L 10/19/2020 - 21:37:26: "gavinthegr2008<52><[U:1:1139581906]><>" entered the game
+L 10/19/2020 - 21:37:52: MVM assigned gavinthegr2008 to defending team (5 more slots remaining after us)
+L 10/19/2020 - 21:37:52: MVM assigned gavinthegr2008 to defending team (5 more slots remaining after us)
+L 10/19/2020 - 21:37:52: "gavinthegr2008<52><[U:1:1139581906]><Unassigned>" joined team "Red"
+L 10/19/2020 - 21:38:00: "gavinthegr2008<52><[U:1:1139581906]><Red>" changed role to "engineer"
+L 10/19/2020 - 21:38:11: "gavinthegr2008<52><[U:1:1139581906]><Red>" disconnected (reason "Disconnect by user.")
+L 10/19/2020 - 21:38:11: MVM assigned gavinthegr2008 to defending team (4 more slots remaining after us)
+L 10/20/2020 - 06:30:11: server_cvar: "mp_tournament" "0"
+L 10/20/2020 - 06:30:11: [META] Loaded 0 plugins (1 already loaded)
+L 10/20/2020 - 06:30:11: "(21)TFBot<51><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(20)TFBot<50><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(19)TFBot<49><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(18)TFBot<48><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(17)TFBot<47><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(16)TFBot<46><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(15)TFBot<45><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(14)TFBot<44><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(13)TFBot<43><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(12)TFBot<42><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(11)TFBot<41><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(10)TFBot<40><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(9)TFBot<39><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(8)TFBot<38><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(7)TFBot<37><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(6)TFBot<36><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(5)TFBot<35><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(4)TFBot<34><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(3)TFBot<33><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(2)TFBot<32><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "(1)TFBot<31><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: "TFBot<30><BOT><>" disconnected (reason "Server shutting down")
+L 10/20/2020 - 06:30:11: server_message: "quit"
+L 10/20/2020 - 06:30:11: Log file closed.

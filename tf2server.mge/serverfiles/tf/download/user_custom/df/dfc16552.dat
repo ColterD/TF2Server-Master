@@ -1,0 +1,40 @@
+//------------------------------------
+// Achievements Dialog
+//------------------------------------
+"AchievementsDialog.res"
+{	
+	"AchievementsDialog"
+	{
+		"ControlName"		"CAchievementsDialog"
+		"fieldName"		"AchievementsDialog"
+		"xpos"		"272"
+		"ypos"		"154"
+		"wide"		"630"
+		"tall"		"444"
+		"autoResize"				"0"
+		"pinCorner"					"0"
+		"visible"					"1"
+		"enabled"					"1"
+		"tabPosition"				"0"
+		"settitlebarvisible"		"1"
+		"title"						"#GameUI_Achievements_Title"
+		"borderwidth"				"15"
+	}
+	
+	"Back" //back button
+	{
+		"ControlName"		"Button"
+		"fieldName"		"Back"
+		"xpos"		"544"
+		"ypos"		"410"
+		"wide"		"70"
+		"tall"		"24"
+		"autoResize"		"0"
+		"pinCorner"		"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"4"
+		"labelText"		"#GameUI_Back"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brig

@@ -1,0 +1,22 @@
+L 10/16/2020 - 06:30:39: SourceMod error session started
+L 10/16/2020 - 06:30:39: Info (map "jump_oats_b3") (file "/home/tf2server.jumpcomp/serverfiles/tf/addons/sourcemod/logs/errors_20201016.log")
+L 10/16/2020 - 06:30:39: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 29 seconds, making a timer for it!
+L 10/16/2020 - 07:31:11: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 3 seconds, making a timer for it!
+L 10/16/2020 - 09:31:23: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 11 seconds, making a timer for it!
+L 10/16/2020 - 10:31:37: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 13 seconds, making a timer for it!
+L 10/16/2020 - 12:31:57: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/16/2020 - 14:45:22: [SM] Exception reported: Entity index 664 is not an object
+L 10/16/2020 - 14:45:22: [SM] Blaming: buildinghats.smx
+L 10/16/2020 - 14:45:22: [SM] Call stack trace:
+L 10/16/2020 - 14:45:22: [SM]   [0] ThrowError
+L 10/16/2020 - 14:45:22: [SM]   [1] Line 620, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_GetObjectType
+L 10/16/2020 - 14:45:22: [SM]   [2] Line 506, /home/forums/content/files/3/0/1/5/9/7/182852.attach::Timer_ReHat
+L 10/16/2020 - 16:32:15: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 5 seconds, making a timer for it!
+L 10/16/2020 - 18:32:25: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/16/2020 - 18:32:58: [SM] Exception reported: Invalid response handle 0 (error 4)
+L 10/16/2020 - 18:32:58: [SM] Blaming: ngs_backpacktf.smx
+L 10/16/2020 - 18:32:58: [SM] Call stack trace:
+L 10/16/2020 - 18:32:58: [SM]   [0] System2Response.StatusCode.get
+L 10/16/2020 - 18:32:58: [SM]   [1] Line 378, D:\Coding\GitHub\sm-plugins\scripting\ngs_backpacktf.sp::OnBackpackTFComplete
+L 10/16/2020 - 20:55:41: [hive365.smx] [Hive365] socket error 3 (errno 1)
+L 10/17/2020 - 00:00:00: Error log file session closed.

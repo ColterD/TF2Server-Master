@@ -1,0 +1,23 @@
+L 10/17/2020 - 03:35:22: SourceMod error session started
+L 10/17/2020 - 03:35:22: Info (map "jump_academy_classic_b") (file "/home/tf2server.jumpclassic/serverfiles/tf/addons/sourcemod/logs/errors_20201017.log")
+L 10/17/2020 - 03:35:22: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 3 seconds, making a timer for it!
+L 10/17/2020 - 05:35:30: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 3 seconds, making a timer for it!
+L 10/17/2020 - 06:30:12: Error log file session closed.
+L 10/17/2020 - 06:30:39: SourceMod error session started
+L 10/17/2020 - 06:30:39: Info (map "jump_academy_classic_b") (file "/home/tf2server.jumpclassic/serverfiles/tf/addons/sourcemod/logs/errors_20201017.log")
+L 10/17/2020 - 06:30:39: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 28 seconds, making a timer for it!
+L 10/17/2020 - 06:31:08: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 30 seconds, making a timer for it!
+L 10/17/2020 - 06:31:40: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 29 seconds, making a timer for it!
+L 10/17/2020 - 09:32:16: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/17/2020 - 12:32:25: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 3 seconds, making a timer for it!
+L 10/17/2020 - 13:32:31: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 2 seconds, making a timer for it!
+L 10/17/2020 - 15:32:40: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 30 seconds, making a timer for it!
+L 10/17/2020 - 18:41:50: [SM] Exception reported: Client 3 is not connected
+L 10/17/2020 - 18:41:50: [SM] Blaming: jse_jumpbot.smx
+L 10/17/2020 - 18:41:50: [SM] Call stack trace:
+L 10/17/2020 - 18:41:50: [SM]   [0] FakeClientCommand
+L 10/17/2020 - 18:41:50: [SM]   [1] Line 2866, C:\Build\jse\scripting\jse_jumpbot.sp::doShowMe
+L 10/17/2020 - 18:41:50: [SM]   [2] Line 3178, C:\Build\jse\scripting\jse_jumpbot.sp::Timer_Queue
+L 10/17/2020 - 20:08:56: [playeranalytics.smx] Unable to insert row for client パンジャブ語の点字の�<58><[U:1:84969523]><>. Data too long for column 'name' at row 1
+L 10/17/2020 - 23:52:13: [hive365.smx] [Hive365] socket error 3 (errno 1)
+L 10/18/2020 - 00:00:00: Error log file session closed.

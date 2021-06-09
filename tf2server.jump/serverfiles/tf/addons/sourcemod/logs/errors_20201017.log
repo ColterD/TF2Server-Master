@@ -1,0 +1,17 @@
+L 10/17/2020 - 01:39:16: SourceMod error session started
+L 10/17/2020 - 01:39:16: Info (map "jump_academy2_rc7") (file "/home/tf2server.jump/serverfiles/tf/addons/sourcemod/logs/errors_20201017.log")
+L 10/17/2020 - 01:39:16: [SM] Exception reported: Array index out-of-bounds (index -1)
+L 10/17/2020 - 01:39:16: [SM] Blaming: hive365.smx
+L 10/17/2020 - 01:39:16: [SM] Call stack trace:
+L 10/17/2020 - 01:39:16: [SM]   [1] Line 610, plugin.sp::ParseSocketInfo
+L 10/17/2020 - 01:39:16: [SM]   [2] Line 743, plugin.sp::OnSocketReceive
+L 10/17/2020 - 06:30:12: Error log file session closed.
+L 10/17/2020 - 06:30:41: SourceMod error session started
+L 10/17/2020 - 06:30:41: Info (map "jump_academy2_rc7") (file "/home/tf2server.jump/serverfiles/tf/addons/sourcemod/logs/errors_20201017.log")
+L 10/17/2020 - 06:30:41: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 26 seconds, making a timer for it!
+L 10/17/2020 - 07:31:11: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 29 seconds, making a timer for it!
+L 10/17/2020 - 09:31:44: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 2 seconds, making a timer for it!
+L 10/17/2020 - 12:31:54: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 3 seconds, making a timer for it!
+L 10/17/2020 - 13:32:00: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/17/2020 - 15:32:06: [ngs_backpacktf.smx] backpack.tf API failed: We are being rate-limited by backpack.tf, next request allowed in 1 seconds, making a timer for it!
+L 10/18/2020 - 00:00:00: Error log file session closed.
